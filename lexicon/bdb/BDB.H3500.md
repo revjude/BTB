@@ -10,7 +10,7 @@
 $\quad$ $\quad$ **a.** [[1Chr.2.32|1Chr 2:32]] (twice in verse). 
 $\quad$ $\quad$ **b.** [[1Chr.4.17|1Chr 4:17]]. 
 
-**5.** a man of Asher [[1Chr.7.38|1Chr 7:38]] ( = <span class="bdbLangHebrew">‎יִתְרָן‎</span> v[[1Chr.7.37|1Chr 7:37]]), [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Ιεθερ</span>, [[BDB#A|A]] <span class="bdbLangGreek">Ιεθηρ</span>, [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> [[[1Chr.7.39|1Chr 7:39]]] <span class="bdbLangGreek">Εθραν</span>. 
+**5.** a man of Asher [[1Chr.7.38|1Chr 7:38]] ( = <span class="bdbLangHebrew">‎יִתְרָן‎</span> v[[1Chr.7.37|1Chr 7:37]]), [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Ιεθερ</span>, [[BDB#A|A]] <span class="bdbLangGreek">Ιεθηρ</span>, [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> \[[[1Chr.7.39|1Chr 7:39]]] <span class="bdbLangGreek">Εθραν</span>. 
 
 
 
