@@ -1,3 +1,25 @@
+---
+title: 1 Chronicles 26
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Chronicles
+chapter: 26
+book/chapter: "[[1Chr.26|1 Chronicles 26]]"
+chronological_order: 437
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+pericopes:
+- "[[1Chr.26.1 The Divisions of the Gatekeepers|The Divisions of the Gatekeepers]]"
+- "[[1Chr.26.20 The Treasurers, Officers, and Judges|The Treasurers, Officers, and Judges]]"
+---
+
 (KJV) **1 Chronicles 26**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.25|<< 1 Chronicles 25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27|1 Chronicles 27 >>]]</td></tr></table>
 
 <big><big>[[1Chr.26.1 The Divisions of the Gatekeepers|⥃]]</big></big>***The Divisions of the Gatekeepers***

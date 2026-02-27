@@ -1,3 +1,28 @@
+---
+title: Mark 2
+type: Chapter
+original_language: Greek
+testament: New
+book: Mark
+chapter: 2
+book/chapter: "[[Mark.2|Mark 2]]"
+chronological_order: 947
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Mark.2.1 Jesus Heals a Paralytic|Jesus Heals a Paralytic]]"
+- "[[Mark.2.13 Jesus Calls Levi|Jesus Calls Levi]]"
+- "[[Mark.2.18 Questions about Fasting|Questions about Fasting]]"
+- "[[Mark.2.21 The Patches and the Wineskins|The Patches and the Wineskins]]"
+- "[[Mark.2.23 The Lord of the Sabbath|The Lord of the Sabbath]]"
+---
+
 (KJV) **Mark 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1|<< Mark 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3|Mark 3 >>]]</td></tr></table>
 
 <big><big>[[Mark.2.1 Jesus Heals a Paralytic|⥃]]</big></big>***Jesus Heals a Paralytic***&emsp;<small><sup>\[ [[Matt.9|Matthew 9:1–8]] <big>†</big> [[Luke.5|Luke 5:17–26]] ]</sup></small>

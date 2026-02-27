@@ -1,3 +1,25 @@
+---
+title: 1 Thessalonians 3
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 3
+book/chapter: "[[1Thess.3|1 Thessalonians 3]]"
+chronological_order: 1050
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+pericopes:
+- "[[1Thess.3.1 Timothy’s Visit|Timothy’s Visit]]"
+- "[[1Thess.3.6 Timothy’s Encouraging Report|Timothy’s Encouraging Report]]"
+---
+
 (KJV) **1 Thessalonians 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2|<< 1 Thessalonians 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4|1 Thessalonians 4 >>]]</td></tr></table>
 
 <big><big>[[1Thess.3.1 Timothy’s Visit|⥃]]</big></big>***Timothy’s Visit***

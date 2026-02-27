@@ -1,3 +1,28 @@
+---
+title: Luke 17
+type: Chapter
+original_language: Greek
+testament: New
+book: Luke
+chapter: 17
+book/chapter: "[[Luke.17|Luke 17]]"
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+pericopes:
+- "[[Luke.17.1 Temptations and Trespasses|Temptations and Trespasses]]"
+- "[[Luke.17.5 The Power of Faith|The Power of Faith]]"
+- "[[Luke.17.11 The Ten Lepers|The Ten Lepers]]"
+- "[[Luke.17.20 The Coming of the Kingdom|The Coming of the Kingdom]]"
+---
+
 (KJV) **Luke 17**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16|<< Luke 16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18|Luke 18 >>]]</td></tr></table>
 
 <big><big>[[Luke.17.1 Temptations and Trespasses|⥃]]</big></big>***Temptations and Trespasses***&emsp;<small><sup>\[ [[Matt.18|Matthew 18:6–9]] <big>†</big> [[Mark.9|Mark 9:42–48]] ]</sup></small>

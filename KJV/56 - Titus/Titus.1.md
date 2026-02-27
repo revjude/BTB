@@ -1,3 +1,26 @@
+---
+title: Titus 1
+type: Chapter
+original_language: Greek
+testament: New
+book: Titus
+chapter: 1
+book/chapter: "[[Titus.1|Titus 1]]"
+chronological_order: 1132
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+pericopes:
+- "[[Titus.1.1 Paul’s Greeting to Titus|Paul’s Greeting to Titus]]"
+- "[[Titus.1.5 Appointing Elders on Crete|Appointing Elders on Crete]]"
+- "[[Titus.1.10 Correcting False Teachers|Correcting False Teachers]]"
+---
+
 (KJV) **Titus 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4|<< 2 Timothy 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.2|Titus 2 >>]]</td></tr></table>
 
 <big><big>[[Titus.1.1 Paul’s Greeting to Titus|⥃]]</big></big>***Paul’s Greeting to Titus***&emsp;<small><sup>\[ [[2Cor.8|2 Corinthians 8:16–24]] ]</sup></small>

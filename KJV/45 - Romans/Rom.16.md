@@ -1,3 +1,26 @@
+---
+title: Romans 16
+type: Chapter
+original_language: Greek
+testament: New
+book: Romans
+chapter: 16
+book/chapter: "[[Rom.16|Romans 16]]"
+chronological_order: 1102
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+pericopes:
+- "[[Rom.16.1 Personal Greetings and Love|Personal Greetings and Love]]"
+- "[[Rom.16.17 Avoid Divisions|Avoid Divisions]]"
+- "[[Rom.16.21 Greetings from Paul’s Fellow Workers|Greetings from Paul’s Fellow Workers]]"
+- "[[Rom.16.25 Doxology|Doxology]]"
+---
+
 (KJV) **Romans 16**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15|<< Romans 15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1|1 Corinthians 1 >>]]</td></tr></table>
 
 <big><big>[[Rom.16.1 Personal Greetings and Love|⥃]]</big></big>***Personal Greetings and Love***

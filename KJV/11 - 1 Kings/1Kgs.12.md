@@ -1,3 +1,29 @@
+---
+title: 1 Kings 12
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Kings
+chapter: 12
+book/chapter: "[[1Kgs.12|1 Kings 12]]"
+chronological_order: 551
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+pericopes:
+- "[[1Kgs.12.1 Rebellion against Rehoboam|Rebellion against Rehoboam]]"
+- "[[1Kgs.12.16 The Kingdom Divided|The Kingdom Divided]]"
+- "[[1Kgs.12.20 Shemaiah’s Prophecy|Shemaiah’s Prophecy]]"
+- "[[1Kgs.12.25 Jeroboam’s Idolatry|Jeroboam’s Idolatry]]"
+---
+
 (KJV) **1 Kings 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11|<< 1 Kings 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.13|1 Kings 13 >>]]</td></tr></table>
 
 <big><big>[[1Kgs.12.1 Rebellion against Rehoboam|⥃]]</big></big>***Rebellion against Rehoboam***&emsp;<small><sup>\[ [[2Chr.10|2 Chronicles 10:1–15]] ]</sup></small>

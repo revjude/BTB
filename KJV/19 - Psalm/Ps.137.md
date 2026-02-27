@@ -1,3 +1,27 @@
+---
+title: Psalm 137
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 137
+book/chapter: "[[Ps.137|Psalm 137]]"
+chronological_order: 785
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.137.1 By the Rivers of Babylon|By the Rivers of Babylon]]"
+---
+
 (KJV) **Psalm 137**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.136|<< Psalm 136]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.138|Psalm 138 >>]]</td></tr></table>
 
 <big><big>[[Ps.137.1 By the Rivers of Babylon|⥃]]</big></big>***By the Rivers of Babylon*** <small><small>[^2]</small></small> &emsp;<small><sup>\[ [[Ezek.1|Ezekiel 1:1–3]] ]</sup></small>

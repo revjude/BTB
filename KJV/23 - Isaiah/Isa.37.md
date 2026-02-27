@@ -1,3 +1,29 @@
+---
+title: Isaiah 37
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 37
+book/chapter: "[[Isa.37|Isaiah 37]]"
+chronological_order: 664
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.37.1 Isaiah’s Message of Deliverance|Isaiah’s Message of Deliverance]]"
+- "[[Isa.37.8 Sennacherib’s Blasphemous Letter|Sennacherib’s Blasphemous Letter]]"
+- "[[Isa.37.14 Hezekiah’s Prayer|Hezekiah’s Prayer]]"
+- "[[Isa.37.21 Sennacherib’s Fall Prophesied|Sennacherib’s Fall Prophesied]]"
+- "[[Isa.37.36 Jerusalem Delivered from the Assyrians|Jerusalem Delivered from the Assyrians]]"
+---
+
 (KJV) **Isaiah 37**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.36|<< Isaiah 36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.38|Isaiah 38 >>]]</td></tr></table>
 
 <big><big>[[Isa.37.1 Isaiah’s Message of Deliverance|⥃]]</big></big>***Isaiah’s Message of Deliverance***&emsp;<small><sup>\[ [[2Kgs.19|2 Kings 19:1–7]] ]</sup></small>

@@ -1,3 +1,27 @@
+---
+title: Revelation 11
+type: Chapter
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 11
+book/chapter: "[[Rev.11|Revelation 11]]"
+chronological_order: 1178
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+pericopes:
+- "[[Rev.11.1 The Two Witnesses|The Two Witnesses]]"
+- "[[Rev.11.7 The Witnesses Killed and Raised|The Witnesses Killed and Raised]]"
+- "[[Rev.11.15 The Seventh Trumpet|The Seventh Trumpet]]"
+---
+
 (KJV) **Revelation 11**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.10|<< Revelation 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12|Revelation 12 >>]]</td></tr></table>
 
 <big><big>[[Rev.11.1 The Two Witnesses|⥃]]</big></big>***The Two Witnesses***

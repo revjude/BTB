@@ -1,3 +1,31 @@
+---
+title: Luke 1
+type: Chapter
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+pericopes:
+- "[[Luke.1.1 Dedication to Theophilus|Dedication to Theophilus]]"
+- "[[Luke.1.5 Gabriel Foretells John’s Birth|Gabriel Foretells John’s Birth]]"
+- "[[Luke.1.26 Gabriel Foretells Jesus’ Birth|Gabriel Foretells Jesus’ Birth]]"
+- "[[Luke.1.39 Mary Visits Elizabeth|Mary Visits Elizabeth]]"
+- "[[Luke.1.46 Mary’s Song|Mary’s Song]]"
+- "[[Luke.1.57 The Birth of John the Baptist|The Birth of John the Baptist]]"
+- "[[Luke.1.67 Zechariah’s Song|Zechariah’s Song]]"
+---
+
 (KJV) **Luke 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16|<< Mark 16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2|Luke 2 >>]]</td></tr></table>
 
 <big><big>[[Luke.1.1 Dedication to Theophilus|⥃]]</big></big>***Dedication to Theophilus***&emsp;<small><sup>\[ [[Acts.1|Acts 1:1–3]] ]</sup></small>

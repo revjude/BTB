@@ -1,3 +1,25 @@
+---
+title: Micah 3
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Micah
+chapter: 3
+book/chapter: "[[Mic.3|Micah 3]]"
+chronological_order: 625
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+pericopes:
+- "[[Mic.3.1 Rulers and Prophets Condemned|Rulers and Prophets Condemned]]"
+---
+
 (KJV) **Micah 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.2|<< Micah 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.4|Micah 4 >>]]</td></tr></table>
 
 <big><big>[[Mic.3.1 Rulers and Prophets Condemned|⥃]]</big></big>***Rulers and Prophets Condemned***

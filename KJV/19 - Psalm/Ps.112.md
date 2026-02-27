@@ -1,3 +1,27 @@
+---
+title: Psalm 112
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 112
+book/chapter: "[[Ps.112|Psalm 112]]"
+chronological_order: 874
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.112.1 The Blessed Fear of the LORD|The Blessed Fear of the LORD]]"
+---
+
 (KJV) **Psalm 112**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.111|<< Psalm 111]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.113|Psalm 113 >>]]</td></tr></table>
 
 <big><big>[[Ps.112.1 The Blessed Fear of the LORD|⥃]]</big></big>***The Blessed Fear of the LORD***&emsp;<small><sup>\[ [[Ps.128|Psalms 128:1–6]] ]</sup></small>

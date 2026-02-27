@@ -1,3 +1,30 @@
+---
+title: 1 Kings 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Kings
+chapter: 2
+book/chapter: "[[1Kgs.2|1 Kings 2]]"
+chronological_order: 442
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+pericopes:
+- "[[1Kgs.2.1 David Instructs Solomon|David Instructs Solomon]]"
+- "[[1Kgs.2.10 David’s Reign and Death|David’s Reign and Death]]"
+- "[[1Kgs.2.13 The Execution of Adonijah|The Execution of Adonijah]]"
+- "[[1Kgs.2.28 The Execution of Joab|The Execution of Joab]]"
+- "[[1Kgs.2.36 The Execution of Shimei|The Execution of Shimei]]"
+---
+
 (KJV) **1 Kings 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1|<< 1 Kings 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.3|1 Kings 3 >>]]</td></tr></table>
 
 <big><big>[[1Kgs.2.1 David Instructs Solomon|⥃]]</big></big>***David Instructs Solomon***&emsp;<small><sup>\[ [[Ps.37|Psalms 37:1–40]] ]</sup></small>

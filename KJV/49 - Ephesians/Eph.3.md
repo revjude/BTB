@@ -1,3 +1,25 @@
+---
+title: Ephesians 3
+type: Chapter
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 3
+book/chapter: "[[Eph.3|Ephesians 3]]"
+chronological_order: 1113
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+pericopes:
+- "[[Eph.3.1 The Mystery of the Gospel|The Mystery of the Gospel]]"
+- "[[Eph.3.14 Paul’s Prayer for the Ephesians|Paul’s Prayer for the Ephesians]]"
+---
+
 (KJV) **Ephesians 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2|<< Ephesians 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4|Ephesians 4 >>]]</td></tr></table>
 
 <big><big>[[Eph.3.1 The Mystery of the Gospel|⥃]]</big></big>***The Mystery of the Gospel***

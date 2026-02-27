@@ -1,3 +1,28 @@
+---
+title: 2 Samuel 3
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Samuel
+chapter: 3
+book/chapter: "[[2Sam.3|2 Samuel 3]]"
+chronological_order: 331
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+pericopes:
+- "[[2Sam.3.1 The House of David Strengthened|The House of David Strengthened]]"
+- "[[2Sam.3.6 Abner Joins David|Abner Joins David]]"
+- "[[2Sam.3.22 Joab Murders Abner|Joab Murders Abner]]"
+- "[[2Sam.3.31 David Mourns for Abner|David Mourns for Abner]]"
+---
+
 (KJV) **2 Samuel 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2|<< 2 Samuel 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.4|2 Samuel 4 >>]]</td></tr></table>
 
 <big><big>[[2Sam.3.1 The House of David Strengthened|⥃]]</big></big>***The House of David Strengthened***&emsp;<small><sup>\[ [[1Chr.3|1 Chronicles 3:1–9]] ]</sup></small>

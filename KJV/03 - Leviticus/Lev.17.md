@@ -1,3 +1,30 @@
+---
+title: Leviticus 17
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Leviticus
+chapter: 17
+book/chapter: "[[Lev.17|Leviticus 17]]"
+chronological_order: 149
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+pericopes:
+- "[[Lev.17.1 The Place of Sacrifice|The Place of Sacrifice]]"
+- "[[Lev.17.10 Laws against Eating Blood|Laws against Eating Blood]]"
+---
+
 (KJV) **Leviticus 17**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16|<< Leviticus 16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.18|Leviticus 18 >>]]</td></tr></table>
 
 <big><big>[[Lev.17.1 The Place of Sacrifice|⥃]]</big></big>***The Place of Sacrifice***

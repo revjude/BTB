@@ -1,3 +1,32 @@
+---
+title: Exodus 28
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 28
+book/chapter: "[[Exod.28|Exodus 28]]"
+chronological_order: 120
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.28.1 Garments for the Priests|Garments for the Priests]]"
+- "[[Exod.28.6 The Ephod|The Ephod]]"
+- "[[Exod.28.15 The Breastpiece|The Breastpiece]]"
+- "[[Exod.28.31 Additional Priestly Garments|Additional Priestly Garments]]"
+---
+
 (KJV) **Exodus 28**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27|<< Exodus 27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29|Exodus 29 >>]]</td></tr></table>
 
 <big><big>[[Exod.28.1 Garments for the Priests|⥃]]</big></big>***Garments for the Priests***

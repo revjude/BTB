@@ -1,3 +1,27 @@
+---
+title: Psalm 22
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 22
+book/chapter: "[[Ps.22|Psalm 22]]"
+chronological_order: 355
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.22.1 The Psalm of the Cross|The Psalm of the Cross]]"
+---
+
 (KJV) **Psalm 22**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.21|<< Psalm 21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.23|Psalm 23 >>]]</td></tr></table>
 
 <big><big>[[Ps.22.1 The Psalm of the Cross|⥃]]</big></big>***The Psalm of the Cross***&emsp;<small><sup>\[ [[Matt.27|Matthew 27:32–56]] <big>†</big> [[Mark.15|Mark 15:21–41]] <big>†</big> [[Luke.23|Luke 23:26–43]] <big>†</big> [[John.19|John 19:16–30]] ]</sup></small>

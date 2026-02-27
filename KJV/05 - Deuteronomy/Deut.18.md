@@ -1,3 +1,31 @@
+---
+title: Deuteronomy 18
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Deuteronomy
+chapter: 18
+book/chapter: "[[Deut.18|Deuteronomy 18]]"
+chronological_order: 214
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+pericopes:
+- "[[Deut.18.1 Provision for Priests and Levites|Provision for Priests and Levites]]"
+- "[[Deut.18.9 Sorcery Forbidden|Sorcery Forbidden]]"
+- "[[Deut.18.15 A Prophet Like Moses|A Prophet Like Moses]]"
+---
+
 (KJV) **Deuteronomy 18**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.17|<< Deuteronomy 17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19|Deuteronomy 19 >>]]</td></tr></table>
 
 <big><big>[[Deut.18.1 Provision for Priests and Levites|⥃]]</big></big>***Provision for Priests and Levites***&emsp;<small><sup>\[ [[1Cor.9|1 Corinthians 9:1–18]] ]</sup></small>

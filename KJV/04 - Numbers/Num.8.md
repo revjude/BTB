@@ -1,3 +1,30 @@
+---
+title: Numbers 8
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 8
+book/chapter: "[[Num.8|Numbers 8]]"
+chronological_order: 167
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.8.1 The Lampstand|The Lampstand]]"
+- "[[Num.8.5 Cleansing the Levites|Cleansing the Levites]]"
+- "[[Num.8.23 Retirement for Levites|Retirement for Levites]]"
+---
+
 (KJV) **Numbers 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7|<< Numbers 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9|Numbers 9 >>]]</td></tr></table>
 
 <big><big>[[Num.8.1 The Lampstand|⥃]]</big></big>***The Lampstand***&emsp;<small><sup>\[ [[Exod.25|Exodus 25:31–40]] <big>†</big> [[Exod.37|Exodus 37:17–24]] ]</sup></small>

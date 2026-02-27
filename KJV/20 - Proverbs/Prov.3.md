@@ -1,3 +1,25 @@
+---
+title: Proverbs 3
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Proverbs
+chapter: 3
+book/chapter: "[[Prov.3|Proverbs 3]]"
+chronological_order: 458
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+pericopes:
+- "[[Prov.3.1 Trust in the LORD with All Your Heart|Trust in the LORD with All Your Heart]]"
+- "[[Prov.3.13 The Blessings of Wisdom|The Blessings of Wisdom]]"
+---
+
 (KJV) **Proverbs 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.2|<< Proverbs 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4|Proverbs 4 >>]]</td></tr></table>
 
 <big><big>[[Prov.3.1 Trust in the LORD with All Your Heart|⥃]]</big></big>***Trust in the LORD with All Your Heart***

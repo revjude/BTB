@@ -1,3 +1,27 @@
+---
+title: Psalm 36
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 36
+book/chapter: "[[Ps.36|Psalm 36]]"
+chronological_order: 364
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.36.1 The Transgression of the Wicked|The Transgression of the Wicked]]"
+---
+
 (KJV) **Psalm 36**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35|<< Psalm 35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37|Psalm 37 >>]]</td></tr></table>
 
 <big><big>[[Ps.36.1 The Transgression of the Wicked|⥃]]</big></big>***The Transgression of the Wicked***

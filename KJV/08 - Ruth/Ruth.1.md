@@ -1,3 +1,26 @@
+---
+title: Ruth 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ruth
+chapter: 1
+book/chapter: "[[Ruth.1|Ruth 1]]"
+chronological_order: 276
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+pericopes:
+- "[[Ruth.1.1 Naomi Becomes a Widow|Naomi Becomes a Widow]]"
+- "[[Ruth.1.6 Ruth’s Loyalty to Naomi|Ruth’s Loyalty to Naomi]]"
+- "[[Ruth.1.19 The Return to Bethlehem|The Return to Bethlehem]]"
+---
+
 (KJV) **Ruth 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21|<< Judges 21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.2|Ruth 2 >>]]</td></tr></table>
 
 <big><big>[[Ruth.1.1 Naomi Becomes a Widow|⥃]]</big></big>***Naomi Becomes a Widow***&emsp;<small><sup>\[ [[1Tim.5|1 Timothy 5:3–16]] ]</sup></small>

@@ -1,3 +1,24 @@
+---
+title: Proverbs 14
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Proverbs
+chapter: 14
+book/chapter: "[[Prov.14|Proverbs 14]]"
+chronological_order: 469
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+pericopes:
+- "[[Prov.14.1 The Wise Woman|The Wise Woman]]"
+---
+
 (KJV) **Proverbs 14**<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13|<< Proverbs 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15|Proverbs 15 >>]]</td></tr></table>
 
 <big><big>[[Prov.14.1 The Wise Woman|⥃]]</big></big>***The Wise Woman***

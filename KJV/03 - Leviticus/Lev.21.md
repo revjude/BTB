@@ -1,3 +1,30 @@
+---
+title: Leviticus 21
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Leviticus
+chapter: 21
+book/chapter: "[[Lev.21|Leviticus 21]]"
+chronological_order: 153
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+pericopes:
+- "[[Lev.21.1 Holiness Required of Priests|Holiness Required of Priests]]"
+- "[[Lev.21.16 Restrictions against Those with Blemishes|Restrictions against Those with Blemishes]]"
+---
+
 (KJV) **Leviticus 21**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.20|<< Leviticus 20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22|Leviticus 22 >>]]</td></tr></table>
 
 <big><big>[[Lev.21.1 Holiness Required of Priests|⥃]]</big></big>***Holiness Required of Priests***

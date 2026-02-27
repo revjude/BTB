@@ -1,3 +1,27 @@
+---
+title: Psalm 80
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 80
+book/chapter: "[[Ps.80|Psalm 80]]"
+chronological_order: 783
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.80.1 Hear Us, O Shepherd of Israel|Hear Us, O Shepherd of Israel]]"
+---
+
 (KJV) **Psalm 80**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.79|<< Psalm 79]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.81|Psalm 81 >>]]</td></tr></table>
 
 <big><big>[[Ps.80.1 Hear Us, O Shepherd of Israel|⥃]]</big></big>***Hear Us, O Shepherd of Israel***

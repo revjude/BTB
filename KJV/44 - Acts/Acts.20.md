@@ -1,3 +1,26 @@
+---
+title: Acts 20
+type: Chapter
+original_language: Greek
+testament: New
+book: Acts
+chapter: 20
+book/chapter: "[[Acts.20|Acts 20]]"
+chronological_order: 1057
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+pericopes:
+- "[[Acts.20.1 Paul in Macedonia and Greece|Paul in Macedonia and Greece]]"
+- "[[Acts.20.7 Eutychus Revived at Troas|Eutychus Revived at Troas]]"
+- "[[Acts.20.13 From Troas to Miletus|From Troas to Miletus]]"
+- "[[Acts.20.17 Paul’s Farewell to the Ephesians|Paul’s Farewell to the Ephesians]]"
+---
+
 (KJV) **Acts 20**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19|<< Acts 19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21|Acts 21 >>]]</td></tr></table>
 
 <big><big>[[Acts.20.1 Paul in Macedonia and Greece|⥃]]</big></big>***Paul in Macedonia and Greece***

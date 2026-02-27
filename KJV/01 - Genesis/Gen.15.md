@@ -1,3 +1,28 @@
+---
+title: Genesis 15
+type: Chapter
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 15
+book/chapter: "[[Gen.15|Genesis 15]]"
+chronological_order: 57
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.15.1 God’s Covenant with Abram|God’s Covenant with Abram]]"
+- "[[Gen.15.8 God Confirms His Promise|God Confirms His Promise]]"
+---
+
 (KJV) **Genesis 15**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.14|<< Genesis 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.16|Genesis 16 >>]]</td></tr></table>
 
 <big><big>[[Gen.15.1 God’s Covenant with Abram|⥃]]</big></big>***God’s Covenant with Abram***&emsp;<small><sup>\[ [[Rom.4|Romans 4:1–12]] <big>†</big> [[Heb.11|Hebrews 11:8–19]] ]</sup></small>

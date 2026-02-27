@@ -1,3 +1,31 @@
+---
+title: Exodus 20
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 20
+book/chapter: "[[Exod.20|Exodus 20]]"
+chronological_order: 112
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.20.1 The Ten Commandments|The Ten Commandments]]"
+- "[[Exod.20.18 Moses Comforts the People|Moses Comforts the People]]"
+- "[[Exod.20.22 Idolatry Forbidden|Idolatry Forbidden]]"
+---
+
 (KJV) **Exodus 20**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.19|<< Exodus 19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21|Exodus 21 >>]]</td></tr></table>
 
 <big><big>[[Exod.20.1 The Ten Commandments|⥃]]</big></big>***The Ten Commandments***&emsp;<small><sup>\[ [[Deut.5|Deuteronomy 5:6–21]] ]</sup></small>

@@ -1,3 +1,26 @@
+---
+title: John 10
+type: Chapter
+original_language: Greek
+testament: New
+book: John
+chapter: 10
+book/chapter: "[[John.10|John 10]]"
+chronological_order: 984
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+pericopes:
+- "[[John.10.1 Jesus the Good Shepherd|Jesus the Good Shepherd]]"
+- "[[John.10.22 Jesus at the Feast of Dedication|Jesus at the Feast of Dedication]]"
+- "[[John.10.40 John’s Testimony Confirmed|John’s Testimony Confirmed]]"
+---
+
 (KJV) **John 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9|<< John 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11|John 11 >>]]</td></tr></table>
 
 <big><big>[[John.10.1 Jesus the Good Shepherd|⥃]]</big></big>***Jesus the Good Shepherd***&emsp;<small><sup>\[ [[Ps.23|Psalms 23:1–6]] <big>†</big> [[Ezek.34|Ezekiel 34:11–24]] ]</sup></small>

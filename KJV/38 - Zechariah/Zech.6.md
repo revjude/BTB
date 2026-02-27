@@ -1,3 +1,27 @@
+---
+title: Zechariah 6
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Zechariah
+chapter: 6
+book/chapter: "[[Zech.6|Zechariah 6]]"
+chronological_order: 862
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+pericopes:
+- "[[Zech.6.1 The Vision of the Four Chariots|The Vision of the Four Chariots]]"
+- "[[Zech.6.9 The Crown and the Temple|The Crown and the Temple]]"
+---
+
 (KJV) **Zechariah 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.5|<< Zechariah 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.7|Zechariah 7 >>]]</td></tr></table>
 
 <big><big>[[Zech.6.1 The Vision of the Four Chariots|⥃]]</big></big>***The Vision of the Four Chariots***

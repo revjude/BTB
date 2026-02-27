@@ -1,3 +1,25 @@
+---
+title: Isaiah 17
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 17
+book/chapter: "[[Isa.17|Isaiah 17]]"
+chronological_order: 634
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.17.1 The Burden against Damascus|The Burden against Damascus]]"
+---
+
 (KJV) **Isaiah 17**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16|<< Isaiah 16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.18|Isaiah 18 >>]]</td></tr></table>
 
 <big><big>[[Isa.17.1 The Burden against Damascus|⥃]]</big></big>***The Burden against Damascus***&emsp;<small><sup>\[ [[Jer.49|Jeremiah 49:23–27]] ]</sup></small>

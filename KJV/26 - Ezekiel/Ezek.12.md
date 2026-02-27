@@ -1,3 +1,28 @@
+---
+title: Ezekiel 12
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 12
+book/chapter: "[[Ezek.12|Ezekiel 12]]"
+chronological_order: 803
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.12.1 Signs of the Coming Captivity|Signs of the Coming Captivity]]"
+- "[[Ezek.12.21 The Presumptuous Proverb|The Presumptuous Proverb]]"
+---
+
 (KJV) **Ezekiel 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11|<< Ezekiel 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.13|Ezekiel 13 >>]]</td></tr></table>
 
 <big><big>[[Ezek.12.1 Signs of the Coming Captivity|⥃]]</big></big>***Signs of the Coming Captivity***

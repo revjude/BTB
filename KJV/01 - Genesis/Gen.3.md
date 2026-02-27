@@ -1,3 +1,31 @@
+---
+title: Genesis 3
+type: Chapter
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 3
+book/chapter: "[[Gen.3|Genesis 3]]"
+chronological_order: 3
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.3.1 The Serpent’s Deception|The Serpent’s Deception]]"
+- "[[Gen.3.8 God Arraigns Adam and Eve|God Arraigns Adam and Eve]]"
+- "[[Gen.3.14 The Fate of the Serpent|The Fate of the Serpent]]"
+- "[[Gen.3.16 The Punishment of Mankind|The Punishment of Mankind]]"
+- "[[Gen.3.21 The Expulsion from Paradise|The Expulsion from Paradise]]"
+---
+
 (KJV) **Genesis 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2|<< Genesis 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4|Genesis 4 >>]]</td></tr></table>
 
 <big><big>[[Gen.3.1 The Serpent’s Deception|⥃]]</big></big>***The Serpent’s Deception***&emsp;<small><sup>\[ [[Rom.5|Romans 5:12–21]] ]</sup></small>

@@ -1,3 +1,30 @@
+---
+title: Ezekiel 25
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 25
+book/chapter: "[[Ezek.25|Ezekiel 25]]"
+chronological_order: 816
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.25.1 A Prophecy against Ammon|A Prophecy against Ammon]]"
+- "[[Ezek.25.8 A Prophecy against Moab|A Prophecy against Moab]]"
+- "[[Ezek.25.12 A Prophecy against Edom|A Prophecy against Edom]]"
+- "[[Ezek.25.15 A Prophecy against the Philistines|A Prophecy against the Philistines]]"
+---
+
 (KJV) **Ezekiel 25**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24|<< Ezekiel 24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26|Ezekiel 26 >>]]</td></tr></table>
 
 <big><big>[[Ezek.25.1 A Prophecy against Ammon|⥃]]</big></big>***A Prophecy against Ammon***

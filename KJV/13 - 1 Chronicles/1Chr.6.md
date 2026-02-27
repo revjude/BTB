@@ -1,3 +1,27 @@
+---
+title: 1 Chronicles 6
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Chronicles
+chapter: 6
+book/chapter: "[[1Chr.6|1 Chronicles 6]]"
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+pericopes:
+- "[[1Chr.6.1 The Descendants of Levi|The Descendants of Levi]]"
+- "[[1Chr.6.31 The Temple Musicians|The Temple Musicians]]"
+- "[[1Chr.6.48 The Descendants of Aaron|The Descendants of Aaron]]"
+- "[[1Chr.6.54 Territories for the Levites|Territories for the Levites]]"
+---
+
 (KJV) **1 Chronicles 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5|<< 1 Chronicles 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7|1 Chronicles 7 >>]]</td></tr></table>
 
 <big><big>[[1Chr.6.1 The Descendants of Levi|⥃]]</big></big>***The Descendants of Levi***

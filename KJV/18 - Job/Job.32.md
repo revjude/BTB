@@ -1,3 +1,25 @@
+---
+title: Job 32
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 32
+book/chapter: "[[Job.32|Job 32]]"
+chronological_order: 43
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.32.1 Elihu Rebukes Job’s Friends|Elihu Rebukes Job’s Friends]]"
+---
+
 (KJV) **Job 32**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31|<< Job 31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33|Job 33 >>]]</td></tr></table>
 
 <big><big>[[Job.32.1 Elihu Rebukes Job’s Friends|⥃]]</big></big>***Elihu Rebukes Job’s Friends***

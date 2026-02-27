@@ -1,3 +1,25 @@
+---
+title: Job 39
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 39
+book/chapter: "[[Job.39|Job 39]]"
+chronological_order: 50
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.39.1 The LORD Speaks of His Creation|The LORD Speaks of His Creation]]"
+---
+
 (KJV) **Job 39**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38|<< Job 38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40|Job 40 >>]]</td></tr></table>
 
 <big><big>[[Job.39.1 The LORD Speaks of His Creation|⥃]]</big></big>***The LORD Speaks of His Creation***

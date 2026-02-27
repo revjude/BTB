@@ -1,3 +1,26 @@
+---
+title: 1 Chronicles 10
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Chronicles
+chapter: 10
+book/chapter: "[[1Chr.10|1 Chronicles 10]]"
+chronological_order: 334
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+pericopes:
+- "[[1Chr.10.1 Saul’s Overthrow and Death|Saul’s Overthrow and Death]]"
+- "[[1Chr.10.7 The Philistines Possess the Towns|The Philistines Possess the Towns]]"
+- "[[1Chr.10.11 Jabesh-gilead’s Tribute to Saul|Jabesh-gilead’s Tribute to Saul]]"
+---
+
 (KJV) **1 Chronicles 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9|<< 1 Chronicles 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11|1 Chronicles 11 >>]]</td></tr></table>
 
 <big><big>[[1Chr.10.1 Saul’s Overthrow and Death|⥃]]</big></big>***Saul’s Overthrow and Death***&emsp;<small><sup>\[ [[1Sam.31|1 Samuel 31:1–6]] <big>†</big> [[2Sam.1|2 Samuel 1:1–16]] ]</sup></small>

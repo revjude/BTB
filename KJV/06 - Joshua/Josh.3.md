@@ -1,3 +1,24 @@
+---
+title: Joshua 3
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Joshua
+chapter: 3
+book/chapter: "[[Josh.3|Joshua 3]]"
+chronological_order: 233
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+pericopes:
+- "[[Josh.3.1 Crossing the Jordan|Crossing the Jordan]]"
+---
+
 (KJV) **Joshua 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2|<< Joshua 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4|Joshua 4 >>]]</td></tr></table>
 
 <big><big>[[Josh.3.1 Crossing the Jordan|⥃]]</big></big>***Crossing the Jordan***

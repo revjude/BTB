@@ -1,3 +1,27 @@
+---
+title: Zechariah 5
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Zechariah
+chapter: 5
+book/chapter: "[[Zech.5|Zechariah 5]]"
+chronological_order: 861
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+pericopes:
+- "[[Zech.5.1 The Vision of the Flying Scroll|The Vision of the Flying Scroll]]"
+- "[[Zech.5.5 The Vision of the Woman in a Basket|The Vision of the Woman in a Basket]]"
+---
+
 (KJV) **Zechariah 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.4|<< Zechariah 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.6|Zechariah 6 >>]]</td></tr></table>
 
 <big><big>[[Zech.5.1 The Vision of the Flying Scroll|⥃]]</big></big>***The Vision of the Flying Scroll***

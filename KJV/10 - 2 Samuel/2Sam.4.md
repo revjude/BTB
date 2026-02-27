@@ -1,3 +1,26 @@
+---
+title: 2 Samuel 4
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Samuel
+chapter: 4
+book/chapter: "[[2Sam.4|2 Samuel 4]]"
+chronological_order: 332
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+pericopes:
+- "[[2Sam.4.1 The Murder of Ish-bosheth|The Murder of Ish-bosheth]]"
+- "[[2Sam.4.9 The Execution of Rechab and Baanah|The Execution of Rechab and Baanah]]"
+---
+
 (KJV) **2 Samuel 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3|<< 2 Samuel 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.5|2 Samuel 5 >>]]</td></tr></table>
 
 <big><big>[[2Sam.4.1 The Murder of Ish-bosheth|⥃]]</big></big>***The Murder of Ish-bosheth***

@@ -1,3 +1,24 @@
+---
+title: Judges 13
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Judges
+chapter: 13
+book/chapter: "[[Judg.13|Judges 13]]"
+chronological_order: 267
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+pericopes:
+- "[[Judg.13.1 The Birth of Samson|The Birth of Samson]]"
+---
+
 (KJV) **Judges 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.12|<< Judges 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.14|Judges 14 >>]]</td></tr></table>
 
 <big><big>[[Judg.13.1 The Birth of Samson|⥃]]</big></big>***The Birth of Samson***&emsp;<small><sup>\[ [[Num.6|Numbers 6:1–21]] ]</sup></small>

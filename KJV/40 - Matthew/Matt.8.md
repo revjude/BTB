@@ -1,3 +1,29 @@
+---
+title: Matthew 8
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 8
+book/chapter: "[[Matt.8|Matthew 8]]"
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.8.1 The Leper’s Prayer|The Leper’s Prayer]]"
+- "[[Matt.8.5 The Faith of the Centurion|The Faith of the Centurion]]"
+- "[[Matt.8.14 Jesus Heals at Peter’s House|Jesus Heals at Peter’s House]]"
+- "[[Matt.8.18 The Cost of Discipleship|The Cost of Discipleship]]"
+- "[[Matt.8.23 Jesus Calms the Storm|Jesus Calms the Storm]]"
+- "[[Matt.8.28 The Demons and the Pigs|The Demons and the Pigs]]"
+---
+
 (KJV) **Matthew 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7|<< Matthew 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9|Matthew 9 >>]]</td></tr></table>
 
 <big><big>[[Matt.8.1 The Leper’s Prayer|⥃]]</big></big>***The Leper’s Prayer***&emsp;<small><sup>\[ [[Lev.14|Leviticus 14:1–32]] <big>†</big> [[Mark.1|Mark 1:40–45]] <big>†</big> [[Luke.5|Luke 5:12–16]] ]</sup></small>

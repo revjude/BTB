@@ -1,3 +1,28 @@
+---
+title: John 6
+type: Chapter
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+pericopes:
+- "[[John.6.1 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+- "[[John.6.16 Jesus Walks on Water|Jesus Walks on Water]]"
+- "[[John.6.22 Jesus the Bread of Life|Jesus the Bread of Life]]"
+- "[[John.6.59 Many Disciples Turn Back|Many Disciples Turn Back]]"
+- "[[John.6.67 Peter’s Confession of Faith|Peter’s Confession of Faith]]"
+---
+
 (KJV) **John 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5|<< John 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7|John 7 >>]]</td></tr></table>
 
 <big><big>[[John.6.1 The Feeding of the Five Thousand|⥃]]</big></big>***The Feeding of the Five Thousand***&emsp;<small><sup>\[ [[Matt.14|Matthew 14:13–21]] <big>†</big> [[Mark.6|Mark 6:30–44]] <big>†</big> [[Luke.9|Luke 9:10–17]] ]</sup></small>

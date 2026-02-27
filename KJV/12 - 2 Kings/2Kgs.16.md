@@ -1,3 +1,25 @@
+---
+title: 2 Kings 16
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Kings
+chapter: 16
+book/chapter: "[[2Kgs.16|2 Kings 16]]"
+chronological_order: 615
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[2Kgs.16.1 Ahaz Reigns in Judah|Ahaz Reigns in Judah]]"
+- "[[2Kgs.16.10 The Idolatry of Ahaz|The Idolatry of Ahaz]]"
+---
+
 (KJV) **2 Kings 16**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15|<< 2 Kings 15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17|2 Kings 17 >>]]</td></tr></table>
 
 <big><big>[[2Kgs.16.1 Ahaz Reigns in Judah|⥃]]</big></big>***Ahaz Reigns in Judah***&emsp;<small><sup>\[ [[2Chr.28|2 Chronicles 28:1–4]] ]</sup></small>

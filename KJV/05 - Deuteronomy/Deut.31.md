@@ -1,3 +1,33 @@
+---
+title: Deuteronomy 31
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Deuteronomy
+chapter: 31
+book/chapter: "[[Deut.31|Deuteronomy 31]]"
+chronological_order: 227
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+pericopes:
+- "[[Deut.31.1 Joshua to Succeed Moses|Joshua to Succeed Moses]]"
+- "[[Deut.31.9 The Reading of the Law|The Reading of the Law]]"
+- "[[Deut.31.14 God Commissions Joshua|God Commissions Joshua]]"
+- "[[Deut.31.24 The Law Placed in the Ark|The Law Placed in the Ark]]"
+- "[[Deut.31.30 Moses Begins His Song|Moses Begins His Song]]"
+---
+
 (KJV) **Deuteronomy 31**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30|<< Deuteronomy 30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32|Deuteronomy 32 >>]]</td></tr></table>
 
 <big><big>[[Deut.31.1 Joshua to Succeed Moses|⥃]]</big></big>***Joshua to Succeed Moses***&emsp;<small><sup>\[ [[Num.27|Numbers 27:18–23]] ]</sup></small>

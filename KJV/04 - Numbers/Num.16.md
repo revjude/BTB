@@ -1,3 +1,32 @@
+---
+title: Numbers 16
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 16
+book/chapter: "[[Num.16|Numbers 16]]"
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.16.1 Korah’s Rebellion|Korah’s Rebellion]]"
+- "[[Num.16.23 Moses Separates the People|Moses Separates the People]]"
+- "[[Num.16.28 The Earth Swallows Korah|The Earth Swallows Korah]]"
+- "[[Num.16.36 The Censers Reserved for Holy Use|The Censers Reserved for Holy Use]]"
+- "[[Num.16.41 Murmuring and Plague|Murmuring and Plague]]"
+---
+
 (KJV) **Numbers 16**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15|<< Numbers 15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.17|Numbers 17 >>]]</td></tr></table>
 
 <big><big>[[Num.16.1 Korah’s Rebellion|⥃]]</big></big>***Korah’s Rebellion***

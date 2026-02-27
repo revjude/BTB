@@ -1,3 +1,26 @@
+---
+title: 1 Peter 5
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 5
+book/chapter: "[[1Pet.5|1 Peter 5]]"
+chronological_order: 1139
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+pericopes:
+- "[[1Pet.5.1 Instructions to Elders|Instructions to Elders]]"
+- "[[1Pet.5.5 Cast Your Cares on Him|Cast Your Cares on Him]]"
+- "[[1Pet.5.10 Benediction and Farewell|Benediction and Farewell]]"
+---
+
 (KJV) **1 Peter 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4|<< 1 Peter 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1|2 Peter 1 >>]]</td></tr></table>
 
 <big><big>[[1Pet.5.1 Instructions to Elders|⥃]]</big></big>***Instructions to Elders***&emsp;<small><sup>\[ [[1Tim.3|1 Timothy 3:1–7]] <big>†</big> [[Titus.1|Titus 1:5–9]] ]</sup></small>

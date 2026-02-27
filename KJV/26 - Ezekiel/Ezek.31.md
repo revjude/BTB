@@ -1,3 +1,27 @@
+---
+title: Ezekiel 31
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 31
+book/chapter: "[[Ezek.31|Ezekiel 31]]"
+chronological_order: 822
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.31.1 Egypt Will Fall like Assyria|Egypt Will Fall like Assyria]]"
+---
+
 (KJV) **Ezekiel 31**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30|<< Ezekiel 30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32|Ezekiel 32 >>]]</td></tr></table>
 
 <big><big>[[Ezek.31.1 Egypt Will Fall like Assyria|⥃]]</big></big>***Egypt Will Fall like Assyria***

@@ -1,3 +1,26 @@
+---
+title: Titus 3
+type: Chapter
+original_language: Greek
+testament: New
+book: Titus
+chapter: 3
+book/chapter: "[[Titus.3|Titus 3]]"
+chronological_order: 1134
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+pericopes:
+- "[[Titus.3.1 Heirs of Grace|Heirs of Grace]]"
+- "[[Titus.3.9 Avoid Divisions|Avoid Divisions]]"
+- "[[Titus.3.12 Final Remarks and Greetings|Final Remarks and Greetings]]"
+---
+
 (KJV) **Titus 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.2|<< Titus 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1|Philemon 1 >>]]</td></tr></table>
 
 <big><big>[[Titus.3.1 Heirs of Grace|⥃]]</big></big>***Heirs of Grace***

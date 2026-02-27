@@ -1,3 +1,26 @@
+---
+title: Matthew 25
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.25.1 The Parable of the Ten Virgins|The Parable of the Ten Virgins]]"
+- "[[Matt.25.14 The Parable of the Talents|The Parable of the Talents]]"
+- "[[Matt.25.31 The Sheep and the Goats|The Sheep and the Goats]]"
+---
+
 (KJV) **Matthew 25**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24|<< Matthew 24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26|Matthew 26 >>]]</td></tr></table>
 
 <big><big>[[Matt.25.1 The Parable of the Ten Virgins|⥃]]</big></big>***The Parable of the Ten Virgins***

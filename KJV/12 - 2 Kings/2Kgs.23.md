@@ -1,3 +1,29 @@
+---
+title: 2 Kings 23
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Kings
+chapter: 23
+book/chapter: "[[2Kgs.23|2 Kings 23]]"
+chronological_order: 712
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[2Kgs.23.1 Josiah Renews the Covenant|Josiah Renews the Covenant]]"
+- "[[2Kgs.23.4 Josiah Destroys Idolatry|Josiah Destroys Idolatry]]"
+- "[[2Kgs.23.21 Josiah Restores the Passover|Josiah Restores the Passover]]"
+- "[[2Kgs.23.28 The Death of Josiah|The Death of Josiah]]"
+- "[[2Kgs.23.31 Jehoahaz Succeeds Josiah|Jehoahaz Succeeds Josiah]]"
+- "[[2Kgs.23.36 Jehoiakim Reigns in Judah|Jehoiakim Reigns in Judah]]"
+---
+
 (KJV) **2 Kings 23**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.22|<< 2 Kings 22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.24|2 Kings 24 >>]]</td></tr></table>
 
 <big><big>[[2Kgs.23.1 Josiah Renews the Covenant|⥃]]</big></big>***Josiah Renews the Covenant***&emsp;<small><sup>\[ [[2Chr.34|2 Chronicles 34:29–33]] ]</sup></small>

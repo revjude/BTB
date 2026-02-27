@@ -1,3 +1,25 @@
+---
+title: 1 Samuel 16
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Samuel
+chapter: 16
+book/chapter: "[[1Sam.16|1 Samuel 16]]"
+chronological_order: 295
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[1Sam.16.1 Samuel Anoints David|Samuel Anoints David]]"
+- "[[1Sam.16.14 David Serves Saul|David Serves Saul]]"
+---
+
 (KJV) **1 Samuel 16**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15|<< 1 Samuel 15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17|1 Samuel 17 >>]]</td></tr></table>
 
 <big><big>[[1Sam.16.1 Samuel Anoints David|⥃]]</big></big>***Samuel Anoints David***

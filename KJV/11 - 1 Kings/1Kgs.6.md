@@ -1,3 +1,32 @@
+---
+title: 1 Kings 6
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Kings
+chapter: 6
+book/chapter: "[[1Kgs.6|1 Kings 6]]"
+chronological_order: 488
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+pericopes:
+- "[[1Kgs.6.1 Temple Construction Begins|Temple Construction Begins]]"
+- "[[1Kgs.6.5 The Chambers|The Chambers]]"
+- "[[1Kgs.6.11 God’s Promise to Solomon|God’s Promise to Solomon]]"
+- "[[1Kgs.6.14 The Temple’s Interior|The Temple’s Interior]]"
+- "[[1Kgs.6.23 The Cherubim|The Cherubim]]"
+- "[[1Kgs.6.31 The Doors|The Doors]]"
+- "[[1Kgs.6.36 The Courtyard|The Courtyard]]"
+---
+
 (KJV) **1 Kings 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.5|<< 1 Kings 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7|1 Kings 7 >>]]</td></tr></table>
 
 <big><big>[[1Kgs.6.1 Temple Construction Begins|⥃]]</big></big>***Temple Construction Begins***&emsp;<small><sup>\[ [[2Chr.3|2 Chronicles 3:1–2]] ]</sup></small>

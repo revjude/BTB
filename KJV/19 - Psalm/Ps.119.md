@@ -1,3 +1,48 @@
+---
+title: Psalm 119
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.119.1 Your Word Is a Lamp to My Feet - ALEPH|Your Word Is a Lamp to My Feet - ALEPH]]"
+- "[[Ps.119.9 Your Word Is a Lamp to My Feet - BETH|Your Word Is a Lamp to My Feet - BETH]]"
+- "[[Ps.119.17 Your Word Is a Lamp to My Feet - GIMEL|Your Word Is a Lamp to My Feet - GIMEL]]"
+- "[[Ps.119.25 Your Word Is a Lamp to My Feet - DALETH|Your Word Is a Lamp to My Feet - DALETH]]"
+- "[[Ps.119.33 Your Word Is a Lamp to My Feet - HE|Your Word Is a Lamp to My Feet - HE]]"
+- "[[Ps.119.41 Your Word Is a Lamp to My Feet - VAU|Your Word Is a Lamp to My Feet - VAU]]"
+- "[[Ps.119.49 Your Word Is a Lamp to My Feet - ZAIN|Your Word Is a Lamp to My Feet - ZAIN]]"
+- "[[Ps.119.57 Your Word Is a Lamp to My Feet - CHETH|Your Word Is a Lamp to My Feet - CHETH]]"
+- "[[Ps.119.65 Your Word Is a Lamp to My Feet - TETH|Your Word Is a Lamp to My Feet - TETH]]"
+- "[[Ps.119.73 Your Word Is a Lamp to My Feet - JOD|Your Word Is a Lamp to My Feet - JOD]]"
+- "[[Ps.119.81 Your Word Is a Lamp to My Feet - CAPH|Your Word Is a Lamp to My Feet - CAPH]]"
+- "[[Ps.119.89 Your Word Is a Lamp to My Feet - LAMED|Your Word Is a Lamp to My Feet - LAMED]]"
+- "[[Ps.119.97 Your Word Is a Lamp to My Feet - MEM|Your Word Is a Lamp to My Feet - MEM]]"
+- "[[Ps.119.105 Your Word Is a Lamp to My Feet - NUN|Your Word Is a Lamp to My Feet - NUN]]"
+- "[[Ps.119.113 Your Word Is a Lamp to My Feet - SAMECH|Your Word Is a Lamp to My Feet - SAMECH]]"
+- "[[Ps.119.121 Your Word Is a Lamp to My Feet - AIN|Your Word Is a Lamp to My Feet - AIN]]"
+- "[[Ps.119.129 Your Word Is a Lamp to My Feet - PE|Your Word Is a Lamp to My Feet - PE]]"
+- "[[Ps.119.137 Your Word Is a Lamp to My Feet - TZADDI|Your Word Is a Lamp to My Feet - TZADDI]]"
+- "[[Ps.119.145 Your Word Is a Lamp to My Feet - KOPH|Your Word Is a Lamp to My Feet - KOPH]]"
+- "[[Ps.119.153 Your Word Is a Lamp to My Feet - RESH|Your Word Is a Lamp to My Feet - RESH]]"
+- "[[Ps.119.161 Your Word Is a Lamp to My Feet - SCHIN|Your Word Is a Lamp to My Feet - SCHIN]]"
+- "[[Ps.119.169 Your Word Is a Lamp to My Feet - TAU|Your Word Is a Lamp to My Feet - TAU]]"
+---
+
 (KJV) **Psalm 119**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118|<< Psalm 118]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.120|Psalm 120 >>]]</td></tr></table>
 
 ***Your Word Is a Lamp to My Feet*** <small><small>[^2]</small></small> 

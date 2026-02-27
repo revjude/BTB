@@ -1,3 +1,26 @@
+---
+title: Ezra 4
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezra
+chapter: 4
+book/chapter: "[[Ezra.4|Ezra 4]]"
+chronological_order: 852
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+pericopes:
+- "[[Ezra.4.1 Adversaries Hinder the Work|Adversaries Hinder the Work]]"
+- "[[Ezra.4.6 Opposition under Xerxes and Artaxerxes|Opposition under Xerxes and Artaxerxes]]"
+- "[[Ezra.4.17 The Decree of Artaxerxes|The Decree of Artaxerxes]]"
+---
+
 (KJV) **Ezra 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.3|<< Ezra 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5|Ezra 5 >>]]</td></tr></table>
 
 <big><big>[[Ezra.4.1 Adversaries Hinder the Work|⥃]]</big></big>***Adversaries Hinder the Work***

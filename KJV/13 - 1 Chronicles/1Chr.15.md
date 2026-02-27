@@ -1,3 +1,27 @@
+---
+title: 1 Chronicles 15
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Chronicles
+chapter: 15
+book/chapter: "[[1Chr.15|1 Chronicles 15]]"
+chronological_order: 396
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+pericopes:
+- "[[1Chr.15.1 Preparing to Move the Ark|Preparing to Move the Ark]]"
+- "[[1Chr.15.14 The Priests and Levites Carry the Ark|The Priests and Levites Carry the Ark]]"
+- "[[1Chr.15.25 Moving the Ark to Jerusalem|Moving the Ark to Jerusalem]]"
+- "[[1Chr.15.29 Michal’s Contempt for David|Michal’s Contempt for David]]"
+---
+
 (KJV) **1 Chronicles 15**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.14|<< 1 Chronicles 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16|1 Chronicles 16 >>]]</td></tr></table>
 
 <big><big>[[1Chr.15.1 Preparing to Move the Ark|⥃]]</big></big>***Preparing to Move the Ark***&emsp;<small><sup>\[ [[2Sam.6|2 Samuel 6:12–15]] ]</sup></small>

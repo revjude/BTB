@@ -1,3 +1,29 @@
+---
+title: Numbers 19
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 19
+book/chapter: "[[Num.19|Numbers 19]]"
+chronological_order: 179
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.19.1 The Red Heifer|The Red Heifer]]"
+- "[[Num.19.11 Purification of the Unclean|Purification of the Unclean]]"
+---
+
 (KJV) **Numbers 19**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18|<< Numbers 18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.20|Numbers 20 >>]]</td></tr></table>
 
 <big><big>[[Num.19.1 The Red Heifer|⥃]]</big></big>***The Red Heifer***

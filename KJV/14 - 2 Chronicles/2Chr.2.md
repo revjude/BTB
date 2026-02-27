@@ -1,3 +1,25 @@
+---
+title: 2 Chronicles 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 2
+book/chapter: "[[2Chr.2|2 Chronicles 2]]"
+chronological_order: 491
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.2.1 Preparations for the Temple|Preparations for the Temple]]"
+- "[[2Chr.2.11 Hiram’s Reply to Solomon|Hiram’s Reply to Solomon]]"
+---
+
 (KJV) **2 Chronicles 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.1|<< 2 Chronicles 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3|2 Chronicles 3 >>]]</td></tr></table>
 
 <big><big>[[2Chr.2.1 Preparations for the Temple|⥃]]</big></big>***Preparations for the Temple***&emsp;<small><sup>\[ [[1Kgs.5|1 Kings 5:1–6]] ]</sup></small>

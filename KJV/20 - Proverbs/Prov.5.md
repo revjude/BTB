@@ -1,3 +1,24 @@
+---
+title: Proverbs 5
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Proverbs
+chapter: 5
+book/chapter: "[[Prov.5|Proverbs 5]]"
+chronological_order: 460
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+pericopes:
+- "[[Prov.5.1 Avoiding Immorality|Avoiding Immorality]]"
+---
+
 (KJV) **Proverbs 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4|<< Proverbs 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6|Proverbs 6 >>]]</td></tr></table>
 
 <big><big>[[Prov.5.1 Avoiding Immorality|⥃]]</big></big>***Avoiding Immorality***&emsp;<small><sup>\[ [[Lev.20|Leviticus 20:10–21]] <big>†</big> [[1Cor.5|1 Corinthians 5:1–8]] ]</sup></small>

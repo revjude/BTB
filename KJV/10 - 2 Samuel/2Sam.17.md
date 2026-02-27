@@ -1,3 +1,26 @@
+---
+title: 2 Samuel 17
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Samuel
+chapter: 17
+book/chapter: "[[2Sam.17|2 Samuel 17]]"
+chronological_order: 416
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+pericopes:
+- "[[2Sam.17.1 Hushai Counters Ahithophel’s Advice|Hushai Counters Ahithophel’s Advice]]"
+- "[[2Sam.17.15 Hushai’s Warning Saves David|Hushai’s Warning Saves David]]"
+---
+
 (KJV) **2 Samuel 17**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16|<< 2 Samuel 16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18|2 Samuel 18 >>]]</td></tr></table>
 
 <big><big>[[2Sam.17.1 Hushai Counters Ahithophel’s Advice|⥃]]</big></big>***Hushai Counters Ahithophel’s Advice***

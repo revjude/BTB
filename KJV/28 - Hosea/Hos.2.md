@@ -1,3 +1,25 @@
+---
+title: Hosea 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Hosea
+chapter: 2
+book/chapter: "[[Hos.2|Hosea 2]]"
+chronological_order: 643
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+pericopes:
+- "[[Hos.2.1 Israel’s Adultery Rebuked|Israel’s Adultery Rebuked]]"
+- "[[Hos.2.14 God’s Mercy to Israel|God’s Mercy to Israel]]"
+---
+
 (KJV) **Hosea 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.1|<< Hosea 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.3|Hosea 3 >>]]</td></tr></table>
 
 <big><big>[[Hos.2.1 Israel’s Adultery Rebuked|⥃]]</big></big>***Israel’s Adultery Rebuked***

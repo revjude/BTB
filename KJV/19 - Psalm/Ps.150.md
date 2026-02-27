@@ -1,3 +1,27 @@
+---
+title: Psalm 150
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 150
+book/chapter: "[[Ps.150|Psalm 150]]"
+chronological_order: 898
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.150.1 Let Everything That Has Breath Praise the LORD|Let Everything That Has Breath Praise the LORD]]"
+---
+
 (KJV) **Psalm 150**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.149|<< Psalm 149]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1|Proverbs 1 >>]]</td></tr></table>
 
 <big><big>[[Ps.150.1 Let Everything That Has Breath Praise the LORD|⥃]]</big></big>***Let Everything That Has Breath Praise the LORD***

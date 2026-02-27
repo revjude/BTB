@@ -1,3 +1,26 @@
+---
+title: Ephesians 2
+type: Chapter
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 2
+book/chapter: "[[Eph.2|Ephesians 2]]"
+chronological_order: 1112
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+pericopes:
+- "[[Eph.2.1 Alive with Christ|Alive with Christ]]"
+- "[[Eph.2.11 One in Christ|One in Christ]]"
+- "[[Eph.2.19 Christ Our Cornerstone|Christ Our Cornerstone]]"
+---
+
 (KJV) **Ephesians 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1|<< Ephesians 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3|Ephesians 3 >>]]</td></tr></table>
 
 <big><big>[[Eph.2.1 Alive with Christ|⥃]]</big></big>***Alive with Christ***&emsp;<small><sup>\[ [[Col.2|Colossians 2:6–23]] ]</sup></small>

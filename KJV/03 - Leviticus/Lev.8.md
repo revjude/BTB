@@ -1,3 +1,32 @@
+---
+title: Leviticus 8
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Leviticus
+chapter: 8
+book/chapter: "[[Lev.8|Leviticus 8]]"
+chronological_order: 140
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+pericopes:
+- "[[Lev.8.1 Moses Consecrates Aaron and His Sons|Moses Consecrates Aaron and His Sons]]"
+- "[[Lev.8.14 The Priests’ Sin Offering|The Priests’ Sin Offering]]"
+- "[[Lev.8.18 The Priests’ Burnt Offering|The Priests’ Burnt Offering]]"
+- "[[Lev.8.22 The Ram of Ordination|The Ram of Ordination]]"
+---
+
 (KJV) **Leviticus 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7|<< Leviticus 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.9|Leviticus 9 >>]]</td></tr></table>
 
 <big><big>[[Lev.8.1 Moses Consecrates Aaron and His Sons|⥃]]</big></big>***Moses Consecrates Aaron and His Sons***&emsp;<small><sup>\[ [[Exod.29|Exodus 29:1–9]] ]</sup></small>

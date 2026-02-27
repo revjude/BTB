@@ -1,3 +1,32 @@
+---
+title: Deuteronomy 11
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Deuteronomy
+chapter: 11
+book/chapter: "[[Deut.11|Deuteronomy 11]]"
+chronological_order: 207
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+pericopes:
+- "[[Deut.11.1 Obedience and Discipline|Obedience and Discipline]]"
+- "[[Deut.11.8 God’s Great Blessings|God’s Great Blessings]]"
+- "[[Deut.11.18 Remember God’s Words|Remember God’s Words]]"
+- "[[Deut.11.26 A Blessing and a Curse|A Blessing and a Curse]]"
+---
+
 (KJV) **Deuteronomy 11**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10|<< Deuteronomy 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12|Deuteronomy 12 >>]]</td></tr></table>
 
 <big><big>[[Deut.11.1 Obedience and Discipline|⥃]]</big></big>***Obedience and Discipline***&emsp;<small><sup>\[ [[Deut.4|Deuteronomy 4:1–14]] ]</sup></small>

@@ -1,3 +1,27 @@
+---
+title: Psalm 60
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 60
+book/chapter: "[[Ps.60|Psalm 60]]"
+chronological_order: 409
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.60.1 Victory with God|Victory with God]]"
+---
+
 (KJV) **Psalm 60**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.59|<< Psalm 59]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.61|Psalm 61 >>]]</td></tr></table>
 
 <big><big>[[Ps.60.1 Victory with God|⥃]]</big></big>***Victory with God***&emsp;<small><sup>\[ [[2Sam.8|2 Samuel 8:1–14]] <big>†</big> [[1Chr.18|1 Chronicles 18:1–13]] <big>†</big> [[Ps.108|Psalms 108:1–13]] ]</sup></small>

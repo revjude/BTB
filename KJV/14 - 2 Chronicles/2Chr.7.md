@@ -1,3 +1,26 @@
+---
+title: 2 Chronicles 7
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 7
+book/chapter: "[[2Chr.7|2 Chronicles 7]]"
+chronological_order: 496
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.7.1 Fire from Heaven|Fire from Heaven]]"
+- "[[2Chr.7.4 Sacrifices of Dedication|Sacrifices of Dedication]]"
+- "[[2Chr.7.11 The LORD’s Response to Solomon|The LORD’s Response to Solomon]]"
+---
+
 (KJV) **2 Chronicles 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6|<< 2 Chronicles 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.8|2 Chronicles 8 >>]]</td></tr></table>
 
 <big><big>[[2Chr.7.1 Fire from Heaven|⥃]]</big></big>***Fire from Heaven***&emsp;<small><sup>\[ [[Ps.136|Psalms 136:1–26]] ]</sup></small>

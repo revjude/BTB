@@ -1,3 +1,28 @@
+---
+title: John 7
+type: Chapter
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+pericopes:
+- "[[John.7.1 Jesus Teaches at the Feast|Jesus Teaches at the Feast]]"
+- "[[John.7.25 Is Jesus the Christ？|Is Jesus the Christ？]]"
+- "[[John.7.37 Living Water|Living Water]]"
+- "[[John.7.40 Division over Jesus|Division over Jesus]]"
+- "[[John.7.45 The Unbelief of the Jewish Leaders|The Unbelief of the Jewish Leaders]]"
+---
+
 (KJV) **John 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6|<< John 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8|John 8 >>]]</td></tr></table>
 
 <big><big>[[John.7.1 Jesus Teaches at the Feast|⥃]]</big></big>***Jesus Teaches at the Feast***

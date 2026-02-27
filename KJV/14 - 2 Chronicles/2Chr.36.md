@@ -1,3 +1,29 @@
+---
+title: 2 Chronicles 36
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 36
+book/chapter: "[[2Chr.36|2 Chronicles 36]]"
+chronological_order: 743
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~609–586 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.36.1 Jehoahaz Succeeds Josiah|Jehoahaz Succeeds Josiah]]"
+- "[[2Chr.36.5 Jehoiakim Reigns in Judah|Jehoiakim Reigns in Judah]]"
+- "[[2Chr.36.9 Jehoiachin Reigns in Judah|Jehoiachin Reigns in Judah]]"
+- "[[2Chr.36.11 Zedekiah Reigns in Judah|Zedekiah Reigns in Judah]]"
+- "[[2Chr.36.15 The Fall of Jerusalem|The Fall of Jerusalem]]"
+- "[[2Chr.36.22 The Proclamation of Cyrus|The Proclamation of Cyrus]]"
+---
+
 (KJV) **2 Chronicles 36**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35|<< 2 Chronicles 35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.1|Ezra 1 >>]]</td></tr></table>
 
 <big><big>[[2Chr.36.1 Jehoahaz Succeeds Josiah|⥃]]</big></big>***Jehoahaz Succeeds Josiah***&emsp;<small><sup>\[ [[2Kgs.23|2 Kings 23:31–35]] ]</sup></small>

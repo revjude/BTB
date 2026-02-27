@@ -1,3 +1,28 @@
+---
+title: Jeremiah 8
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 8
+book/chapter: "[[Jer.8|Jeremiah 8]]"
+chronological_order: 725
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.8.1 Judah’s Sin and Punishment|Judah’s Sin and Punishment]]"
+- "[[Jer.8.14 The People Respond|The People Respond]]"
+- "[[Jer.8.18 Jeremiah Weeps for His People|Jeremiah Weeps for His People]]"
+---
+
 (KJV) **Jeremiah 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7|<< Jeremiah 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9|Jeremiah 9 >>]]</td></tr></table>
 
 <big><big>[[Jer.8.1 Judah’s Sin and Punishment|⥃]]</big></big>***Judah’s Sin and Punishment***

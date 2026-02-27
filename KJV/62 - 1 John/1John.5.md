@@ -1,3 +1,28 @@
+---
+title: 1 John 5
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 5
+book/chapter: "[[1John.5|1 John 5]]"
+chronological_order: 1165
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+pericopes:
+- "[[1John.5.1 Overcoming the World|Overcoming the World]]"
+- "[[1John.5.9 God’s Testimony about His Son|God’s Testimony about His Son]]"
+- "[[1John.5.13 Effective Prayer|Effective Prayer]]"
+- "[[1John.5.18 The True God|The True God]]"
+---
+
 (KJV) **1 John 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4|<< 1 John 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2John.1|2 John 1 >>]]</td></tr></table>
 
 <big><big>[[1John.5.1 Overcoming the World|⥃]]</big></big>***Overcoming the World***

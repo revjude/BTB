@@ -1,3 +1,43 @@
+---
+title: Numbers 26
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 26
+book/chapter: "[[Num.26|Numbers 26]]"
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.26.1 The Second Census of Israel|The Second Census of Israel]]"
+- "[[Num.26.5 The Tribe of Reuben|The Tribe of Reuben]]"
+- "[[Num.26.12 The Tribe of Simeon|The Tribe of Simeon]]"
+- "[[Num.26.15 The Tribe of Gad|The Tribe of Gad]]"
+- "[[Num.26.19 The Tribe of Judah|The Tribe of Judah]]"
+- "[[Num.26.23 The Tribe of Issachar|The Tribe of Issachar]]"
+- "[[Num.26.26 The Tribe of Zebulun|The Tribe of Zebulun]]"
+- "[[Num.26.28 The Tribe of Manasseh|The Tribe of Manasseh]]"
+- "[[Num.26.35 The Tribe of Ephraim|The Tribe of Ephraim]]"
+- "[[Num.26.38 The Tribe of Benjamin|The Tribe of Benjamin]]"
+- "[[Num.26.42 The Tribe of Dan|The Tribe of Dan]]"
+- "[[Num.26.44 The Tribe of Asher|The Tribe of Asher]]"
+- "[[Num.26.48 The Tribe of Naphtali|The Tribe of Naphtali]]"
+- "[[Num.26.52 Inheritance by Lot|Inheritance by Lot]]"
+- "[[Num.26.57 The Levites Numbered|The Levites Numbered]]"
+- "[[Num.26.63 Only Caleb and Joshua Remain|Only Caleb and Joshua Remain]]"
+---
+
 (KJV) **Numbers 26**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.25|<< Numbers 25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.27|Numbers 27 >>]]</td></tr></table>
 
 <big><big>[[Num.26.1 The Second Census of Israel|⥃]]</big></big>***The Second Census of Israel***&emsp;<small><sup>\[ [[Num.1|Numbers 1:1–4]] ]</sup></small>

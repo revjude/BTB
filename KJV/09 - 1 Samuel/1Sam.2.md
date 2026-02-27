@@ -1,3 +1,26 @@
+---
+title: 1 Samuel 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Samuel
+chapter: 2
+book/chapter: "[[1Sam.2|1 Samuel 2]]"
+chronological_order: 281
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[1Sam.2.1 Hannah’s Prayer of Thanksgiving|Hannah’s Prayer of Thanksgiving]]"
+- "[[1Sam.2.12 Eli’s Wicked Sons|Eli’s Wicked Sons]]"
+- "[[1Sam.2.27 A Prophecy against the House of Eli|A Prophecy against the House of Eli]]"
+---
+
 (KJV) **1 Samuel 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1|<< 1 Samuel 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.3|1 Samuel 3 >>]]</td></tr></table>
 
 <big><big>[[1Sam.2.1 Hannah’s Prayer of Thanksgiving|⥃]]</big></big>***Hannah’s Prayer of Thanksgiving***&emsp;<small><sup>\[ [[Luke.1|Luke 1:46–56]] ]</sup></small>

@@ -1,3 +1,25 @@
+---
+title: 2 Corinthians 4
+type: Chapter
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 4
+book/chapter: "[[2Cor.4|2 Corinthians 4]]"
+chronological_order: 1077
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+pericopes:
+- "[[2Cor.4.1 The Light of the Gospel|The Light of the Gospel]]"
+- "[[2Cor.4.7 Treasure in Jars of Clay|Treasure in Jars of Clay]]"
+---
+
 (KJV) **2 Corinthians 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3|<< 2 Corinthians 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5|2 Corinthians 5 >>]]</td></tr></table>
 
 <big><big>[[2Cor.4.1 The Light of the Gospel|⥃]]</big></big>***The Light of the Gospel***

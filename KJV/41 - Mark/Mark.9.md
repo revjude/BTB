@@ -1,3 +1,29 @@
+---
+title: Mark 9
+type: Chapter
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Mark.9.1 The Transfiguration|The Transfiguration]]"
+- "[[Mark.9.14 The Boy with an Evil Spirit|The Boy with an Evil Spirit]]"
+- "[[Mark.9.30 The Second Prediction of the Passion|The Second Prediction of the Passion]]"
+- "[[Mark.9.33 The Greatest in the Kingdom|The Greatest in the Kingdom]]"
+- "[[Mark.9.42 Temptations and Trespasses|Temptations and Trespasses]]"
+- "[[Mark.9.49 Good Salt|Good Salt]]"
+---
+
 (KJV) **Mark 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8|<< Mark 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10|Mark 10 >>]]</td></tr></table>
 
 <big><big>[[Mark.9.1 The Transfiguration|⥃]]</big></big>***The Transfiguration***&emsp;<small><sup>\[ [[Matt.17|Matthew 17:1–13]] <big>†</big> [[Luke.9|Luke 9:28–36]] <big>†</big> [[2Pet.1|2 Peter 1:16–21]] ]</sup></small>

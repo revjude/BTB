@@ -1,3 +1,29 @@
+---
+title: Genesis 14
+type: Chapter
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 14
+book/chapter: "[[Gen.14|Genesis 14]]"
+chronological_order: 56
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.14.1 The War of the Kings|The War of the Kings]]"
+- "[[Gen.14.10 Abram Rescues Lot|Abram Rescues Lot]]"
+- "[[Gen.14.17 Melchizedek Blesses Abram|Melchizedek Blesses Abram]]"
+---
+
 (KJV) **Genesis 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.13|<< Genesis 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.15|Genesis 15 >>]]</td></tr></table>
 
 <big><big>[[Gen.14.1 The War of the Kings|⥃]]</big></big>***The War of the Kings***

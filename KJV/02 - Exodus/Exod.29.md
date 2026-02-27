@@ -1,3 +1,33 @@
+---
+title: Exodus 29
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 29
+book/chapter: "[[Exod.29|Exodus 29]]"
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.29.1 Consecration of the Priests|Consecration of the Priests]]"
+- "[[Exod.29.10 The Order of the Sacrifices|The Order of the Sacrifices]]"
+- "[[Exod.29.31 Food for the Priests|Food for the Priests]]"
+- "[[Exod.29.38 The Daily Offerings|The Daily Offerings]]"
+- "[[Exod.29.45 God Will Dwell among the People|God Will Dwell among the People]]"
+---
+
 (KJV) **Exodus 29**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28|<< Exodus 28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30|Exodus 30 >>]]</td></tr></table>
 
 <big><big>[[Exod.29.1 Consecration of the Priests|⥃]]</big></big>***Consecration of the Priests***&emsp;<small><sup>\[ [[Lev.8|Leviticus 8:1–13]] ]</sup></small>

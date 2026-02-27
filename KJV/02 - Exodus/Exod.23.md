@@ -1,3 +1,32 @@
+---
+title: Exodus 23
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 23
+book/chapter: "[[Exod.23|Exodus 23]]"
+chronological_order: 115
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.23.1 Justice and Mercy|Justice and Mercy]]"
+- "[[Exod.23.10 Sabbath Laws|Sabbath Laws]]"
+- "[[Exod.23.14 The Three Feasts of Pilgrimage|The Three Feasts of Pilgrimage]]"
+- "[[Exod.23.20 God’s Angel to Lead|God’s Angel to Lead]]"
+---
+
 (KJV) **Exodus 23**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22|<< Exodus 22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.24|Exodus 24 >>]]</td></tr></table>
 
 <big><big>[[Exod.23.1 Justice and Mercy|⥃]]</big></big>***Justice and Mercy***

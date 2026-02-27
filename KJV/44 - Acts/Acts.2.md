@@ -1,3 +1,26 @@
+---
+title: Acts 2
+type: Chapter
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+pericopes:
+- "[[Acts.2.1 The Holy Spirit at Pentecost|The Holy Spirit at Pentecost]]"
+- "[[Acts.2.14 Peter Addresses the Crowd|Peter Addresses the Crowd]]"
+- "[[Acts.2.37 Three Thousand Believe|Three Thousand Believe]]"
+- "[[Acts.2.42 The Fellowship of Believers|The Fellowship of Believers]]"
+---
+
 (KJV) **Acts 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1|<< Acts 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3|Acts 3 >>]]</td></tr></table>
 
 <big><big>[[Acts.2.1 The Holy Spirit at Pentecost|⥃]]</big></big>***The Holy Spirit at Pentecost***&emsp;<small><sup>\[ [[Gen.11|Genesis 11:1–9]] <big>†</big> [[Lev.23|Leviticus 23:15–22]] ]</sup></small>

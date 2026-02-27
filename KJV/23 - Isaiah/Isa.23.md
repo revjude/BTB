@@ -1,3 +1,25 @@
+---
+title: Isaiah 23
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 23
+book/chapter: "[[Isa.23|Isaiah 23]]"
+chronological_order: 640
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.23.1 The Burden against Tyre|The Burden against Tyre]]"
+---
+
 (KJV) **Isaiah 23**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22|<< Isaiah 22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24|Isaiah 24 >>]]</td></tr></table>
 
 <big><big>[[Isa.23.1 The Burden against Tyre|⥃]]</big></big>***The Burden against Tyre***&emsp;<small><sup>\[ [[Ezek.26|Ezekiel 26:1–21]] ]</sup></small>

@@ -1,3 +1,27 @@
+---
+title: Ezekiel 38
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 38
+book/chapter: "[[Ezek.38|Ezekiel 38]]"
+chronological_order: 829
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.38.1 A Prophecy against Gog|A Prophecy against Gog]]"
+---
+
 (KJV) **Ezekiel 38**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37|<< Ezekiel 37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39|Ezekiel 39 >>]]</td></tr></table>
 
 <big><big>[[Ezek.38.1 A Prophecy against Gog|⥃]]</big></big>***A Prophecy against Gog***

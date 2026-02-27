@@ -1,3 +1,27 @@
+---
+title: Psalm 95
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 95
+book/chapter: "[[Ps.95|Psalm 95]]"
+chronological_order: 522
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.95.1 Do Not Harden Your Hearts|Do Not Harden Your Hearts]]"
+---
+
 (KJV) **Psalm 95**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.94|<< Psalm 94]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.96|Psalm 96 >>]]</td></tr></table>
 
 <big><big>[[Ps.95.1 Do Not Harden Your Hearts|⥃]]</big></big>***Do Not Harden Your Hearts***&emsp;<small><sup>\[ [[Heb.3|Hebrews 3:7–11]] ]</sup></small>

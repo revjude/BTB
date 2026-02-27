@@ -1,3 +1,27 @@
+---
+title: Isaiah 42
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 42
+book/chapter: "[[Isa.42|Isaiah 42]]"
+chronological_order: 681
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.42.1 Here Is My Servant|Here Is My Servant]]"
+- "[[Isa.42.10 A New Song of Praise|A New Song of Praise]]"
+- "[[Isa.42.18 Israel Is Deaf and Blind|Israel Is Deaf and Blind]]"
+---
+
 (KJV) **Isaiah 42**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41|<< Isaiah 41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43|Isaiah 43 >>]]</td></tr></table>
 
 <big><big>[[Isa.42.1 Here Is My Servant|⥃]]</big></big>***Here Is My Servant***&emsp;<small><sup>\[ [[Matt.12|Matthew 12:15–21]] ]</sup></small>

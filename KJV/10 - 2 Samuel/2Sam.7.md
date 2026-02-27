@@ -1,3 +1,26 @@
+---
+title: 2 Samuel 7
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Samuel
+chapter: 7
+book/chapter: "[[2Sam.7|2 Samuel 7]]"
+chronological_order: 393
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+pericopes:
+- "[[2Sam.7.1 God’s Covenant with David|God’s Covenant with David]]"
+- "[[2Sam.7.18 David’s Prayer of Thanksgiving|David’s Prayer of Thanksgiving]]"
+---
+
 (KJV) **2 Samuel 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6|<< 2 Samuel 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.8|2 Samuel 8 >>]]</td></tr></table>
 
 <big><big>[[2Sam.7.1 God’s Covenant with David|⥃]]</big></big>***God’s Covenant with David***&emsp;<small><sup>\[ [[1Chr.17|1 Chronicles 17:1–15]] ]</sup></small>

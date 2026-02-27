@@ -1,3 +1,26 @@
+---
+title: Jeremiah 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 1
+book/chapter: "[[Jer.1|Jeremiah 1]]"
+chronological_order: 718
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.1.1 The Call of Jeremiah|The Call of Jeremiah]]"
+---
+
 (KJV) **Jeremiah 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.66|<< Isaiah 66]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2|Jeremiah 2 >>]]</td></tr></table>
 
 <big><big>[[Jer.1.1 The Call of Jeremiah|⥃]]</big></big>***The Call of Jeremiah***

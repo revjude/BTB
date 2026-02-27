@@ -1,3 +1,24 @@
+---
+title: Joshua 17
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Joshua
+chapter: 17
+book/chapter: "[[Josh.17|Joshua 17]]"
+chronological_order: 247
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+pericopes:
+- "[[Josh.17.1 Manasseh’s Western Inheritance|Manasseh’s Western Inheritance]]"
+---
+
 (KJV) **Joshua 17**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.16|<< Joshua 16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18|Joshua 18 >>]]</td></tr></table>
 
 <big><big>[[Josh.17.1 Manasseh’s Western Inheritance|⥃]]</big></big>***Manasseh’s Western Inheritance***

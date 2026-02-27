@@ -1,3 +1,24 @@
+---
+title: 1 Corinthians 5
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 5
+book/chapter: "[[1Cor.5|1 Corinthians 5]]"
+chronological_order: 1062
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+pericopes:
+- "[[1Cor.5.1 Immorality Rebuked|Immorality Rebuked]]"
+- "[[1Cor.5.9 Expel the Immoral Brother|Expel the Immoral Brother]]"
+---
+
 (KJV) **1 Corinthians 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4|<< 1 Corinthians 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6|1 Corinthians 6 >>]]</td></tr></table>
 
 <big><big>[[1Cor.5.1 Immorality Rebuked|⥃]]</big></big>***Immorality Rebuked***&emsp;<small><sup>\[ [[Lev.20|Leviticus 20:10–21]] <big>†</big> [[Prov.5|Proverbs 5:1–23]] ]</sup></small>

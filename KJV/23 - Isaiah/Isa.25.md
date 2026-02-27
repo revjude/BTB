@@ -1,3 +1,25 @@
+---
+title: Isaiah 25
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 25
+book/chapter: "[[Isa.25|Isaiah 25]]"
+chronological_order: 668
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.25.1 Praise to the Victorious God|Praise to the Victorious God]]"
+---
+
 (KJV) **Isaiah 25**<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24|<< Isaiah 24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26|Isaiah 26 >>]]</td></tr></table>
 
 <big><big>[[Isa.25.1 Praise to the Victorious God|⥃]]</big></big>***Praise to the Victorious God***&emsp;<small><sup>\[ [[Jer.51|Jeremiah 51:15–19]] ]</sup></small>

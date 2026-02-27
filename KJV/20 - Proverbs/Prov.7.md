@@ -1,3 +1,24 @@
+---
+title: Proverbs 7
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Proverbs
+chapter: 7
+book/chapter: "[[Prov.7|Proverbs 7]]"
+chronological_order: 462
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+pericopes:
+- "[[Prov.7.1 Warnings about the Adulteress|Warnings about the Adulteress]]"
+---
+
 (KJV) **Proverbs 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6|<< Proverbs 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8|Proverbs 8 >>]]</td></tr></table>
 
 <big><big>[[Prov.7.1 Warnings about the Adulteress|⥃]]</big></big>***Warnings about the Adulteress***

@@ -1,3 +1,30 @@
+---
+title: Luke 20
+type: Chapter
+original_language: Greek
+testament: New
+book: Luke
+chapter: 20
+book/chapter: "[[Luke.20|Luke 20]]"
+chronological_order: 995
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+pericopes:
+- "[[Luke.20.1 Jesus’ Authority Challenged|Jesus’ Authority Challenged]]"
+- "[[Luke.20.9 The Parable of the Wicked Tenants|The Parable of the Wicked Tenants]]"
+- "[[Luke.20.19 Paying Taxes to Caesar|Paying Taxes to Caesar]]"
+- "[[Luke.20.27 The Sadducees and the Resurrection|The Sadducees and the Resurrection]]"
+- "[[Luke.20.41 Whose Son Is the Christ？|Whose Son Is the Christ？]]"
+- "[[Luke.20.45 Beware of the Scribes|Beware of the Scribes]]"
+---
+
 (KJV) **Luke 20**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19|<< Luke 19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21|Luke 21 >>]]</td></tr></table>
 
 <big><big>[[Luke.20.1 Jesus’ Authority Challenged|⥃]]</big></big>***Jesus’ Authority Challenged***&emsp;<small><sup>\[ [[Matt.21|Matthew 21:23–27]] <big>†</big> [[Mark.11|Mark 11:27–33]] ]</sup></small>

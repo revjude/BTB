@@ -1,3 +1,24 @@
+---
+title: 1 Corinthians 2
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 2
+book/chapter: "[[1Cor.2|1 Corinthians 2]]"
+chronological_order: 1059
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+pericopes:
+- "[[1Cor.2.1 Paul’s Message by the Spirit’s Power|Paul’s Message by the Spirit’s Power]]"
+- "[[1Cor.2.6 Spiritual Wisdom|Spiritual Wisdom]]"
+---
+
 (KJV) **1 Corinthians 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1|<< 1 Corinthians 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3|1 Corinthians 3 >>]]</td></tr></table>
 
 <big><big>[[1Cor.2.1 Paul’s Message by the Spirit’s Power|⥃]]</big></big>***Paul’s Message by the Spirit’s Power***

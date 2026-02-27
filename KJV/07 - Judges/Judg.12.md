@@ -1,3 +1,25 @@
+---
+title: Judges 12
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Judges
+chapter: 12
+book/chapter: "[[Judg.12|Judges 12]]"
+chronological_order: 266
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+pericopes:
+- "[[Judg.12.1 Jephthah Defeats Ephraim|Jephthah Defeats Ephraim]]"
+- "[[Judg.12.8 Ibzan, Elon, and Abdon|Ibzan, Elon, and Abdon]]"
+---
+
 (KJV) **Judges 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11|<< Judges 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13|Judges 13 >>]]</td></tr></table>
 
 <big><big>[[Judg.12.1 Jephthah Defeats Ephraim|⥃]]</big></big>***Jephthah Defeats Ephraim***

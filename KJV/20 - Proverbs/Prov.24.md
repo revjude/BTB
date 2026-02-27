@@ -1,3 +1,35 @@
+---
+title: Proverbs 24
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Proverbs
+chapter: 24
+book/chapter: "[[Prov.24|Proverbs 24]]"
+chronological_order: 479
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+pericopes:
+- "[[Prov.24.1 Saying 20|Saying 20]]"
+- "[[Prov.24.3 Saying 21|Saying 21]]"
+- "[[Prov.24.5 Saying 22|Saying 22]]"
+- "[[Prov.24.7 Saying 23|Saying 23]]"
+- "[[Prov.24.8 Saying 24|Saying 24]]"
+- "[[Prov.24.10 Saying 25|Saying 25]]"
+- "[[Prov.24.13 Saying 26|Saying 26]]"
+- "[[Prov.24.15 Saying 27|Saying 27]]"
+- "[[Prov.24.17 Saying 28|Saying 28]]"
+- "[[Prov.24.19 Saying 29|Saying 29]]"
+- "[[Prov.24.21 Saying 30|Saying 30]]"
+- "[[Prov.24.23 Further Sayings of the Wise|Further Sayings of the Wise]]"
+---
+
 (KJV) **Proverbs 24**<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23|<< Proverbs 23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25|Proverbs 25 >>]]</td></tr></table>
 
 <big><big>[[Prov.24.1 Saying 20|⥃]]</big></big>*Saying 20*

@@ -1,3 +1,27 @@
+---
+title: Genesis 16
+type: Chapter
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 16
+book/chapter: "[[Gen.16|Genesis 16]]"
+chronological_order: 58
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.16.1 Hagar and Ishmael|Hagar and Ishmael]]"
+---
+
 (KJV) **Genesis 16**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.15|<< Genesis 15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.17|Genesis 17 >>]]</td></tr></table>
 
 <big><big>[[Gen.16.1 Hagar and Ishmael|⥃]]</big></big>***Hagar and Ishmael***

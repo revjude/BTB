@@ -1,3 +1,27 @@
+---
+title: Philippians 2
+type: Chapter
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 2
+book/chapter: "[[Phil.2|Philippians 2]]"
+chronological_order: 1118
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+pericopes:
+- "[[Phil.2.1 One in Christ|One in Christ]]"
+- "[[Phil.2.5 The Mind of Christ|The Mind of Christ]]"
+- "[[Phil.2.12 Lights in the World|Lights in the World]]"
+- "[[Phil.2.19 Timothy and Epaphroditus|Timothy and Epaphroditus]]"
+---
+
 (KJV) **Philippians 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1|<< Philippians 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3|Philippians 3 >>]]</td></tr></table>
 
 <big><big>[[Phil.2.1 One in Christ|⥃]]</big></big>***One in Christ***&emsp;<small><sup>\[ [[Eph.2|Ephesians 2:11–18]] ]</sup></small>

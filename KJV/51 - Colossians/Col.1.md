@@ -1,3 +1,27 @@
+---
+title: Colossians 1
+type: Chapter
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 1
+book/chapter: "[[Col.1|Colossians 1]]"
+chronological_order: 1121
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+pericopes:
+- "[[Col.1.1 Greetings from Paul and Timothy|Greetings from Paul and Timothy]]"
+- "[[Col.1.3 Thanksgiving and Prayer|Thanksgiving and Prayer]]"
+- "[[Col.1.15 The Supremacy of the Son|The Supremacy of the Son]]"
+- "[[Col.1.24 Paul’s Suffering for the Church|Paul’s Suffering for the Church]]"
+---
+
 (KJV) **Colossians 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4|<< Philippians 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2|Colossians 2 >>]]</td></tr></table>
 
 <big><big>[[Col.1.1 Greetings from Paul and Timothy|⥃]]</big></big>***Greetings from Paul and Timothy***&emsp;<small><sup>\[ [[Phil.1|Philippians 1:1–2]] <big>†</big> [[Phlm.1|Philemon 1:1–3]] ]</sup></small>

@@ -1,3 +1,27 @@
+---
+title: Psalm 82
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 82
+book/chapter: "[[Ps.82|Psalm 82]]"
+chronological_order: 512
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.82.1 God Presides in the Divine Assembly|God Presides in the Divine Assembly]]"
+---
+
 (KJV) **Psalm 82**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.81|<< Psalm 81]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.83|Psalm 83 >>]]</td></tr></table>
 
 <big><big>[[Ps.82.1 God Presides in the Divine Assembly|⥃]]</big></big>***God Presides in the Divine Assembly***

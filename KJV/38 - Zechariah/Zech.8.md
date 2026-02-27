@@ -1,3 +1,26 @@
+---
+title: Zechariah 8
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Zechariah
+chapter: 8
+book/chapter: "[[Zech.8|Zechariah 8]]"
+chronological_order: 864
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+pericopes:
+- "[[Zech.8.1 The Restoration of Jerusalem|The Restoration of Jerusalem]]"
+---
+
 (KJV) **Zechariah 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.7|<< Zechariah 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.9|Zechariah 9 >>]]</td></tr></table>
 
 <big><big>[[Zech.8.1 The Restoration of Jerusalem|⥃]]</big></big>***The Restoration of Jerusalem***&emsp;<small><sup>\[ [[Mic.4|Micah 4:6–13]] ]</sup></small>

@@ -1,3 +1,30 @@
+---
+title: Leviticus 5
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Leviticus
+chapter: 5
+book/chapter: "[[Lev.5|Leviticus 5]]"
+chronological_order: 137
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+pericopes:
+- "[[Lev.5.1 Sins Requiring a Sin Offering|Sins Requiring a Sin Offering]]"
+- "[[Lev.5.14 Laws for Guilt Offerings|Laws for Guilt Offerings]]"
+---
+
 (KJV) **Leviticus 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4|<< Leviticus 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6|Leviticus 6 >>]]</td></tr></table>
 
 <big><big>[[Lev.5.1 Sins Requiring a Sin Offering|⥃]]</big></big>***Sins Requiring a Sin Offering***&emsp;<small><sup>\[ [[Lev.4|Leviticus 4:1–35]] <big>†</big> [[Lev.6|Leviticus 6:24–30]] ]</sup></small>

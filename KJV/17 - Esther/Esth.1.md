@@ -1,3 +1,26 @@
+---
+title: Esther 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Esther
+chapter: 1
+book/chapter: "[[Esth.1|Esther 1]]"
+chronological_order: 899
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+pericopes:
+- "[[Esth.1.1 Xerxes’ Royal Feast|Xerxes’ Royal Feast]]"
+- "[[Esth.1.9 Queen Vashti’s Refusal|Queen Vashti’s Refusal]]"
+- "[[Esth.1.13 Queen Vashti Deposed|Queen Vashti Deposed]]"
+---
+
 (KJV) **Esther 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13|<< Nehemiah 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2|Esther 2 >>]]</td></tr></table>
 
 <big><big>[[Esth.1.1 Xerxes’ Royal Feast|⥃]]</big></big>***Xerxes’ Royal Feast***

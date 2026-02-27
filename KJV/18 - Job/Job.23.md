@@ -1,3 +1,25 @@
+---
+title: Job 23
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 23
+book/chapter: "[[Job.23|Job 23]]"
+chronological_order: 34
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.23.1 Job Longs for God|Job Longs for God]]"
+---
+
 (KJV) **Job 23**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.22|<< Job 22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24|Job 24 >>]]</td></tr></table>
 
 <big><big>[[Job.23.1 Job Longs for God|⥃]]</big></big>***Job Longs for God***

@@ -1,3 +1,24 @@
+---
+title: Proverbs 16
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Proverbs
+chapter: 16
+book/chapter: "[[Prov.16|Proverbs 16]]"
+chronological_order: 471
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+pericopes:
+- "[[Prov.16.1 The Reply of the Tongue Is from the LORD|The Reply of the Tongue Is from the LORD]]"
+---
+
 (KJV) **Proverbs 16**<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15|<< Proverbs 15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17|Proverbs 17 >>]]</td></tr></table>
 
 <big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥃]]</big></big>***The Reply of the Tongue Is from the LORD***

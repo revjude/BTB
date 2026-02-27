@@ -1,3 +1,25 @@
+---
+title: John 2
+type: Chapter
+original_language: Greek
+testament: New
+book: John
+chapter: 2
+book/chapter: "[[John.2|John 2]]"
+chronological_order: 940
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+pericopes:
+- "[[John.2.1 The Wedding at Cana|The Wedding at Cana]]"
+- "[[John.2.12 Jesus Cleanses the Temple|Jesus Cleanses the Temple]]"
+---
+
 (KJV) **John 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1|<< John 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3|John 3 >>]]</td></tr></table>
 
 <big><big>[[John.2.1 The Wedding at Cana|⥃]]</big></big>***The Wedding at Cana***

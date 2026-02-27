@@ -1,3 +1,27 @@
+---
+title: 1 Peter 1
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 1
+book/chapter: "[[1Pet.1|1 Peter 1]]"
+chronological_order: 1135
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+pericopes:
+- "[[1Pet.1.1 A Greeting from Peter|A Greeting from Peter]]"
+- "[[1Pet.1.3 A Living Hope|A Living Hope]]"
+- "[[1Pet.1.13 A Call to Holiness|A Call to Holiness]]"
+- "[[1Pet.1.22 The Enduring Word|The Enduring Word]]"
+---
+
 (KJV) **1 Peter 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5|<< James 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2|1 Peter 2 >>]]</td></tr></table>
 
 <big><big>[[1Pet.1.1 A Greeting from Peter|⥃]]</big></big>***A Greeting from Peter***&emsp;<small><sup>\[ [[2Pet.1|2 Peter 1:1–2]] ]</sup></small>

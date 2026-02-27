@@ -1,3 +1,30 @@
+---
+title: Deuteronomy 14
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Deuteronomy
+chapter: 14
+book/chapter: "[[Deut.14|Deuteronomy 14]]"
+chronological_order: 210
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+pericopes:
+- "[[Deut.14.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+- "[[Deut.14.22 Giving Tithes|Giving Tithes]]"
+---
+
 (KJV) **Deuteronomy 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.13|<< Deuteronomy 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15|Deuteronomy 15 >>]]</td></tr></table>
 
 <big><big>[[Deut.14.1 Clean and Unclean Animals|⥃]]</big></big>***Clean and Unclean Animals***&emsp;<small><sup>\[ [[Lev.11|Leviticus 11:1–47]] <big>†</big> [[Acts.10|Acts 10:9–16]] ]</sup></small>

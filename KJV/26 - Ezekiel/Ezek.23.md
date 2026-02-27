@@ -1,3 +1,29 @@
+---
+title: Ezekiel 23
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 23
+book/chapter: "[[Ezek.23|Ezekiel 23]]"
+chronological_order: 814
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.23.1 The Two Adulterous Sisters|The Two Adulterous Sisters]]"
+- "[[Ezek.23.22 Oholibah to Be Plagued|Oholibah to Be Plagued]]"
+- "[[Ezek.23.36 Judgment on Both Sisters|Judgment on Both Sisters]]"
+---
+
 (KJV) **Ezekiel 23**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22|<< Ezekiel 22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24|Ezekiel 24 >>]]</td></tr></table>
 
 <big><big>[[Ezek.23.1 The Two Adulterous Sisters|⥃]]</big></big>***The Two Adulterous Sisters***

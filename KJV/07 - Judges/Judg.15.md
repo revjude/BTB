@@ -1,3 +1,24 @@
+---
+title: Judges 15
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Judges
+chapter: 15
+book/chapter: "[[Judg.15|Judges 15]]"
+chronological_order: 269
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+pericopes:
+- "[[Judg.15.1 Samson’s Revenge|Samson’s Revenge]]"
+---
+
 (KJV) **Judges 15**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.14|<< Judges 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16|Judges 16 >>]]</td></tr></table>
 
 <big><big>[[Judg.15.1 Samson’s Revenge|⥃]]</big></big>***Samson’s Revenge***

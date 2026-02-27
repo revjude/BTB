@@ -1,3 +1,28 @@
+---
+title: Jeremiah 17
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 17
+book/chapter: "[[Jer.17|Jeremiah 17]]"
+chronological_order: 734
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.17.1 The Sin and Punishment of Judah|The Sin and Punishment of Judah]]"
+- "[[Jer.17.12 Jeremiah’s Prayer for Deliverance|Jeremiah’s Prayer for Deliverance]]"
+- "[[Jer.17.19 Restoring the Sabbath|Restoring the Sabbath]]"
+---
+
 (KJV) **Jeremiah 17**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16|<< Jeremiah 16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18|Jeremiah 18 >>]]</td></tr></table>
 
 <big><big>[[Jer.17.1 The Sin and Punishment of Judah|⥃]]</big></big>***The Sin and Punishment of Judah***

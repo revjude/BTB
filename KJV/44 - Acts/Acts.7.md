@@ -1,3 +1,31 @@
+---
+title: Acts 7
+type: Chapter
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+pericopes:
+- "[[Acts.7.1 Stephen’s Address：The Call of Abraham|Stephen’s Address：The Call of Abraham]]"
+- "[[Acts.7.9 Joseph Sold into Egypt|Joseph Sold into Egypt]]"
+- "[[Acts.7.15 Israel Oppressed in Egypt|Israel Oppressed in Egypt]]"
+- "[[Acts.7.20 The Birth and Adoption of Moses|The Birth and Adoption of Moses]]"
+- "[[Acts.7.23 The Rejection and Flight of Moses|The Rejection and Flight of Moses]]"
+- "[[Acts.7.30 The Call of Moses|The Call of Moses]]"
+- "[[Acts.7.39 The Rebellion of Israel|The Rebellion of Israel]]"
+- "[[Acts.7.44 The Tabernacle of the Testimony|The Tabernacle of the Testimony]]"
+- "[[Acts.7.54 The Stoning of Stephen|The Stoning of Stephen]]"
+---
+
 (KJV) **Acts 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.6|<< Acts 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8|Acts 8 >>]]</td></tr></table>
 
 <big><big>[[Acts.7.1 Stephen’s Address：The Call of Abraham|⥃]]</big></big>***Stephen’s Address: The Call of Abraham***&emsp;<small><sup>\[ [[Gen.12|Genesis 12:1–9]] ]</sup></small>

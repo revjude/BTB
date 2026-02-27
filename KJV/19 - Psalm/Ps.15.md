@@ -1,3 +1,27 @@
+---
+title: Psalm 15
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 15
+book/chapter: "[[Ps.15|Psalm 15]]"
+chronological_order: 349
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.15.1 Who May Dwell on Your Holy Mountain？|Who May Dwell on Your Holy Mountain？]]"
+---
+
 (KJV) **Psalm 15**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.14|<< Psalm 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.16|Psalm 16 >>]]</td></tr></table>
 
 <big><big>[[Ps.15.1 Who May Dwell on Your Holy Mountain？|⥃]]</big></big>***Who May Dwell on Your Holy Mountain?***

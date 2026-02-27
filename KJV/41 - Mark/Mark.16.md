@@ -1,3 +1,28 @@
+---
+title: Mark 16
+type: Chapter
+original_language: Greek
+testament: New
+book: Mark
+chapter: 16
+book/chapter: "[[Mark.16|Mark 16]]"
+chronological_order: 1015
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Mark.16.1 The Resurrection|The Resurrection]]"
+- "[[Mark.16.9 Jesus Appears to Mary Magdalene|Jesus Appears to Mary Magdalene]]"
+- "[[Mark.16.12 Jesus Appears to Two Disciples|Jesus Appears to Two Disciples]]"
+- "[[Mark.16.14 The Great Commission|The Great Commission]]"
+- "[[Mark.16.19 The Ascension|The Ascension]]"
+---
+
 (KJV) **Mark 16**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15|<< Mark 15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1|Luke 1 >>]]</td></tr></table>
 
 <big><big>[[Mark.16.1 The Resurrection|⥃]]</big></big>***The Resurrection***&emsp;<small><sup>\[ [[Matt.28|Matthew 28:1–10]] <big>†</big> [[Luke.24|Luke 24:1–12]] <big>†</big> [[John.20|John 20:1–9]] ]</sup></small>

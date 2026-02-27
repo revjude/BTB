@@ -1,3 +1,27 @@
+---
+title: Psalm 63
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 63
+book/chapter: "[[Ps.63|Psalm 63]]"
+chronological_order: 318
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.63.1 Thirsting for God|Thirsting for God]]"
+---
+
 (KJV) **Psalm 63**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.62|<< Psalm 62]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.64|Psalm 64 >>]]</td></tr></table>
 
 <big><big>[[Ps.63.1 Thirsting for God|⥃]]</big></big>***Thirsting for God***&emsp;<small><sup>\[ [[2Sam.15|2 Samuel 15:30–37]] ]</sup></small>

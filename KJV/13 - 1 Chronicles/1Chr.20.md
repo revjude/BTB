@@ -1,3 +1,25 @@
+---
+title: 1 Chronicles 20
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Chronicles
+chapter: 20
+book/chapter: "[[1Chr.20|1 Chronicles 20]]"
+chronological_order: 407
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+pericopes:
+- "[[1Chr.20.1 The Capture of Rabbah|The Capture of Rabbah]]"
+- "[[1Chr.20.4 Battles against the Philistines|Battles against the Philistines]]"
+---
+
 (KJV) **1 Chronicles 20**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.19|<< 1 Chronicles 19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21|1 Chronicles 21 >>]]</td></tr></table>
 
 <big><big>[[1Chr.20.1 The Capture of Rabbah|⥃]]</big></big>***The Capture of Rabbah***&emsp;<small><sup>\[ [[2Sam.12|2 Samuel 12:26–31]] ]</sup></small>

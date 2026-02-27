@@ -1,3 +1,26 @@
+---
+title: 1 John 3
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 3
+book/chapter: "[[1John.3|1 John 3]]"
+chronological_order: 1163
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+pericopes:
+- "[[1John.3.1 Children of God|Children of God]]"
+- "[[1John.3.11 Love One Another|Love One Another]]"
+---
+
 (KJV) **1 John 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2|<< 1 John 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4|1 John 4 >>]]</td></tr></table>
 
 <big><big>[[1John.3.1 Children of God|⥃]]</big></big>***Children of God***

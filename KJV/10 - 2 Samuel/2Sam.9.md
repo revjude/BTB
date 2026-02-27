@@ -1,3 +1,25 @@
+---
+title: 2 Samuel 9
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Samuel
+chapter: 9
+book/chapter: "[[2Sam.9|2 Samuel 9]]"
+chronological_order: 403
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+pericopes:
+- "[[2Sam.9.1 David and Mephibosheth|David and Mephibosheth]]"
+---
+
 (KJV) **2 Samuel 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.8|<< 2 Samuel 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.10|2 Samuel 10 >>]]</td></tr></table>
 
 <big><big>[[2Sam.9.1 David and Mephibosheth|⥃]]</big></big>***David and Mephibosheth***

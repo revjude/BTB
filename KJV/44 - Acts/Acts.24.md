@@ -1,3 +1,25 @@
+---
+title: Acts 24
+type: Chapter
+original_language: Greek
+testament: New
+book: Acts
+chapter: 24
+book/chapter: "[[Acts.24|Acts 24]]"
+chronological_order: 1106
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+pericopes:
+- "[[Acts.24.1 Tertullus Prosecutes Paul|Tertullus Prosecutes Paul]]"
+- "[[Acts.24.10 Paul’s Defense to Felix|Paul’s Defense to Felix]]"
+- "[[Acts.24.22 The Verdict Postponed|The Verdict Postponed]]"
+---
+
 (KJV) **Acts 24**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23|<< Acts 23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25|Acts 25 >>]]</td></tr></table>
 
 <big><big>[[Acts.24.1 Tertullus Prosecutes Paul|⥃]]</big></big>***Tertullus Prosecutes Paul***

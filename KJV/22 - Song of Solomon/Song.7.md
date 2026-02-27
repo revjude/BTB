@@ -1,3 +1,24 @@
+---
+title: Song of Solomon 7
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Song of Solomon
+chapter: 7
+book/chapter: "[[Song.7|Song of Solomon 7]]"
+chronological_order: 454
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+pericopes:
+- "[[Song.7.1 Admiration by the Bridegroom|Admiration by the Bridegroom]]"
+- "[[Song.7.10 The Bride|The Bride]]"
+---
+
 (KJV) **Song of Solomon 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.6|<< Song of Solomon 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.8|Song of Solomon 8 >>]]</td></tr></table>
 
 <big><big>[[Song.7.1 Admiration by the Bridegroom|⥃]]</big></big>***Admiration by the Bridegroom***

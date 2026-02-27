@@ -1,3 +1,25 @@
+---
+title: Acts 12
+type: Chapter
+original_language: Greek
+testament: New
+book: Acts
+chapter: 12
+book/chapter: "[[Acts.12|Acts 12]]"
+chronological_order: 1030
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+pericopes:
+- "[[Acts.12.1 James Killed, Peter Imprisoned|James Killed, Peter Imprisoned]]"
+- "[[Acts.12.5 The Rescue of Peter|The Rescue of Peter]]"
+- "[[Acts.12.20 The Death of Herod|The Death of Herod]]"
+---
+
 (KJV) **Acts 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11|<< Acts 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13|Acts 13 >>]]</td></tr></table>
 
 <big><big>[[Acts.12.1 James Killed, Peter Imprisoned|⥃]]</big></big>***James Killed, Peter Imprisoned***

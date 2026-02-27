@@ -1,3 +1,26 @@
+---
+title: 2 Kings 18
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Kings
+chapter: 18
+book/chapter: "[[2Kgs.18|2 Kings 18]]"
+chronological_order: 656
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[2Kgs.18.1 Hezekiah Destroys Idolatry in Judah|Hezekiah Destroys Idolatry in Judah]]"
+- "[[2Kgs.18.13 Sennacherib Invades Judah|Sennacherib Invades Judah]]"
+- "[[2Kgs.18.17 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+---
+
 (KJV) **2 Kings 18**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17|<< 2 Kings 17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19|2 Kings 19 >>]]</td></tr></table>
 
 <big><big>[[2Kgs.18.1 Hezekiah Destroys Idolatry in Judah|⥃]]</big></big>***Hezekiah Destroys Idolatry in Judah***&emsp;<small><sup>\[ [[2Chr.29|2 Chronicles 29:1–2]] ]</sup></small>

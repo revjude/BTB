@@ -1,3 +1,24 @@
+---
+title: Esther 6
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Esther
+chapter: 6
+book/chapter: "[[Esth.6|Esther 6]]"
+chronological_order: 904
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+pericopes:
+- "[[Esth.6.1 Mordecai Is Honored|Mordecai Is Honored]]"
+---
+
 (KJV) **Esther 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.5|<< Esther 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.7|Esther 7 >>]]</td></tr></table>
 
 <big><big>[[Esth.6.1 Mordecai Is Honored|⥃]]</big></big>***Mordecai Is Honored***

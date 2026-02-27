@@ -1,3 +1,26 @@
+---
+title: 2 Chronicles 22
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 22
+book/chapter: "[[2Chr.22|2 Chronicles 22]]"
+chronological_order: 587
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.22.1 Ahaziah Reigns in Judah|Ahaziah Reigns in Judah]]"
+- "[[2Chr.22.8 Jehu Kills the Princes of Judah|Jehu Kills the Princes of Judah]]"
+- "[[2Chr.22.10 Athaliah and Joash|Athaliah and Joash]]"
+---
+
 (KJV) **2 Chronicles 22**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.21|<< 2 Chronicles 21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.23|2 Chronicles 23 >>]]</td></tr></table>
 
 <big><big>[[2Chr.22.1 Ahaziah Reigns in Judah|⥃]]</big></big>***Ahaziah Reigns in Judah***&emsp;<small><sup>\[ [[2Kgs.8|2 Kings 8:25–29]] ]</sup></small>

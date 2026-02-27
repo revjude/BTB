@@ -1,3 +1,24 @@
+---
+title: 2 Chronicles 8
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 8
+book/chapter: "[[2Chr.8|2 Chronicles 8]]"
+chronological_order: 537
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.8.1 Solomon’s Additional Achievements|Solomon’s Additional Achievements]]"
+---
+
 (KJV) **2 Chronicles 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.7|<< 2 Chronicles 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9|2 Chronicles 9 >>]]</td></tr></table>
 
 <big><big>[[2Chr.8.1 Solomon’s Additional Achievements|⥃]]</big></big>***Solomon’s Additional Achievements***&emsp;<small><sup>\[ [[1Kgs.9|1 Kings 9:10–28]] ]</sup></small>

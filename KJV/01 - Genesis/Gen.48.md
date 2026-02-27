@@ -1,3 +1,27 @@
+---
+title: Genesis 48
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Genesis
+chapter: 48
+book/chapter: "[[Gen.48|Genesis 48]]"
+chronological_order: 90
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.48.1 Jacob Blesses Ephraim and Manasseh|Jacob Blesses Ephraim and Manasseh]]"
+---
+
 (KJV) **Genesis 48**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47|<< Genesis 47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49|Genesis 49 >>]]</td></tr></table>
 
 <big><big>[[Gen.48.1 Jacob Blesses Ephraim and Manasseh|⥃]]</big></big>***Jacob Blesses Ephraim and Manasseh***

@@ -1,3 +1,25 @@
+---
+title: Hebrews 10
+type: Chapter
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 10
+book/chapter: "[[Heb.10|Hebrews 10]]"
+chronological_order: 1149
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+pericopes:
+- "[[Heb.10.1 Christ’s Perfect Sacrifice|Christ’s Perfect Sacrifice]]"
+- "[[Heb.10.19 A Call to Persevere|A Call to Persevere]]"
+---
+
 (KJV) **Hebrews 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9|<< Hebrews 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11|Hebrews 11 >>]]</td></tr></table>
 
 <big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥃]]</big></big>***Christ’s Perfect Sacrifice***&emsp;<small><sup>\[ [[Ps.40|Psalms 40:1–17]] ]</sup></small>

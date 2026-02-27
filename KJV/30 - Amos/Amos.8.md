@@ -1,3 +1,25 @@
+---
+title: Amos 8
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Amos
+chapter: 8
+book/chapter: "[[Amos.8|Amos 8]]"
+chronological_order: 605
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+pericopes:
+- "[[Amos.8.1 The Basket of Summer Fruit|The Basket of Summer Fruit]]"
+---
+
 (KJV) **Amos 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.7|<< Amos 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.9|Amos 9 >>]]</td></tr></table>
 
 <big><big>[[Amos.8.1 The Basket of Summer Fruit|⥃]]</big></big>***The Basket of Summer Fruit***

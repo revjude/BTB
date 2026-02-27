@@ -1,3 +1,30 @@
+---
+title: Mark 15
+type: Chapter
+original_language: Greek
+testament: New
+book: Mark
+chapter: 15
+book/chapter: "[[Mark.15|Mark 15]]"
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Mark.15.1 Jesus Delivered to Pilate|Jesus Delivered to Pilate]]"
+- "[[Mark.15.6 The Crowd Chooses Barabbas|The Crowd Chooses Barabbas]]"
+- "[[Mark.15.12 Pilate Delivers Up Jesus|Pilate Delivers Up Jesus]]"
+- "[[Mark.15.16 The Soldiers Mock Jesus|The Soldiers Mock Jesus]]"
+- "[[Mark.15.21 The Crucifixion|The Crucifixion]]"
+- "[[Mark.15.33 The Death of Jesus|The Death of Jesus]]"
+- "[[Mark.15.42 The Burial of Jesus|The Burial of Jesus]]"
+---
+
 (KJV) **Mark 15**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14|<< Mark 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16|Mark 16 >>]]</td></tr></table>
 
 <big><big>[[Mark.15.1 Jesus Delivered to Pilate|⥃]]</big></big>***Jesus Delivered to Pilate***&emsp;<small><sup>\[ [[Matt.27|Matthew 27:1–2]] ]</sup></small>

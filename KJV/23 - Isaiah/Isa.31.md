@@ -1,3 +1,25 @@
+---
+title: Isaiah 31
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 31
+book/chapter: "[[Isa.31|Isaiah 31]]"
+chronological_order: 674
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.31.1 Woe to Those Who Rely on Egypt|Woe to Those Who Rely on Egypt]]"
+---
+
 (KJV) **Isaiah 31**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30|<< Isaiah 30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32|Isaiah 32 >>]]</td></tr></table>
 
 <big><big>[[Isa.31.1 Woe to Those Who Rely on Egypt|⥃]]</big></big>***Woe to Those Who Rely on Egypt***

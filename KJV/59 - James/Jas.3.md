@@ -1,3 +1,25 @@
+---
+title: James 3
+type: Chapter
+original_language: Greek
+testament: New
+book: James
+chapter: 3
+book/chapter: "[[Jas.3|James 3]]"
+chronological_order: 1035
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+pericopes:
+- "[[Jas.3.1 Taming the Tongue|Taming the Tongue]]"
+- "[[Jas.3.13 The Wisdom from Above|The Wisdom from Above]]"
+---
+
 (KJV) **James 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2|<< James 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4|James 4 >>]]</td></tr></table>
 
 <big><big>[[Jas.3.1 Taming the Tongue|⥃]]</big></big>***Taming the Tongue***&emsp;<small><sup>\[ [[Ps.64|Psalms 64:1–10]] ]</sup></small>

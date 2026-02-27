@@ -1,3 +1,26 @@
+---
+title: Revelation 9
+type: Chapter
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 9
+book/chapter: "[[Rev.9|Revelation 9]]"
+chronological_order: 1176
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+pericopes:
+- "[[Rev.9.1 The Fifth Trumpet|The Fifth Trumpet]]"
+- "[[Rev.9.13 The Sixth Trumpet|The Sixth Trumpet]]"
+---
+
 (KJV) **Revelation 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8|<< Revelation 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.10|Revelation 10 >>]]</td></tr></table>
 
 <big><big>[[Rev.9.1 The Fifth Trumpet|⥃]]</big></big>***The Fifth Trumpet***

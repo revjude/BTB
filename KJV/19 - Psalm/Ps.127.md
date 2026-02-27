@@ -1,3 +1,27 @@
+---
+title: Psalm 127
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 127
+book/chapter: "[[Ps.127|Psalm 127]]"
+chronological_order: 447
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.127.1 Children Are a Heritage from the LORD|Children Are a Heritage from the LORD]]"
+---
+
 (KJV) **Psalm 127**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.126|<< Psalm 126]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.128|Psalm 128 >>]]</td></tr></table>
 
 <big><big>[[Ps.127.1 Children Are a Heritage from the LORD|⥃]]</big></big>***Children Are a Heritage from the LORD***

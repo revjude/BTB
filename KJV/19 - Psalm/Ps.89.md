@@ -1,3 +1,27 @@
+---
+title: Psalm 89
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+---
+
 (KJV) **Psalm 89**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.88|<< Psalm 88]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.90|Psalm 90 >>]]</td></tr></table>
 
 <big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥃]]</big></big>***I Will Sing of His Love Forever***

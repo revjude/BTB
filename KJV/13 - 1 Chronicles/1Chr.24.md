@@ -1,3 +1,25 @@
+---
+title: 1 Chronicles 24
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Chronicles
+chapter: 24
+book/chapter: "[[1Chr.24|1 Chronicles 24]]"
+chronological_order: 435
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+pericopes:
+- "[[1Chr.24.1 Twenty-Four Divisions of Priests|Twenty-Four Divisions of Priests]]"
+- "[[1Chr.24.20 The Rest of the Levites|The Rest of the Levites]]"
+---
+
 (KJV) **1 Chronicles 24**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.23|<< 1 Chronicles 23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.25|1 Chronicles 25 >>]]</td></tr></table>
 
 <big><big>[[1Chr.24.1 Twenty-Four Divisions of Priests|⥃]]</big></big>***Twenty-Four Divisions of Priests***

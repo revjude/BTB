@@ -1,3 +1,27 @@
+---
+title: Psalm 86
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 86
+book/chapter: "[[Ps.86|Psalm 86]]"
+chronological_order: 379
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.86.1 Tried but Trusting|Tried but Trusting]]"
+---
+
 (KJV) **Psalm 86**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.85|<< Psalm 85]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.87|Psalm 87 >>]]</td></tr></table>
 
 <big><big>[[Ps.86.1 Tried but Trusting|⥃]]</big></big>***Tried but Trusting***

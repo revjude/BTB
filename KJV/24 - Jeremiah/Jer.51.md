@@ -1,3 +1,29 @@
+---
+title: Jeremiah 51
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.51.1 Judgment on Babylon|Judgment on Babylon]]"
+- "[[Jer.51.15 Praise to the God of Jacob|Praise to the God of Jacob]]"
+- "[[Jer.51.20 Babylon’s Punishment|Babylon’s Punishment]]"
+- "[[Jer.51.59 Jeremiah’s Message to Seraiah|Jeremiah’s Message to Seraiah]]"
+---
+
 (KJV) **Jeremiah 51**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50|<< Jeremiah 50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52|Jeremiah 52 >>]]</td></tr></table>
 
 <big><big>[[Jer.51.1 Judgment on Babylon|⥃]]</big></big>***Judgment on Babylon***

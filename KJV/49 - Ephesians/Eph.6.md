@@ -1,3 +1,27 @@
+---
+title: Ephesians 6
+type: Chapter
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 6
+book/chapter: "[[Eph.6|Ephesians 6]]"
+chronological_order: 1116
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+pericopes:
+- "[[Eph.6.1 Children and Parents|Children and Parents]]"
+- "[[Eph.6.5 Serving with Honor|Serving with Honor]]"
+- "[[Eph.6.10 The Full Armor of God|The Full Armor of God]]"
+- "[[Eph.6.21 Final Greetings|Final Greetings]]"
+---
+
 (KJV) **Ephesians 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5|<< Ephesians 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1|Philippians 1 >>]]</td></tr></table>
 
 <big><big>[[Eph.6.1 Children and Parents|⥃]]</big></big>***Children and Parents***&emsp;<small><sup>\[ [[Col.3|Colossians 3:18–21]] ]</sup></small>

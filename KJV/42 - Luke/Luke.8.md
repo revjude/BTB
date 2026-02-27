@@ -1,3 +1,31 @@
+---
+title: Luke 8
+type: Chapter
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+pericopes:
+- "[[Luke.8.1 Women Minister to Jesus|Women Minister to Jesus]]"
+- "[[Luke.8.4 The Parable of the Sower|The Parable of the Sower]]"
+- "[[Luke.8.16 The Lesson of the Lamp|The Lesson of the Lamp]]"
+- "[[Luke.8.19 Jesus’ Mother and Brothers|Jesus’ Mother and Brothers]]"
+- "[[Luke.8.22 Jesus Calms the Storm|Jesus Calms the Storm]]"
+- "[[Luke.8.26 The Demons and the Pigs|The Demons and the Pigs]]"
+- "[[Luke.8.40 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+---
+
 (KJV) **Luke 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7|<< Luke 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9|Luke 9 >>]]</td></tr></table>
 
 <big><big>[[Luke.8.1 Women Minister to Jesus|⥃]]</big></big>***Women Minister to Jesus***

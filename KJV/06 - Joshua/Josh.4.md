@@ -1,3 +1,25 @@
+---
+title: Joshua 4
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Joshua
+chapter: 4
+book/chapter: "[[Josh.4|Joshua 4]]"
+chronological_order: 234
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+pericopes:
+- "[[Josh.4.1 Twelve Stones from the Jordan|Twelve Stones from the Jordan]]"
+- "[[Josh.4.19 The Camp at Gilgal|The Camp at Gilgal]]"
+---
+
 (KJV) **Joshua 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.3|<< Joshua 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.5|Joshua 5 >>]]</td></tr></table>
 
 <big><big>[[Josh.4.1 Twelve Stones from the Jordan|⥃]]</big></big>***Twelve Stones from the Jordan***

@@ -1,3 +1,28 @@
+---
+title: Ezekiel 47
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 47
+book/chapter: "[[Ezek.47|Ezekiel 47]]"
+chronological_order: 838
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.47.1 Waters from under the Temple|Waters from under the Temple]]"
+- "[[Ezek.47.13 The Borders of the Land|The Borders of the Land]]"
+---
+
 (KJV) **Ezekiel 47**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46|<< Ezekiel 46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48|Ezekiel 48 >>]]</td></tr></table>
 
 <big><big>[[Ezek.47.1 Waters from under the Temple|⥃]]</big></big>***Waters from under the Temple***

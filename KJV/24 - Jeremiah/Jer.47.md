@@ -1,3 +1,26 @@
+---
+title: Jeremiah 47
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 47
+book/chapter: "[[Jer.47|Jeremiah 47]]"
+chronological_order: 770
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.47.1 Judgment on the Philistines|Judgment on the Philistines]]"
+---
+
 (KJV) **Jeremiah 47**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46|<< Jeremiah 46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48|Jeremiah 48 >>]]</td></tr></table>
 
 <big><big>[[Jer.47.1 Judgment on the Philistines|⥃]]</big></big>***Judgment on the Philistines***&emsp;<small><sup>\[ [[Zeph.2|Zephaniah 2:4–7]] ]</sup></small>

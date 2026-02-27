@@ -1,3 +1,25 @@
+---
+title: Job 5
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 5
+book/chapter: "[[Job.5|Job 5]]"
+chronological_order: 16
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|Eliphaz Continues：God Blesses those Who Seek Him]]"
+---
+
 (KJV) **Job 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4|<< Job 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6|Job 6 >>]]</td></tr></table>
 
 <big><big>[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|⥃]]</big></big>***Eliphaz Continues: God Blesses those Who Seek Him***

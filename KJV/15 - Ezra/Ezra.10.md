@@ -1,3 +1,26 @@
+---
+title: Ezra 10
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezra
+chapter: 10
+book/chapter: "[[Ezra.10|Ezra 10]]"
+chronological_order: 912
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+pericopes:
+- "[[Ezra.10.1 Shecaniah’s Encouragement|Shecaniah’s Encouragement]]"
+- "[[Ezra.10.6 The People’s Confession of Sin|The People’s Confession of Sin]]"
+- "[[Ezra.10.18 Those Guilty of Intermarriage|Those Guilty of Intermarriage]]"
+---
+
 (KJV) **Ezra 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.9|<< Ezra 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.1|Nehemiah 1 >>]]</td></tr></table>
 
 <big><big>[[Ezra.10.1 Shecaniah’s Encouragement|⥃]]</big></big>***Shecaniah’s Encouragement***

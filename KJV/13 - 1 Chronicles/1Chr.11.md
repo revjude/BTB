@@ -1,3 +1,26 @@
+---
+title: 1 Chronicles 11
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Chronicles
+chapter: 11
+book/chapter: "[[1Chr.11|1 Chronicles 11]]"
+chronological_order: 335
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+pericopes:
+- "[[1Chr.11.1 David Anointed King of All Israel|David Anointed King of All Israel]]"
+- "[[1Chr.11.4 David Conquers Jerusalem|David Conquers Jerusalem]]"
+- "[[1Chr.11.10 David’s Mighty Men|David’s Mighty Men]]"
+---
+
 (KJV) **1 Chronicles 11**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.10|<< 1 Chronicles 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12|1 Chronicles 12 >>]]</td></tr></table>
 
 <big><big>[[1Chr.11.1 David Anointed King of All Israel|⥃]]</big></big>***David Anointed King of All Israel***&emsp;<small><sup>\[ [[2Sam.5|2 Samuel 5:1–5]] ]</sup></small>

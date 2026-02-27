@@ -1,3 +1,27 @@
+---
+title: Ezekiel 27
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 27
+book/chapter: "[[Ezek.27|Ezekiel 27]]"
+chronological_order: 818
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.27.1 A Lament for Tyre|A Lament for Tyre]]"
+---
+
 (KJV) **Ezekiel 27**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26|<< Ezekiel 26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28|Ezekiel 28 >>]]</td></tr></table>
 
 <big><big>[[Ezek.27.1 A Lament for Tyre|⥃]]</big></big>***A Lament for Tyre***

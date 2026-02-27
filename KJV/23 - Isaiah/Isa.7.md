@@ -1,3 +1,27 @@
+---
+title: Isaiah 7
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 7
+book/chapter: "[[Isa.7|Isaiah 7]]"
+chronological_order: 617
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.7.1 A Message to Ahaz|A Message to Ahaz]]"
+- "[[Isa.7.10 The Sign of Immanuel|The Sign of Immanuel]]"
+- "[[Isa.7.17 Judgment to Come|Judgment to Come]]"
+---
+
 (KJV) **Isaiah 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.6|<< Isaiah 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.8|Isaiah 8 >>]]</td></tr></table>
 
 <big><big>[[Isa.7.1 A Message to Ahaz|⥃]]</big></big>***A Message to Ahaz***

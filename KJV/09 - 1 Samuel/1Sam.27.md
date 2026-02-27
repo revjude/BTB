@@ -1,3 +1,24 @@
+---
+title: 1 Samuel 27
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Samuel
+chapter: 27
+book/chapter: "[[1Sam.27|1 Samuel 27]]"
+chronological_order: 306
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[1Sam.27.1 David and the Philistines|David and the Philistines]]"
+---
+
 (KJV) **1 Samuel 27**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26|<< 1 Samuel 26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.28|1 Samuel 28 >>]]</td></tr></table>
 
 <big><big>[[1Sam.27.1 David and the Philistines|⥃]]</big></big>***David and the Philistines***

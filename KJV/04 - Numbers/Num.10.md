@@ -1,3 +1,29 @@
+---
+title: Numbers 10
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 10
+book/chapter: "[[Num.10|Numbers 10]]"
+chronological_order: 169
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.10.1 The Two Silver Trumpets|The Two Silver Trumpets]]"
+- "[[Num.10.11 From Sinai to Paran|From Sinai to Paran]]"
+---
+
 (KJV) **Numbers 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.9|<< Numbers 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11|Numbers 11 >>]]</td></tr></table>
 
 <big><big>[[Num.10.1 The Two Silver Trumpets|⥃]]</big></big>***The Two Silver Trumpets***

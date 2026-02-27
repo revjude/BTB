@@ -1,3 +1,24 @@
+---
+title: Hosea 4
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Hosea
+chapter: 4
+book/chapter: "[[Hos.4|Hosea 4]]"
+chronological_order: 645
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+pericopes:
+- "[[Hos.4.1 God’s Case against His People|God’s Case against His People]]"
+---
+
 (KJV) **Hosea 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.3|<< Hosea 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.5|Hosea 5 >>]]</td></tr></table>
 
 <big><big>[[Hos.4.1 God’s Case against His People|⥃]]</big></big>***God’s Case against His People***

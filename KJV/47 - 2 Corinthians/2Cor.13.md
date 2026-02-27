@@ -1,3 +1,25 @@
+---
+title: 2 Corinthians 13
+type: Chapter
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 13
+book/chapter: "[[2Cor.13|2 Corinthians 13]]"
+chronological_order: 1086
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+pericopes:
+- "[[2Cor.13.1 Examine Yourselves|Examine Yourselves]]"
+- "[[2Cor.13.11 Benediction and Farewell|Benediction and Farewell]]"
+---
+
 (KJV) **2 Corinthians 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12|<< 2 Corinthians 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1|Galatians 1 >>]]</td></tr></table>
 
 <big><big>[[2Cor.13.1 Examine Yourselves|⥃]]</big></big>***Examine Yourselves***

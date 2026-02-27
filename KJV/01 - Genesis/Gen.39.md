@@ -1,3 +1,28 @@
+---
+title: Genesis 39
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Genesis
+chapter: 39
+book/chapter: "[[Gen.39|Genesis 39]]"
+chronological_order: 81
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.39.1 Joseph and Potiphar’s Wife|Joseph and Potiphar’s Wife]]"
+- "[[Gen.39.13 Joseph Falsely Imprisoned|Joseph Falsely Imprisoned]]"
+---
+
 (KJV) **Genesis 39**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38|<< Genesis 38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40|Genesis 40 >>]]</td></tr></table>
 
 <big><big>[[Gen.39.1 Joseph and Potiphar’s Wife|⥃]]</big></big>***Joseph and Potiphar’s Wife***

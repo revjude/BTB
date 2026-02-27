@@ -1,3 +1,25 @@
+---
+title: Isaiah 36
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 36
+book/chapter: "[[Isa.36|Isaiah 36]]"
+chronological_order: 663
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.36.1 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+---
+
 (KJV) **Isaiah 36**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.35|<< Isaiah 35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37|Isaiah 37 >>]]</td></tr></table>
 
 <big><big>[[Isa.36.1 Sennacherib Threatens Jerusalem|⥃]]</big></big>***Sennacherib Threatens Jerusalem***&emsp;<small><sup>\[ [[2Kgs.18|2 Kings 18:13–37]] <big>†</big> [[2Chr.32|2 Chronicles 32:1–8]] ]</sup></small>

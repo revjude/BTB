@@ -1,3 +1,29 @@
+---
+title: Leviticus 9
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Leviticus
+chapter: 9
+book/chapter: "[[Lev.9|Leviticus 9]]"
+chronological_order: 141
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+pericopes:
+- "[[Lev.9.1 Aaron’s First Offerings|Aaron’s First Offerings]]"
+---
+
 (KJV) **Leviticus 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8|<< Leviticus 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.10|Leviticus 10 >>]]</td></tr></table>
 
 <big><big>[[Lev.9.1 Aaron’s First Offerings|⥃]]</big></big>***Aaron’s First Offerings***

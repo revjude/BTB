@@ -1,3 +1,30 @@
+---
+title: Luke 4
+type: Chapter
+original_language: Greek
+testament: New
+book: Luke
+chapter: 4
+book/chapter: "[[Luke.4|Luke 4]]"
+chronological_order: 938
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+pericopes:
+- "[[Luke.4.1 The Temptation of Jesus|The Temptation of Jesus]]"
+- "[[Luke.4.14 Jesus Begins His Ministry|Jesus Begins His Ministry]]"
+- "[[Luke.4.16 The Rejection at Nazareth|The Rejection at Nazareth]]"
+- "[[Luke.4.31 Jesus Expels an Unclean Spirit|Jesus Expels an Unclean Spirit]]"
+- "[[Luke.4.38 Jesus Heals at Peter’s House|Jesus Heals at Peter’s House]]"
+- "[[Luke.4.42 Jesus Preaches in Judea|Jesus Preaches in Judea]]"
+---
+
 (KJV) **Luke 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3|<< Luke 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5|Luke 5 >>]]</td></tr></table>
 
 <big><big>[[Luke.4.1 The Temptation of Jesus|⥃]]</big></big>***The Temptation of Jesus***&emsp;<small><sup>\[ [[Matt.4|Matthew 4:1–11]] <big>†</big> [[Mark.1|Mark 1:12–13]] ]</sup></small>

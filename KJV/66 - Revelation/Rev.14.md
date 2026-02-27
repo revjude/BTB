@@ -1,3 +1,27 @@
+---
+title: Revelation 14
+type: Chapter
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 14
+book/chapter: "[[Rev.14|Revelation 14]]"
+chronological_order: 1181
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+pericopes:
+- "[[Rev.14.1 The Lamb and the 144,000|The Lamb and the 144,000]]"
+- "[[Rev.14.6 The Three Angels and Babylon’s Fall|The Three Angels and Babylon’s Fall]]"
+- "[[Rev.14.14 The Harvest of the Earth|The Harvest of the Earth]]"
+---
+
 (KJV) **Revelation 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13|<< Revelation 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.15|Revelation 15 >>]]</td></tr></table>
 
 <big><big>[[Rev.14.1 The Lamb and the 144,000|⥃]]</big></big>***The Lamb and the 144,000***

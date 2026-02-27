@@ -1,3 +1,28 @@
+---
+title: Jeremiah 15
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 15
+book/chapter: "[[Jer.15|Jeremiah 15]]"
+chronological_order: 732
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.15.1 Judgment to Continue|Judgment to Continue]]"
+- "[[Jer.15.10 Jeremiah’s Woe|Jeremiah’s Woe]]"
+- "[[Jer.15.19 The LORD’s Promise|The LORD’s Promise]]"
+---
+
 (KJV) **Jeremiah 15**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.14|<< Jeremiah 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16|Jeremiah 16 >>]]</td></tr></table>
 
 <big><big>[[Jer.15.1 Judgment to Continue|⥃]]</big></big>***Judgment to Continue***

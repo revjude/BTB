@@ -1,3 +1,27 @@
+---
+title: Psalm 91
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 91
+book/chapter: "[[Ps.91|Psalm 91]]"
+chronological_order: 518
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.91.1 You Are My Refuge and My Fortress|You Are My Refuge and My Fortress]]"
+---
+
 (KJV) **Psalm 91**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.90|<< Psalm 90]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.92|Psalm 92 >>]]</td></tr></table>
 
 <big><big>[[Ps.91.1 You Are My Refuge and My Fortress|⥃]]</big></big>***You Are My Refuge and My Fortress*** <small><small>[^2]</small></small> 

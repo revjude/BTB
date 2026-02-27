@@ -1,3 +1,29 @@
+---
+title: Ezekiel 34
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 34
+book/chapter: "[[Ezek.34|Ezekiel 34]]"
+chronological_order: 825
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.34.1 A Prophecy against Israel’s Shepherds|A Prophecy against Israel’s Shepherds]]"
+- "[[Ezek.34.11 The Good Shepherd|The Good Shepherd]]"
+- "[[Ezek.34.25 The Covenant of Peace|The Covenant of Peace]]"
+---
+
 (KJV) **Ezekiel 34**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33|<< Ezekiel 33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.35|Ezekiel 35 >>]]</td></tr></table>
 
 <big><big>[[Ezek.34.1 A Prophecy against Israel’s Shepherds|⥃]]</big></big>***A Prophecy against Israel’s Shepherds***

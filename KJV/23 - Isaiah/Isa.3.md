@@ -1,3 +1,26 @@
+---
+title: Isaiah 3
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 3
+book/chapter: "[[Isa.3|Isaiah 3]]"
+chronological_order: 611
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.3.1 Judgment on Jerusalem and Judah|Judgment on Jerusalem and Judah]]"
+- "[[Isa.3.16 A Warning to the Daughters of Zion|A Warning to the Daughters of Zion]]"
+---
+
 (KJV) **Isaiah 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2|<< Isaiah 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.4|Isaiah 4 >>]]</td></tr></table>
 
 <big><big>[[Isa.3.1 Judgment on Jerusalem and Judah|⥃]]</big></big>***Judgment on Jerusalem and Judah***

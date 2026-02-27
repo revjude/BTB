@@ -1,3 +1,25 @@
+---
+title: Job 33
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 33
+book/chapter: "[[Job.33|Job 33]]"
+chronological_order: 44
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.33.1 Elihu Rebukes Job|Elihu Rebukes Job]]"
+---
+
 (KJV) **Job 33**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.32|<< Job 32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34|Job 34 >>]]</td></tr></table>
 
 <big><big>[[Job.33.1 Elihu Rebukes Job|⥃]]</big></big>***Elihu Rebukes Job***

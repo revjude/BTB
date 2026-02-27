@@ -1,3 +1,26 @@
+---
+title: 1 Samuel 26
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Samuel
+chapter: 26
+book/chapter: "[[1Sam.26|1 Samuel 26]]"
+chronological_order: 305
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[1Sam.26.1 David Again Spares Saul|David Again Spares Saul]]"
+- "[[1Sam.26.13 David Reproves Abner|David Reproves Abner]]"
+- "[[1Sam.26.21 Saul Acknowledges His Sin|Saul Acknowledges His Sin]]"
+---
+
 (KJV) **1 Samuel 26**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25|<< 1 Samuel 25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.27|1 Samuel 27 >>]]</td></tr></table>
 
 <big><big>[[1Sam.26.1 David Again Spares Saul|⥃]]</big></big>***David Again Spares Saul***

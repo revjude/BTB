@@ -1,3 +1,30 @@
+---
+title: 1 Kings 16
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Kings
+chapter: 16
+book/chapter: "[[1Kgs.16|1 Kings 16]]"
+chronological_order: 555
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+pericopes:
+- "[[1Kgs.16.1 Jehu’s Prophecy against Baasha|Jehu’s Prophecy against Baasha]]"
+- "[[1Kgs.16.8 Elah Reigns in Israel|Elah Reigns in Israel]]"
+- "[[1Kgs.16.15 Zimri Reigns in Israel|Zimri Reigns in Israel]]"
+- "[[1Kgs.16.21 Omri Reigns in Israel|Omri Reigns in Israel]]"
+- "[[1Kgs.16.29 Ahab Reigns in Israel, Marries Jezebel|Ahab Reigns in Israel, Marries Jezebel]]"
+---
+
 (KJV) **1 Kings 16**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15|<< 1 Kings 15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.17|1 Kings 17 >>]]</td></tr></table>
 
 <big><big>[[1Kgs.16.1 Jehu’s Prophecy against Baasha|⥃]]</big></big>***Jehu’s Prophecy against Baasha***

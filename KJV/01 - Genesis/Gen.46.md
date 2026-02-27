@@ -1,3 +1,33 @@
+---
+title: Genesis 46
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Genesis
+chapter: 46
+book/chapter: "[[Gen.46|Genesis 46]]"
+chronological_order: 88
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.46.1 Jacob’s Journey to Egypt|Jacob’s Journey to Egypt]]"
+- "[[Gen.46.7 Those Who Went to Egypt|Those Who Went to Egypt]]"
+- "[[Gen.46.8 The Children of Leah|The Children of Leah]]"
+- "[[Gen.46.16 The Children of Zilpah|The Children of Zilpah]]"
+- "[[Gen.46.19 The Children of Rachel|The Children of Rachel]]"
+- "[[Gen.46.23 The Children of Bilhah|The Children of Bilhah]]"
+- "[[Gen.46.28 Jacob Arrives in Egypt|Jacob Arrives in Egypt]]"
+---
+
 (KJV) **Genesis 46**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45|<< Genesis 45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47|Genesis 47 >>]]</td></tr></table>
 
 <big><big>[[Gen.46.1 Jacob’s Journey to Egypt|⥃]]</big></big>***Jacob’s Journey to Egypt***

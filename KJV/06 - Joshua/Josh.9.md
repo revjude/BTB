@@ -1,3 +1,24 @@
+---
+title: Joshua 9
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Joshua
+chapter: 9
+book/chapter: "[[Josh.9|Joshua 9]]"
+chronological_order: 239
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+pericopes:
+- "[[Josh.9.1 The Deceit of the Gibeonites|The Deceit of the Gibeonites]]"
+---
+
 (KJV) **Joshua 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8|<< Joshua 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10|Joshua 10 >>]]</td></tr></table>
 
 <big><big>[[Josh.9.1 The Deceit of the Gibeonites|⥃]]</big></big>***The Deceit of the Gibeonites***

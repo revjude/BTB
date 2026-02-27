@@ -1,3 +1,24 @@
+---
+title: Esther 4
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Esther
+chapter: 4
+book/chapter: "[[Esth.4|Esther 4]]"
+chronological_order: 902
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+pericopes:
+- "[[Esth.4.1 Mordecai Appeals to Esther|Mordecai Appeals to Esther]]"
+---
+
 (KJV) **Esther 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.3|<< Esther 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.5|Esther 5 >>]]</td></tr></table>
 
 <big><big>[[Esth.4.1 Mordecai Appeals to Esther|⥃]]</big></big>***Mordecai Appeals to Esther***

@@ -1,3 +1,31 @@
+---
+title: Luke 21
+type: Chapter
+original_language: Greek
+testament: New
+book: Luke
+chapter: 21
+book/chapter: "[[Luke.21|Luke 21]]"
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+pericopes:
+- "[[Luke.21.1 The Poor Widow’s Offering|The Poor Widow’s Offering]]"
+- "[[Luke.21.5 Temple Destruction and Other Signs|Temple Destruction and Other Signs]]"
+- "[[Luke.21.10 Witnessing to All Nations|Witnessing to All Nations]]"
+- "[[Luke.21.20 The Destruction of Jerusalem|The Destruction of Jerusalem]]"
+- "[[Luke.21.25 The Return of the Son of Man|The Return of the Son of Man]]"
+- "[[Luke.21.29 The Lesson of the Fig Tree|The Lesson of the Fig Tree]]"
+- "[[Luke.21.34 Be Watchful for the Day|Be Watchful for the Day]]"
+---
+
 (KJV) **Luke 21**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20|<< Luke 20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22|Luke 22 >>]]</td></tr></table>
 
 <big><big>[[Luke.21.1 The Poor Widow’s Offering|⥃]]</big></big>***The Poor Widow’s Offering***&emsp;<small><sup>\[ [[Mark.12|Mark 12:41–44]] ]</sup></small>

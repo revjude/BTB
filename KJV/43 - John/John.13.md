@@ -1,3 +1,27 @@
+---
+title: John 13
+type: Chapter
+original_language: Greek
+testament: New
+book: John
+chapter: 13
+book/chapter: "[[John.13|John 13]]"
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+pericopes:
+- "[[John.13.1 Jesus Washes His Disciples’ Feet|Jesus Washes His Disciples’ Feet]]"
+- "[[John.13.18 Jesus Predicts His Betrayal|Jesus Predicts His Betrayal]]"
+- "[[John.13.31 Love One Another|Love One Another]]"
+- "[[John.13.36 Jesus Predicts Peter’s Denial|Jesus Predicts Peter’s Denial]]"
+---
+
 (KJV) **John 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12|<< John 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14|John 14 >>]]</td></tr></table>
 
 <big><big>[[John.13.1 Jesus Washes His Disciples’ Feet|⥃]]</big></big>***Jesus Washes His Disciples’ Feet***

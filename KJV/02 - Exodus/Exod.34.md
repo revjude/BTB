@@ -1,3 +1,30 @@
+---
+title: Exodus 34
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 34
+book/chapter: "[[Exod.34|Exodus 34]]"
+chronological_order: 126
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.34.1 New Stone Tablets|New Stone Tablets]]"
+- "[[Exod.34.10 The LORD Renews the Covenant|The LORD Renews the Covenant]]"
+---
+
 (KJV) **Exodus 34**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.33|<< Exodus 33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35|Exodus 35 >>]]</td></tr></table>
 
 <big><big>[[Exod.34.1 New Stone Tablets|⥃]]</big></big>***New Stone Tablets***&emsp;<small><sup>\[ [[Deut.10|Deuteronomy 10:1–11]] ]</sup></small>

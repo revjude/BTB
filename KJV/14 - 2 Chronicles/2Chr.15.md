@@ -1,3 +1,25 @@
+---
+title: 2 Chronicles 15
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 15
+book/chapter: "[[2Chr.15|2 Chronicles 15]]"
+chronological_order: 561
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.15.1 The Prophecy of Azariah|The Prophecy of Azariah]]"
+- "[[2Chr.15.8 Asa’s Reforms|Asa’s Reforms]]"
+---
+
 (KJV) **2 Chronicles 15**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.14|<< 2 Chronicles 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.16|2 Chronicles 16 >>]]</td></tr></table>
 
 <big><big>[[2Chr.15.1 The Prophecy of Azariah|⥃]]</big></big>***The Prophecy of Azariah***

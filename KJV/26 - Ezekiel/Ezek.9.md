@@ -1,3 +1,27 @@
+---
+title: Ezekiel 9
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 9
+book/chapter: "[[Ezek.9|Ezekiel 9]]"
+chronological_order: 800
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.9.1 Execution of the Idolaters|Execution of the Idolaters]]"
+---
+
 (KJV) **Ezekiel 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.8|<< Ezekiel 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10|Ezekiel 10 >>]]</td></tr></table>
 
 <big><big>[[Ezek.9.1 Execution of the Idolaters|⥃]]</big></big>***Execution of the Idolaters***

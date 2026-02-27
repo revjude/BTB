@@ -1,3 +1,25 @@
+---
+title: Judges 20
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+pericopes:
+- "[[Judg.20.1 The Decree of the Assembly|The Decree of the Assembly]]"
+- "[[Judg.20.18 Civil War against Benjamin|Civil War against Benjamin]]"
+---
+
 (KJV) **Judges 20**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19|<< Judges 19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21|Judges 21 >>]]</td></tr></table>
 
 <big><big>[[Judg.20.1 The Decree of the Assembly|⥃]]</big></big>***The Decree of the Assembly***

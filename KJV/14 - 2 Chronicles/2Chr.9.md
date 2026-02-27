@@ -1,3 +1,26 @@
+---
+title: 2 Chronicles 9
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 9
+book/chapter: "[[2Chr.9|2 Chronicles 9]]"
+chronological_order: 538
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.9.1 The Queen of Sheba|The Queen of Sheba]]"
+- "[[2Chr.9.13 Solomon’s Wealth and Splendor|Solomon’s Wealth and Splendor]]"
+- "[[2Chr.9.29 The Death of Solomon|The Death of Solomon]]"
+---
+
 (KJV) **2 Chronicles 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8|<< 2 Chronicles 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.10|2 Chronicles 10 >>]]</td></tr></table>
 
 <big><big>[[2Chr.9.1 The Queen of Sheba|⥃]]</big></big>***The Queen of Sheba***&emsp;<small><sup>\[ [[1Kgs.10|1 Kings 10:1–13]] ]</sup></small>

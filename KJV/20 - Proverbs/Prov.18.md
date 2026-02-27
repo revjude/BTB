@@ -1,3 +1,24 @@
+---
+title: Proverbs 18
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Proverbs
+chapter: 18
+book/chapter: "[[Prov.18|Proverbs 18]]"
+chronological_order: 473
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+pericopes:
+- "[[Prov.18.1 The Selfishness of the Unfriendly|The Selfishness of the Unfriendly]]"
+---
+
 (KJV) **Proverbs 18**<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17|<< Proverbs 17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19|Proverbs 19 >>]]</td></tr></table>
 
 <big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥃]]</big></big>***The Selfishness of the Unfriendly***

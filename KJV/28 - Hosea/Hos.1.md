@@ -1,3 +1,24 @@
+---
+title: Hosea 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Hosea
+chapter: 1
+book/chapter: "[[Hos.1|Hosea 1]]"
+chronological_order: 642
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+pericopes:
+- "[[Hos.1.1 Hosea’s Wife and Children|Hosea’s Wife and Children]]"
+---
+
 (KJV) **Hosea 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.12|<< Daniel 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2|Hosea 2 >>]]</td></tr></table>
 
 <big><big>[[Hos.1.1 Hosea’s Wife and Children|⥃]]</big></big>***Hosea’s Wife and Children***

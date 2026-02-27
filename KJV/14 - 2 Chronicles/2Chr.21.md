@@ -1,3 +1,27 @@
+---
+title: 2 Chronicles 21
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 21
+book/chapter: "[[2Chr.21|2 Chronicles 21]]"
+chronological_order: 586
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.21.1 Jehoram Reigns in Judah|Jehoram Reigns in Judah]]"
+- "[[2Chr.21.8 Edom and Libnah Rebel|Edom and Libnah Rebel]]"
+- "[[2Chr.21.12 Elijah’s Letter to Jehoram|Elijah’s Letter to Jehoram]]"
+- "[[2Chr.21.16 Jehoram’s Disease and Death|Jehoram’s Disease and Death]]"
+---
+
 (KJV) **2 Chronicles 21**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20|<< 2 Chronicles 20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.22|2 Chronicles 22 >>]]</td></tr></table>
 
 <big><big>[[2Chr.21.1 Jehoram Reigns in Judah|⥃]]</big></big>***Jehoram Reigns in Judah***&emsp;<small><sup>\[ [[2Kgs.8|2 Kings 8:16–19]] ]</sup></small>

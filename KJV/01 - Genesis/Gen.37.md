@@ -1,3 +1,29 @@
+---
+title: Genesis 37
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Genesis
+chapter: 37
+book/chapter: "[[Gen.37|Genesis 37]]"
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.37.1 Joseph’s Dreams|Joseph’s Dreams]]"
+- "[[Gen.37.12 Joseph Sold into Egypt|Joseph Sold into Egypt]]"
+- "[[Gen.37.31 Jacob Mourns Joseph|Jacob Mourns Joseph]]"
+---
+
 (KJV) **Genesis 37**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36|<< Genesis 36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38|Genesis 38 >>]]</td></tr></table>
 
 <big><big>[[Gen.37.1 Joseph’s Dreams|⥃]]</big></big>***Joseph’s Dreams***

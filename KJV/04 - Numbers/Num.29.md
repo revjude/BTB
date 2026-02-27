@@ -1,3 +1,30 @@
+---
+title: Numbers 29
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 29
+book/chapter: "[[Num.29|Numbers 29]]"
+chronological_order: 189
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.29.1 The Feast of Trumpets|The Feast of Trumpets]]"
+- "[[Num.29.7 The Day of Atonement|The Day of Atonement]]"
+- "[[Num.29.12 The Feast of Tabernacles|The Feast of Tabernacles]]"
+---
+
 (KJV) **Numbers 29**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28|<< Numbers 28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.30|Numbers 30 >>]]</td></tr></table>
 
 <big><big>[[Num.29.1 The Feast of Trumpets|⥃]]</big></big>***The Feast of Trumpets***&emsp;<small><sup>\[ [[Lev.23|Leviticus 23:23–25]] ]</sup></small>

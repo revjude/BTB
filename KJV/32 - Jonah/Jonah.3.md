@@ -1,3 +1,25 @@
+---
+title: Jonah 3
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jonah
+chapter: 3
+book/chapter: "[[Jonah.3|Jonah 3]]"
+chronological_order: 596
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+pericopes:
+- "[[Jonah.3.1 The Ninevites Repent|The Ninevites Repent]]"
+---
+
 (KJV) **Jonah 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.2|<< Jonah 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.4|Jonah 4 >>]]</td></tr></table>
 
 <big><big>[[Jonah.3.1 The Ninevites Repent|⥃]]</big></big>***The Ninevites Repent***&emsp;<small><sup>\[ [[Matt.12|Matthew 12:38–42]] <big>†</big> [[Luke.11|Luke 11:29–32]] ]</sup></small>

@@ -1,3 +1,27 @@
+---
+title: Revelation 3
+type: Chapter
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 3
+book/chapter: "[[Rev.3|Revelation 3]]"
+chronological_order: 1170
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+pericopes:
+- "[[Rev.3.1 To the Church in Sardis|To the Church in Sardis]]"
+- "[[Rev.3.7 To the Church in Philadelphia|To the Church in Philadelphia]]"
+- "[[Rev.3.14 To the Church in Laodicea|To the Church in Laodicea]]"
+---
+
 (KJV) **Revelation 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2|<< Revelation 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4|Revelation 4 >>]]</td></tr></table>
 
 <big><big>[[Rev.3.1 To the Church in Sardis|⥃]]</big></big>***To the Church in Sardis***

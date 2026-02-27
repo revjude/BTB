@@ -1,3 +1,27 @@
+---
+title: Psalm 56
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 56
+book/chapter: "[[Ps.56|Psalm 56]]"
+chronological_order: 315
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.56.1 Be Merciful to Me, O God|Be Merciful to Me, O God]]"
+---
+
 (KJV) **Psalm 56**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.55|<< Psalm 55]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.57|Psalm 57 >>]]</td></tr></table>
 
 <big><big>[[Ps.56.1 Be Merciful to Me, O God|⥃]]</big></big>***Be Merciful to Me, O God***&emsp;<small><sup>\[ [[1Sam.21|1 Samuel 21:8–15]] ]</sup></small>

@@ -1,3 +1,25 @@
+---
+title: 2 Corinthians 11
+type: Chapter
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 11
+book/chapter: "[[2Cor.11|2 Corinthians 11]]"
+chronological_order: 1084
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+pericopes:
+- "[[2Cor.11.1 Paul and the False Apostles|Paul and the False Apostles]]"
+- "[[2Cor.11.16 Paul’s Suffering and Service|Paul’s Suffering and Service]]"
+---
+
 (KJV) **2 Corinthians 11**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10|<< 2 Corinthians 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12|2 Corinthians 12 >>]]</td></tr></table>
 
 <big><big>[[2Cor.11.1 Paul and the False Apostles|⥃]]</big></big>***Paul and the False Apostles***

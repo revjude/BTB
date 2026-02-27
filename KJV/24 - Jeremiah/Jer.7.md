@@ -1,3 +1,28 @@
+---
+title: Jeremiah 7
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 7
+book/chapter: "[[Jer.7|Jeremiah 7]]"
+chronological_order: 724
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.7.1 Jeremiah’s Message at the Temple Gate|Jeremiah’s Message at the Temple Gate]]"
+- "[[Jer.7.16 Judah’s Idolatry Persists|Judah’s Idolatry Persists]]"
+- "[[Jer.7.30 The Valley of Slaughter|The Valley of Slaughter]]"
+---
+
 (KJV) **Jeremiah 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6|<< Jeremiah 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8|Jeremiah 8 >>]]</td></tr></table>
 
 <big><big>[[Jer.7.1 Jeremiah’s Message at the Temple Gate|⥃]]</big></big>***Jeremiah’s Message at the Temple Gate***

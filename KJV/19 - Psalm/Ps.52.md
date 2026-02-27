@@ -1,3 +1,27 @@
+---
+title: Psalm 52
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 52
+book/chapter: "[[Ps.52|Psalm 52]]"
+chronological_order: 313
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.52.1 Why Do You Boast of Evil？|Why Do You Boast of Evil？]]"
+---
+
 (KJV) **Psalm 52**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.51|<< Psalm 51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.53|Psalm 53 >>]]</td></tr></table>
 
 <big><big>[[Ps.52.1 Why Do You Boast of Evil？|⥃]]</big></big>***Why Do You Boast of Evil?***&emsp;<small><sup>\[ [[1Sam.22|1 Samuel 22:6–23]] ]</sup></small>

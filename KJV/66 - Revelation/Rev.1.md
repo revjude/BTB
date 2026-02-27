@@ -1,3 +1,27 @@
+---
+title: Revelation 1
+type: Chapter
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 1
+book/chapter: "[[Rev.1|Revelation 1]]"
+chronological_order: 1168
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+pericopes:
+- "[[Rev.1.1 Prologue|Prologue]]"
+- "[[Rev.1.4 John Greets the Seven Churches|John Greets the Seven Churches]]"
+- "[[Rev.1.9 John’s Vision on Patmos|John’s Vision on Patmos]]"
+---
+
 (KJV) **Revelation 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1|<< Jude 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2|Revelation 2 >>]]</td></tr></table>
 
 <big><big>[[Rev.1.1 Prologue|⥃]]</big></big>***Prologue***&emsp;<small><sup>\[ [[Dan.12|Daniel 12:1–13]] ]</sup></small>

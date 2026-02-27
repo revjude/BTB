@@ -1,3 +1,31 @@
+---
+title: Exodus 5
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 5
+book/chapter: "[[Exod.5|Exodus 5]]"
+chronological_order: 97
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.5.1 Pharaoh’s First Refusal|Pharaoh’s First Refusal]]"
+- "[[Exod.5.6 Bricks and Straw|Bricks and Straw]]"
+- "[[Exod.5.15 The Cry of the Israelites|The Cry of the Israelites]]"
+---
+
 (KJV) **Exodus 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4|<< Exodus 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.6|Exodus 6 >>]]</td></tr></table>
 
 <big><big>[[Exod.5.1 Pharaoh’s First Refusal|⥃]]</big></big>***Pharaoh’s First Refusal***

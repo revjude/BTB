@@ -1,3 +1,26 @@
+---
+title: 2 Chronicles 18
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 18
+book/chapter: "[[2Chr.18|2 Chronicles 18]]"
+chronological_order: 570
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.18.1 Jehoshaphat Allies with Ahab|Jehoshaphat Allies with Ahab]]"
+- "[[2Chr.18.12 Micaiah Prophesies against Ahab|Micaiah Prophesies against Ahab]]"
+- "[[2Chr.18.28 Ahab’s Defeat and Death|Ahab’s Defeat and Death]]"
+---
+
 (KJV) **2 Chronicles 18**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.17|<< 2 Chronicles 17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.19|2 Chronicles 19 >>]]</td></tr></table>
 
 <big><big>[[2Chr.18.1 Jehoshaphat Allies with Ahab|⥃]]</big></big>***Jehoshaphat Allies with Ahab***&emsp;<small><sup>\[ [[1Kgs.22|1 Kings 22:1–12]] ]</sup></small>

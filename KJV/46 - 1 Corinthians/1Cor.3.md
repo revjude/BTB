@@ -1,3 +1,25 @@
+---
+title: 1 Corinthians 3
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 3
+book/chapter: "[[1Cor.3|1 Corinthians 3]]"
+chronological_order: 1060
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+pericopes:
+- "[[1Cor.3.1 God’s Fellow Workers|God’s Fellow Workers]]"
+- "[[1Cor.3.10 Christ Our Foundation|Christ Our Foundation]]"
+- "[[1Cor.3.16 God’s Temple and God’s Wisdom|God’s Temple and God’s Wisdom]]"
+---
+
 (KJV) **1 Corinthians 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2|<< 1 Corinthians 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4|1 Corinthians 4 >>]]</td></tr></table>
 
 <big><big>[[1Cor.3.1 God’s Fellow Workers|⥃]]</big></big>***God’s Fellow Workers***&emsp;<small><sup>\[ [[Heb.5|Hebrews 5:11–14]] ]</sup></small>

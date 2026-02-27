@@ -1,3 +1,28 @@
+---
+title: 1 Kings 5
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Kings
+chapter: 5
+book/chapter: "[[1Kgs.5|1 Kings 5]]"
+chronological_order: 487
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+pericopes:
+- "[[1Kgs.5.1 Preparations for the Temple|Preparations for the Temple]]"
+- "[[1Kgs.5.7 Hiram’s Reply to Solomon|Hiram’s Reply to Solomon]]"
+- "[[1Kgs.5.13 Solomon’s Labor Force|Solomon’s Labor Force]]"
+---
+
 (KJV) **1 Kings 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4|<< 1 Kings 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6|1 Kings 6 >>]]</td></tr></table>
 
 <big><big>[[1Kgs.5.1 Preparations for the Temple|⥃]]</big></big>***Preparations for the Temple***&emsp;<small><sup>\[ [[2Chr.2|2 Chronicles 2:1–10]] ]</sup></small>

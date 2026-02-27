@@ -1,3 +1,26 @@
+---
+title: Revelation 5
+type: Chapter
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 5
+book/chapter: "[[Rev.5|Revelation 5]]"
+chronological_order: 1172
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+pericopes:
+- "[[Rev.5.1 The Lamb Takes the Scroll|The Lamb Takes the Scroll]]"
+- "[[Rev.5.11 The Lamb Exalted|The Lamb Exalted]]"
+---
+
 (KJV) **Revelation 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4|<< Revelation 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6|Revelation 6 >>]]</td></tr></table>
 
 <big><big>[[Rev.5.1 The Lamb Takes the Scroll|⥃]]</big></big>***The Lamb Takes the Scroll***

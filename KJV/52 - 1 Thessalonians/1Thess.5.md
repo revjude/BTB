@@ -1,3 +1,26 @@
+---
+title: 1 Thessalonians 5
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 5
+book/chapter: "[[1Thess.5|1 Thessalonians 5]]"
+chronological_order: 1052
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+pericopes:
+- "[[1Thess.5.1 The Day of the Lord|The Day of the Lord]]"
+- "[[1Thess.5.12 Christian Living|Christian Living]]"
+- "[[1Thess.5.23 Final Blessings and Instructions|Final Blessings and Instructions]]"
+---
+
 (KJV) **1 Thessalonians 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4|<< 1 Thessalonians 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.1|2 Thessalonians 1 >>]]</td></tr></table>
 
 <big><big>[[1Thess.5.1 The Day of the Lord|⥃]]</big></big>***The Day of the Lord***&emsp;<small><sup>\[ [[Zeph.1|Zephaniah 1:7–18]] <big>†</big> [[Mal.4|Malachi 4:1–6]] <big>†</big> [[2Pet.3|2 Peter 3:8–13]] ]</sup></small>

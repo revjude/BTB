@@ -1,3 +1,27 @@
+---
+title: Psalm 90
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 90
+book/chapter: "[[Ps.90|Psalm 90]]"
+chronological_order: 170
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1440–1407 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.90.1 From Everlasting to Everlasting|From Everlasting to Everlasting]]"
+---
+
 (KJV) **Psalm 90**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89|<< Psalm 89]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.91|Psalm 91 >>]]</td></tr></table>
 
 <big><big>[[Ps.90.1 From Everlasting to Everlasting|⥃]]</big></big>***From Everlasting to Everlasting***

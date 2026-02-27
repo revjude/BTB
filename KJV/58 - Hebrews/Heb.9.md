@@ -1,3 +1,25 @@
+---
+title: Hebrews 9
+type: Chapter
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 9
+book/chapter: "[[Heb.9|Hebrews 9]]"
+chronological_order: 1148
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+pericopes:
+- "[[Heb.9.1 The Earthly Tabernacle|The Earthly Tabernacle]]"
+- "[[Heb.9.11 Redemption through His Blood|Redemption through His Blood]]"
+---
+
 (KJV) **Hebrews 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.8|<< Hebrews 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10|Hebrews 10 >>]]</td></tr></table>
 
 <big><big>[[Heb.9.1 The Earthly Tabernacle|⥃]]</big></big>***The Earthly Tabernacle***&emsp;<small><sup>\[ [[Exod.40|Exodus 40:1–33]] <big>†</big> [[Acts.7|Acts 7:44–47]] ]</sup></small>

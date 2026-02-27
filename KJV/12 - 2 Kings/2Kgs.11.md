@@ -1,3 +1,27 @@
+---
+title: 2 Kings 11
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Kings
+chapter: 11
+book/chapter: "[[2Kgs.11|2 Kings 11]]"
+chronological_order: 584
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~835–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[2Kgs.11.1 Athaliah and Joash|Athaliah and Joash]]"
+- "[[2Kgs.11.4 Joash Anointed King of Judah|Joash Anointed King of Judah]]"
+- "[[2Kgs.11.13 The Death of Athaliah|The Death of Athaliah]]"
+- "[[2Kgs.11.17 Jehoiada Restores the Worship of the LORD|Jehoiada Restores the Worship of the LORD]]"
+---
+
 (KJV) **2 Kings 11**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10|<< 2 Kings 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.12|2 Kings 12 >>]]</td></tr></table>
 
 <big><big>[[2Kgs.11.1 Athaliah and Joash|⥃]]</big></big>***Athaliah and Joash***&emsp;<small><sup>\[ [[2Chr.22|2 Chronicles 22:10–12]] ]</sup></small>

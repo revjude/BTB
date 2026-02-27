@@ -1,3 +1,25 @@
+---
+title: 1 Chronicles 18
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Chronicles
+chapter: 18
+book/chapter: "[[1Chr.18|1 Chronicles 18]]"
+chronological_order: 405
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+pericopes:
+- "[[1Chr.18.1 David’s Triumphs|David’s Triumphs]]"
+- "[[1Chr.18.14 David’s Officers|David’s Officers]]"
+---
+
 (KJV) **1 Chronicles 18**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17|<< 1 Chronicles 17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.19|1 Chronicles 19 >>]]</td></tr></table>
 
 <big><big>[[1Chr.18.1 David’s Triumphs|⥃]]</big></big>***David’s Triumphs***&emsp;<small><sup>\[ [[2Sam.8|2 Samuel 8:1–14]] <big>†</big> [[Ps.60|Psalms 60:1–12]] ]</sup></small>

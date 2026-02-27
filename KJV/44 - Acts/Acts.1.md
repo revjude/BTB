@@ -1,3 +1,25 @@
+---
+title: Acts 1
+type: Chapter
+original_language: Greek
+testament: New
+book: Acts
+chapter: 1
+book/chapter: "[[Acts.1|Acts 1]]"
+chronological_order: 1019
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+pericopes:
+- "[[Acts.1.1 Prologue|Prologue]]"
+- "[[Acts.1.6 The Ascension|The Ascension]]"
+- "[[Acts.1.12 Matthias Replaces Judas|Matthias Replaces Judas]]"
+---
+
 (KJV) **Acts 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21|<< John 21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2|Acts 2 >>]]</td></tr></table>
 
 <big><big>[[Acts.1.1 Prologue|⥃]]</big></big>***Prologue***&emsp;<small><sup>\[ [[Luke.1|Luke 1:1–4]] ]</sup></small>

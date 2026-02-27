@@ -1,3 +1,33 @@
+---
+title: Exodus 35
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 35
+book/chapter: "[[Exod.35|Exodus 35]]"
+chronological_order: 127
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.35.1 The Sabbath|The Sabbath]]"
+- "[[Exod.35.4 Offerings for the Tabernacle|Offerings for the Tabernacle]]"
+- "[[Exod.35.10 The Skilled Craftsmen|The Skilled Craftsmen]]"
+- "[[Exod.35.20 The People Offer Gifts|The People Offer Gifts]]"
+- "[[Exod.35.30 Bezalel and Oholiab|Bezalel and Oholiab]]"
+---
+
 (KJV) **Exodus 35**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34|<< Exodus 34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36|Exodus 36 >>]]</td></tr></table>
 
 <big><big>[[Exod.35.1 The Sabbath|⥃]]</big></big>***The Sabbath***

@@ -1,3 +1,26 @@
+---
+title: Ezra 7
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezra
+chapter: 7
+book/chapter: "[[Ezra.7|Ezra 7]]"
+chronological_order: 909
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+pericopes:
+- "[[Ezra.7.1 Ezra Arrives in Jerusalem|Ezra Arrives in Jerusalem]]"
+- "[[Ezra.7.11 Artaxerxes’ Letter for Ezra|Artaxerxes’ Letter for Ezra]]"
+- "[[Ezra.7.27 Ezra Blesses God|Ezra Blesses God]]"
+---
+
 (KJV) **Ezra 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6|<< Ezra 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8|Ezra 8 >>]]</td></tr></table>
 
 <big><big>[[Ezra.7.1 Ezra Arrives in Jerusalem|⥃]]</big></big>***Ezra Arrives in Jerusalem***

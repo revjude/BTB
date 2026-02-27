@@ -1,3 +1,24 @@
+---
+title: Proverbs 28
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Proverbs
+chapter: 28
+book/chapter: "[[Prov.28|Proverbs 28]]"
+chronological_order: 483
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+pericopes:
+- "[[Prov.28.1 The Boldness of the Righteous|The Boldness of the Righteous]]"
+---
+
 (KJV) **Proverbs 28**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27|<< Proverbs 27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29|Proverbs 29 >>]]</td></tr></table>
 
 <big><big>[[Prov.28.1 The Boldness of the Righteous|⥃]]</big></big>***The Boldness of the Righteous***

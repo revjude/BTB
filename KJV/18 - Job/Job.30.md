@@ -1,3 +1,26 @@
+---
+title: Job 30
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 30
+book/chapter: "[[Job.30|Job 30]]"
+chronological_order: 41
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.30.1 Job’s Honor Turned to Contempt|Job’s Honor Turned to Contempt]]"
+- "[[Job.30.15 Job’s Prosperity Becomes Calamity|Job’s Prosperity Becomes Calamity]]"
+---
+
 (KJV) **Job 30**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29|<< Job 29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31|Job 31 >>]]</td></tr></table>
 
 <big><big>[[Job.30.1 Job’s Honor Turned to Contempt|⥃]]</big></big>***Job’s Honor Turned to Contempt***

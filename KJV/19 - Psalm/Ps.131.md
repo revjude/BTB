@@ -1,3 +1,27 @@
+---
+title: Psalm 131
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 131
+book/chapter: "[[Ps.131|Psalm 131]]"
+chronological_order: 892
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.131.1 I Have Stilled My Soul|I Have Stilled My Soul]]"
+---
+
 (KJV) **Psalm 131**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.130|<< Psalm 130]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.132|Psalm 132 >>]]</td></tr></table>
 
 <big><big>[[Ps.131.1 I Have Stilled My Soul|⥃]]</big></big>***I Have Stilled My Soul***

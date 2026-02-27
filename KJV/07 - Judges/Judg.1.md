@@ -1,3 +1,26 @@
+---
+title: Judges 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Judges
+chapter: 1
+book/chapter: "[[Judg.1|Judges 1]]"
+chronological_order: 255
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+pericopes:
+- "[[Judg.1.1 The Conquest of Canaan Proceeds|The Conquest of Canaan Proceeds]]"
+- "[[Judg.1.8 The Capture of Jerusalem and Hebron|The Capture of Jerusalem and Hebron]]"
+- "[[Judg.1.27 The Failure to Complete the Conquest|The Failure to Complete the Conquest]]"
+---
+
 (KJV) **Judges 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24|<< Joshua 24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.2|Judges 2 >>]]</td></tr></table>
 
 <big><big>[[Judg.1.1 The Conquest of Canaan Proceeds|⥃]]</big></big>***The Conquest of Canaan Proceeds***&emsp;<small><sup>\[ [[Josh.13|Joshua 13:1–7]] ]</sup></small>

@@ -1,3 +1,25 @@
+---
+title: Romans 7
+type: Chapter
+original_language: Greek
+testament: New
+book: Romans
+chapter: 7
+book/chapter: "[[Rom.7|Romans 7]]"
+chronological_order: 1093
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+pericopes:
+- "[[Rom.7.1 Release from the Law|Release from the Law]]"
+- "[[Rom.7.7 God’s Law Is Holy|God’s Law Is Holy]]"
+- "[[Rom.7.13 Struggling with Sin|Struggling with Sin]]"
+---
+
 (KJV) **Romans 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6|<< Romans 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8|Romans 8 >>]]</td></tr></table>
 
 <big><big>[[Rom.7.1 Release from the Law|⥃]]</big></big>***Release from the Law***&emsp;<small><sup>\[ [[Gal.3|Galatians 3:15–25]] ]</sup></small>

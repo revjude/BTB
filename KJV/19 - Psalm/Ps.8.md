@@ -1,3 +1,27 @@
+---
+title: Psalm 8
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 8
+book/chapter: "[[Ps.8|Psalm 8]]"
+chronological_order: 342
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.8.1 How Majestic Is Your Name!|How Majestic Is Your Name!]]"
+---
+
 (KJV) **Psalm 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.7|<< Psalm 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9|Psalm 9 >>]]</td></tr></table>
 
 <big><big>[[Ps.8.1 How Majestic Is Your Name!|⥃]]</big></big>***How Majestic Is Your Name!***

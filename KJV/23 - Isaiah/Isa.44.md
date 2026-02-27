@@ -1,3 +1,26 @@
+---
+title: Isaiah 44
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 44
+book/chapter: "[[Isa.44|Isaiah 44]]"
+chronological_order: 683
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.44.1 The LORD Has Chosen Israel|The LORD Has Chosen Israel]]"
+- "[[Isa.44.21 Jerusalem to Be Restored|Jerusalem to Be Restored]]"
+---
+
 (KJV) **Isaiah 44**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43|<< Isaiah 43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45|Isaiah 45 >>]]</td></tr></table>
 
 <big><big>[[Isa.44.1 The LORD Has Chosen Israel|⥃]]</big></big>***The LORD Has Chosen Israel***

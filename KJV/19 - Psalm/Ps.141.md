@@ -1,3 +1,27 @@
+---
+title: Psalm 141
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 141
+book/chapter: "[[Ps.141|Psalm 141]]"
+chronological_order: 388
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.141.1 Come Quickly to Me|Come Quickly to Me]]"
+---
+
 (KJV) **Psalm 141**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.140|<< Psalm 140]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.142|Psalm 142 >>]]</td></tr></table>
 
 <big><big>[[Ps.141.1 Come Quickly to Me|⥃]]</big></big>***Come Quickly to Me***&emsp;<small><sup>\[ [[Ps.70|Psalms 70:1–5]] ]</sup></small>

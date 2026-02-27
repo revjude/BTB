@@ -1,3 +1,26 @@
+---
+title: Colossians 4
+type: Chapter
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 4
+book/chapter: "[[Col.4|Colossians 4]]"
+chronological_order: 1124
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+pericopes:
+- "[[Col.4.1 Prayerful Speech and Actions|Prayerful Speech and Actions]]"
+- "[[Col.4.7 Greetings from Paul’s Fellow Workers|Greetings from Paul’s Fellow Workers]]"
+- "[[Col.4.15 Signature and Final Instructions|Signature and Final Instructions]]"
+---
+
 (KJV) **Colossians 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3|<< Colossians 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.1|1 Thessalonians 1 >>]]</td></tr></table>
 
 <big><big>[[Col.4.1 Prayerful Speech and Actions|⥃]]</big></big>***Prayerful Speech and Actions***

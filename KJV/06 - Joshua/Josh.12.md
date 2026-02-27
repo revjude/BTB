@@ -1,3 +1,25 @@
+---
+title: Joshua 12
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Joshua
+chapter: 12
+book/chapter: "[[Josh.12|Joshua 12]]"
+chronological_order: 242
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+pericopes:
+- "[[Josh.12.1 The Kings Defeated East of the Jordan|The Kings Defeated East of the Jordan]]"
+- "[[Josh.12.7 The Kings Defeated West of the Jordan|The Kings Defeated West of the Jordan]]"
+---
+
 (KJV) **Joshua 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.11|<< Joshua 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13|Joshua 13 >>]]</td></tr></table>
 
 <big><big>[[Josh.12.1 The Kings Defeated East of the Jordan|⥃]]</big></big>***The Kings Defeated East of the Jordan***

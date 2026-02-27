@@ -1,3 +1,26 @@
+---
+title: 2 Samuel 21
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Samuel
+chapter: 21
+book/chapter: "[[2Sam.21|2 Samuel 21]]"
+chronological_order: 429
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+pericopes:
+- "[[2Sam.21.1 David Avenges the Gibeonites|David Avenges the Gibeonites]]"
+- "[[2Sam.21.15 Four Battles against the Philistines|Four Battles against the Philistines]]"
+---
+
 (KJV) **2 Samuel 21**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20|<< 2 Samuel 20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22|2 Samuel 22 >>]]</td></tr></table>
 
 <big><big>[[2Sam.21.1 David Avenges the Gibeonites|⥃]]</big></big>***David Avenges the Gibeonites***

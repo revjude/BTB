@@ -1,3 +1,31 @@
+---
+title: Numbers 24
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 24
+book/chapter: "[[Num.24|Numbers 24]]"
+chronological_order: 184
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.24.1 Balaam’s Third Oracle|Balaam’s Third Oracle]]"
+- "[[Num.24.10 Balak Dismisses Balaam|Balak Dismisses Balaam]]"
+- "[[Num.24.15 Balaam’s Fourth Oracle|Balaam’s Fourth Oracle]]"
+- "[[Num.24.20 Balaam’s Final Three Oracles|Balaam’s Final Three Oracles]]"
+---
+
 (KJV) **Numbers 24**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23|<< Numbers 23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.25|Numbers 25 >>]]</td></tr></table>
 
 <big><big>[[Num.24.1 Balaam’s Third Oracle|⥃]]</big></big>***Balaam’s Third Oracle***

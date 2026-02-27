@@ -1,3 +1,26 @@
+---
+title: Acts 13
+type: Chapter
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+pericopes:
+- "[[Acts.13.1 Paul’s First Missionary Journey Begins|Paul’s First Missionary Journey Begins]]"
+- "[[Acts.13.4 On Cyprus|On Cyprus]]"
+- "[[Acts.13.13 In Pisidian Antioch|In Pisidian Antioch]]"
+- "[[Acts.13.42 A Light for the Gentiles|A Light for the Gentiles]]"
+---
+
 (KJV) **Acts 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12|<< Acts 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14|Acts 14 >>]]</td></tr></table>
 
 <big><big>[[Acts.13.1 Paul’s First Missionary Journey Begins|⥃]]</big></big>***Paul’s First Missionary Journey Begins***&emsp;<small><sup>\[ [[Acts.15|Acts 15:36–41]] <big>†</big> [[Acts.18|Acts 18:23–28]] ]</sup></small>

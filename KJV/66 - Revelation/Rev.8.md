@@ -1,3 +1,26 @@
+---
+title: Revelation 8
+type: Chapter
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 8
+book/chapter: "[[Rev.8|Revelation 8]]"
+chronological_order: 1175
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+pericopes:
+- "[[Rev.8.1 The Seventh Seal|The Seventh Seal]]"
+- "[[Rev.8.6 The First Four Trumpets|The First Four Trumpets]]"
+---
+
 (KJV) **Revelation 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7|<< Revelation 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9|Revelation 9 >>]]</td></tr></table>
 
 <big><big>[[Rev.8.1 The Seventh Seal|⥃]]</big></big>***The Seventh Seal***

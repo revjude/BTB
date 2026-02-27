@@ -1,3 +1,32 @@
+---
+title: Numbers 14
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 14
+book/chapter: "[[Num.14|Numbers 14]]"
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.14.1 Israel’s Rebellion|Israel’s Rebellion]]"
+- "[[Num.14.13 Moses Intercedes for Israel|Moses Intercedes for Israel]]"
+- "[[Num.14.20 God’s Forgiveness and Judgment|God’s Forgiveness and Judgment]]"
+- "[[Num.14.36 The Plague on the Ten Spies|The Plague on the Ten Spies]]"
+- "[[Num.14.40 The Defeat at Hormah|The Defeat at Hormah]]"
+---
+
 (KJV) **Numbers 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13|<< Numbers 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15|Numbers 15 >>]]</td></tr></table>
 
 <big><big>[[Num.14.1 Israel’s Rebellion|⥃]]</big></big>***Israel’s Rebellion***&emsp;<small><sup>\[ [[Deut.1|Deuteronomy 1:26–33]] ]</sup></small>

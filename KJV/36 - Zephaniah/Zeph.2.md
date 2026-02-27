@@ -1,3 +1,27 @@
+---
+title: Zephaniah 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Zephaniah
+chapter: 2
+book/chapter: "[[Zeph.2|Zephaniah 2]]"
+chronological_order: 716
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+pericopes:
+- "[[Zeph.2.1 A Call to Repentance|A Call to Repentance]]"
+- "[[Zeph.2.4 Judgment on the Philistines|Judgment on the Philistines]]"
+- "[[Zeph.2.8 Judgment on Moab and Ammon|Judgment on Moab and Ammon]]"
+- "[[Zeph.2.12 Judgment on Cush and Assyria|Judgment on Cush and Assyria]]"
+---
+
 (KJV) **Zephaniah 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.1|<< Zephaniah 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3|Zephaniah 3 >>]]</td></tr></table>
 
 <big><big>[[Zeph.2.1 A Call to Repentance|⥃]]</big></big>***A Call to Repentance***&emsp;<small><sup>\[ [[Joel.1|Joel 1:13–20]] <big>†</big> [[Amos.5|Amos 5:4–15]] <big>†</big> [[Luke.13|Luke 13:1–5]] ]</sup></small>

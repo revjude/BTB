@@ -1,3 +1,25 @@
+---
+title: Joshua 18
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Joshua
+chapter: 18
+book/chapter: "[[Josh.18|Joshua 18]]"
+chronological_order: 248
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+pericopes:
+- "[[Josh.18.1 The Remainder Divided|The Remainder Divided]]"
+- "[[Josh.18.11 Benjamin’s Inheritance|Benjamin’s Inheritance]]"
+---
+
 (KJV) **Joshua 18**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.17|<< Joshua 17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19|Joshua 19 >>]]</td></tr></table>
 
 <big><big>[[Josh.18.1 The Remainder Divided|⥃]]</big></big>***The Remainder Divided***

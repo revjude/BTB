@@ -1,3 +1,24 @@
+---
+title: Judges 21
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Judges
+chapter: 21
+book/chapter: "[[Judg.21|Judges 21]]"
+chronological_order: 275
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+pericopes:
+- "[[Judg.21.1 Wives for the Benjamites|Wives for the Benjamites]]"
+---
+
 (KJV) **Judges 21**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20|<< Judges 20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1|Ruth 1 >>]]</td></tr></table>
 
 <big><big>[[Judg.21.1 Wives for the Benjamites|⥃]]</big></big>***Wives for the Benjamites***

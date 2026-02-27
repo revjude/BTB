@@ -1,3 +1,30 @@
+---
+title: 2 Samuel 19
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Samuel
+chapter: 19
+book/chapter: "[[2Sam.19|2 Samuel 19]]"
+chronological_order: 418
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+pericopes:
+- "[[2Sam.19.1 Joab Reproves David|Joab Reproves David]]"
+- "[[2Sam.19.8 David Restored as King|David Restored as King]]"
+- "[[2Sam.19.16 Shimei Pardoned|Shimei Pardoned]]"
+- "[[2Sam.19.24 Mephibosheth Excused|Mephibosheth Excused]]"
+- "[[2Sam.19.31 David’s Kindness to Barzillai|David’s Kindness to Barzillai]]"
+- "[[2Sam.19.41 Contention over the King|Contention over the King]]"
+---
+
 (KJV) **2 Samuel 19**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18|<< 2 Samuel 18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20|2 Samuel 20 >>]]</td></tr></table>
 
 <big><big>[[2Sam.19.1 Joab Reproves David|⥃]]</big></big>***Joab Reproves David***

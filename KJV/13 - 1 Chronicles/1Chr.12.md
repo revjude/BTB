@@ -1,3 +1,25 @@
+---
+title: 1 Chronicles 12
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Chronicles
+chapter: 12
+book/chapter: "[[1Chr.12|1 Chronicles 12]]"
+chronological_order: 336
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+pericopes:
+- "[[1Chr.12.1 The Mighty Men Join David at Ziklag|The Mighty Men Join David at Ziklag]]"
+- "[[1Chr.12.23 David’s Army Grows at Hebron|David’s Army Grows at Hebron]]"
+---
+
 (KJV) **1 Chronicles 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11|<< 1 Chronicles 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.13|1 Chronicles 13 >>]]</td></tr></table>
 
 <big><big>[[1Chr.12.1 The Mighty Men Join David at Ziklag|⥃]]</big></big>***The Mighty Men Join David at Ziklag***

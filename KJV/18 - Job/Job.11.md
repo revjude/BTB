@@ -1,3 +1,25 @@
+---
+title: Job 11
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 11
+book/chapter: "[[Job.11|Job 11]]"
+chronological_order: 22
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.11.1 Zophar Rebukes Job|Zophar Rebukes Job]]"
+---
+
 (KJV) **Job 11**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.10|<< Job 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.12|Job 12 >>]]</td></tr></table>
 
 <big><big>[[Job.11.1 Zophar Rebukes Job|⥃]]</big></big>***Zophar Rebukes Job***

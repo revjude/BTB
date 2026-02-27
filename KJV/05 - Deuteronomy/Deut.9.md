@@ -1,3 +1,30 @@
+---
+title: Deuteronomy 9
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Deuteronomy
+chapter: 9
+book/chapter: "[[Deut.9|Deuteronomy 9]]"
+chronological_order: 205
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+pericopes:
+- "[[Deut.9.1 Assurance of Victory|Assurance of Victory]]"
+- "[[Deut.9.7 The Golden Calf|The Golden Calf]]"
+---
+
 (KJV) **Deuteronomy 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8|<< Deuteronomy 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10|Deuteronomy 10 >>]]</td></tr></table>
 
 <big><big>[[Deut.9.1 Assurance of Victory|⥃]]</big></big>***Assurance of Victory***

@@ -1,3 +1,27 @@
+---
+title: Psalm 65
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 65
+book/chapter: "[[Ps.65|Psalm 65]]"
+chronological_order: 375
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.65.1 Praise Awaits God in Zion|Praise Awaits God in Zion]]"
+---
+
 (KJV) **Psalm 65**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.64|<< Psalm 64]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66|Psalm 66 >>]]</td></tr></table>
 
 <big><big>[[Ps.65.1 Praise Awaits God in Zion|⥃]]</big></big>***Praise Awaits God in Zion***

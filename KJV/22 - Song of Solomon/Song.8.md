@@ -1,3 +1,29 @@
+---
+title: Song of Solomon 8
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Song of Solomon
+chapter: 8
+book/chapter: "[[Song.8|Song of Solomon 8]]"
+chronological_order: 455
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+pericopes:
+- "[[Song.8.1 Longing for Her Beloved|Longing for Her Beloved]]"
+- "[[Song.8.5 The Friends|The Friends]]"
+- "[[Song.8.6 The Bride|The Bride]]"
+- "[[Song.8.8 The Friends|The Friends]]"
+- "[[Song.8.10 The Bride|The Bride]]"
+- "[[Song.8.13 The Bridegroom|The Bridegroom]]"
+- "[[Song.8.14 The Bride|The Bride]]"
+---
+
 (KJV) **Song of Solomon 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.7|<< Song of Solomon 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1|Isaiah 1 >>]]</td></tr></table>
 
 <big><big>[[Song.8.1 Longing for Her Beloved|⥃]]</big></big>***Longing for Her Beloved***

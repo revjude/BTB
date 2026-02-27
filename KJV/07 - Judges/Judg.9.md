@@ -1,3 +1,28 @@
+---
+title: Judges 9
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+pericopes:
+- "[[Judg.9.1 Abimelech’s Conspiracy|Abimelech’s Conspiracy]]"
+- "[[Judg.9.7 Jotham’s Parable|Jotham’s Parable]]"
+- "[[Judg.9.22 Gaal Conspires with the Shechemites|Gaal Conspires with the Shechemites]]"
+- "[[Judg.9.30 The Fall of Shechem|The Fall of Shechem]]"
+- "[[Judg.9.50 Abimelech’s Punishment|Abimelech’s Punishment]]"
+---
+
 (KJV) **Judges 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8|<< Judges 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.10|Judges 10 >>]]</td></tr></table>
 
 <big><big>[[Judg.9.1 Abimelech’s Conspiracy|⥃]]</big></big>***Abimelech’s Conspiracy***

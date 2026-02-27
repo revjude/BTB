@@ -1,3 +1,29 @@
+---
+title: Genesis 50
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Genesis
+chapter: 50
+book/chapter: "[[Gen.50|Genesis 50]]"
+chronological_order: 92
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.50.1 Mourning and Burial for Jacob|Mourning and Burial for Jacob]]"
+- "[[Gen.50.15 Joseph Comforts His Brothers|Joseph Comforts His Brothers]]"
+- "[[Gen.50.22 The Death of Joseph|The Death of Joseph]]"
+---
+
 (KJV) **Genesis 50**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49|<< Genesis 49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.1|Exodus 1 >>]]</td></tr></table>
 
 <big><big>[[Gen.50.1 Mourning and Burial for Jacob|⥃]]</big></big>***Mourning and Burial for Jacob***

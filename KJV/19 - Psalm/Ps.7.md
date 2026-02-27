@@ -1,3 +1,27 @@
+---
+title: Psalm 7
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 7
+book/chapter: "[[Ps.7|Psalm 7]]"
+chronological_order: 311
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.7.1 I Take Refuge in You|I Take Refuge in You]]"
+---
+
 (KJV) **Psalm 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.6|<< Psalm 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.8|Psalm 8 >>]]</td></tr></table>
 
 <big><big>[[Ps.7.1 I Take Refuge in You|⥃]]</big></big>***I Take Refuge in You***

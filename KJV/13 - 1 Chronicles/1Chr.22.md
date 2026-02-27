@@ -1,3 +1,25 @@
+---
+title: 1 Chronicles 22
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Chronicles
+chapter: 22
+book/chapter: "[[1Chr.22|1 Chronicles 22]]"
+chronological_order: 433
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+pericopes:
+- "[[1Chr.22.1 Preparations for the Temple|Preparations for the Temple]]"
+- "[[1Chr.22.6 Solomon Anointed to Build the Temple|Solomon Anointed to Build the Temple]]"
+---
+
 (KJV) **1 Chronicles 22**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21|<< 1 Chronicles 21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.23|1 Chronicles 23 >>]]</td></tr></table>
 
 <big><big>[[1Chr.22.1 Preparations for the Temple|⥃]]</big></big>***Preparations for the Temple***

@@ -1,3 +1,30 @@
+---
+title: 2 Chronicles 20
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 20
+book/chapter: "[[2Chr.20|2 Chronicles 20]]"
+chronological_order: 573
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.20.1 War against Jehoshaphat|War against Jehoshaphat]]"
+- "[[2Chr.20.5 Jehoshaphat’s Prayer|Jehoshaphat’s Prayer]]"
+- "[[2Chr.20.14 The Prophecy of Jahaziel|The Prophecy of Jahaziel]]"
+- "[[2Chr.20.20 The Enemies Destroy Themselves|The Enemies Destroy Themselves]]"
+- "[[2Chr.20.26 The Joyful Return|The Joyful Return]]"
+- "[[2Chr.20.31 Summary of Jehoshaphat’s Reign|Summary of Jehoshaphat’s Reign]]"
+- "[[2Chr.20.35 Jehoshaphat’s Fleet Is Wrecked|Jehoshaphat’s Fleet Is Wrecked]]"
+---
+
 (KJV) **2 Chronicles 20**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.19|<< 2 Chronicles 19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.21|2 Chronicles 21 >>]]</td></tr></table>
 
 <big><big>[[2Chr.20.1 War against Jehoshaphat|⥃]]</big></big>***War against Jehoshaphat***

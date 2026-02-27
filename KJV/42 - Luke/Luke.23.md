@@ -1,3 +1,30 @@
+---
+title: Luke 23
+type: Chapter
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+pericopes:
+- "[[Luke.23.1 Jesus before Pilate|Jesus before Pilate]]"
+- "[[Luke.23.6 Jesus before Herod|Jesus before Herod]]"
+- "[[Luke.23.13 The Crowd Chooses Barabbas|The Crowd Chooses Barabbas]]"
+- "[[Luke.23.26 The Crucifixion|The Crucifixion]]"
+- "[[Luke.23.44 The Death of Jesus|The Death of Jesus]]"
+- "[[Luke.23.50 The Burial of Jesus|The Burial of Jesus]]"
+---
+
 (KJV) **Luke 23**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22|<< Luke 22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24|Luke 24 >>]]</td></tr></table>
 
 <big><big>[[Luke.23.1 Jesus before Pilate|⥃]]</big></big>***Jesus before Pilate***&emsp;<small><sup>\[ [[Matt.27|Matthew 27:11–14]] <big>†</big> [[John.18|John 18:28–40]] ]</sup></small>

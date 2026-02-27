@@ -1,3 +1,23 @@
+---
+title: 1 Corinthians 8
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 8
+book/chapter: "[[1Cor.8|1 Corinthians 8]]"
+chronological_order: 1065
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+pericopes:
+- "[[1Cor.8.1 Food Sacrificed to Idols|Food Sacrificed to Idols]]"
+---
+
 (KJV) **1 Corinthians 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7|<< 1 Corinthians 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9|1 Corinthians 9 >>]]</td></tr></table>
 
 <big><big>[[1Cor.8.1 Food Sacrificed to Idols|⥃]]</big></big>***Food Sacrificed to Idols***&emsp;<small><sup>\[ [[Ezek.14|Ezekiel 14:1–11]] <big>†</big> [[Rom.14|Romans 14:13–23]] ]</sup></small>

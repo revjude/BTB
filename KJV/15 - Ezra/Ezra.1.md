@@ -1,3 +1,25 @@
+---
+title: Ezra 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezra
+chapter: 1
+book/chapter: "[[Ezra.1|Ezra 1]]"
+chronological_order: 849
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+pericopes:
+- "[[Ezra.1.1 The Proclamation of Cyrus|The Proclamation of Cyrus]]"
+- "[[Ezra.1.7 Cyrus Restores the Holy Vessels|Cyrus Restores the Holy Vessels]]"
+---
+
 (KJV) **Ezra 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36|<< 2 Chronicles 36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2|Ezra 2 >>]]</td></tr></table>
 
 <big><big>[[Ezra.1.1 The Proclamation of Cyrus|⥃]]</big></big>***The Proclamation of Cyrus***&emsp;<small><sup>\[ [[2Chr.36|2 Chronicles 36:22–23]] <big>†</big> [[Isa.45|Isaiah 45:1–25]] ]</sup></small>

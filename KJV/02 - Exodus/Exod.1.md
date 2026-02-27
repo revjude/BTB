@@ -1,3 +1,30 @@
+---
+title: Exodus 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 1
+book/chapter: "[[Exod.1|Exodus 1]]"
+chronological_order: 93
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.1.1 The Israelites Multiply in Egypt|The Israelites Multiply in Egypt]]"
+- "[[Exod.1.8 Oppression by a New King|Oppression by a New King]]"
+---
+
 (KJV) **Exodus 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50|<< Genesis 50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2|Exodus 2 >>]]</td></tr></table>
 
 <big><big>[[Exod.1.1 The Israelites Multiply in Egypt|⥃]]</big></big>***The Israelites Multiply in Egypt***&emsp;<small><sup>\[ [[Gen.46|Genesis 46:7–27]] ]</sup></small>

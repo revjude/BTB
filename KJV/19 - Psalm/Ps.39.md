@@ -1,3 +1,27 @@
+---
+title: Psalm 39
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 39
+book/chapter: "[[Ps.39|Psalm 39]]"
+chronological_order: 366
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.39.1 I Will Watch My Ways|I Will Watch My Ways]]"
+---
+
 (KJV) **Psalm 39**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.38|<< Psalm 38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.40|Psalm 40 >>]]</td></tr></table>
 
 <big><big>[[Ps.39.1 I Will Watch My Ways|⥃]]</big></big>***I Will Watch My Ways***

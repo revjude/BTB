@@ -1,3 +1,32 @@
+---
+title: Leviticus 7
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Leviticus
+chapter: 7
+book/chapter: "[[Lev.7|Leviticus 7]]"
+chronological_order: 139
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+pericopes:
+- "[[Lev.7.1 The Guilt Offering|The Guilt Offering]]"
+- "[[Lev.7.11 The Peace Offering|The Peace Offering]]"
+- "[[Lev.7.22 Fat and Blood Forbidden|Fat and Blood Forbidden]]"
+- "[[Lev.7.28 The Priests’ Portion|The Priests’ Portion]]"
+---
+
 (KJV) **Leviticus 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6|<< Leviticus 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8|Leviticus 8 >>]]</td></tr></table>
 
 <big><big>[[Lev.7.1 The Guilt Offering|⥃]]</big></big>***The Guilt Offering***&emsp;<small><sup>\[ [[Lev.5|Leviticus 5:14–19]] <big>†</big> [[Lev.6|Leviticus 6:1–7]] ]</sup></small>

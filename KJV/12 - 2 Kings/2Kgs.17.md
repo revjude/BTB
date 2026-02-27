@@ -1,3 +1,26 @@
+---
+title: 2 Kings 17
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Kings
+chapter: 17
+book/chapter: "[[2Kgs.17|2 Kings 17]]"
+chronological_order: 641
+era: Exile
+period: "The Assyrian Crisis and Fall of Israel"
+date: ~722 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[2Kgs.17.1 Hoshea the Last King of Israel|Hoshea the Last King of Israel]]"
+- "[[2Kgs.17.5 Israel Carried Captive to Assyria|Israel Carried Captive to Assyria]]"
+- "[[2Kgs.17.24 Samaria Resettled|Samaria Resettled]]"
+---
+
 (KJV) **2 Kings 17**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.16|<< 2 Kings 16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18|2 Kings 18 >>]]</td></tr></table>
 
 <big><big>[[2Kgs.17.1 Hoshea the Last King of Israel|⥃]]</big></big>***Hoshea the Last King of Israel***

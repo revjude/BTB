@@ -1,3 +1,29 @@
+---
+title: Genesis 29
+type: Chapter
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 29
+book/chapter: "[[Gen.29|Genesis 29]]"
+chronological_order: 71
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.29.1 Jacob Meets Rachel|Jacob Meets Rachel]]"
+- "[[Gen.29.14 Jacob Marries Leah and Rachel|Jacob Marries Leah and Rachel]]"
+- "[[Gen.29.31 Reuben, Simeon, Levi, and Judah|Reuben, Simeon, Levi, and Judah]]"
+---
+
 (KJV) **Genesis 29**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28|<< Genesis 28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30|Genesis 30 >>]]</td></tr></table>
 
 <big><big>[[Gen.29.1 Jacob Meets Rachel|⥃]]</big></big>***Jacob Meets Rachel***

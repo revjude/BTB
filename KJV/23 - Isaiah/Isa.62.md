@@ -1,3 +1,25 @@
+---
+title: Isaiah 62
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 62
+book/chapter: "[[Isa.62|Isaiah 62]]"
+chronological_order: 701
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.62.1 Zion’s Salvation and New Name|Zion’s Salvation and New Name]]"
+---
+
 (KJV) **Isaiah 62**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.61|<< Isaiah 61]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63|Isaiah 63 >>]]</td></tr></table>
 
 <big><big>[[Isa.62.1 Zion’s Salvation and New Name|⥃]]</big></big>***Zion’s Salvation and New Name***

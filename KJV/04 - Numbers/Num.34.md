@@ -1,3 +1,29 @@
+---
+title: Numbers 34
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 34
+book/chapter: "[[Num.34|Numbers 34]]"
+chronological_order: 194
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.34.1 The Boundaries of Canaan|The Boundaries of Canaan]]"
+- "[[Num.34.16 Leaders to Divide the Land|Leaders to Divide the Land]]"
+---
+
 (KJV) **Numbers 34**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33|<< Numbers 33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35|Numbers 35 >>]]</td></tr></table>
 
 <big><big>[[Num.34.1 The Boundaries of Canaan|⥃]]</big></big>***The Boundaries of Canaan***&emsp;<small><sup>\[ [[Gen.15|Genesis 15:8–21]] ]</sup></small>

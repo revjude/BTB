@@ -1,3 +1,30 @@
+---
+title: Ezekiel 28
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 28
+book/chapter: "[[Ezek.28|Ezekiel 28]]"
+chronological_order: 819
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.28.1 A Prophecy against the Ruler of Tyre|A Prophecy against the Ruler of Tyre]]"
+- "[[Ezek.28.11 A Lament for the King of Tyre|A Lament for the King of Tyre]]"
+- "[[Ezek.28.20 A Prophecy against Sidon|A Prophecy against Sidon]]"
+- "[[Ezek.28.25 The Restoration of Israel|The Restoration of Israel]]"
+---
+
 (KJV) **Ezekiel 28**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27|<< Ezekiel 27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29|Ezekiel 29 >>]]</td></tr></table>
 
 <big><big>[[Ezek.28.1 A Prophecy against the Ruler of Tyre|⥃]]</big></big>***A Prophecy against the Ruler of Tyre***

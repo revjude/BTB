@@ -1,3 +1,26 @@
+---
+title: 1 Chronicles 3
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Chronicles
+chapter: 3
+book/chapter: "[[1Chr.3|1 Chronicles 3]]"
+chronological_order: 322
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+pericopes:
+- "[[1Chr.3.1 The Descendants of David|The Descendants of David]]"
+- "[[1Chr.3.10 The Descendants of Solomon|The Descendants of Solomon]]"
+- "[[1Chr.3.17 The Royal Line After the Exile|The Royal Line After the Exile]]"
+---
+
 (KJV) **1 Chronicles 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2|<< 1 Chronicles 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4|1 Chronicles 4 >>]]</td></tr></table>
 
 <big><big>[[1Chr.3.1 The Descendants of David|⥃]]</big></big>***The Descendants of David***&emsp;<small><sup>\[ [[2Sam.3|2 Samuel 3:1–5]] ]</sup></small>

@@ -1,3 +1,27 @@
+---
+title: Malachi 3
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Malachi
+chapter: 3
+book/chapter: "[[Mal.3|Malachi 3]]"
+chronological_order: 928
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+pericopes:
+- "[[Mal.3.1 I Will Send My Messenger|I Will Send My Messenger]]"
+- "[[Mal.3.6 Robbing God|Robbing God]]"
+- "[[Mal.3.13 The Book of Remembrance|The Book of Remembrance]]"
+---
+
 (KJV) **Malachi 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.2|<< Malachi 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.4|Malachi 4 >>]]</td></tr></table>
 
 <big><big>[[Mal.3.1 I Will Send My Messenger|⥃]]</big></big>***I Will Send My Messenger***&emsp;<small><sup>\[ [[Matt.11|Matthew 11:7–19]] <big>†</big> [[Luke.7|Luke 7:24–35]] ]</sup></small>

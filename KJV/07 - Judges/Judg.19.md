@@ -1,3 +1,24 @@
+---
+title: Judges 19
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Judges
+chapter: 19
+book/chapter: "[[Judg.19|Judges 19]]"
+chronological_order: 273
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+pericopes:
+- "[[Judg.19.1 The Crime of the Benjamites|The Crime of the Benjamites]]"
+---
+
 (KJV) **Judges 19**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18|<< Judges 18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20|Judges 20 >>]]</td></tr></table>
 
 <big><big>[[Judg.19.1 The Crime of the Benjamites|⥃]]</big></big>***The Crime of the Benjamites***&emsp;<small><sup>\[ [[Gen.19|Genesis 19:1–11]] ]</sup></small>

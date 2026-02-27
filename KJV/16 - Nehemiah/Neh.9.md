@@ -1,3 +1,25 @@
+---
+title: Nehemiah 9
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Nehemiah
+chapter: 9
+book/chapter: "[[Neh.9|Nehemiah 9]]"
+chronological_order: 921
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+pericopes:
+- "[[Neh.9.1 The People Confess Their Sins|The People Confess Their Sins]]"
+---
+
 (KJV) **Nehemiah 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.8|<< Nehemiah 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10|Nehemiah 10 >>]]</td></tr></table>
 
 <big><big>[[Neh.9.1 The People Confess Their Sins|⥃]]</big></big>***The People Confess Their Sins***

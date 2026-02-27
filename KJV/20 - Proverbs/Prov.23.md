@@ -1,3 +1,36 @@
+---
+title: Proverbs 23
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Proverbs
+chapter: 23
+book/chapter: "[[Prov.23|Proverbs 23]]"
+chronological_order: 478
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+pericopes:
+- "[[Prov.23.1 Saying 7|Saying 7]]"
+- "[[Prov.23.4 Saying 8|Saying 8]]"
+- "[[Prov.23.6 Saying 9|Saying 9]]"
+- "[[Prov.23.9 Saying 10|Saying 10]]"
+- "[[Prov.23.10 Saying 11|Saying 11]]"
+- "[[Prov.23.12 Saying 12|Saying 12]]"
+- "[[Prov.23.13 Saying 13|Saying 13]]"
+- "[[Prov.23.15 Saying 14|Saying 14]]"
+- "[[Prov.23.17 Saying 15|Saying 15]]"
+- "[[Prov.23.19 Saying 16|Saying 16]]"
+- "[[Prov.23.22 Saying 17|Saying 17]]"
+- "[[Prov.23.26 Saying 18|Saying 18]]"
+- "[[Prov.23.29 Saying 19|Saying 19]]"
+---
+
 (KJV) **Proverbs 23**<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22|<< Proverbs 22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24|Proverbs 24 >>]]</td></tr></table>
 
 <big><big>[[Prov.23.1 Saying 7|⥃]]</big></big>*Saying 7*&emsp;<small><sup>\[ [[1Tim.6|1 Timothy 6:17–19]] <big>†</big> [[Jas.5|James 5:1–6]] ]</sup></small>

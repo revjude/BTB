@@ -1,3 +1,25 @@
+---
+title: Isaiah 6
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 6
+book/chapter: "[[Isa.6|Isaiah 6]]"
+chronological_order: 614
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.6.1 Isaiah’s Commission|Isaiah’s Commission]]"
+---
+
 (KJV) **Isaiah 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5|<< Isaiah 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7|Isaiah 7 >>]]</td></tr></table>
 
 <big><big>[[Isa.6.1 Isaiah’s Commission|⥃]]</big></big>***Isaiah’s Commission***&emsp;<small><sup>\[ [[Matt.13|Matthew 13:10–17]] <big>†</big> [[Mark.4|Mark 4:10–12]] <big>†</big> [[Acts.28|Acts 28:16–31]] ]</sup></small>

@@ -1,3 +1,29 @@
+---
+title: 1 Kings 18
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Kings
+chapter: 18
+book/chapter: "[[1Kgs.18|1 Kings 18]]"
+chronological_order: 564
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+pericopes:
+- "[[1Kgs.18.1 Elijah’s Message to Ahab|Elijah’s Message to Ahab]]"
+- "[[1Kgs.18.16 Elijah on Mount Carmel|Elijah on Mount Carmel]]"
+- "[[1Kgs.18.36 Elijah’s Prayer|Elijah’s Prayer]]"
+- "[[1Kgs.18.41 The LORD Sends Rain|The LORD Sends Rain]]"
+---
+
 (KJV) **1 Kings 18**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.17|<< 1 Kings 17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.19|1 Kings 19 >>]]</td></tr></table>
 
 <big><big>[[1Kgs.18.1 Elijah’s Message to Ahab|⥃]]</big></big>***Elijah’s Message to Ahab***

@@ -1,3 +1,24 @@
+---
+title: Proverbs 17
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Proverbs
+chapter: 17
+book/chapter: "[[Prov.17|Proverbs 17]]"
+chronological_order: 472
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+pericopes:
+- "[[Prov.17.1 Better a Dry Morsel in Quietness|Better a Dry Morsel in Quietness]]"
+---
+
 (KJV) **Proverbs 17**<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16|<< Proverbs 16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18|Proverbs 18 >>]]</td></tr></table>
 
 <big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥃]]</big></big>***Better a Dry Morsel in Quietness***

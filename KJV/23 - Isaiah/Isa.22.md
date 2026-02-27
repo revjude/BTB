@@ -1,3 +1,26 @@
+---
+title: Isaiah 22
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 22
+book/chapter: "[[Isa.22|Isaiah 22]]"
+chronological_order: 639
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.22.1 The Valley of Vision|The Valley of Vision]]"
+- "[[Isa.22.15 A Message for Shebna|A Message for Shebna]]"
+---
+
 (KJV) **Isaiah 22**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.21|<< Isaiah 21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.23|Isaiah 23 >>]]</td></tr></table>
 
 <big><big>[[Isa.22.1 The Valley of Vision|⥃]]</big></big>***The Valley of Vision***

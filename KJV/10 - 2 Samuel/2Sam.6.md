@@ -1,3 +1,28 @@
+---
+title: 2 Samuel 6
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Samuel
+chapter: 6
+book/chapter: "[[2Sam.6|2 Samuel 6]]"
+chronological_order: 392
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+pericopes:
+- "[[2Sam.6.1 David Fetches the Ark|David Fetches the Ark]]"
+- "[[2Sam.6.5 Uzzah Touches the Ark|Uzzah Touches the Ark]]"
+- "[[2Sam.6.12 The Ark Brought to Jerusalem|The Ark Brought to Jerusalem]]"
+- "[[2Sam.6.16 Michal’s Contempt for David|Michal’s Contempt for David]]"
+---
+
 (KJV) **2 Samuel 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.5|<< 2 Samuel 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7|2 Samuel 7 >>]]</td></tr></table>
 
 <big><big>[[2Sam.6.1 David Fetches the Ark|⥃]]</big></big>***David Fetches the Ark***&emsp;<small><sup>\[ [[1Chr.13|1 Chronicles 13:1–7]] ]</sup></small>

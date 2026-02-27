@@ -1,3 +1,25 @@
+---
+title: Job 22
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 22
+book/chapter: "[[Job.22|Job 22]]"
+chronological_order: 33
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|Eliphaz：Can a Man Be of Use to God？]]"
+---
+
 (KJV) **Job 22**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21|<< Job 21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.23|Job 23 >>]]</td></tr></table>
 
 <big><big>[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|⥃]]</big></big>***Eliphaz: Can a Man Be of Use to God?***

@@ -1,3 +1,29 @@
+---
+title: Numbers 18
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 18
+book/chapter: "[[Num.18|Numbers 18]]"
+chronological_order: 178
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.18.1 Duties of Priests and Levites|Duties of Priests and Levites]]"
+- "[[Num.18.8 Offerings for Priests and Levites|Offerings for Priests and Levites]]"
+---
+
 (KJV) **Numbers 18**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.17|<< Numbers 17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.19|Numbers 19 >>]]</td></tr></table>
 
 <big><big>[[Num.18.1 Duties of Priests and Levites|⥃]]</big></big>***Duties of Priests and Levites***

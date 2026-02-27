@@ -1,3 +1,26 @@
+---
+title: Amos 6
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Amos
+chapter: 6
+book/chapter: "[[Amos.6|Amos 6]]"
+chronological_order: 603
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+pericopes:
+- "[[Amos.6.1 Woe to Those at Ease in Zion|Woe to Those at Ease in Zion]]"
+- "[[Amos.6.8 The Pride of Israel|The Pride of Israel]]"
+---
+
 (KJV) **Amos 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5|<< Amos 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.7|Amos 7 >>]]</td></tr></table>
 
 <big><big>[[Amos.6.1 Woe to Those at Ease in Zion|⥃]]</big></big>***Woe to Those at Ease in Zion***&emsp;<small><sup>\[ [[Luke.6|Luke 6:24–26]] ]</sup></small>

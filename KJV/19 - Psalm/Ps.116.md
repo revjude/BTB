@@ -1,3 +1,27 @@
+---
+title: Psalm 116
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 116
+book/chapter: "[[Ps.116|Psalm 116]]"
+chronological_order: 878
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.116.1 The LORD Has Heard My Voice|The LORD Has Heard My Voice]]"
+---
+
 (KJV) **Psalm 116**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.115|<< Psalm 115]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.117|Psalm 117 >>]]</td></tr></table>
 
 <big><big>[[Ps.116.1 The LORD Has Heard My Voice|⥃]]</big></big>***The LORD Has Heard My Voice*** <small><small>[^2]</small></small> 

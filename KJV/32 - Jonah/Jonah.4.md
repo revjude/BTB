@@ -1,3 +1,25 @@
+---
+title: Jonah 4
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jonah
+chapter: 4
+book/chapter: "[[Jonah.4|Jonah 4]]"
+chronological_order: 597
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+pericopes:
+- "[[Jonah.4.1 Jonah’s Anger at the LORD’s Compassion|Jonah’s Anger at the LORD’s Compassion]]"
+---
+
 (KJV) **Jonah 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.3|<< Jonah 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1|Micah 1 >>]]</td></tr></table>
 
 <big><big>[[Jonah.4.1 Jonah’s Anger at the LORD’s Compassion|⥃]]</big></big>***Jonah’s Anger at the LORD’s Compassion***

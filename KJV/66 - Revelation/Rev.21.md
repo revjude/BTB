@@ -1,3 +1,26 @@
+---
+title: Revelation 21
+type: Chapter
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 21
+book/chapter: "[[Rev.21|Revelation 21]]"
+chronological_order: 1188
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+pericopes:
+- "[[Rev.21.1 A New Heaven and a New Earth|A New Heaven and a New Earth]]"
+- "[[Rev.21.9 The New Jerusalem|The New Jerusalem]]"
+---
+
 (KJV) **Revelation 21**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20|<< Revelation 20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22|Revelation 22 >>]]</td></tr></table>
 
 <big><big>[[Rev.21.1 A New Heaven and a New Earth|⥃]]</big></big>***A New Heaven and a New Earth***&emsp;<small><sup>\[ [[Isa.65|Isaiah 65:17–25]] ]</sup></small>

@@ -1,3 +1,31 @@
+---
+title: Leviticus 14
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Leviticus
+chapter: 14
+book/chapter: "[[Lev.14|Leviticus 14]]"
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+pericopes:
+- "[[Lev.14.1 Cleansing from Skin Diseases|Cleansing from Skin Diseases]]"
+- "[[Lev.14.33 Signs of Home Contamination|Signs of Home Contamination]]"
+- "[[Lev.14.48 Cleansing a Home|Cleansing a Home]]"
+---
+
 (KJV) **Leviticus 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13|<< Leviticus 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15|Leviticus 15 >>]]</td></tr></table>
 
 <big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥃]]</big></big>***Cleansing from Skin Diseases***&emsp;<small><sup>\[ [[Matt.8|Matthew 8:1–4]] <big>†</big> [[Mark.1|Mark 1:40–45]] <big>†</big> [[Luke.5|Luke 5:12–16]] ]</sup></small>

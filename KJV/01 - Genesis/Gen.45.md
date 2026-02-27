@@ -1,3 +1,30 @@
+---
+title: Genesis 45
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Genesis
+chapter: 45
+book/chapter: "[[Gen.45|Genesis 45]]"
+chronological_order: 87
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.45.1 Joseph Reveals His Identity|Joseph Reveals His Identity]]"
+- "[[Gen.45.9 Joseph Sends for His Father|Joseph Sends for His Father]]"
+- "[[Gen.45.16 Pharaoh Invites Jacob to Egypt|Pharaoh Invites Jacob to Egypt]]"
+- "[[Gen.45.25 The Revival of Jacob|The Revival of Jacob]]"
+---
+
 (KJV) **Genesis 45**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44|<< Genesis 44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46|Genesis 46 >>]]</td></tr></table>
 
 <big><big>[[Gen.45.1 Joseph Reveals His Identity|⥃]]</big></big>***Joseph Reveals His Identity***

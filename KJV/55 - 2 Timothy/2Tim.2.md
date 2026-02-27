@@ -1,3 +1,25 @@
+---
+title: 2 Timothy 2
+type: Chapter
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 2
+book/chapter: "[[2Tim.2|2 Timothy 2]]"
+chronological_order: 1154
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+pericopes:
+- "[[2Tim.2.1 Grace and Perseverance|Grace and Perseverance]]"
+- "[[2Tim.2.14 The Lord’s Approved Workman|The Lord’s Approved Workman]]"
+---
+
 (KJV) **2 Timothy 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1|<< 2 Timothy 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.3|2 Timothy 3 >>]]</td></tr></table>
 
 <big><big>[[2Tim.2.1 Grace and Perseverance|⥃]]</big></big>***Grace and Perseverance***&emsp;<small><sup>\[ [[Heb.12|Hebrews 12:1–3]] ]</sup></small>

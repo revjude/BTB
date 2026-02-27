@@ -1,3 +1,29 @@
+---
+title: Numbers 35
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 35
+book/chapter: "[[Num.35|Numbers 35]]"
+chronological_order: 195
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.35.1 Forty-Eight Cities for the Levites|Forty-Eight Cities for the Levites]]"
+- "[[Num.35.9 Six Cities of Refuge|Six Cities of Refuge]]"
+---
+
 (KJV) **Numbers 35**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34|<< Numbers 34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.36|Numbers 36 >>]]</td></tr></table>
 
 <big><big>[[Num.35.1 Forty-Eight Cities for the Levites|⥃]]</big></big>***Forty-Eight Cities for the Levites***&emsp;<small><sup>\[ [[Josh.21|Joshua 21:1–45]] <big>†</big> [[1Chr.6|1 Chronicles 6:54–81]] ]</sup></small>

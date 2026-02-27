@@ -1,3 +1,27 @@
+---
+title: Psalm 113
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 113
+book/chapter: "[[Ps.113|Psalm 113]]"
+chronological_order: 875
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.113.1 The LORD Exalts the Humble|The LORD Exalts the Humble]]"
+---
+
 (KJV) **Psalm 113**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.112|<< Psalm 112]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.114|Psalm 114 >>]]</td></tr></table>
 
 <big><big>[[Ps.113.1 The LORD Exalts the Humble|⥃]]</big></big>***The LORD Exalts the Humble*** <small><small>[^2]</small></small> &emsp;<small><sup>\[ [[1Sam.1|1 Samuel 1:1–8]] ]</sup></small>

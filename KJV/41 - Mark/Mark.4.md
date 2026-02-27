@@ -1,3 +1,30 @@
+---
+title: Mark 4
+type: Chapter
+original_language: Greek
+testament: New
+book: Mark
+chapter: 4
+book/chapter: "[[Mark.4|Mark 4]]"
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Mark.4.1 The Parable of the Sower|The Parable of the Sower]]"
+- "[[Mark.4.10 The Purpose of Jesus’ Parables|The Purpose of Jesus’ Parables]]"
+- "[[Mark.4.13 The Parable of the Sower Explained|The Parable of the Sower Explained]]"
+- "[[Mark.4.21 The Lesson of the Lamp|The Lesson of the Lamp]]"
+- "[[Mark.4.26 The Seed Growing Secretly|The Seed Growing Secretly]]"
+- "[[Mark.4.30 The Parable of the Mustard Seed|The Parable of the Mustard Seed]]"
+- "[[Mark.4.35 Jesus Calms the Storm|Jesus Calms the Storm]]"
+---
+
 (KJV) **Mark 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3|<< Mark 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5|Mark 5 >>]]</td></tr></table>
 
 <big><big>[[Mark.4.1 The Parable of the Sower|⥃]]</big></big>***The Parable of the Sower***&emsp;<small><sup>\[ [[Matt.13|Matthew 13:1–9]] <big>†</big> [[Luke.8|Luke 8:4–8]] ]</sup></small>

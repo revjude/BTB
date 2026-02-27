@@ -1,3 +1,35 @@
+---
+title: Numbers 3
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 3
+book/chapter: "[[Num.3|Numbers 3]]"
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.3.1 The Sons of Aaron|The Sons of Aaron]]"
+- "[[Num.3.5 The Duties of the Levites|The Duties of the Levites]]"
+- "[[Num.3.14 The Numbering of the Levites|The Numbering of the Levites]]"
+- "[[Num.3.21 The Gershonites|The Gershonites]]"
+- "[[Num.3.27 The Kohathites|The Kohathites]]"
+- "[[Num.3.33 The Merarites|The Merarites]]"
+- "[[Num.3.38 Moses and Aaron|Moses and Aaron]]"
+- "[[Num.3.40 The Redemption of the Firstborn|The Redemption of the Firstborn]]"
+---
+
 (KJV) **Numbers 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.2|<< Numbers 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4|Numbers 4 >>]]</td></tr></table>
 
 <big><big>[[Num.3.1 The Sons of Aaron|⥃]]</big></big>***The Sons of Aaron***&emsp;<small><sup>\[ [[Lev.10|Leviticus 10:1–7]] ]</sup></small>

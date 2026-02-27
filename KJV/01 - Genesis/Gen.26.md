@@ -1,3 +1,31 @@
+---
+title: Genesis 26
+type: Chapter
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 26
+book/chapter: "[[Gen.26|Genesis 26]]"
+chronological_order: 68
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.26.1 God’s Promise to Isaac|God’s Promise to Isaac]]"
+- "[[Gen.26.6 Isaac Deceives Abimelech|Isaac Deceives Abimelech]]"
+- "[[Gen.26.12 Isaac’s Prosperity|Isaac’s Prosperity]]"
+- "[[Gen.26.26 Isaac’s Covenant with Abimelech|Isaac’s Covenant with Abimelech]]"
+- "[[Gen.26.34 Esau’s Wives|Esau’s Wives]]"
+---
+
 (KJV) **Genesis 26**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25|<< Genesis 25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27|Genesis 27 >>]]</td></tr></table>
 
 <big><big>[[Gen.26.1 God’s Promise to Isaac|⥃]]</big></big>***God’s Promise to Isaac***&emsp;<small><sup>\[ [[Gen.12|Genesis 12:1–9]] ]</sup></small>

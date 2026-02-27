@@ -1,3 +1,27 @@
+---
+title: Psalm 147
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 147
+book/chapter: "[[Ps.147|Psalm 147]]"
+chronological_order: 895
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.147.1 It Is Good to Sing Praises|It Is Good to Sing Praises]]"
+---
+
 (KJV) **Psalm 147**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.146|<< Psalm 146]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.148|Psalm 148 >>]]</td></tr></table>
 
 <big><big>[[Ps.147.1 It Is Good to Sing Praises|⥃]]</big></big>***It Is Good to Sing Praises***

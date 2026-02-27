@@ -1,3 +1,24 @@
+---
+title: Proverbs 11
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Proverbs
+chapter: 11
+book/chapter: "[[Prov.11|Proverbs 11]]"
+chronological_order: 466
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+pericopes:
+- "[[Prov.11.1 Dishonest Scales|Dishonest Scales]]"
+---
+
 (KJV) **Proverbs 11**<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10|<< Proverbs 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12|Proverbs 12 >>]]</td></tr></table>
 
 <big><big>[[Prov.11.1 Dishonest Scales|⥃]]</big></big>***Dishonest Scales***&emsp;<small><sup>\[ [[Deut.25|Deuteronomy 25:13–16]] <big>†</big> [[Ezek.45|Ezekiel 45:10–12]] ]</sup></small>

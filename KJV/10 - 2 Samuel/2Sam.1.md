@@ -1,3 +1,26 @@
+---
+title: 2 Samuel 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Samuel
+chapter: 1
+book/chapter: "[[2Sam.1|2 Samuel 1]]"
+chronological_order: 329
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+pericopes:
+- "[[2Sam.1.1 Saul’s Death Reported to David|Saul’s Death Reported to David]]"
+- "[[2Sam.1.17 David’s Song for Saul and Jonathan|David’s Song for Saul and Jonathan]]"
+---
+
 (KJV) **2 Samuel 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.31|<< 1 Samuel 31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2|2 Samuel 2 >>]]</td></tr></table>
 
 <big><big>[[2Sam.1.1 Saul’s Death Reported to David|⥃]]</big></big>***Saul’s Death Reported to David***&emsp;<small><sup>\[ [[1Sam.31|1 Samuel 31:1–6]] <big>†</big> [[1Chr.10|1 Chronicles 10:1–6]] ]</sup></small>

@@ -1,3 +1,29 @@
+---
+title: Mark 10
+type: Chapter
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Mark.10.1 Teachings about Divorce|Teachings about Divorce]]"
+- "[[Mark.10.13 Jesus Blesses the Children|Jesus Blesses the Children]]"
+- "[[Mark.10.17 The Rich Young Man|The Rich Young Man]]"
+- "[[Mark.10.32 The Third Prediction of the Passion|The Third Prediction of the Passion]]"
+- "[[Mark.10.35 The Request of James and John|The Request of James and John]]"
+- "[[Mark.10.46 Jesus Heals Bartimaeus|Jesus Heals Bartimaeus]]"
+---
+
 (KJV) **Mark 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9|<< Mark 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11|Mark 11 >>]]</td></tr></table>
 
 <big><big>[[Mark.10.1 Teachings about Divorce|⥃]]</big></big>***Teachings about Divorce***&emsp;<small><sup>\[ [[Matt.19|Matthew 19:1–12]] ]</sup></small>

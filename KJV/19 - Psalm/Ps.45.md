@@ -1,3 +1,27 @@
+---
+title: Psalm 45
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 45
+book/chapter: "[[Ps.45|Psalm 45]]"
+chronological_order: 500
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.45.1 My Heart Is Stirred by a Noble Theme|My Heart Is Stirred by a Noble Theme]]"
+---
+
 (KJV) **Psalm 45**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44|<< Psalm 44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.46|Psalm 46 >>]]</td></tr></table>
 
 <big><big>[[Ps.45.1 My Heart Is Stirred by a Noble Theme|⥃]]</big></big>***My Heart Is Stirred by a Noble Theme***&emsp;<small><sup>\[ [[1Kgs.3|1 Kings 3:1–15]] <big>†</big> [[2Chr.1|2 Chronicles 1:1–13]] <big>†</big> [[Ps.72|Psalms 72:1–20]] ]</sup></small>

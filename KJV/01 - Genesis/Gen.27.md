@@ -1,3 +1,28 @@
+---
+title: Genesis 27
+type: Chapter
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.27.1 Isaac Blesses Jacob|Isaac Blesses Jacob]]"
+- "[[Gen.27.30 Esau’s Lost Hope|Esau’s Lost Hope]]"
+---
+
 (KJV) **Genesis 27**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26|<< Genesis 26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28|Genesis 28 >>]]</td></tr></table>
 
 <big><big>[[Gen.27.1 Isaac Blesses Jacob|⥃]]</big></big>***Isaac Blesses Jacob***&emsp;<small><sup>\[ [[Heb.11|Hebrews 11:20]] ]</sup></small>

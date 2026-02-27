@@ -1,3 +1,25 @@
+---
+title: Nehemiah 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Nehemiah
+chapter: 1
+book/chapter: "[[Neh.1|Nehemiah 1]]"
+chronological_order: 913
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+pericopes:
+- "[[Neh.1.1 Nehemiah’s Prayer|Nehemiah’s Prayer]]"
+---
+
 (KJV) **Nehemiah 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10|<< Ezra 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.2|Nehemiah 2 >>]]</td></tr></table>
 
 <big><big>[[Neh.1.1 Nehemiah’s Prayer|⥃]]</big></big>***Nehemiah’s Prayer***&emsp;<small><sup>\[ [[Deut.30|Deuteronomy 30:1–10]] ]</sup></small>

@@ -1,3 +1,25 @@
+---
+title: Isaiah 18
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 18
+book/chapter: "[[Isa.18|Isaiah 18]]"
+chronological_order: 635
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.18.1 A Message to Cush|A Message to Cush]]"
+---
+
 (KJV) **Isaiah 18**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17|<< Isaiah 17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19|Isaiah 19 >>]]</td></tr></table>
 
 <big><big>[[Isa.18.1 A Message to Cush|⥃]]</big></big>***A Message to Cush***

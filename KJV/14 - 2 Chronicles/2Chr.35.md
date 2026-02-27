@@ -1,3 +1,26 @@
+---
+title: 2 Chronicles 35
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 35
+book/chapter: "[[2Chr.35|2 Chronicles 35]]"
+chronological_order: 714
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.35.1 Josiah Restores the Passover|Josiah Restores the Passover]]"
+- "[[2Chr.35.20 The Death of Josiah|The Death of Josiah]]"
+- "[[2Chr.35.25 Laments over Josiah|Laments over Josiah]]"
+---
+
 (KJV) **2 Chronicles 35**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34|<< 2 Chronicles 34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36|2 Chronicles 36 >>]]</td></tr></table>
 
 <big><big>[[2Chr.35.1 Josiah Restores the Passover|⥃]]</big></big>***Josiah Restores the Passover***&emsp;<small><sup>\[ [[2Kgs.23|2 Kings 23:21–27]] ]</sup></small>

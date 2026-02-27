@@ -1,3 +1,24 @@
+---
+title: 2 Chronicles 27
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 27
+book/chapter: "[[2Chr.27|2 Chronicles 27]]"
+chronological_order: 608
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.27.1 Jotham Reigns in Judah|Jotham Reigns in Judah]]"
+---
+
 (KJV) **2 Chronicles 27**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26|<< 2 Chronicles 26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28|2 Chronicles 28 >>]]</td></tr></table>
 
 <big><big>[[2Chr.27.1 Jotham Reigns in Judah|⥃]]</big></big>***Jotham Reigns in Judah***&emsp;<small><sup>\[ [[2Kgs.15|2 Kings 15:32–38]] ]</sup></small>

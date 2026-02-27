@@ -1,3 +1,25 @@
+---
+title: 2 Corinthians 5
+type: Chapter
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 5
+book/chapter: "[[2Cor.5|2 Corinthians 5]]"
+chronological_order: 1078
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+pericopes:
+- "[[2Cor.5.1 Our Eternal Dwelling|Our Eternal Dwelling]]"
+- "[[2Cor.5.11 Ambassadors for Christ|Ambassadors for Christ]]"
+---
+
 (KJV) **2 Corinthians 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.4|<< 2 Corinthians 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.6|2 Corinthians 6 >>]]</td></tr></table>
 
 <big><big>[[2Cor.5.1 Our Eternal Dwelling|⥃]]</big></big>***Our Eternal Dwelling***&emsp;<small><sup>\[ [[Rom.8|Romans 8:18–27]] ]</sup></small>

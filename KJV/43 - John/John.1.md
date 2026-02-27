@@ -1,3 +1,30 @@
+---
+title: John 1
+type: Chapter
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+pericopes:
+- "[[John.1.1 The Beginning|The Beginning]]"
+- "[[John.1.6 The Witness of John|The Witness of John]]"
+- "[[John.1.14 The Word Became Flesh|The Word Became Flesh]]"
+- "[[John.1.19 The Mission of John the Baptist|The Mission of John the Baptist]]"
+- "[[John.1.29 Jesus the Lamb of God|Jesus the Lamb of God]]"
+- "[[John.1.35 The First Disciples|The First Disciples]]"
+- "[[John.1.43 Jesus Calls Philip and Nathanael|Jesus Calls Philip and Nathanael]]"
+---
+
 (KJV) **John 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24|<< Luke 24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2|John 2 >>]]</td></tr></table>
 
 <big><big>[[John.1.1 The Beginning|⥃]]</big></big>***The Beginning***&emsp;<small><sup>\[ [[Gen.1|Genesis 1:1–2]] <big>†</big> [[Heb.11|Hebrews 11:1–3]] ]</sup></small>

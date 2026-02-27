@@ -1,3 +1,25 @@
+---
+title: 1 Chronicles 19
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Chronicles
+chapter: 19
+book/chapter: "[[1Chr.19|1 Chronicles 19]]"
+chronological_order: 406
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+pericopes:
+- "[[1Chr.19.1 David’s Messengers Disgraced|David’s Messengers Disgraced]]"
+- "[[1Chr.19.10 David Defeats Ammon and Aram|David Defeats Ammon and Aram]]"
+---
+
 (KJV) **1 Chronicles 19**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.18|<< 1 Chronicles 18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.20|1 Chronicles 20 >>]]</td></tr></table>
 
 <big><big>[[1Chr.19.1 David’s Messengers Disgraced|⥃]]</big></big>***David’s Messengers Disgraced***&emsp;<small><sup>\[ [[2Sam.10|2 Samuel 10:1–8]] ]</sup></small>

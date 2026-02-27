@@ -1,3 +1,26 @@
+---
+title: Ecclesiastes 9
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ecclesiastes
+chapter: 9
+book/chapter: "[[Eccl.9|Ecclesiastes 9]]"
+chronological_order: 547
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+pericopes:
+- "[[Eccl.9.1 Death Comes to Good and Bad|Death Comes to Good and Bad]]"
+- "[[Eccl.9.7 Enjoy Your Portion in This Life|Enjoy Your Portion in This Life]]"
+- "[[Eccl.9.13 Wisdom Is Better than Strength|Wisdom Is Better than Strength]]"
+---
+
 (KJV) **Ecclesiastes 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8|<< Ecclesiastes 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10|Ecclesiastes 10 >>]]</td></tr></table>
 
 <big><big>[[Eccl.9.1 Death Comes to Good and Bad|⥃]]</big></big>***Death Comes to Good and Bad***

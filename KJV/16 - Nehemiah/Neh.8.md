@@ -1,3 +1,26 @@
+---
+title: Nehemiah 8
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Nehemiah
+chapter: 8
+book/chapter: "[[Neh.8|Nehemiah 8]]"
+chronological_order: 920
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+pericopes:
+- "[[Neh.8.1 Ezra Reads the Law|Ezra Reads the Law]]"
+- "[[Neh.8.13 The Feast of Tabernacles|The Feast of Tabernacles]]"
+---
+
 (KJV) **Nehemiah 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7|<< Nehemiah 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9|Nehemiah 9 >>]]</td></tr></table>
 
 <big><big>[[Neh.8.1 Ezra Reads the Law|⥃]]</big></big>***Ezra Reads the Law***&emsp;<small><sup>\[ [[Deut.31|Deuteronomy 31:9–13]] ]</sup></small>

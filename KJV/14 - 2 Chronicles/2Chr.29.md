@@ -1,3 +1,25 @@
+---
+title: 2 Chronicles 29
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 29
+book/chapter: "[[2Chr.29|2 Chronicles 29]]"
+chronological_order: 659
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.29.1 Hezekiah Cleanses the Temple|Hezekiah Cleanses the Temple]]"
+- "[[2Chr.29.20 Hezekiah Restores Temple Worship|Hezekiah Restores Temple Worship]]"
+---
+
 (KJV) **2 Chronicles 29**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28|<< 2 Chronicles 28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.30|2 Chronicles 30 >>]]</td></tr></table>
 
 <big><big>[[2Chr.29.1 Hezekiah Cleanses the Temple|⥃]]</big></big>***Hezekiah Cleanses the Temple***&emsp;<small><sup>\[ [[2Kgs.18|2 Kings 18:1–12]] ]</sup></small>

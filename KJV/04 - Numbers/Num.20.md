@@ -1,3 +1,30 @@
+---
+title: Numbers 20
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 20
+book/chapter: "[[Num.20|Numbers 20]]"
+chronological_order: 180
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.20.1 Water from the Rock|Water from the Rock]]"
+- "[[Num.20.14 Edom Refuses Passage|Edom Refuses Passage]]"
+- "[[Num.20.22 The Death of Aaron|The Death of Aaron]]"
+---
+
 (KJV) **Numbers 20**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.19|<< Numbers 19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21|Numbers 21 >>]]</td></tr></table>
 
 <big><big>[[Num.20.1 Water from the Rock|⥃]]</big></big>***Water from the Rock***&emsp;<small><sup>\[ [[Exod.17|Exodus 17:1–7]] ]</sup></small>

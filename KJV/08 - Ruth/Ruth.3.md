@@ -1,3 +1,24 @@
+---
+title: Ruth 3
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ruth
+chapter: 3
+book/chapter: "[[Ruth.3|Ruth 3]]"
+chronological_order: 278
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+pericopes:
+- "[[Ruth.3.1 Ruth’s Redemption Assured|Ruth’s Redemption Assured]]"
+---
+
 (KJV) **Ruth 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.2|<< Ruth 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4|Ruth 4 >>]]</td></tr></table>
 
 <big><big>[[Ruth.3.1 Ruth’s Redemption Assured|⥃]]</big></big>***Ruth’s Redemption Assured***

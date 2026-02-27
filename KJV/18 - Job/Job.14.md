@@ -1,3 +1,25 @@
+---
+title: Job 14
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 14
+book/chapter: "[[Job.14|Job 14]]"
+chronological_order: 25
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.14.1 Job Laments the Finality of Death|Job Laments the Finality of Death]]"
+---
+
 (KJV) **Job 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.13|<< Job 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15|Job 15 >>]]</td></tr></table>
 
 <big><big>[[Job.14.1 Job Laments the Finality of Death|⥃]]</big></big>***Job Laments the Finality of Death***

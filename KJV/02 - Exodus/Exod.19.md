@@ -1,3 +1,30 @@
+---
+title: Exodus 19
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 19
+book/chapter: "[[Exod.19|Exodus 19]]"
+chronological_order: 111
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.19.1 Israel at Mount Sinai|Israel at Mount Sinai]]"
+- "[[Exod.19.16 The LORD Visits Sinai|The LORD Visits Sinai]]"
+---
+
 (KJV) **Exodus 19**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18|<< Exodus 18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20|Exodus 20 >>]]</td></tr></table>
 
 <big><big>[[Exod.19.1 Israel at Mount Sinai|⥃]]</big></big>***Israel at Mount Sinai***

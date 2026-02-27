@@ -1,3 +1,30 @@
+---
+title: Revelation 6
+type: Chapter
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 6
+book/chapter: "[[Rev.6|Revelation 6]]"
+chronological_order: 1173
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+pericopes:
+- "[[Rev.6.1 The First Seal：The White Horse|The First Seal：The White Horse]]"
+- "[[Rev.6.3 The Second Seal：War|The Second Seal：War]]"
+- "[[Rev.6.5 The Third Seal：Famine|The Third Seal：Famine]]"
+- "[[Rev.6.7 The Fourth Seal：Death|The Fourth Seal：Death]]"
+- "[[Rev.6.9 The Fifth Seal：The Martyrs|The Fifth Seal：The Martyrs]]"
+- "[[Rev.6.12 The Sixth Seal：Terror|The Sixth Seal：Terror]]"
+---
+
 (KJV) **Revelation 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5|<< Revelation 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7|Revelation 7 >>]]</td></tr></table>
 
 <big><big>[[Rev.6.1 The First Seal：The White Horse|⥃]]</big></big>***The First Seal: The White Horse***

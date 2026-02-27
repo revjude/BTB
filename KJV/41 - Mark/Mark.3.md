@@ -1,3 +1,29 @@
+---
+title: Mark 3
+type: Chapter
+original_language: Greek
+testament: New
+book: Mark
+chapter: 3
+book/chapter: "[[Mark.3|Mark 3]]"
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Mark.3.1 Jesus Heals on the Sabbath|Jesus Heals on the Sabbath]]"
+- "[[Mark.3.7 Jesus Heals the Multitudes|Jesus Heals the Multitudes]]"
+- "[[Mark.3.13 The Twelve Apostles|The Twelve Apostles]]"
+- "[[Mark.3.20 A House Divided|A House Divided]]"
+- "[[Mark.3.28 The Unpardonable Sin|The Unpardonable Sin]]"
+- "[[Mark.3.31 Jesus’ Mother and Brothers|Jesus’ Mother and Brothers]]"
+---
+
 (KJV) **Mark 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2|<< Mark 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4|Mark 4 >>]]</td></tr></table>
 
 <big><big>[[Mark.3.1 Jesus Heals on the Sabbath|⥃]]</big></big>***Jesus Heals on the Sabbath***&emsp;<small><sup>\[ [[Matt.12|Matthew 12:9–14]] <big>†</big> [[Luke.6|Luke 6:6–11]] ]</sup></small>

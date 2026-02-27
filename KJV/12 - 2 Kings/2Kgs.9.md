@@ -1,3 +1,26 @@
+---
+title: 2 Kings 9
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Kings
+chapter: 9
+book/chapter: "[[2Kgs.9|2 Kings 9]]"
+chronological_order: 582
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[2Kgs.9.1 Jehu Anointed King of Israel|Jehu Anointed King of Israel]]"
+- "[[2Kgs.9.14 Jehu Kills Joram and Ahaziah|Jehu Kills Joram and Ahaziah]]"
+- "[[2Kgs.9.30 Jezebel’s Violent Death|Jezebel’s Violent Death]]"
+---
+
 (KJV) **2 Kings 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8|<< 2 Kings 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10|2 Kings 10 >>]]</td></tr></table>
 
 <big><big>[[2Kgs.9.1 Jehu Anointed King of Israel|⥃]]</big></big>***Jehu Anointed King of Israel***

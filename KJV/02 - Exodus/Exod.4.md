@@ -1,3 +1,33 @@
+---
+title: Exodus 4
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 4
+book/chapter: "[[Exod.4|Exodus 4]]"
+chronological_order: 96
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.4.1 Moses’ Staff|Moses’ Staff]]"
+- "[[Exod.4.6 Moses’ Hand|Moses’ Hand]]"
+- "[[Exod.4.10 The Appointment of Aaron|The Appointment of Aaron]]"
+- "[[Exod.4.18 Moses Leaves for Egypt|Moses Leaves for Egypt]]"
+- "[[Exod.4.27 The People Believe Moses and Aaron|The People Believe Moses and Aaron]]"
+---
+
 (KJV) **Exodus 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.3|<< Exodus 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5|Exodus 5 >>]]</td></tr></table>
 
 <big><big>[[Exod.4.1 Moses’ Staff|⥃]]</big></big>***Moses’ Staff***

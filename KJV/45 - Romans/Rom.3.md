@@ -1,3 +1,25 @@
+---
+title: Romans 3
+type: Chapter
+original_language: Greek
+testament: New
+book: Romans
+chapter: 3
+book/chapter: "[[Rom.3|Romans 3]]"
+chronological_order: 1089
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+pericopes:
+- "[[Rom.3.1 God Remains Faithful|God Remains Faithful]]"
+- "[[Rom.3.9 There Is No One Righteous|There Is No One Righteous]]"
+- "[[Rom.3.21 Righteousness through Faith in Christ|Righteousness through Faith in Christ]]"
+---
+
 (KJV) **Romans 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2|<< Romans 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4|Romans 4 >>]]</td></tr></table>
 
 <big><big>[[Rom.3.1 God Remains Faithful|⥃]]</big></big>***God Remains Faithful***

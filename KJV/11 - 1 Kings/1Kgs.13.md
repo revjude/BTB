@@ -1,3 +1,27 @@
+---
+title: 1 Kings 13
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Kings
+chapter: 13
+book/chapter: "[[1Kgs.13|1 Kings 13]]"
+chronological_order: 552
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+pericopes:
+- "[[1Kgs.13.1 Jeroboam’s Hand Withers|Jeroboam’s Hand Withers]]"
+- "[[1Kgs.13.11 The Old Prophet and the Man of God|The Old Prophet and the Man of God]]"
+---
+
 (KJV) **1 Kings 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.12|<< 1 Kings 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14|1 Kings 14 >>]]</td></tr></table>
 
 <big><big>[[1Kgs.13.1 Jeroboam’s Hand Withers|⥃]]</big></big>***Jeroboam’s Hand Withers***&emsp;<small><sup>\[ [[2Kgs.23|2 Kings 23:4–20]] <big>†</big> [[2Chr.34|2 Chronicles 34:3–7]] ]</sup></small>

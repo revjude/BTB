@@ -1,3 +1,30 @@
+---
+title: Deuteronomy 30
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Deuteronomy
+chapter: 30
+book/chapter: "[[Deut.30|Deuteronomy 30]]"
+chronological_order: 226
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+pericopes:
+- "[[Deut.30.1 The Promise of Restoration|The Promise of Restoration]]"
+- "[[Deut.30.11 The Choice of Life or Death|The Choice of Life or Death]]"
+---
+
 (KJV) **Deuteronomy 30**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29|<< Deuteronomy 29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31|Deuteronomy 31 >>]]</td></tr></table>
 
 <big><big>[[Deut.30.1 The Promise of Restoration|⥃]]</big></big>***The Promise of Restoration***&emsp;<small><sup>\[ [[Neh.1|Nehemiah 1:1–11]] ]</sup></small>

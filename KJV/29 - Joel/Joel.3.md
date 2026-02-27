@@ -1,3 +1,26 @@
+---
+title: Joel 3
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Joel
+chapter: 3
+book/chapter: "[[Joel.3|Joel 3]]"
+chronological_order: 842
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Joel.3.1 The LORD Judges the Nations|The LORD Judges the Nations]]"
+- "[[Joel.3.17 Blessings for God’s People|Blessings for God’s People]]"
+---
+
 (KJV) **Joel 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2|<< Joel 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.1|Amos 1 >>]]</td></tr></table>
 
 <big><big>[[Joel.3.1 The LORD Judges the Nations|⥃]]</big></big>***The LORD Judges the Nations***

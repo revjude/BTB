@@ -1,3 +1,27 @@
+---
+title: 2 Samuel 11
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Samuel
+chapter: 11
+book/chapter: "[[2Sam.11|2 Samuel 11]]"
+chronological_order: 410
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+pericopes:
+- "[[2Sam.11.1 David and Bathsheba|David and Bathsheba]]"
+- "[[2Sam.11.14 David Arranges Uriah’s Death|David Arranges Uriah’s Death]]"
+- "[[2Sam.11.26 David Marries Bathsheba|David Marries Bathsheba]]"
+---
+
 (KJV) **2 Samuel 11**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.10|<< 2 Samuel 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.12|2 Samuel 12 >>]]</td></tr></table>
 
 <big><big>[[2Sam.11.1 David and Bathsheba|⥃]]</big></big>***David and Bathsheba***

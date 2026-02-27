@@ -1,3 +1,27 @@
+---
+title: Job 42
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 42
+book/chapter: "[[Job.42|Job 42]]"
+chronological_order: 53
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.42.1 Job Submits Himself to the LORD|Job Submits Himself to the LORD]]"
+- "[[Job.42.7 The LORD Rebukes Job’s Friends|The LORD Rebukes Job’s Friends]]"
+- "[[Job.42.10 The LORD Blesses Job|The LORD Blesses Job]]"
+---
+
 (KJV) **Job 42**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41|<< Job 41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.1|Psalm 1 >>]]</td></tr></table>
 
 <big><big>[[Job.42.1 Job Submits Himself to the LORD|⥃]]</big></big>***Job Submits Himself to the LORD***

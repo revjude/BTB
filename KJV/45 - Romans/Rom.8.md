@@ -1,3 +1,27 @@
+---
+title: Romans 8
+type: Chapter
+original_language: Greek
+testament: New
+book: Romans
+chapter: 8
+book/chapter: "[[Rom.8|Romans 8]]"
+chronological_order: 1094
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+pericopes:
+- "[[Rom.8.1 Walking by the Spirit|Walking by the Spirit]]"
+- "[[Rom.8.12 Heirs with Christ|Heirs with Christ]]"
+- "[[Rom.8.18 Future Glory|Future Glory]]"
+- "[[Rom.8.28 God Works in All Things|God Works in All Things]]"
+- "[[Rom.8.35 More than Conquerors|More than Conquerors]]"
+---
+
 (KJV) **Romans 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7|<< Romans 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9|Romans 9 >>]]</td></tr></table>
 
 <big><big>[[Rom.8.1 Walking by the Spirit|⥃]]</big></big>***Walking by the Spirit***&emsp;<small><sup>\[ [[Ezek.36|Ezekiel 36:16–38]] <big>†</big> [[Gal.5|Galatians 5:16–26]] ]</sup></small>

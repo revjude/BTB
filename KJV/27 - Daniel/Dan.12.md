@@ -1,3 +1,25 @@
+---
+title: Daniel 12
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Daniel
+chapter: 12
+book/chapter: "[[Dan.12|Daniel 12]]"
+chronological_order: 848
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+pericopes:
+- "[[Dan.12.1 The End Times|The End Times]]"
+---
+
 (KJV) **Daniel 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11|<< Daniel 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.1|Hosea 1 >>]]</td></tr></table>
 
 <big><big>[[Dan.12.1 The End Times|⥃]]</big></big>***The End Times***&emsp;<small><sup>\[ [[Rev.1|Revelation 1:1–3]] ]</sup></small>

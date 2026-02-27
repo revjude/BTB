@@ -1,3 +1,29 @@
+---
+title: Genesis 31
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.31.1 Jacob Flees from Laban|Jacob Flees from Laban]]"
+- "[[Gen.31.22 Laban Pursues Jacob|Laban Pursues Jacob]]"
+- "[[Gen.31.43 Jacob’s Covenant with Laban|Jacob’s Covenant with Laban]]"
+---
+
 (KJV) **Genesis 31**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30|<< Genesis 30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32|Genesis 32 >>]]</td></tr></table>
 
 <big><big>[[Gen.31.1 Jacob Flees from Laban|⥃]]</big></big>***Jacob Flees from Laban***

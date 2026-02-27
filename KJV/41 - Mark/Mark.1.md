@@ -1,3 +1,30 @@
+---
+title: Mark 1
+type: Chapter
+original_language: Greek
+testament: New
+book: Mark
+chapter: 1
+book/chapter: "[[Mark.1|Mark 1]]"
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Mark.1.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
+- "[[Mark.1.12 The Temptation and Preaching of Jesus|The Temptation and Preaching of Jesus]]"
+- "[[Mark.1.16 The First Disciples|The First Disciples]]"
+- "[[Mark.1.21 Jesus Expels an Unclean Spirit|Jesus Expels an Unclean Spirit]]"
+- "[[Mark.1.29 Jesus Heals at Peter’s House|Jesus Heals at Peter’s House]]"
+- "[[Mark.1.35 Jesus Prays and Preaches|Jesus Prays and Preaches]]"
+- "[[Mark.1.40 The Leper’s Prayer|The Leper’s Prayer]]"
+---
+
 (KJV) **Mark 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28|<< Matthew 28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2|Mark 2 >>]]</td></tr></table>
 
 <big><big>[[Mark.1.1 The Mission of John the Baptist|⥃]]</big></big>***The Mission of John the Baptist***&emsp;<small><sup>\[ [[Isa.40|Isaiah 40:1–5]] <big>†</big> [[Matt.3|Matthew 3:1–17]] <big>†</big> [[Luke.3|Luke 3:1–22]] <big>†</big> [[John.1|John 1:19–34]] ]</sup></small>

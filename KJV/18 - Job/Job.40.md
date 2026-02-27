@@ -1,3 +1,26 @@
+---
+title: Job 40
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 40
+book/chapter: "[[Job.40|Job 40]]"
+chronological_order: 51
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.40.1 Job Humbles Himself before the LORD|Job Humbles Himself before the LORD]]"
+- "[[Job.40.6 The LORD Challenges Job Again|The LORD Challenges Job Again]]"
+---
+
 (KJV) **Job 40**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39|<< Job 39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41|Job 41 >>]]</td></tr></table>
 
 <big><big>[[Job.40.1 Job Humbles Himself before the LORD|⥃]]</big></big>***Job Humbles Himself before the LORD***

@@ -1,3 +1,25 @@
+---
+title: Ephesians 4
+type: Chapter
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 4
+book/chapter: "[[Eph.4|Ephesians 4]]"
+chronological_order: 1114
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+pericopes:
+- "[[Eph.4.1 Unity in the Body|Unity in the Body]]"
+- "[[Eph.4.17 New Life in Christ|New Life in Christ]]"
+---
+
 (KJV) **Ephesians 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3|<< Ephesians 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5|Ephesians 5 >>]]</td></tr></table>
 
 <big><big>[[Eph.4.1 Unity in the Body|⥃]]</big></big>***Unity in the Body***&emsp;<small><sup>\[ [[Ps.133|Psalms 133:1–3]] <big>†</big> [[1Cor.1|1 Corinthians 1:10–17]] ]</sup></small>

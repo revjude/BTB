@@ -1,3 +1,25 @@
+---
+title: 1 Corinthians 6
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 6
+book/chapter: "[[1Cor.6|1 Corinthians 6]]"
+chronological_order: 1063
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+pericopes:
+- "[[1Cor.6.1 Lawsuits among Believers|Lawsuits among Believers]]"
+- "[[1Cor.6.9 Members of Christ|Members of Christ]]"
+- "[[1Cor.6.18 The Temple of the Holy Spirit|The Temple of the Holy Spirit]]"
+---
+
 (KJV) **1 Corinthians 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.5|<< 1 Corinthians 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7|1 Corinthians 7 >>]]</td></tr></table>
 
 <big><big>[[1Cor.6.1 Lawsuits among Believers|⥃]]</big></big>***Lawsuits among Believers***

@@ -1,3 +1,25 @@
+---
+title: Jonah 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jonah
+chapter: 2
+book/chapter: "[[Jonah.2|Jonah 2]]"
+chronological_order: 595
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+pericopes:
+- "[[Jonah.2.1 Jonah’s Prayer|Jonah’s Prayer]]"
+---
+
 (KJV) **Jonah 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.1|<< Jonah 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.3|Jonah 3 >>]]</td></tr></table>
 
 <big><big>[[Jonah.2.1 Jonah’s Prayer|⥃]]</big></big>***Jonah’s Prayer***

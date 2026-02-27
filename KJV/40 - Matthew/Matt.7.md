@@ -1,3 +1,29 @@
+---
+title: Matthew 7
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 7
+book/chapter: "[[Matt.7|Matthew 7]]"
+chronological_order: 945
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.7.1 Judging Others|Judging Others]]"
+- "[[Matt.7.7 Ask, Seek, Knock|Ask, Seek, Knock]]"
+- "[[Matt.7.13 The Narrow Gate|The Narrow Gate]]"
+- "[[Matt.7.15 A Tree and Its Fruit|A Tree and Its Fruit]]"
+- "[[Matt.7.24 The House on the Rock|The House on the Rock]]"
+- "[[Matt.7.28 The Authority of Jesus|The Authority of Jesus]]"
+---
+
 (KJV) **Matthew 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6|<< Matthew 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8|Matthew 8 >>]]</td></tr></table>
 
 <big><big>[[Matt.7.1 Judging Others|⥃]]</big></big>***Judging Others***&emsp;<small><sup>\[ [[Luke.6|Luke 6:37–42]] <big>†</big> [[Rom.14|Romans 14:1–12]] ]</sup></small>

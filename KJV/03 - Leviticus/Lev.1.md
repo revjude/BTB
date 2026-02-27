@@ -1,3 +1,29 @@
+---
+title: Leviticus 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Leviticus
+chapter: 1
+book/chapter: "[[Lev.1|Leviticus 1]]"
+chronological_order: 133
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+pericopes:
+- "[[Lev.1.1 Laws for Burnt Offerings|Laws for Burnt Offerings]]"
+---
+
 (KJV) **Leviticus 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40|<< Exodus 40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.2|Leviticus 2 >>]]</td></tr></table>
 
 <big><big>[[Lev.1.1 Laws for Burnt Offerings|⥃]]</big></big>***Laws for Burnt Offerings***&emsp;<small><sup>\[ [[Lev.6|Leviticus 6:8–13]] ]</sup></small>

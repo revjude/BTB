@@ -1,3 +1,26 @@
+---
+title: Revelation 4
+type: Chapter
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 4
+book/chapter: "[[Rev.4|Revelation 4]]"
+chronological_order: 1171
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+pericopes:
+- "[[Rev.4.1 The Throne in Heaven|The Throne in Heaven]]"
+- "[[Rev.4.5 Worship of the Creator|Worship of the Creator]]"
+---
+
 (KJV) **Revelation 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3|<< Revelation 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5|Revelation 5 >>]]</td></tr></table>
 
 <big><big>[[Rev.4.1 The Throne in Heaven|⥃]]</big></big>***The Throne in Heaven***

@@ -1,3 +1,26 @@
+---
+title: Galatians 3
+type: Chapter
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 3
+book/chapter: "[[Gal.3|Galatians 3]]"
+chronological_order: 1041
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+pericopes:
+- "[[Gal.3.1 Faith and Belief|Faith and Belief]]"
+- "[[Gal.3.10 Christ Has Redeemed Us|Christ Has Redeemed Us]]"
+- "[[Gal.3.15 The Purpose of the Law|The Purpose of the Law]]"
+- "[[Gal.3.26 Sons through Faith in Christ|Sons through Faith in Christ]]"
+---
+
 (KJV) **Galatians 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2|<< Galatians 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4|Galatians 4 >>]]</td></tr></table>
 
 <big><big>[[Gal.3.1 Faith and Belief|⥃]]</big></big>***Faith and Belief***&emsp;<small><sup>\[ [[Jas.2|James 2:14–26]] ]</sup></small>

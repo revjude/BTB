@@ -1,3 +1,29 @@
+---
+title: Leviticus 16
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Leviticus
+chapter: 16
+book/chapter: "[[Lev.16|Leviticus 16]]"
+chronological_order: 148
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+pericopes:
+- "[[Lev.16.1 The Day of Atonement|The Day of Atonement]]"
+---
+
 (KJV) **Leviticus 16**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15|<< Leviticus 15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.17|Leviticus 17 >>]]</td></tr></table>
 
 <big><big>[[Lev.16.1 The Day of Atonement|⥃]]</big></big>***The Day of Atonement***&emsp;<small><sup>\[ [[Lev.23|Leviticus 23:26–32]] <big>†</big> [[Num.29|Numbers 29:7–11]] ]</sup></small>

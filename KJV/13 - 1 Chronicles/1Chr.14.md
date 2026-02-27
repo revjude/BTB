@@ -1,3 +1,25 @@
+---
+title: 1 Chronicles 14
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Chronicles
+chapter: 14
+book/chapter: "[[1Chr.14|1 Chronicles 14]]"
+chronological_order: 395
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+pericopes:
+- "[[1Chr.14.1 David’s Family Grows|David’s Family Grows]]"
+- "[[1Chr.14.8 Two Victories over the Philistines|Two Victories over the Philistines]]"
+---
+
 (KJV) **1 Chronicles 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.13|<< 1 Chronicles 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15|1 Chronicles 15 >>]]</td></tr></table>
 
 <big><big>[[1Chr.14.1 David’s Family Grows|⥃]]</big></big>***David’s Family Grows***&emsp;<small><sup>\[ [[2Sam.5|2 Samuel 5:12–16]] ]</sup></small>

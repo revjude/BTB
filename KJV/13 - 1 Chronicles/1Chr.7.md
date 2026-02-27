@@ -1,3 +1,29 @@
+---
+title: 1 Chronicles 7
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Chronicles
+chapter: 7
+book/chapter: "[[1Chr.7|1 Chronicles 7]]"
+chronological_order: 326
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+pericopes:
+- "[[1Chr.7.1 The Descendants of Issachar|The Descendants of Issachar]]"
+- "[[1Chr.7.6 The Descendants of Benjamin|The Descendants of Benjamin]]"
+- "[[1Chr.7.13 The Descendants of Naphtali|The Descendants of Naphtali]]"
+- "[[1Chr.7.14 The Descendants of Manasseh|The Descendants of Manasseh]]"
+- "[[1Chr.7.20 The Descendants of Ephraim|The Descendants of Ephraim]]"
+- "[[1Chr.7.30 The Descendants of Asher|The Descendants of Asher]]"
+---
+
 (KJV) **1 Chronicles 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6|<< 1 Chronicles 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8|1 Chronicles 8 >>]]</td></tr></table>
 
 <big><big>[[1Chr.7.1 The Descendants of Issachar|⥃]]</big></big>***The Descendants of Issachar***

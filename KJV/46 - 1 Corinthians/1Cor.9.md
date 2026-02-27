@@ -1,3 +1,25 @@
+---
+title: 1 Corinthians 9
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 9
+book/chapter: "[[1Cor.9|1 Corinthians 9]]"
+chronological_order: 1066
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+pericopes:
+- "[[1Cor.9.1 The Rights of an Apostle|The Rights of an Apostle]]"
+- "[[1Cor.9.19 Paul the Servant to All|Paul the Servant to All]]"
+- "[[1Cor.9.24 Run Your Race to Win|Run Your Race to Win]]"
+---
+
 (KJV) **1 Corinthians 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8|<< 1 Corinthians 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10|1 Corinthians 10 >>]]</td></tr></table>
 
 <big><big>[[1Cor.9.1 The Rights of an Apostle|⥃]]</big></big>***The Rights of an Apostle***&emsp;<small><sup>\[ [[Deut.18|Deuteronomy 18:1–8]] ]</sup></small>

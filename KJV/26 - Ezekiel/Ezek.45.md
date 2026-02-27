@@ -1,3 +1,30 @@
+---
+title: Ezekiel 45
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 45
+book/chapter: "[[Ezek.45|Ezekiel 45]]"
+chronological_order: 836
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.45.1 Consecration of the Land|Consecration of the Land]]"
+- "[[Ezek.45.7 The Prince’s Portion|The Prince’s Portion]]"
+- "[[Ezek.45.10 Honest Scales|Honest Scales]]"
+- "[[Ezek.45.13 Offerings and Feasts|Offerings and Feasts]]"
+---
+
 (KJV) **Ezekiel 45**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44|<< Ezekiel 44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46|Ezekiel 46 >>]]</td></tr></table>
 
 <big><big>[[Ezek.45.1 Consecration of the Land|⥃]]</big></big>***Consecration of the Land***

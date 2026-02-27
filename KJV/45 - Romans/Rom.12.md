@@ -1,3 +1,25 @@
+---
+title: Romans 12
+type: Chapter
+original_language: Greek
+testament: New
+book: Romans
+chapter: 12
+book/chapter: "[[Rom.12|Romans 12]]"
+chronological_order: 1098
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+pericopes:
+- "[[Rom.12.1 Living Sacrifices|Living Sacrifices]]"
+- "[[Rom.12.9 Love, Zeal, Hope, Hospitality|Love, Zeal, Hope, Hospitality]]"
+- "[[Rom.12.14 Forgiveness|Forgiveness]]"
+---
+
 (KJV) **Romans 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11|<< Romans 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13|Romans 13 >>]]</td></tr></table>
 
 <big><big>[[Rom.12.1 Living Sacrifices|⥃]]</big></big>***Living Sacrifices***&emsp;<small><sup>\[ [[1Cor.3|1 Corinthians 3:16–23]] <big>†</big> [[1Cor.6|1 Corinthians 6:18–20]] ]</sup></small>

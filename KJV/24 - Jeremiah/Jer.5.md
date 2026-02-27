@@ -1,3 +1,27 @@
+---
+title: Jeremiah 5
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 5
+book/chapter: "[[Jer.5|Jeremiah 5]]"
+chronological_order: 722
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.5.1 No One Is Just|No One Is Just]]"
+- "[[Jer.5.14 Judgment Proclaimed|Judgment Proclaimed]]"
+---
+
 (KJV) **Jeremiah 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4|<< Jeremiah 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6|Jeremiah 6 >>]]</td></tr></table>
 
 <big><big>[[Jer.5.1 No One Is Just|⥃]]</big></big>***No One Is Just***

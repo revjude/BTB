@@ -1,3 +1,34 @@
+---
+title: Luke 12
+type: Chapter
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+pericopes:
+- "[[Luke.12.1 The Leaven of the Pharisees|The Leaven of the Pharisees]]"
+- "[[Luke.12.4 Fear God Alone|Fear God Alone]]"
+- "[[Luke.12.8 Confessing Christ|Confessing Christ]]"
+- "[[Luke.12.13 The Parable of the Rich Fool|The Parable of the Rich Fool]]"
+- "[[Luke.12.22 Do Not Worry|Do Not Worry]]"
+- "[[Luke.12.32 Treasures in Heaven|Treasures in Heaven]]"
+- "[[Luke.12.35 Readiness at Any Hour|Readiness at Any Hour]]"
+- "[[Luke.12.49 Not Peace but Division|Not Peace but Division]]"
+- "[[Luke.12.54 Interpreting the Present Time|Interpreting the Present Time]]"
+- "[[Luke.12.57 Reconciling with an Adversary|Reconciling with an Adversary]]"
+---
+
 (KJV) **Luke 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11|<< Luke 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13|Luke 13 >>]]</td></tr></table>
 
 <big><big>[[Luke.12.1 The Leaven of the Pharisees|⥃]]</big></big>***The Leaven of the Pharisees***&emsp;<small><sup>\[ [[Matt.16|Matthew 16:5–12]] <big>†</big> [[Mark.8|Mark 8:14–21]] ]</sup></small>

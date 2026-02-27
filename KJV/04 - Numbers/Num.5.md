@@ -1,3 +1,30 @@
+---
+title: Numbers 5
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 5
+book/chapter: "[[Num.5|Numbers 5]]"
+chronological_order: 164
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.5.1 Cleansing the Camps|Cleansing the Camps]]"
+- "[[Num.5.5 Confession and Restitution|Confession and Restitution]]"
+- "[[Num.5.11 The Adultery Test|The Adultery Test]]"
+---
+
 (KJV) **Numbers 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4|<< Numbers 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6|Numbers 6 >>]]</td></tr></table>
 
 <big><big>[[Num.5.1 Cleansing the Camps|⥃]]</big></big>***Cleansing the Camps***&emsp;<small><sup>\[ [[Lev.13|Leviticus 13:1–46]] ]</sup></small>

@@ -1,3 +1,31 @@
+---
+title: Numbers 15
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 15
+book/chapter: "[[Num.15|Numbers 15]]"
+chronological_order: 175
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.15.1 Laws about Offerings|Laws about Offerings]]"
+- "[[Num.15.22 Offerings for Unintentional Sins|Offerings for Unintentional Sins]]"
+- "[[Num.15.32 A Sabbath-Breaker Stoned|A Sabbath-Breaker Stoned]]"
+- "[[Num.15.37 The Law of Tassels|The Law of Tassels]]"
+---
+
 (KJV) **Numbers 15**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14|<< Numbers 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16|Numbers 16 >>]]</td></tr></table>
 
 <big><big>[[Num.15.1 Laws about Offerings|⥃]]</big></big>***Laws about Offerings***

@@ -1,3 +1,28 @@
+---
+title: 2 John 1
+type: Chapter
+original_language: Greek
+testament: New
+book: 2 John
+chapter: 1
+book/chapter: "[[2John.1|2 John 1]]"
+chronological_order: 1166
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- personal letter
+- polemical
+pericopes:
+- "[[2John.1.1 A Greeting from the Elder|A Greeting from the Elder]]"
+- "[[2John.1.4 Walking in the Truth|Walking in the Truth]]"
+- "[[2John.1.7 Beware of Deceivers|Beware of Deceivers]]"
+- "[[2John.1.12 Conclusion|Conclusion]]"
+---
+
 (KJV) **2 John 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5|<< 1 John 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1|3 John 1 >>]]</td></tr></table>
 
 <big><big>[[2John.1.1 A Greeting from the Elder|⥃]]</big></big>***A Greeting from the Elder***&emsp;<small><sup>\[ [[3John.1|3 John 1:1–4]] ]</sup></small>

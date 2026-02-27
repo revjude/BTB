@@ -1,3 +1,33 @@
+---
+title: Matthew 27
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.27.1 Jesus Delivered to Pilate|Jesus Delivered to Pilate]]"
+- "[[Matt.27.3 Judas Hangs Himself|Judas Hangs Himself]]"
+- "[[Matt.27.11 Jesus before Pilate|Jesus before Pilate]]"
+- "[[Matt.27.15 The Crowd Chooses Barabbas|The Crowd Chooses Barabbas]]"
+- "[[Matt.27.24 Pilate Washes His Hands|Pilate Washes His Hands]]"
+- "[[Matt.27.27 The Soldiers Mock Jesus|The Soldiers Mock Jesus]]"
+- "[[Matt.27.32 The Crucifixion|The Crucifixion]]"
+- "[[Matt.27.45 The Death of Jesus|The Death of Jesus]]"
+- "[[Matt.27.57 The Burial of Jesus|The Burial of Jesus]]"
+- "[[Matt.27.62 The Guards at the Tomb|The Guards at the Tomb]]"
+---
+
 (KJV) **Matthew 27**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26|<< Matthew 26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28|Matthew 28 >>]]</td></tr></table>
 
 <big><big>[[Matt.27.1 Jesus Delivered to Pilate|⥃]]</big></big>***Jesus Delivered to Pilate***&emsp;<small><sup>\[ [[Mark.15|Mark 15:1–5]] ]</sup></small>

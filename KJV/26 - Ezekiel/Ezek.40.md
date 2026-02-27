@@ -1,3 +1,35 @@
+---
+title: Ezekiel 40
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 40
+book/chapter: "[[Ezek.40|Ezekiel 40]]"
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.40.1 The Man with a Measuring Rod|The Man with a Measuring Rod]]"
+- "[[Ezek.40.5 The East Gate|The East Gate]]"
+- "[[Ezek.40.17 The Outer Court|The Outer Court]]"
+- "[[Ezek.40.20 The North Gate|The North Gate]]"
+- "[[Ezek.40.24 The South Gate|The South Gate]]"
+- "[[Ezek.40.28 The Gates of the Inner Court|The Gates of the Inner Court]]"
+- "[[Ezek.40.38 Eight Tables for Sacrifices|Eight Tables for Sacrifices]]"
+- "[[Ezek.40.44 Chambers for Ministry|Chambers for Ministry]]"
+- "[[Ezek.40.47 The Inner Court|The Inner Court]]"
+---
+
 (KJV) **Ezekiel 40**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39|<< Ezekiel 39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41|Ezekiel 41 >>]]</td></tr></table>
 
 <big><big>[[Ezek.40.1 The Man with a Measuring Rod|⥃]]</big></big>***The Man with a Measuring Rod***&emsp;<small><sup>\[ [[Zech.2|Zechariah 2:1–5]] ]</sup></small>

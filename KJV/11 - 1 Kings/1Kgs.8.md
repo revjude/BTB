@@ -1,3 +1,30 @@
+---
+title: 1 Kings 8
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+pericopes:
+- "[[1Kgs.8.1 The Ark Enters the Temple|The Ark Enters the Temple]]"
+- "[[1Kgs.8.12 Solomon Blesses the LORD|Solomon Blesses the LORD]]"
+- "[[1Kgs.8.22 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+- "[[1Kgs.8.54 Solomon’s Benediction|Solomon’s Benediction]]"
+- "[[1Kgs.8.62 Sacrifices of Dedication|Sacrifices of Dedication]]"
+---
+
 (KJV) **1 Kings 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7|<< 1 Kings 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9|1 Kings 9 >>]]</td></tr></table>
 
 <big><big>[[1Kgs.8.1 The Ark Enters the Temple|⥃]]</big></big>***The Ark Enters the Temple***&emsp;<small><sup>\[ [[2Chr.5|2 Chronicles 5:1–14]] ]</sup></small>

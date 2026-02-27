@@ -1,3 +1,26 @@
+---
+title: John 15
+type: Chapter
+original_language: Greek
+testament: New
+book: John
+chapter: 15
+book/chapter: "[[John.15|John 15]]"
+chronological_order: 1003
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+pericopes:
+- "[[John.15.1 Jesus the True Vine|Jesus the True Vine]]"
+- "[[John.15.9 No Greater Love|No Greater Love]]"
+- "[[John.15.18 The Hatred of the World|The Hatred of the World]]"
+---
+
 (KJV) **John 15**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14|<< John 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16|John 16 >>]]</td></tr></table>
 
 <big><big>[[John.15.1 Jesus the True Vine|⥃]]</big></big>***Jesus the True Vine***&emsp;<small><sup>\[ [[Isa.27|Isaiah 27:1–13]] ]</sup></small>

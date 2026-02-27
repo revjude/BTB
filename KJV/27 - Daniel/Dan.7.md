@@ -1,3 +1,28 @@
+---
+title: Daniel 7
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Daniel
+chapter: 7
+book/chapter: "[[Dan.7|Daniel 7]]"
+chronological_order: 843
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+pericopes:
+- "[[Dan.7.1 Daniel’s Vision of the Four Beasts|Daniel’s Vision of the Four Beasts]]"
+- "[[Dan.7.9 Daniel’s Vision of the Ancient of Days|Daniel’s Vision of the Ancient of Days]]"
+- "[[Dan.7.13 Daniel’s Vision of the Son of Man|Daniel’s Vision of the Son of Man]]"
+- "[[Dan.7.15 Daniel’s Visions Interpreted|Daniel’s Visions Interpreted]]"
+---
+
 (KJV) **Daniel 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6|<< Daniel 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8|Daniel 8 >>]]</td></tr></table>
 
 <big><big>[[Dan.7.1 Daniel’s Vision of the Four Beasts|⥃]]</big></big>***Daniel’s Vision of the Four Beasts***&emsp;<small><sup>\[ [[Rev.13|Revelation 13:1–10]] ]</sup></small>

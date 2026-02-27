@@ -1,3 +1,27 @@
+---
+title: Psalm 72
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 72
+book/chapter: "[[Ps.72|Psalm 72]]"
+chronological_order: 446
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.72.1 Endow the King with Your Justice|Endow the King with Your Justice]]"
+---
+
 (KJV) **Psalm 72**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.71|<< Psalm 71]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73|Psalm 73 >>]]</td></tr></table>
 
 <big><big>[[Ps.72.1 Endow the King with Your Justice|⥃]]</big></big>***Endow the King with Your Justice***&emsp;<small><sup>\[ [[1Kgs.3|1 Kings 3:1–15]] <big>†</big> [[2Chr.1|2 Chronicles 1:1–13]] <big>†</big> [[Ps.45|Psalms 45:1–17]] ]</sup></small>

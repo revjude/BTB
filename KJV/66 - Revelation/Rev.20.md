@@ -1,3 +1,27 @@
+---
+title: Revelation 20
+type: Chapter
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 20
+book/chapter: "[[Rev.20|Revelation 20]]"
+chronological_order: 1187
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+pericopes:
+- "[[Rev.20.1 Satan Bound|Satan Bound]]"
+- "[[Rev.20.7 Satan Cast into the Lake of Fire|Satan Cast into the Lake of Fire]]"
+- "[[Rev.20.11 Judgment before the Great White Throne|Judgment before the Great White Throne]]"
+---
+
 (KJV) **Revelation 20**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19|<< Revelation 19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21|Revelation 21 >>]]</td></tr></table>
 
 <big><big>[[Rev.20.1 Satan Bound|⥃]]</big></big>***Satan Bound***

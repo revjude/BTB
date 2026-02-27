@@ -1,3 +1,25 @@
+---
+title: Job 34
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 34
+book/chapter: "[[Job.34|Job 34]]"
+chronological_order: 45
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.34.1 Elihu Confirms God’s Justice|Elihu Confirms God’s Justice]]"
+---
+
 (KJV) **Job 34**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33|<< Job 33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.35|Job 35 >>]]</td></tr></table>
 
 <big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥃]]</big></big>***Elihu Confirms God’s Justice***

@@ -1,3 +1,25 @@
+---
+title: Judges 11
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Judges
+chapter: 11
+book/chapter: "[[Judg.11|Judges 11]]"
+chronological_order: 265
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+pericopes:
+- "[[Judg.11.1 Jephthah Delivers Israel|Jephthah Delivers Israel]]"
+- "[[Judg.11.29 Jephthah’s Tragic Vow|Jephthah’s Tragic Vow]]"
+---
+
 (KJV) **Judges 11**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.10|<< Judges 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.12|Judges 12 >>]]</td></tr></table>
 
 <big><big>[[Judg.11.1 Jephthah Delivers Israel|⥃]]</big></big>***Jephthah Delivers Israel***

@@ -1,3 +1,26 @@
+---
+title: John 17
+type: Chapter
+original_language: Greek
+testament: New
+book: John
+chapter: 17
+book/chapter: "[[John.17|John 17]]"
+chronological_order: 1005
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+pericopes:
+- "[[John.17.1 Prayer for the Son|Prayer for the Son]]"
+- "[[John.17.6 Prayer for the Disciples|Prayer for the Disciples]]"
+- "[[John.17.20 Prayer for All Believers|Prayer for All Believers]]"
+---
+
 (KJV) **John 17**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16|<< John 16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18|John 18 >>]]</td></tr></table>
 
 <big><big>[[John.17.1 Prayer for the Son|⥃]]</big></big>***Prayer for the Son***

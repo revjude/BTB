@@ -1,3 +1,26 @@
+---
+title: 2 Chronicles 16
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 16
+book/chapter: "[[2Chr.16|2 Chronicles 16]]"
+chronological_order: 562
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.16.1 War between Asa and Baasha|War between Asa and Baasha]]"
+- "[[2Chr.16.7 Hanani’s Message to Asa|Hanani’s Message to Asa]]"
+- "[[2Chr.16.11 The Death and Burial of Asa|The Death and Burial of Asa]]"
+---
+
 (KJV) **2 Chronicles 16**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.15|<< 2 Chronicles 15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.17|2 Chronicles 17 >>]]</td></tr></table>
 
 <big><big>[[2Chr.16.1 War between Asa and Baasha|⥃]]</big></big>***War between Asa and Baasha***&emsp;<small><sup>\[ [[1Kgs.15|1 Kings 15:16–22]] ]</sup></small>

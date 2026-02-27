@@ -1,3 +1,25 @@
+---
+title: Hebrews 5
+type: Chapter
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 5
+book/chapter: "[[Heb.5|Hebrews 5]]"
+chronological_order: 1144
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+pericopes:
+- "[[Heb.5.1 The Perfect High Priest|The Perfect High Priest]]"
+- "[[Heb.5.11 Milk and Solid Food|Milk and Solid Food]]"
+---
+
 (KJV) **Hebrews 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4|<< Hebrews 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6|Hebrews 6 >>]]</td></tr></table>
 
 <big><big>[[Heb.5.1 The Perfect High Priest|⥃]]</big></big>***The Perfect High Priest***&emsp;<small><sup>\[ [[Ps.110|Psalms 110:1–7]] ]</sup></small>

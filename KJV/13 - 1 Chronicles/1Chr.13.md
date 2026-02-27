@@ -1,3 +1,25 @@
+---
+title: 1 Chronicles 13
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Chronicles
+chapter: 13
+book/chapter: "[[1Chr.13|1 Chronicles 13]]"
+chronological_order: 394
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+pericopes:
+- "[[1Chr.13.1 David Fetches the Ark|David Fetches the Ark]]"
+- "[[1Chr.13.8 Uzzah Touches the Ark|Uzzah Touches the Ark]]"
+---
+
 (KJV) **1 Chronicles 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12|<< 1 Chronicles 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.14|1 Chronicles 14 >>]]</td></tr></table>
 
 <big><big>[[1Chr.13.1 David Fetches the Ark|⥃]]</big></big>***David Fetches the Ark***&emsp;<small><sup>\[ [[2Sam.6|2 Samuel 6:1–4]] ]</sup></small>

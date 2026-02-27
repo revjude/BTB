@@ -1,3 +1,32 @@
+---
+title: Numbers 21
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 21
+book/chapter: "[[Num.21|Numbers 21]]"
+chronological_order: 181
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.21.1 The Defeat of Arad|The Defeat of Arad]]"
+- "[[Num.21.4 The Bronze Serpent|The Bronze Serpent]]"
+- "[[Num.21.10 The Journey to Moab|The Journey to Moab]]"
+- "[[Num.21.21 The Defeat of Sihon|The Defeat of Sihon]]"
+- "[[Num.21.31 The Defeat of Og|The Defeat of Og]]"
+---
+
 (KJV) **Numbers 21**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.20|<< Numbers 20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22|Numbers 22 >>]]</td></tr></table>
 
 <big><big>[[Num.21.1 The Defeat of Arad|⥃]]</big></big>***The Defeat of Arad***

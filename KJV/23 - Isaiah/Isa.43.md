@@ -1,3 +1,27 @@
+---
+title: Isaiah 43
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 43
+book/chapter: "[[Isa.43|Isaiah 43]]"
+chronological_order: 682
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.43.1 Israel’s Only Savior|Israel’s Only Savior]]"
+- "[[Isa.43.14 A Way in the Wilderness|A Way in the Wilderness]]"
+- "[[Isa.43.22 Israel’s Unfaithfulness|Israel’s Unfaithfulness]]"
+---
+
 (KJV) **Isaiah 43**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42|<< Isaiah 42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44|Isaiah 44 >>]]</td></tr></table>
 
 <big><big>[[Isa.43.1 Israel’s Only Savior|⥃]]</big></big>***Israel’s Only Savior***

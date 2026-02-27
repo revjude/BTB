@@ -1,3 +1,26 @@
+---
+title: 2 Thessalonians 3
+type: Chapter
+original_language: Greek
+testament: New
+book: 2 Thessalonians
+chapter: 3
+book/chapter: "[[2Thess.3|2 Thessalonians 3]]"
+chronological_order: 1055
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+pericopes:
+- "[[2Thess.3.1 Request for Prayer|Request for Prayer]]"
+- "[[2Thess.3.6 A Warning against Idleness|A Warning against Idleness]]"
+- "[[2Thess.3.16 Signature and Final Greetings|Signature and Final Greetings]]"
+---
+
 (KJV) **2 Thessalonians 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2|<< 2 Thessalonians 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1|1 Timothy 1 >>]]</td></tr></table>
 
 <big><big>[[2Thess.3.1 Request for Prayer|⥃]]</big></big>***Request for Prayer***

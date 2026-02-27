@@ -1,3 +1,33 @@
+---
+title: Deuteronomy 4
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+pericopes:
+- "[[Deut.4.1 An Exhortation to Obedience|An Exhortation to Obedience]]"
+- "[[Deut.4.15 A Warning against Idolatry|A Warning against Idolatry]]"
+- "[[Deut.4.32 The LORD Alone Is God|The LORD Alone Is God]]"
+- "[[Deut.4.41 Cities of Refuge|Cities of Refuge]]"
+- "[[Deut.4.44 Introduction to the Law|Introduction to the Law]]"
+---
+
 (KJV) **Deuteronomy 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3|<< Deuteronomy 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5|Deuteronomy 5 >>]]</td></tr></table>
 
 <big><big>[[Deut.4.1 An Exhortation to Obedience|⥃]]</big></big>***An Exhortation to Obedience***&emsp;<small><sup>\[ [[Deut.11|Deuteronomy 11:1–7]] ]</sup></small>

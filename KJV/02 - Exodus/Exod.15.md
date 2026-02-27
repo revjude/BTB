@@ -1,3 +1,30 @@
+---
+title: Exodus 15
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 15
+book/chapter: "[[Exod.15|Exodus 15]]"
+chronological_order: 107
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.15.1 The Song at the Sea|The Song at the Sea]]"
+- "[[Exod.15.22 The Waters of Marah|The Waters of Marah]]"
+---
+
 (KJV) **Exodus 15**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14|<< Exodus 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16|Exodus 16 >>]]</td></tr></table>
 
 <big><big>[[Exod.15.1 The Song at the Sea|⥃]]</big></big>***The Song at the Sea***&emsp;<small><sup>\[ [[Judg.5|Judges 5:1–31]] ]</sup></small>

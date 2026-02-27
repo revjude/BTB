@@ -1,3 +1,24 @@
+---
+title: Proverbs 13
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Proverbs
+chapter: 13
+book/chapter: "[[Prov.13|Proverbs 13]]"
+chronological_order: 468
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+pericopes:
+- "[[Prov.13.1 A Father’s Discipline|A Father’s Discipline]]"
+---
+
 (KJV) **Proverbs 13**<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12|<< Proverbs 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14|Proverbs 14 >>]]</td></tr></table>
 
 <big><big>[[Prov.13.1 A Father’s Discipline|⥃]]</big></big>***A Father’s Discipline***

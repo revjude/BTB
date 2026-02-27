@@ -1,3 +1,29 @@
+---
+title: 2 Chronicles 34
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 34
+book/chapter: "[[2Chr.34|2 Chronicles 34]]"
+chronological_order: 713
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.34.1 Josiah Reigns in Judah|Josiah Reigns in Judah]]"
+- "[[2Chr.34.3 Josiah Destroys Idolatry|Josiah Destroys Idolatry]]"
+- "[[2Chr.34.8 Josiah Repairs the Temple|Josiah Repairs the Temple]]"
+- "[[2Chr.34.14 Hilkiah Finds the Book of the Law|Hilkiah Finds the Book of the Law]]"
+- "[[2Chr.34.22 Huldah’s Prophecy|Huldah’s Prophecy]]"
+- "[[2Chr.34.29 Josiah Renews the Covenant|Josiah Renews the Covenant]]"
+---
+
 (KJV) **2 Chronicles 34**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.33|<< 2 Chronicles 33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35|2 Chronicles 35 >>]]</td></tr></table>
 
 <big><big>[[2Chr.34.1 Josiah Reigns in Judah|⥃]]</big></big>***Josiah Reigns in Judah***&emsp;<small><sup>\[ [[2Kgs.22|2 Kings 22:1–2]] ]</sup></small>

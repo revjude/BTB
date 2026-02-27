@@ -1,3 +1,27 @@
+---
+title: Hebrews 12
+type: Chapter
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 12
+book/chapter: "[[Heb.12|Hebrews 12]]"
+chronological_order: 1151
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+pericopes:
+- "[[Heb.12.1 A Call to Endurance|A Call to Endurance]]"
+- "[[Heb.12.4 God Disciplines His Sons|God Disciplines His Sons]]"
+- "[[Heb.12.14 A Call to Holiness|A Call to Holiness]]"
+- "[[Heb.12.18 An Unshakable Kingdom|An Unshakable Kingdom]]"
+---
+
 (KJV) **Hebrews 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11|<< Hebrews 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13|Hebrews 13 >>]]</td></tr></table>
 
 <big><big>[[Heb.12.1 A Call to Endurance|⥃]]</big></big>***A Call to Endurance***&emsp;<small><sup>\[ [[2Tim.2|2 Timothy 2:1–13]] ]</sup></small>

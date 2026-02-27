@@ -1,3 +1,24 @@
+---
+title: Lamentations 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Lamentations
+chapter: 1
+book/chapter: "[[Lam.1|Lamentations 1]]"
+chronological_order: 776
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+pericopes:
+- "[[Lam.1.1 How Lonely Lies the City!|How Lonely Lies the City!]]"
+---
+
 (KJV) **Lamentations 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52|<< Jeremiah 52]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2|Lamentations 2 >>]]</td></tr></table>
 
 <big><big>[[Lam.1.1 How Lonely Lies the City!|⥃]]</big></big>***How Lonely Lies the City!***&emsp;<small><sup>\[ [[2Kgs.24|2 Kings 24:10–17]] ]</sup></small>

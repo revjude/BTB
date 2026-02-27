@@ -1,3 +1,25 @@
+---
+title: Isaiah 45
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 45
+book/chapter: "[[Isa.45|Isaiah 45]]"
+chronological_order: 684
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.45.1 God Calls Cyrus|God Calls Cyrus]]"
+---
+
 (KJV) **Isaiah 45**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44|<< Isaiah 44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.46|Isaiah 46 >>]]</td></tr></table>
 
 <big><big>[[Isa.45.1 God Calls Cyrus|⥃]]</big></big>***God Calls Cyrus***&emsp;<small><sup>\[ [[2Chr.36|2 Chronicles 36:22–23]] <big>†</big> [[Ezra.1|Ezra 1:1–4]] ]</sup></small>

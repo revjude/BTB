@@ -1,3 +1,27 @@
+---
+title: Psalm 94
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 94
+book/chapter: "[[Ps.94|Psalm 94]]"
+chronological_order: 521
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.94.1 The LORD Will Not Forget His People|The LORD Will Not Forget His People]]"
+---
+
 (KJV) **Psalm 94**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.93|<< Psalm 93]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.95|Psalm 95 >>]]</td></tr></table>
 
 <big><big>[[Ps.94.1 The LORD Will Not Forget His People|⥃]]</big></big>***The LORD Will Not Forget His People*** <small><small>[^2]</small></small> 

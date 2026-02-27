@@ -1,3 +1,25 @@
+---
+title: Isaiah 55
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 55
+book/chapter: "[[Isa.55|Isaiah 55]]"
+chronological_order: 694
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.55.1 Invitation to the Needy|Invitation to the Needy]]"
+---
+
 (KJV) **Isaiah 55**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54|<< Isaiah 54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.56|Isaiah 56 >>]]</td></tr></table>
 
 <big><big>[[Isa.55.1 Invitation to the Needy|⥃]]</big></big>***Invitation to the Needy***

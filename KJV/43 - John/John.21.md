@@ -1,3 +1,26 @@
+---
+title: John 21
+type: Chapter
+original_language: Greek
+testament: New
+book: John
+chapter: 21
+book/chapter: "[[John.21|John 21]]"
+chronological_order: 1018
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+pericopes:
+- "[[John.21.1 Jesus Appears by the Sea of Tiberias|Jesus Appears by the Sea of Tiberias]]"
+- "[[John.21.15 Jesus and Peter|Jesus and Peter]]"
+- "[[John.21.20 Jesus and the Beloved Disciple|Jesus and the Beloved Disciple]]"
+---
+
 (KJV) **John 21**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20|<< John 20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1|Acts 1 >>]]</td></tr></table>
 
 <big><big>[[John.21.1 Jesus Appears by the Sea of Tiberias|⥃]]</big></big>***Jesus Appears by the Sea of Tiberias***

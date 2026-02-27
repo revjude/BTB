@@ -1,3 +1,33 @@
+---
+title: Exodus 37
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 37
+book/chapter: "[[Exod.37|Exodus 37]]"
+chronological_order: 129
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.37.1 Constructing the Ark|Constructing the Ark]]"
+- "[[Exod.37.6 The Mercy Seat|The Mercy Seat]]"
+- "[[Exod.37.10 The Table of Showbread|The Table of Showbread]]"
+- "[[Exod.37.17 The Lampstand|The Lampstand]]"
+- "[[Exod.37.25 The Altar of Incense|The Altar of Incense]]"
+---
+
 (KJV) **Exodus 37**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36|<< Exodus 36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38|Exodus 38 >>]]</td></tr></table>
 
 <big><big>[[Exod.37.1 Constructing the Ark|⥃]]</big></big>***Constructing the Ark***&emsp;<small><sup>\[ [[Exod.25|Exodus 25:10–16]] ]</sup></small>

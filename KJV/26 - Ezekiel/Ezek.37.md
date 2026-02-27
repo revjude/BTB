@@ -1,3 +1,28 @@
+---
+title: Ezekiel 37
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 37
+book/chapter: "[[Ezek.37|Ezekiel 37]]"
+chronological_order: 828
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.37.1 The Valley of Dry Bones|The Valley of Dry Bones]]"
+- "[[Ezek.37.15 One Nation with One King|One Nation with One King]]"
+---
+
 (KJV) **Ezekiel 37**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36|<< Ezekiel 36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38|Ezekiel 38 >>]]</td></tr></table>
 
 <big><big>[[Ezek.37.1 The Valley of Dry Bones|⥃]]</big></big>***The Valley of Dry Bones***

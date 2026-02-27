@@ -1,3 +1,26 @@
+---
+title: Lamentations 3
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Lamentations
+chapter: 3
+book/chapter: "[[Lam.3|Lamentations 3]]"
+chronological_order: 778
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+pericopes:
+- "[[Lam.3.1 The Prophet’s Afflictions|The Prophet’s Afflictions]]"
+- "[[Lam.3.19 The Prophet’s Hope|The Prophet’s Hope]]"
+- "[[Lam.3.37 God’s Justice|God’s Justice]]"
+---
+
 (KJV) **Lamentations 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2|<< Lamentations 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4|Lamentations 4 >>]]</td></tr></table>
 
 <big><big>[[Lam.3.1 The Prophet’s Afflictions|⥃]]</big></big>***The Prophet’s Afflictions***

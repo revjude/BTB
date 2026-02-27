@@ -1,3 +1,27 @@
+---
+title: Jeremiah 11
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 11
+book/chapter: "[[Jer.11|Jeremiah 11]]"
+chronological_order: 728
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.11.1 The Broken Covenant|The Broken Covenant]]"
+- "[[Jer.11.18 A Plot against Jeremiah|A Plot against Jeremiah]]"
+---
+
 (KJV) **Jeremiah 11**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10|<< Jeremiah 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.12|Jeremiah 12 >>]]</td></tr></table>
 
 <big><big>[[Jer.11.1 The Broken Covenant|⥃]]</big></big>***The Broken Covenant***

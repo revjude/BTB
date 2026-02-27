@@ -1,3 +1,27 @@
+---
+title: Matthew 2
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 2
+book/chapter: "[[Matt.2|Matthew 2]]"
+chronological_order: 932
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.2.1 The Pilgrimage of the Magi|The Pilgrimage of the Magi]]"
+- "[[Matt.2.13 The Flight to Egypt|The Flight to Egypt]]"
+- "[[Matt.2.16 Weeping and Great Mourning|Weeping and Great Mourning]]"
+- "[[Matt.2.19 The Return to Nazareth|The Return to Nazareth]]"
+---
+
 (KJV) **Matthew 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1|<< Matthew 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.3|Matthew 3 >>]]</td></tr></table>
 
 <big><big>[[Matt.2.1 The Pilgrimage of the Magi|⥃]]</big></big>***The Pilgrimage of the Magi***&emsp;<small><sup>\[ [[Mic.5|Micah 5:1–6]] ]</sup></small>

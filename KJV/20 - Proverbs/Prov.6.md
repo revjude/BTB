@@ -1,3 +1,25 @@
+---
+title: Proverbs 6
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Proverbs
+chapter: 6
+book/chapter: "[[Prov.6|Proverbs 6]]"
+chronological_order: 461
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+pericopes:
+- "[[Prov.6.1 Warnings against Foolishness|Warnings against Foolishness]]"
+- "[[Prov.6.20 Warnings against Adultery|Warnings against Adultery]]"
+---
+
 (KJV) **Proverbs 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.5|<< Proverbs 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.7|Proverbs 7 >>]]</td></tr></table>
 
 <big><big>[[Prov.6.1 Warnings against Foolishness|⥃]]</big></big>***Warnings against Foolishness***

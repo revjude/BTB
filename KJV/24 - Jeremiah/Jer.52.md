@@ -1,3 +1,29 @@
+---
+title: Jeremiah 52
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 52
+book/chapter: "[[Jer.52|Jeremiah 52]]"
+chronological_order: 775
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.52.1 The Fall of Jerusalem Recounted|The Fall of Jerusalem Recounted]]"
+- "[[Jer.52.12 The Temple Destroyed|The Temple Destroyed]]"
+- "[[Jer.52.24 Captives Carried to Babylon|Captives Carried to Babylon]]"
+- "[[Jer.52.31 Jehoiachin Released from Prison|Jehoiachin Released from Prison]]"
+---
+
 (KJV) **Jeremiah 52**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51|<< Jeremiah 51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1|Lamentations 1 >>]]</td></tr></table>
 
 <big><big>[[Jer.52.1 The Fall of Jerusalem Recounted|⥃]]</big></big>***The Fall of Jerusalem Recounted***&emsp;<small><sup>\[ [[Ps.74|Psalms 74:1–23]] <big>†</big> [[Ps.79|Psalms 79:1–13]] <big>†</big> [[2Kgs.24|2 Kings 24:18–20]] <big>†</big> [[2Chr.36|2 Chronicles 36:11–14]] ]</sup></small>

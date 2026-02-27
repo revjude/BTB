@@ -1,3 +1,25 @@
+---
+title: 2 Chronicles 6
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 6
+book/chapter: "[[2Chr.6|2 Chronicles 6]]"
+chronological_order: 495
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.6.1 Solomon Blesses the LORD|Solomon Blesses the LORD]]"
+- "[[2Chr.6.12 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+---
+
 (KJV) **2 Chronicles 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.5|<< 2 Chronicles 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.7|2 Chronicles 7 >>]]</td></tr></table>
 
 <big><big>[[2Chr.6.1 Solomon Blesses the LORD|⥃]]</big></big>***Solomon Blesses the LORD***&emsp;<small><sup>\[ [[1Kgs.8|1 Kings 8:12–21]] ]</sup></small>

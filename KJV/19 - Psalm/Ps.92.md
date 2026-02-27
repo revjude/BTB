@@ -1,3 +1,27 @@
+---
+title: Psalm 92
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 92
+book/chapter: "[[Ps.92|Psalm 92]]"
+chronological_order: 519
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.92.1 How Great Are Your Works!|How Great Are Your Works!]]"
+---
+
 (KJV) **Psalm 92**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.91|<< Psalm 91]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.93|Psalm 93 >>]]</td></tr></table>
 
 <big><big>[[Ps.92.1 How Great Are Your Works!|⥃]]</big></big>***How Great Are Your Works!***

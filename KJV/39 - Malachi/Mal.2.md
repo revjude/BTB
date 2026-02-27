@@ -1,3 +1,26 @@
+---
+title: Malachi 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Malachi
+chapter: 2
+book/chapter: "[[Mal.2|Malachi 2]]"
+chronological_order: 927
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+pericopes:
+- "[[Mal.2.1 A Warning to the Priests|A Warning to the Priests]]"
+- "[[Mal.2.10 Judah’s Unfaithfulness|Judah’s Unfaithfulness]]"
+---
+
 (KJV) **Malachi 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.1|<< Malachi 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3|Malachi 3 >>]]</td></tr></table>
 
 <big><big>[[Mal.2.1 A Warning to the Priests|⥃]]</big></big>***A Warning to the Priests***

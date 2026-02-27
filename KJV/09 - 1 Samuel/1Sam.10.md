@@ -1,3 +1,26 @@
+---
+title: 1 Samuel 10
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Samuel
+chapter: 10
+book/chapter: "[[1Sam.10|1 Samuel 10]]"
+chronological_order: 289
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[1Sam.10.1 Samuel Anoints Saul|Samuel Anoints Saul]]"
+- "[[1Sam.10.9 Samuel’s Signs Fulfilled|Samuel’s Signs Fulfilled]]"
+- "[[1Sam.10.17 Saul Proclaimed King|Saul Proclaimed King]]"
+---
+
 (KJV) **1 Samuel 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.9|<< 1 Samuel 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.11|1 Samuel 11 >>]]</td></tr></table>
 
 <big><big>[[1Sam.10.1 Samuel Anoints Saul|⥃]]</big></big>***Samuel Anoints Saul***

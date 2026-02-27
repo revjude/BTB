@@ -1,3 +1,28 @@
+---
+title: Zechariah 9
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Zechariah
+chapter: 9
+book/chapter: "[[Zech.9|Zechariah 9]]"
+chronological_order: 865
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+pericopes:
+- "[[Zech.9.1 The Burden against Israel’s Enemies|The Burden against Israel’s Enemies]]"
+- "[[Zech.9.9 Zion’s Coming King|Zion’s Coming King]]"
+- "[[Zech.9.14 The LORD Will Save His People|The LORD Will Save His People]]"
+---
+
 (KJV) **Zechariah 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.8|<< Zechariah 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.10|Zechariah 10 >>]]</td></tr></table>
 
 <big><big>[[Zech.9.1 The Burden against Israel’s Enemies|⥃]]</big></big>***The Burden against Israel’s Enemies***

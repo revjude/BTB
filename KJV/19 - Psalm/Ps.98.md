@@ -1,3 +1,27 @@
+---
+title: Psalm 98
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 98
+book/chapter: "[[Ps.98|Psalm 98]]"
+chronological_order: 525
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.98.1 Sing to the LORD a New Song|Sing to the LORD a New Song]]"
+---
+
 (KJV) **Psalm 98**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.97|<< Psalm 97]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.99|Psalm 99 >>]]</td></tr></table>
 
 <big><big>[[Ps.98.1 Sing to the LORD a New Song|⥃]]</big></big>***Sing to the LORD a New Song***&emsp;<small><sup>\[ [[Ps.149|Psalms 149:1–9]] <big>†</big> [[Isa.42|Isaiah 42:10–17]] ]</sup></small>

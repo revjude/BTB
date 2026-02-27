@@ -1,3 +1,27 @@
+---
+title: Psalm 132
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 132
+book/chapter: "[[Ps.132|Psalm 132]]"
+chronological_order: 401
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.132.1 The LORD Has Chosen Zion|The LORD Has Chosen Zion]]"
+---
+
 (KJV) **Psalm 132**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.131|<< Psalm 131]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.133|Psalm 133 >>]]</td></tr></table>
 
 <big><big>[[Ps.132.1 The LORD Has Chosen Zion|⥃]]</big></big>***The LORD Has Chosen Zion***

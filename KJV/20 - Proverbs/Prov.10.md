@@ -1,3 +1,24 @@
+---
+title: Proverbs 10
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Proverbs
+chapter: 10
+book/chapter: "[[Prov.10|Proverbs 10]]"
+chronological_order: 465
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+pericopes:
+- "[[Prov.10.1 Solomon’s Proverbs：The Wise Son|Solomon’s Proverbs：The Wise Son]]"
+---
+
 (KJV) **Proverbs 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.9|<< Proverbs 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11|Proverbs 11 >>]]</td></tr></table>
 
 <big><big>[[Prov.10.1 Solomon’s Proverbs：The Wise Son|⥃]]</big></big>***Solomon’s Proverbs: The Wise Son***

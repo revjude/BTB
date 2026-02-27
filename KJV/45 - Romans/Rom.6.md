@@ -1,3 +1,24 @@
+---
+title: Romans 6
+type: Chapter
+original_language: Greek
+testament: New
+book: Romans
+chapter: 6
+book/chapter: "[[Rom.6|Romans 6]]"
+chronological_order: 1092
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+pericopes:
+- "[[Rom.6.1 Dead to Sin, Alive to God|Dead to Sin, Alive to God]]"
+- "[[Rom.6.15 The Wages of Sin|The Wages of Sin]]"
+---
+
 (KJV) **Romans 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5|<< Romans 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7|Romans 7 >>]]</td></tr></table>
 
 <big><big>[[Rom.6.1 Dead to Sin, Alive to God|⥃]]</big></big>***Dead to Sin, Alive to God***&emsp;<small><sup>\[ [[2Cor.4|2 Corinthians 4:7–18]] ]</sup></small>

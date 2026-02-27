@@ -1,3 +1,27 @@
+---
+title: John 14
+type: Chapter
+original_language: Greek
+testament: New
+book: John
+chapter: 14
+book/chapter: "[[John.14|John 14]]"
+chronological_order: 1002
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+pericopes:
+- "[[John.14.1 In My Father’s House Are Many Rooms|In My Father’s House Are Many Rooms]]"
+- "[[John.14.5 The Way, the Truth, and the Life|The Way, the Truth, and the Life]]"
+- "[[John.14.15 Jesus Promises the Holy Spirit|Jesus Promises the Holy Spirit]]"
+- "[[John.14.27 Peace I Leave with You|Peace I Leave with You]]"
+---
+
 (KJV) **John 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13|<< John 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15|John 15 >>]]</td></tr></table>
 
 <big><big>[[John.14.1 In My Father’s House Are Many Rooms|⥃]]</big></big>***In My Father’s House Are Many Rooms***

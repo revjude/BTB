@@ -1,3 +1,27 @@
+---
+title: 2 Samuel 15
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Samuel
+chapter: 15
+book/chapter: "[[2Sam.15|2 Samuel 15]]"
+chronological_order: 414
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+pericopes:
+- "[[2Sam.15.1 Absalom’s Conspiracy|Absalom’s Conspiracy]]"
+- "[[2Sam.15.13 David Flees Jerusalem|David Flees Jerusalem]]"
+- "[[2Sam.15.30 David Weeps at the Mount of Olives|David Weeps at the Mount of Olives]]"
+---
+
 (KJV) **2 Samuel 15**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14|<< 2 Samuel 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16|2 Samuel 16 >>]]</td></tr></table>
 
 <big><big>[[2Sam.15.1 Absalom’s Conspiracy|⥃]]</big></big>***Absalom’s Conspiracy***

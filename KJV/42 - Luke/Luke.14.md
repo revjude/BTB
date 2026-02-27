@@ -1,3 +1,29 @@
+---
+title: Luke 14
+type: Chapter
+original_language: Greek
+testament: New
+book: Luke
+chapter: 14
+book/chapter: "[[Luke.14|Luke 14]]"
+chronological_order: 976
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+pericopes:
+- "[[Luke.14.1 Jesus Heals a Man with Dropsy|Jesus Heals a Man with Dropsy]]"
+- "[[Luke.14.7 The Parable of the Guests|The Parable of the Guests]]"
+- "[[Luke.14.15 The Parable of the Banquet|The Parable of the Banquet]]"
+- "[[Luke.14.25 The Cost of Discipleship|The Cost of Discipleship]]"
+- "[[Luke.14.34 Good Salt|Good Salt]]"
+---
+
 (KJV) **Luke 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13|<< Luke 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15|Luke 15 >>]]</td></tr></table>
 
 <big><big>[[Luke.14.1 Jesus Heals a Man with Dropsy|⥃]]</big></big>***Jesus Heals a Man with Dropsy***

@@ -1,3 +1,29 @@
+---
+title: 1 Timothy 6
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 6
+book/chapter: "[[1Tim.6|1 Timothy 6]]"
+chronological_order: 1131
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+pericopes:
+- "[[1Tim.6.1 Serving with Honor|Serving with Honor]]"
+- "[[1Tim.6.3 Reject False Doctrines|Reject False Doctrines]]"
+- "[[1Tim.6.6 Godliness with Contentment|Godliness with Contentment]]"
+- "[[1Tim.6.11 Fight the Good Fight|Fight the Good Fight]]"
+- "[[1Tim.6.17 A Charge to the Rich|A Charge to the Rich]]"
+- "[[1Tim.6.20 Guard the Faith|Guard the Faith]]"
+---
+
 (KJV) **1 Timothy 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.5|<< 1 Timothy 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1|2 Timothy 1 >>]]</td></tr></table>
 
 <big><big>[[1Tim.6.1 Serving with Honor|⥃]]</big></big>***Serving with Honor***&emsp;<small><sup>\[ [[Eph.6|Ephesians 6:5–9]] <big>†</big> [[Col.3|Colossians 3:22–25]] ]</sup></small>

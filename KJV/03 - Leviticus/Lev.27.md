@@ -1,3 +1,30 @@
+---
+title: Leviticus 27
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Leviticus
+chapter: 27
+book/chapter: "[[Lev.27|Leviticus 27]]"
+chronological_order: 159
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+pericopes:
+- "[[Lev.27.1 Rules about Valuations|Rules about Valuations]]"
+- "[[Lev.27.30 Instruction on Tithes|Instruction on Tithes]]"
+---
+
 (KJV) **Leviticus 27**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26|<< Leviticus 26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1|Numbers 1 >>]]</td></tr></table>
 
 <big><big>[[Lev.27.1 Rules about Valuations|⥃]]</big></big>***Rules about Valuations***

@@ -1,3 +1,24 @@
+---
+title: Acts 22
+type: Chapter
+original_language: Greek
+testament: New
+book: Acts
+chapter: 22
+book/chapter: "[[Acts.22|Acts 22]]"
+chronological_order: 1104
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+pericopes:
+- "[[Acts.22.1 Paul’s Defense to the Crowd|Paul’s Defense to the Crowd]]"
+- "[[Acts.22.22 Paul the Roman Citizen|Paul the Roman Citizen]]"
+---
+
 (KJV) **Acts 22**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21|<< Acts 21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23|Acts 23 >>]]</td></tr></table>
 
 <big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥃]]</big></big>***Paul’s Defense to the Crowd***&emsp;<small><sup>\[ [[Acts.9|Acts 9:1–19]] <big>†</big> [[Acts.26|Acts 26:1–23]] ]</sup></small>

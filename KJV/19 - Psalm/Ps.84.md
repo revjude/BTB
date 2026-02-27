@@ -1,3 +1,27 @@
+---
+title: Psalm 84
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 84
+book/chapter: "[[Ps.84|Psalm 84]]"
+chronological_order: 514
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.84.1 Better Is One Day in Your Courts|Better Is One Day in Your Courts]]"
+---
+
 (KJV) **Psalm 84**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.83|<< Psalm 83]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.85|Psalm 85 >>]]</td></tr></table>
 
 <big><big>[[Ps.84.1 Better Is One Day in Your Courts|⥃]]</big></big>***Better Is One Day in Your Courts***&emsp;<small><sup>\[ [[John.1|John 1:14–18]] ]</sup></small>

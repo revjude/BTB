@@ -1,3 +1,27 @@
+---
+title: 1 Corinthians 15
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 15
+book/chapter: "[[1Cor.15|1 Corinthians 15]]"
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+pericopes:
+- "[[1Cor.15.1 The Resurrection of Christ|The Resurrection of Christ]]"
+- "[[1Cor.15.12 The Resurrection of the Dead|The Resurrection of the Dead]]"
+- "[[1Cor.15.20 The Order of Resurrection|The Order of Resurrection]]"
+- "[[1Cor.15.35 The Resurrection Body|The Resurrection Body]]"
+- "[[1Cor.15.50 Where, O Death, Is Your Victory？|Where, O Death, Is Your Victory？]]"
+---
+
 (KJV) **1 Corinthians 15**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14|<< 1 Corinthians 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16|1 Corinthians 16 >>]]</td></tr></table>
 
 <big><big>[[1Cor.15.1 The Resurrection of Christ|⥃]]</big></big>***The Resurrection of Christ***

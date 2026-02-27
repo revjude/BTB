@@ -1,3 +1,25 @@
+---
+title: Job 41
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 41
+book/chapter: "[[Job.41|Job 41]]"
+chronological_order: 52
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.41.1 The LORD’s Power Shown in Leviathan|The LORD’s Power Shown in Leviathan]]"
+---
+
 (KJV) **Job 41**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40|<< Job 40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42|Job 42 >>]]</td></tr></table>
 
 <big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥃]]</big></big>***The LORD’s Power Shown in Leviathan***

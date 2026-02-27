@@ -1,3 +1,30 @@
+---
+title: Proverbs 22
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Proverbs
+chapter: 22
+book/chapter: "[[Prov.22|Proverbs 22]]"
+chronological_order: 477
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+pericopes:
+- "[[Prov.22.1 A Good Name|A Good Name]]"
+- "[[Prov.22.17 Saying 1|Saying 1]]"
+- "[[Prov.22.22 Saying 2|Saying 2]]"
+- "[[Prov.22.24 Saying 3|Saying 3]]"
+- "[[Prov.22.26 Saying 4|Saying 4]]"
+- "[[Prov.22.28 Saying 5|Saying 5]]"
+- "[[Prov.22.29 Saying 6|Saying 6]]"
+---
+
 (KJV) **Proverbs 22**<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21|<< Proverbs 21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23|Proverbs 23 >>]]</td></tr></table>
 
 <big><big>[[Prov.22.1 A Good Name|⥃]]</big></big>***A Good Name***

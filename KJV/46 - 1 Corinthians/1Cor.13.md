@@ -1,3 +1,23 @@
+---
+title: 1 Corinthians 13
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 13
+book/chapter: "[[1Cor.13|1 Corinthians 13]]"
+chronological_order: 1070
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+pericopes:
+- "[[1Cor.13.1 Love|Love]]"
+---
+
 (KJV) **1 Corinthians 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12|<< 1 Corinthians 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14|1 Corinthians 14 >>]]</td></tr></table>
 
 <big><big>[[1Cor.13.1 Love|⥃]]</big></big>***Love***

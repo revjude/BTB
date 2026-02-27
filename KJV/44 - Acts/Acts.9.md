@@ -1,3 +1,29 @@
+---
+title: Acts 9
+type: Chapter
+original_language: Greek
+testament: New
+book: Acts
+chapter: 9
+book/chapter: "[[Acts.9|Acts 9]]"
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+pericopes:
+- "[[Acts.9.1 The Road to Damascus|The Road to Damascus]]"
+- "[[Acts.9.10 Ananias Baptizes Saul|Ananias Baptizes Saul]]"
+- "[[Acts.9.20 Saul Preaches at Damascus|Saul Preaches at Damascus]]"
+- "[[Acts.9.23 The Escape from Damascus|The Escape from Damascus]]"
+- "[[Acts.9.26 Saul in Jerusalem|Saul in Jerusalem]]"
+- "[[Acts.9.31 The Healing of Aeneas|The Healing of Aeneas]]"
+- "[[Acts.9.36 The Raising of Tabitha|The Raising of Tabitha]]"
+---
+
 (KJV) **Acts 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8|<< Acts 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10|Acts 10 >>]]</td></tr></table>
 
 <big><big>[[Acts.9.1 The Road to Damascus|⥃]]</big></big>***The Road to Damascus***&emsp;<small><sup>\[ [[Acts.22|Acts 22:1–21]] <big>†</big> [[Acts.26|Acts 26:1–23]] ]</sup></small>

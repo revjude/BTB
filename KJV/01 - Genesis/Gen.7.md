@@ -1,3 +1,27 @@
+---
+title: Genesis 7
+type: Chapter
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 7
+book/chapter: "[[Gen.7|Genesis 7]]"
+chronological_order: 7
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.7.1 The Great Flood|The Great Flood]]"
+---
+
 (KJV) **Genesis 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.6|<< Genesis 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.8|Genesis 8 >>]]</td></tr></table>
 
 <big><big>[[Gen.7.1 The Great Flood|⥃]]</big></big>***The Great Flood***&emsp;<small><sup>\[ [[2Pet.3|2 Peter 3:1–7]] ]</sup></small>

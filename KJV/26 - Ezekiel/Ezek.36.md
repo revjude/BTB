@@ -1,3 +1,28 @@
+---
+title: Ezekiel 36
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 36
+book/chapter: "[[Ezek.36|Ezekiel 36]]"
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.36.1 A Prophecy to the Mountains of Israel|A Prophecy to the Mountains of Israel]]"
+- "[[Ezek.36.16 A New Heart and a New Spirit|A New Heart and a New Spirit]]"
+---
+
 (KJV) **Ezekiel 36**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.35|<< Ezekiel 35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37|Ezekiel 37 >>]]</td></tr></table>
 
 <big><big>[[Ezek.36.1 A Prophecy to the Mountains of Israel|⥃]]</big></big>***A Prophecy to the Mountains of Israel***

@@ -1,3 +1,25 @@
+---
+title: Hebrews 4
+type: Chapter
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 4
+book/chapter: "[[Heb.4|Hebrews 4]]"
+chronological_order: 1143
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+pericopes:
+- "[[Heb.4.1 The Sabbath Rest|The Sabbath Rest]]"
+- "[[Heb.4.12 The Living Word|The Living Word]]"
+---
+
 (KJV) **Hebrews 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3|<< Hebrews 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.5|Hebrews 5 >>]]</td></tr></table>
 
 <big><big>[[Heb.4.1 The Sabbath Rest|⥃]]</big></big>***The Sabbath Rest***&emsp;<small><sup>\[ [[Gen.2|Genesis 2:1–3]] <big>†</big> [[Exod.16|Exodus 16:22–30]] ]</sup></small>

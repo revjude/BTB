@@ -1,3 +1,24 @@
+---
+title: Hosea 12
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Hosea
+chapter: 12
+book/chapter: "[[Hos.12|Hosea 12]]"
+chronological_order: 653
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+pericopes:
+- "[[Hos.12.1 A Reproof of Ephraim, Judah, and Jacob|A Reproof of Ephraim, Judah, and Jacob]]"
+---
+
 (KJV) **Hosea 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.11|<< Hosea 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13|Hosea 13 >>]]</td></tr></table>
 
 <big><big>[[Hos.12.1 A Reproof of Ephraim, Judah, and Jacob|⥃]]</big></big>***A Reproof of Ephraim, Judah, and Jacob***

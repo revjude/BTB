@@ -1,3 +1,27 @@
+---
+title: Jeremiah 21
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 21
+book/chapter: "[[Jer.21|Jeremiah 21]]"
+chronological_order: 744
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.21.1 Jerusalem Will Fall to Babylon|Jerusalem Will Fall to Babylon]]"
+- "[[Jer.21.11 A Message to the House of David|A Message to the House of David]]"
+---
+
 (KJV) **Jeremiah 21**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.20|<< Jeremiah 20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22|Jeremiah 22 >>]]</td></tr></table>
 
 <big><big>[[Jer.21.1 Jerusalem Will Fall to Babylon|⥃]]</big></big>***Jerusalem Will Fall to Babylon***

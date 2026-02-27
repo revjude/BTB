@@ -1,3 +1,27 @@
+---
+title: John 4
+type: Chapter
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+pericopes:
+- "[[John.4.1 Jesus and the Samaritan Woman|Jesus and the Samaritan Woman]]"
+- "[[John.4.27 The Disciples Return and Marvel|The Disciples Return and Marvel]]"
+- "[[John.4.39 Many Samaritans Believe|Many Samaritans Believe]]"
+- "[[John.4.43 Jesus Heals the Official’s Son|Jesus Heals the Official’s Son]]"
+---
+
 (KJV) **John 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3|<< John 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5|John 5 >>]]</td></tr></table>
 
 <big><big>[[John.4.1 Jesus and the Samaritan Woman|⥃]]</big></big>***Jesus and the Samaritan Woman***

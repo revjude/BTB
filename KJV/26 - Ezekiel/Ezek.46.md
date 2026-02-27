@@ -1,3 +1,28 @@
+---
+title: Ezekiel 46
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 46
+book/chapter: "[[Ezek.46|Ezekiel 46]]"
+chronological_order: 837
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.46.1 The Prince’s Offerings|The Prince’s Offerings]]"
+- "[[Ezek.46.19 The Courts for Boiling and Baking|The Courts for Boiling and Baking]]"
+---
+
 (KJV) **Ezekiel 46**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45|<< Ezekiel 45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47|Ezekiel 47 >>]]</td></tr></table>
 
 <big><big>[[Ezek.46.1 The Prince’s Offerings|⥃]]</big></big>***The Prince’s Offerings***

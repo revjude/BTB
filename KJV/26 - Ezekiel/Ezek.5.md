@@ -1,3 +1,28 @@
+---
+title: Ezekiel 5
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 5
+book/chapter: "[[Ezek.5|Ezekiel 5]]"
+chronological_order: 796
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.5.1 The Razor of Judgment|The Razor of Judgment]]"
+- "[[Ezek.5.11 Famine, Sword, and Dispersion|Famine, Sword, and Dispersion]]"
+---
+
 (KJV) **Ezekiel 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.4|<< Ezekiel 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.6|Ezekiel 6 >>]]</td></tr></table>
 
 <big><big>[[Ezek.5.1 The Razor of Judgment|⥃]]</big></big>***The Razor of Judgment***

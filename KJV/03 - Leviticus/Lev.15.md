@@ -1,3 +1,32 @@
+---
+title: Leviticus 15
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Leviticus
+chapter: 15
+book/chapter: "[[Lev.15|Leviticus 15]]"
+chronological_order: 147
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+pericopes:
+- "[[Lev.15.1 The Uncleanness of Men|The Uncleanness of Men]]"
+- "[[Lev.15.13 The Cleansing of Men|The Cleansing of Men]]"
+- "[[Lev.15.19 The Uncleanness of Women|The Uncleanness of Women]]"
+- "[[Lev.15.28 The Cleansing of Women|The Cleansing of Women]]"
+---
+
 (KJV) **Leviticus 15**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14|<< Leviticus 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16|Leviticus 16 >>]]</td></tr></table>
 
 <big><big>[[Lev.15.1 The Uncleanness of Men|⥃]]</big></big>***The Uncleanness of Men***&emsp;<small><sup>\[ [[Deut.23|Deuteronomy 23:9–14]] ]</sup></small>

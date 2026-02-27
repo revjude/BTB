@@ -1,3 +1,27 @@
+---
+title: Daniel 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Daniel
+chapter: 1
+book/chapter: "[[Dan.1|Daniel 1]]"
+chronological_order: 786
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+pericopes:
+- "[[Dan.1.1 Daniel Removed to Babylon|Daniel Removed to Babylon]]"
+- "[[Dan.1.8 Daniel’s Faithfulness|Daniel’s Faithfulness]]"
+- "[[Dan.1.17 Daniel’s Wisdom|Daniel’s Wisdom]]"
+---
+
 (KJV) **Daniel 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48|<< Ezekiel 48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2|Daniel 2 >>]]</td></tr></table>
 
 <big><big>[[Dan.1.1 Daniel Removed to Babylon|⥃]]</big></big>***Daniel Removed to Babylon***

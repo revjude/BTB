@@ -1,3 +1,26 @@
+---
+title: Isaiah 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 2
+book/chapter: "[[Isa.2|Isaiah 2]]"
+chronological_order: 610
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.2.1 The Mountain of the House of the LORD|The Mountain of the House of the LORD]]"
+- "[[Isa.2.5 The Day of Reckoning|The Day of Reckoning]]"
+---
+
 (KJV) **Isaiah 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1|<< Isaiah 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3|Isaiah 3 >>]]</td></tr></table>
 
 <big><big>[[Isa.2.1 The Mountain of the House of the LORD|⥃]]</big></big>***The Mountain of the House of the LORD***&emsp;<small><sup>\[ [[Mic.4|Micah 4:1–5]] ]</sup></small>

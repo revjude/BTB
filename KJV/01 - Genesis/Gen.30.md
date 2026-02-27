@@ -1,3 +1,31 @@
+---
+title: Genesis 30
+type: Chapter
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 30
+book/chapter: "[[Gen.30|Genesis 30]]"
+chronological_order: 72
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.30.1 Dan and Naphtali|Dan and Naphtali]]"
+- "[[Gen.30.9 Gad and Asher|Gad and Asher]]"
+- "[[Gen.30.17 Issachar, Zebulun, and Dinah|Issachar, Zebulun, and Dinah]]"
+- "[[Gen.30.22 Joseph|Joseph]]"
+- "[[Gen.30.25 Jacob Prospers|Jacob Prospers]]"
+---
+
 (KJV) **Genesis 30**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29|<< Genesis 29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31|Genesis 31 >>]]</td></tr></table>
 
 <big><big>[[Gen.30.1 Dan and Naphtali|⥃]]</big></big>***Dan and Naphtali***

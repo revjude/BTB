@@ -1,3 +1,26 @@
+---
+title: Isaiah 51
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 51
+book/chapter: "[[Isa.51|Isaiah 51]]"
+chronological_order: 690
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.51.1 Salvation for Zion|Salvation for Zion]]"
+- "[[Isa.51.17 God’s Fury Removed|God’s Fury Removed]]"
+---
+
 (KJV) **Isaiah 51**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.50|<< Isaiah 50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.52|Isaiah 52 >>]]</td></tr></table>
 
 <big><big>[[Isa.51.1 Salvation for Zion|⥃]]</big></big>***Salvation for Zion***

@@ -1,3 +1,26 @@
+---
+title: Nehemiah 6
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Nehemiah
+chapter: 6
+book/chapter: "[[Neh.6|Nehemiah 6]]"
+chronological_order: 918
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+pericopes:
+- "[[Neh.6.1 Sanballat’s Conspiracy|Sanballat’s Conspiracy]]"
+- "[[Neh.6.15 Completion of the Wall|Completion of the Wall]]"
+---
+
 (KJV) **Nehemiah 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.5|<< Nehemiah 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7|Nehemiah 7 >>]]</td></tr></table>
 
 <big><big>[[Neh.6.1 Sanballat’s Conspiracy|⥃]]</big></big>***Sanballat’s Conspiracy***

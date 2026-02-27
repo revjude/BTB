@@ -1,3 +1,25 @@
+---
+title: Acts 27
+type: Chapter
+original_language: Greek
+testament: New
+book: Acts
+chapter: 27
+book/chapter: "[[Acts.27|Acts 27]]"
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+pericopes:
+- "[[Acts.27.1 Paul Sails for Rome|Paul Sails for Rome]]"
+- "[[Acts.27.13 The Storm at Sea|The Storm at Sea]]"
+- "[[Acts.27.27 The Shipwreck|The Shipwreck]]"
+---
+
 (KJV) **Acts 27**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26|<< Acts 26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28|Acts 28 >>]]</td></tr></table>
 
 <big><big>[[Acts.27.1 Paul Sails for Rome|⥃]]</big></big>***Paul Sails for Rome***

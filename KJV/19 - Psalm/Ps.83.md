@@ -1,3 +1,27 @@
+---
+title: Psalm 83
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 83
+book/chapter: "[[Ps.83|Psalm 83]]"
+chronological_order: 513
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.83.1 O God, Be Not Silent|O God, Be Not Silent]]"
+---
+
 (KJV) **Psalm 83**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.82|<< Psalm 82]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.84|Psalm 84 >>]]</td></tr></table>
 
 <big><big>[[Ps.83.1 O God, Be Not Silent|⥃]]</big></big>***O God, Be Not Silent***

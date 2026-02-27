@@ -1,3 +1,27 @@
+---
+title: 1 Timothy 5
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 5
+book/chapter: "[[1Tim.5|1 Timothy 5]]"
+chronological_order: 1130
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+pericopes:
+- "[[1Tim.5.1 Reproof and Respect|Reproof and Respect]]"
+- "[[1Tim.5.3 Honoring True Widows|Honoring True Widows]]"
+- "[[1Tim.5.17 Honoring Elders|Honoring Elders]]"
+- "[[1Tim.5.21 A Charge to Timothy|A Charge to Timothy]]"
+---
+
 (KJV) **1 Timothy 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.4|<< 1 Timothy 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6|1 Timothy 6 >>]]</td></tr></table>
 
 <big><big>[[1Tim.5.1 Reproof and Respect|⥃]]</big></big>***Reproof and Respect***

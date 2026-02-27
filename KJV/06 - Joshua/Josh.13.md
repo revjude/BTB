@@ -1,3 +1,28 @@
+---
+title: Joshua 13
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Joshua
+chapter: 13
+book/chapter: "[[Josh.13|Joshua 13]]"
+chronological_order: 243
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+pericopes:
+- "[[Josh.13.1 Lands Yet Unconquered|Lands Yet Unconquered]]"
+- "[[Josh.13.8 The Inheritance East of the Jordan|The Inheritance East of the Jordan]]"
+- "[[Josh.13.15 Reuben’s Inheritance|Reuben’s Inheritance]]"
+- "[[Josh.13.24 Gad’s Inheritance|Gad’s Inheritance]]"
+- "[[Josh.13.29 Manasseh’s Eastern Inheritance|Manasseh’s Eastern Inheritance]]"
+---
+
 (KJV) **Joshua 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.12|<< Joshua 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.14|Joshua 14 >>]]</td></tr></table>
 
 <big><big>[[Josh.13.1 Lands Yet Unconquered|⥃]]</big></big>***Lands Yet Unconquered***&emsp;<small><sup>\[ [[Judg.1|Judges 1:1–7]] ]</sup></small>

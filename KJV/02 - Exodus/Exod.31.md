@@ -1,3 +1,31 @@
+---
+title: Exodus 31
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 31
+book/chapter: "[[Exod.31|Exodus 31]]"
+chronological_order: 123
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.31.1 Bezalel and Oholiab|Bezalel and Oholiab]]"
+- "[[Exod.31.12 The Sign of the Sabbath|The Sign of the Sabbath]]"
+- "[[Exod.31.18 Moses Receives the Tablets|Moses Receives the Tablets]]"
+---
+
 (KJV) **Exodus 31**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30|<< Exodus 30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.32|Exodus 32 >>]]</td></tr></table>
 
 <big><big>[[Exod.31.1 Bezalel and Oholiab|⥃]]</big></big>***Bezalel and Oholiab***&emsp;<small><sup>\[ [[Exod.35|Exodus 35:30–35]] ]</sup></small>

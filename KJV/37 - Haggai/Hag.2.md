@@ -1,3 +1,26 @@
+---
+title: Haggai 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Haggai
+chapter: 2
+book/chapter: "[[Hag.2|Haggai 2]]"
+chronological_order: 856
+era: Return
+period: "Return from Exile: Haggai and the Temple Rebuilding"
+date: ~520 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+pericopes:
+- "[[Hag.2.1 The Coming Glory of God’s House|The Coming Glory of God’s House]]"
+- "[[Hag.2.10 Blessings for a Defiled People|Blessings for a Defiled People]]"
+- "[[Hag.2.20 Zerubbabel the LORD’s Signet Ring|Zerubbabel the LORD’s Signet Ring]]"
+---
+
 (KJV) **Haggai 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.1|<< Haggai 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.1|Zechariah 1 >>]]</td></tr></table>
 
 <big><big>[[Hag.2.1 The Coming Glory of God’s House|⥃]]</big></big>***The Coming Glory of God’s House***

@@ -1,3 +1,24 @@
+---
+title: Proverbs 25
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Proverbs
+chapter: 25
+book/chapter: "[[Prov.25|Proverbs 25]]"
+chronological_order: 480
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+pericopes:
+- "[[Prov.25.1 More Proverbs of Solomon|More Proverbs of Solomon]]"
+---
+
 (KJV) **Proverbs 25**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24|<< Proverbs 24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26|Proverbs 26 >>]]</td></tr></table>
 
 <big><big>[[Prov.25.1 More Proverbs of Solomon|⥃]]</big></big>***More Proverbs of Solomon***

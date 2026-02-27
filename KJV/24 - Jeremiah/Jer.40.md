@@ -1,3 +1,28 @@
+---
+title: Jeremiah 40
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 40
+book/chapter: "[[Jer.40|Jeremiah 40]]"
+chronological_order: 763
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.40.1 Jeremiah Remains in Judah|Jeremiah Remains in Judah]]"
+- "[[Jer.40.7 Gedaliah Governs in Judah|Gedaliah Governs in Judah]]"
+- "[[Jer.40.13 The Plot against Gedaliah|The Plot against Gedaliah]]"
+---
+
 (KJV) **Jeremiah 40**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.39|<< Jeremiah 39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41|Jeremiah 41 >>]]</td></tr></table>
 
 <big><big>[[Jer.40.1 Jeremiah Remains in Judah|⥃]]</big></big>***Jeremiah Remains in Judah***

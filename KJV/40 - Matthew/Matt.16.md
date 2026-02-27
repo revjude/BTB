@@ -1,3 +1,28 @@
+---
+title: Matthew 16
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 16
+book/chapter: "[[Matt.16|Matthew 16]]"
+chronological_order: 966
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.16.1 The Demand for a Sign|The Demand for a Sign]]"
+- "[[Matt.16.5 The Leaven of the Pharisees and Sadducees|The Leaven of the Pharisees and Sadducees]]"
+- "[[Matt.16.13 Peter’s Confession of Christ|Peter’s Confession of Christ]]"
+- "[[Matt.16.21 Christ’s Passion Foretold|Christ’s Passion Foretold]]"
+- "[[Matt.16.24 Take Up Your Cross|Take Up Your Cross]]"
+---
+
 (KJV) **Matthew 16**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15|<< Matthew 15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17|Matthew 17 >>]]</td></tr></table>
 
 <big><big>[[Matt.16.1 The Demand for a Sign|⥃]]</big></big>***The Demand for a Sign***&emsp;<small><sup>\[ [[Mark.8|Mark 8:11–13]] <big>†</big> [[Luke.12|Luke 12:54–56]] ]</sup></small>

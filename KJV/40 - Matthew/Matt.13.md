@@ -1,3 +1,34 @@
+---
+title: Matthew 13
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 13
+book/chapter: "[[Matt.13|Matthew 13]]"
+chronological_order: 963
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.13.1 The Parable of the Sower|The Parable of the Sower]]"
+- "[[Matt.13.10 The Purpose of Jesus’ Parables|The Purpose of Jesus’ Parables]]"
+- "[[Matt.13.18 The Parable of the Sower Explained|The Parable of the Sower Explained]]"
+- "[[Matt.13.24 The Parable of the Weeds|The Parable of the Weeds]]"
+- "[[Matt.13.31 The Parable of the Mustard Seed|The Parable of the Mustard Seed]]"
+- "[[Matt.13.33 The Parable of the Leaven|The Parable of the Leaven]]"
+- "[[Matt.13.34 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+- "[[Matt.13.36 The Parable of the Weeds Explained|The Parable of the Weeds Explained]]"
+- "[[Matt.13.44 The Parables of the Treasure and the Pearl|The Parables of the Treasure and the Pearl]]"
+- "[[Matt.13.47 The Parable of the Net|The Parable of the Net]]"
+- "[[Matt.13.53 The Rejection at Nazareth|The Rejection at Nazareth]]"
+---
+
 (KJV) **Matthew 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12|<< Matthew 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14|Matthew 14 >>]]</td></tr></table>
 
 <big><big>[[Matt.13.1 The Parable of the Sower|⥃]]</big></big>***The Parable of the Sower***&emsp;<small><sup>\[ [[Mark.4|Mark 4:1–9]] <big>†</big> [[Luke.8|Luke 8:4–8]] ]</sup></small>

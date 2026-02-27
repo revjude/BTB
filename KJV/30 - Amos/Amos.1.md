@@ -1,3 +1,25 @@
+---
+title: Amos 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Amos
+chapter: 1
+book/chapter: "[[Amos.1|Amos 1]]"
+chronological_order: 598
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+pericopes:
+- "[[Amos.1.1 Judgment on Israel’s Neighbors|Judgment on Israel’s Neighbors]]"
+---
+
 (KJV) **Amos 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3|<< Joel 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.2|Amos 2 >>]]</td></tr></table>
 
 <big><big>[[Amos.1.1 Judgment on Israel’s Neighbors|⥃]]</big></big>***Judgment on Israel’s Neighbors***&emsp;<small><sup>\[ [[Jer.12|Jeremiah 12:14–17]] ]</sup></small>

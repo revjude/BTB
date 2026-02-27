@@ -1,3 +1,27 @@
+---
+title: 2 Kings 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Kings
+chapter: 2
+book/chapter: "[[2Kgs.2|2 Kings 2]]"
+chronological_order: 574
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[2Kgs.2.1 Elijah Taken Up to Heaven|Elijah Taken Up to Heaven]]"
+- "[[2Kgs.2.15 Elisha Succeeds Elijah|Elisha Succeeds Elijah]]"
+- "[[2Kgs.2.19 Elisha Heals the Waters of Jericho|Elisha Heals the Waters of Jericho]]"
+- "[[2Kgs.2.23 Elisha Mocked|Elisha Mocked]]"
+---
+
 (KJV) **2 Kings 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.1|<< 2 Kings 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3|2 Kings 3 >>]]</td></tr></table>
 
 <big><big>[[2Kgs.2.1 Elijah Taken Up to Heaven|⥃]]</big></big>***Elijah Taken Up to Heaven***

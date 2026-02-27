@@ -1,3 +1,27 @@
+---
+title: Jeremiah 39
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 39
+book/chapter: "[[Jer.39|Jeremiah 39]]"
+chronological_order: 762
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.39.1 The Fall of Jerusalem|The Fall of Jerusalem]]"
+- "[[Jer.39.11 Jeremiah Delivered|Jeremiah Delivered]]"
+---
+
 (KJV) **Jeremiah 39**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38|<< Jeremiah 38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.40|Jeremiah 40 >>]]</td></tr></table>
 
 <big><big>[[Jer.39.1 The Fall of Jerusalem|⥃]]</big></big>***The Fall of Jerusalem***&emsp;<small><sup>\[ [[2Kgs.25|2 Kings 25:1–12]] <big>†</big> [[2Chr.36|2 Chronicles 36:15–21]] ]</sup></small>

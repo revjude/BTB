@@ -1,3 +1,26 @@
+---
+title: Isaiah 59
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 59
+book/chapter: "[[Isa.59|Isaiah 59]]"
+chronological_order: 698
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.59.1 Sin Separates Us from God|Sin Separates Us from God]]"
+- "[[Isa.59.18 The Covenant of the Redeemer|The Covenant of the Redeemer]]"
+---
+
 (KJV) **Isaiah 59**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.58|<< Isaiah 58]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60|Isaiah 60 >>]]</td></tr></table>
 
 <big><big>[[Isa.59.1 Sin Separates Us from God|⥃]]</big></big>***Sin Separates Us from God***&emsp;<small><sup>\[ [[Ps.14|Psalms 14:1–7]] <big>†</big> [[Ps.53|Psalms 53:1–6]] <big>†</big> [[Rom.3|Romans 3:9–20]] ]</sup></small>

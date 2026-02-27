@@ -1,3 +1,26 @@
+---
+title: Isaiah 53
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 53
+book/chapter: "[[Isa.53|Isaiah 53]]"
+chronological_order: 692
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.53.1 The Suffering Servant|The Suffering Servant]]"
+- "[[Isa.53.9 A Grave Assigned|A Grave Assigned]]"
+---
+
 (KJV) **Isaiah 53**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.52|<< Isaiah 52]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54|Isaiah 54 >>]]</td></tr></table>
 
 <big><big>[[Isa.53.1 The Suffering Servant|⥃]]</big></big>***The Suffering Servant***&emsp;<small><sup>\[ [[Acts.8|Acts 8:26–40]] <big>†</big> [[1Pet.2|1 Peter 2:21–25]] ]</sup></small>

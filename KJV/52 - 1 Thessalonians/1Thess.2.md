@@ -1,3 +1,25 @@
+---
+title: 1 Thessalonians 2
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 2
+book/chapter: "[[1Thess.2|1 Thessalonians 2]]"
+chronological_order: 1049
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+pericopes:
+- "[[1Thess.2.1 Paul’s Ministry|Paul’s Ministry]]"
+- "[[1Thess.2.17 Paul’s Longing to Visit|Paul’s Longing to Visit]]"
+---
+
 (KJV) **1 Thessalonians 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.1|<< 1 Thessalonians 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.3|1 Thessalonians 3 >>]]</td></tr></table>
 
 <big><big>[[1Thess.2.1 Paul’s Ministry|⥃]]</big></big>***Paul’s Ministry***

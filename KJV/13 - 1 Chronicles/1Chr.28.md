@@ -1,3 +1,25 @@
+---
+title: 1 Chronicles 28
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Chronicles
+chapter: 28
+book/chapter: "[[1Chr.28|1 Chronicles 28]]"
+chronological_order: 439
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+pericopes:
+- "[[1Chr.28.1 David Commissions Solomon|David Commissions Solomon]]"
+- "[[1Chr.28.11 The Plans for the Temple|The Plans for the Temple]]"
+---
+
 (KJV) **1 Chronicles 28**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27|<< 1 Chronicles 27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29|1 Chronicles 29 >>]]</td></tr></table>
 
 <big><big>[[1Chr.28.1 David Commissions Solomon|⥃]]</big></big>***David Commissions Solomon***

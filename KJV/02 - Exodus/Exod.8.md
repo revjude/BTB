@@ -1,3 +1,31 @@
+---
+title: Exodus 8
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 8
+book/chapter: "[[Exod.8|Exodus 8]]"
+chronological_order: 100
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.8.1 The Second Plague：Frogs|The Second Plague：Frogs]]"
+- "[[Exod.8.16 The Third Plague：Gnats|The Third Plague：Gnats]]"
+- "[[Exod.8.20 The Fourth Plague：Flies|The Fourth Plague：Flies]]"
+---
+
 (KJV) **Exodus 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7|<< Exodus 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9|Exodus 9 >>]]</td></tr></table>
 
 <big><big>[[Exod.8.1 The Second Plague：Frogs|⥃]]</big></big>***The Second Plague: Frogs***

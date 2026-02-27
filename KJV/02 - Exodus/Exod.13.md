@@ -1,3 +1,30 @@
+---
+title: Exodus 13
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 13
+book/chapter: "[[Exod.13|Exodus 13]]"
+chronological_order: 105
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.13.1 The Dedication of the Firstborn|The Dedication of the Firstborn]]"
+- "[[Exod.13.17 The Pillars of Cloud and Fire|The Pillars of Cloud and Fire]]"
+---
+
 (KJV) **Exodus 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12|<< Exodus 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14|Exodus 14 >>]]</td></tr></table>
 
 <big><big>[[Exod.13.1 The Dedication of the Firstborn|⥃]]</big></big>***The Dedication of the Firstborn***&emsp;<small><sup>\[ [[Deut.15|Deuteronomy 15:19–23]] ]</sup></small>

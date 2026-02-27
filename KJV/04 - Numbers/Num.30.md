@@ -1,3 +1,28 @@
+---
+title: Numbers 30
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 30
+book/chapter: "[[Num.30|Numbers 30]]"
+chronological_order: 190
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.30.1 Laws about Vows|Laws about Vows]]"
+---
+
 (KJV) **Numbers 30**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.29|<< Numbers 29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31|Numbers 31 >>]]</td></tr></table>
 
 <big><big>[[Num.30.1 Laws about Vows|⥃]]</big></big>***Laws about Vows***&emsp;<small><sup>\[ [[Matt.5|Matthew 5:33–37]] ]</sup></small>

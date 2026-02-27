@@ -1,3 +1,33 @@
+---
+title: Mark 14
+type: Chapter
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Mark.14.1 The Plot to Kill Jesus|The Plot to Kill Jesus]]"
+- "[[Mark.14.3 Jesus Anointed at Bethany|Jesus Anointed at Bethany]]"
+- "[[Mark.14.10 Judas Agrees to Betray Jesus|Judas Agrees to Betray Jesus]]"
+- "[[Mark.14.12 Preparing the Passover|Preparing the Passover]]"
+- "[[Mark.14.17 The Last Supper|The Last Supper]]"
+- "[[Mark.14.27 Jesus Predicts Peter’s Denial|Jesus Predicts Peter’s Denial]]"
+- "[[Mark.14.32 Jesus Prays at Gethsemane|Jesus Prays at Gethsemane]]"
+- "[[Mark.14.43 The Betrayal of Jesus|The Betrayal of Jesus]]"
+- "[[Mark.14.53 Jesus before the Sanhedrin|Jesus before the Sanhedrin]]"
+- "[[Mark.14.66 Peter Denies Jesus|Peter Denies Jesus]]"
+---
+
 (KJV) **Mark 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13|<< Mark 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15|Mark 15 >>]]</td></tr></table>
 
 <big><big>[[Mark.14.1 The Plot to Kill Jesus|⥃]]</big></big>***The Plot to Kill Jesus***&emsp;<small><sup>\[ [[Matt.26|Matthew 26:1–5]] <big>†</big> [[Luke.22|Luke 22:1–2]] <big>†</big> [[John.11|John 11:45–57]] ]</sup></small>

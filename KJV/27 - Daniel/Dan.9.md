@@ -1,3 +1,26 @@
+---
+title: Daniel 9
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Daniel
+chapter: 9
+book/chapter: "[[Dan.9|Daniel 9]]"
+chronological_order: 845
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+pericopes:
+- "[[Dan.9.1 Daniel’s Prayer for His People|Daniel’s Prayer for His People]]"
+- "[[Dan.9.20 Gabriel’s Prophecy of the Seventy Weeks|Gabriel’s Prophecy of the Seventy Weeks]]"
+---
+
 (KJV) **Daniel 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8|<< Daniel 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.10|Daniel 10 >>]]</td></tr></table>
 
 <big><big>[[Dan.9.1 Daniel’s Prayer for His People|⥃]]</big></big>***Daniel’s Prayer for His People***

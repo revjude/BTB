@@ -1,3 +1,26 @@
+---
+title: Philippians 4
+type: Chapter
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 4
+book/chapter: "[[Phil.4|Philippians 4]]"
+chronological_order: 1120
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+pericopes:
+- "[[Phil.4.1 Rejoice in the Lord|Rejoice in the Lord]]"
+- "[[Phil.4.10 The Generosity of the Philippians|The Generosity of the Philippians]]"
+- "[[Phil.4.21 Final Greetings|Final Greetings]]"
+---
+
 (KJV) **Philippians 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3|<< Philippians 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1|Colossians 1 >>]]</td></tr></table>
 
 <big><big>[[Phil.4.1 Rejoice in the Lord|⥃]]</big></big>***Rejoice in the Lord***

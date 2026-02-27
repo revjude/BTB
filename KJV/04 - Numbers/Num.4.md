@@ -1,3 +1,31 @@
+---
+title: Numbers 4
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 4
+book/chapter: "[[Num.4|Numbers 4]]"
+chronological_order: 163
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.4.1 The Duties of the Kohathites|The Duties of the Kohathites]]"
+- "[[Num.4.21 The Duties of the Gershonites|The Duties of the Gershonites]]"
+- "[[Num.4.29 The Duties of the Merarites|The Duties of the Merarites]]"
+- "[[Num.4.34 The Numbering of the Levite Clans|The Numbering of the Levite Clans]]"
+---
+
 (KJV) **Numbers 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3|<< Numbers 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5|Numbers 5 >>]]</td></tr></table>
 
 <big><big>[[Num.4.1 The Duties of the Kohathites|⥃]]</big></big>***The Duties of the Kohathites***&emsp;<small><sup>\[ [[Num.3|Numbers 3:27–32]] <big>†</big> [[1Chr.23|1 Chronicles 23:12–20]] ]</sup></small>

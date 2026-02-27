@@ -1,3 +1,30 @@
+---
+title: Numbers 27
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 27
+book/chapter: "[[Num.27|Numbers 27]]"
+chronological_order: 187
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.27.1 The Daughters of Zelophehad|The Daughters of Zelophehad]]"
+- "[[Num.27.12 Moses Requests a Successor|Moses Requests a Successor]]"
+- "[[Num.27.18 Joshua to Succeed Moses|Joshua to Succeed Moses]]"
+---
+
 (KJV) **Numbers 27**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26|<< Numbers 26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28|Numbers 28 >>]]</td></tr></table>
 
 <big><big>[[Num.27.1 The Daughters of Zelophehad|⥃]]</big></big>***The Daughters of Zelophehad***&emsp;<small><sup>\[ [[Num.36|Numbers 36:1–13]] ]</sup></small>

@@ -1,3 +1,26 @@
+---
+title: Hosea 13
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Hosea
+chapter: 13
+book/chapter: "[[Hos.13|Hosea 13]]"
+chronological_order: 654
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+pericopes:
+- "[[Hos.13.1 God’s Anger against Israel|God’s Anger against Israel]]"
+- "[[Hos.13.9 Death and Resurrection|Death and Resurrection]]"
+- "[[Hos.13.15 Judgment on Samaria|Judgment on Samaria]]"
+---
+
 (KJV) **Hosea 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.12|<< Hosea 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.14|Hosea 14 >>]]</td></tr></table>
 
 <big><big>[[Hos.13.1 God’s Anger against Israel|⥃]]</big></big>***God’s Anger against Israel***

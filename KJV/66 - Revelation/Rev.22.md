@@ -1,3 +1,27 @@
+---
+title: Revelation 22
+type: Chapter
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 22
+book/chapter: "[[Rev.22|Revelation 22]]"
+chronological_order: 1189
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+pericopes:
+- "[[Rev.22.1 The River of Life|The River of Life]]"
+- "[[Rev.22.6 Jesus Is Coming|Jesus Is Coming]]"
+- "[[Rev.22.18 Nothing May Be Added or Removed|Nothing May Be Added or Removed]]"
+---
+
 (KJV) **Revelation 22**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21|<< Revelation 21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">&nbsp;</td></tr></table>
 
 <big><big>[[Rev.22.1 The River of Life|⥃]]</big></big>***The River of Life***

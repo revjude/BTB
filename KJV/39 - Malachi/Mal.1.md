@@ -1,3 +1,26 @@
+---
+title: Malachi 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Malachi
+chapter: 1
+book/chapter: "[[Mal.1|Malachi 1]]"
+chronological_order: 926
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+pericopes:
+- "[[Mal.1.1 The LORD’s Love for Israel|The LORD’s Love for Israel]]"
+- "[[Mal.1.6 The Polluted Offerings|The Polluted Offerings]]"
+---
+
 (KJV) **Malachi 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.14|<< Zechariah 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.2|Malachi 2 >>]]</td></tr></table>
 
 <big><big>[[Mal.1.1 The LORD’s Love for Israel|⥃]]</big></big>***The LORD’s Love for Israel***&emsp;<small><sup>\[ [[Gen.25|Genesis 25:19–28]] <big>†</big> [[Rom.9|Romans 9:6–29]] ]</sup></small>

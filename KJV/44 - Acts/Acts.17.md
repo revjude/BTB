@@ -1,3 +1,26 @@
+---
+title: Acts 17
+type: Chapter
+original_language: Greek
+testament: New
+book: Acts
+chapter: 17
+book/chapter: "[[Acts.17|Acts 17]]"
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+pericopes:
+- "[[Acts.17.1 The Uproar in Thessalonica|The Uproar in Thessalonica]]"
+- "[[Acts.17.10 The Character of the Bereans|The Character of the Bereans]]"
+- "[[Acts.17.16 Paul in Athens|Paul in Athens]]"
+- "[[Acts.17.22 Paul’s Address in the Areopagus|Paul’s Address in the Areopagus]]"
+---
+
 (KJV) **Acts 17**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16|<< Acts 16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18|Acts 18 >>]]</td></tr></table>
 
 <big><big>[[Acts.17.1 The Uproar in Thessalonica|⥃]]</big></big>***The Uproar in Thessalonica***

@@ -1,3 +1,31 @@
+---
+title: Deuteronomy 23
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Deuteronomy
+chapter: 23
+book/chapter: "[[Deut.23|Deuteronomy 23]]"
+chronological_order: 219
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+pericopes:
+- "[[Deut.23.1 Exclusion from the Congregation|Exclusion from the Congregation]]"
+- "[[Deut.23.9 Uncleanness in the Camp|Uncleanness in the Camp]]"
+- "[[Deut.23.15 Miscellaneous Laws|Miscellaneous Laws]]"
+---
+
 (KJV) **Deuteronomy 23**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22|<< Deuteronomy 22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24|Deuteronomy 24 >>]]</td></tr></table>
 
 <big><big>[[Deut.23.1 Exclusion from the Congregation|⥃]]</big></big>***Exclusion from the Congregation***

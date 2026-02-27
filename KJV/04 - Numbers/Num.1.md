@@ -1,3 +1,31 @@
+---
+title: Numbers 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 1
+book/chapter: "[[Num.1|Numbers 1]]"
+chronological_order: 160
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.1.1 The First Census of Israel|The First Census of Israel]]"
+- "[[Num.1.5 The Leaders of the Tribes|The Leaders of the Tribes]]"
+- "[[Num.1.17 The Number of Every Tribe|The Number of Every Tribe]]"
+- "[[Num.1.47 The Exemption of the Levites|The Exemption of the Levites]]"
+---
+
 (KJV) **Numbers 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27|<< Leviticus 27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.2|Numbers 2 >>]]</td></tr></table>
 
 <big><big>[[Num.1.1 The First Census of Israel|⥃]]</big></big>***The First Census of Israel***&emsp;<small><sup>\[ [[Num.26|Numbers 26:1–4]] ]</sup></small>

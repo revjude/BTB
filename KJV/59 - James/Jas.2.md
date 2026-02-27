@@ -1,3 +1,25 @@
+---
+title: James 2
+type: Chapter
+original_language: Greek
+testament: New
+book: James
+chapter: 2
+book/chapter: "[[Jas.2|James 2]]"
+chronological_order: 1034
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+pericopes:
+- "[[Jas.2.1 A Warning against Favoritism|A Warning against Favoritism]]"
+- "[[Jas.2.14 Faith and Works|Faith and Works]]"
+---
+
 (KJV) **James 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1|<< James 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3|James 3 >>]]</td></tr></table>
 
 <big><big>[[Jas.2.1 A Warning against Favoritism|⥃]]</big></big>***A Warning against Favoritism***

@@ -1,3 +1,28 @@
+---
+title: Revelation 2
+type: Chapter
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 2
+book/chapter: "[[Rev.2|Revelation 2]]"
+chronological_order: 1169
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+pericopes:
+- "[[Rev.2.1 To the Church in Ephesus|To the Church in Ephesus]]"
+- "[[Rev.2.8 To the Church in Smyrna|To the Church in Smyrna]]"
+- "[[Rev.2.12 To the Church in Pergamum|To the Church in Pergamum]]"
+- "[[Rev.2.18 To the Church in Thyatira|To the Church in Thyatira]]"
+---
+
 (KJV) **Revelation 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1|<< Revelation 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3|Revelation 3 >>]]</td></tr></table>
 
 <big><big>[[Rev.2.1 To the Church in Ephesus|⥃]]</big></big>***To the Church in Ephesus***&emsp;<small><sup>\[ [[Acts.19|Acts 19:8–12]] <big>†</big> [[Eph.1|Ephesians 1:1–2]] ]</sup></small>

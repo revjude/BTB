@@ -1,3 +1,31 @@
+---
+title: Deuteronomy 3
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Deuteronomy
+chapter: 3
+book/chapter: "[[Deut.3|Deuteronomy 3]]"
+chronological_order: 199
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+pericopes:
+- "[[Deut.3.1 The Defeat of Og|The Defeat of Og]]"
+- "[[Deut.3.12 Land Division East of the Jordan|Land Division East of the Jordan]]"
+- "[[Deut.3.23 Moses Forbidden to Cross the Jordan|Moses Forbidden to Cross the Jordan]]"
+---
+
 (KJV) **Deuteronomy 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2|<< Deuteronomy 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4|Deuteronomy 4 >>]]</td></tr></table>
 
 <big><big>[[Deut.3.1 The Defeat of Og|⥃]]</big></big>***The Defeat of Og***&emsp;<small><sup>\[ [[Num.21|Numbers 21:31–35]] ]</sup></small>

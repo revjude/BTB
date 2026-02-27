@@ -1,3 +1,25 @@
+---
+title: Nehemiah 3
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Nehemiah
+chapter: 3
+book/chapter: "[[Neh.3|Nehemiah 3]]"
+chronological_order: 915
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+pericopes:
+- "[[Neh.3.1 The Builders of the Walls|The Builders of the Walls]]"
+---
+
 (KJV) **Nehemiah 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.2|<< Nehemiah 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4|Nehemiah 4 >>]]</td></tr></table>
 
 <big><big>[[Neh.3.1 The Builders of the Walls|⥃]]</big></big>***The Builders of the Walls***

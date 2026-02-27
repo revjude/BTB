@@ -1,3 +1,31 @@
+---
+title: Luke 13
+type: Chapter
+original_language: Greek
+testament: New
+book: Luke
+chapter: 13
+book/chapter: "[[Luke.13|Luke 13]]"
+chronological_order: 975
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+pericopes:
+- "[[Luke.13.1 A Call to Repentance|A Call to Repentance]]"
+- "[[Luke.13.6 The Parable of the Barren Fig Tree|The Parable of the Barren Fig Tree]]"
+- "[[Luke.13.10 Jesus Heals a Disabled Woman|Jesus Heals a Disabled Woman]]"
+- "[[Luke.13.18 The Parable of the Mustard Seed|The Parable of the Mustard Seed]]"
+- "[[Luke.13.20 The Parable of the Leaven|The Parable of the Leaven]]"
+- "[[Luke.13.22 The Narrow Door|The Narrow Door]]"
+- "[[Luke.13.31 Lament over Jerusalem|Lament over Jerusalem]]"
+---
+
 (KJV) **Luke 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12|<< Luke 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14|Luke 14 >>]]</td></tr></table>
 
 <big><big>[[Luke.13.1 A Call to Repentance|⥃]]</big></big>***A Call to Repentance***&emsp;<small><sup>\[ [[Joel.1|Joel 1:13–20]] <big>†</big> [[Amos.5|Amos 5:4–15]] <big>†</big> [[Zeph.2|Zephaniah 2:1–3]] ]</sup></small>

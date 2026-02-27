@@ -1,3 +1,25 @@
+---
+title: Amos 3
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Amos
+chapter: 3
+book/chapter: "[[Amos.3|Amos 3]]"
+chronological_order: 600
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+pericopes:
+- "[[Amos.3.1 Witnesses against Israel|Witnesses against Israel]]"
+---
+
 (KJV) **Amos 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.2|<< Amos 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.4|Amos 4 >>]]</td></tr></table>
 
 <big><big>[[Amos.3.1 Witnesses against Israel|⥃]]</big></big>***Witnesses against Israel***

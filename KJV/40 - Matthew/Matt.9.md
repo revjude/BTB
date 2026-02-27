@@ -1,3 +1,30 @@
+---
+title: Matthew 9
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 9
+book/chapter: "[[Matt.9|Matthew 9]]"
+chronological_order: 951
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.9.1 Jesus Heals a Paralytic|Jesus Heals a Paralytic]]"
+- "[[Matt.9.9 Jesus Calls Matthew|Jesus Calls Matthew]]"
+- "[[Matt.9.14 Questions about Fasting|Questions about Fasting]]"
+- "[[Matt.9.16 The Patches and the Wineskins|The Patches and the Wineskins]]"
+- "[[Matt.9.18 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+- "[[Matt.9.27 Jesus Heals the Blind and Mute|Jesus Heals the Blind and Mute]]"
+- "[[Matt.9.35 The Lord of the Harvest|The Lord of the Harvest]]"
+---
+
 (KJV) **Matthew 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8|<< Matthew 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10|Matthew 10 >>]]</td></tr></table>
 
 <big><big>[[Matt.9.1 Jesus Heals a Paralytic|⥃]]</big></big>***Jesus Heals a Paralytic***&emsp;<small><sup>\[ [[Mark.2|Mark 2:1–12]] <big>†</big> [[Luke.5|Luke 5:17–26]] ]</sup></small>

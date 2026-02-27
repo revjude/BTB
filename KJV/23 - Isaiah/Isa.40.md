@@ -1,3 +1,27 @@
+---
+title: Isaiah 40
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 40
+book/chapter: "[[Isa.40|Isaiah 40]]"
+chronological_order: 679
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.40.1 Prepare the Way for the LORD|Prepare the Way for the LORD]]"
+- "[[Isa.40.6 The Enduring Word|The Enduring Word]]"
+- "[[Isa.40.9 Here Is Your God!|Here Is Your God!]]"
+---
+
 (KJV) **Isaiah 40**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.39|<< Isaiah 39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41|Isaiah 41 >>]]</td></tr></table>
 
 <big><big>[[Isa.40.1 Prepare the Way for the LORD|⥃]]</big></big>***Prepare the Way for the LORD***&emsp;<small><sup>\[ [[Matt.3|Matthew 3:1–12]] <big>†</big> [[Mark.1|Mark 1:1–8]] <big>†</big> [[Luke.3|Luke 3:1–20]] <big>†</big> [[John.1|John 1:19–28]] ]</sup></small>

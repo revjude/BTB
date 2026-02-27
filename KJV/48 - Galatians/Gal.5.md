@@ -1,3 +1,24 @@
+---
+title: Galatians 5
+type: Chapter
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 5
+book/chapter: "[[Gal.5|Galatians 5]]"
+chronological_order: 1043
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+pericopes:
+- "[[Gal.5.1 Freedom in Christ|Freedom in Christ]]"
+- "[[Gal.5.16 Walking by the Spirit|Walking by the Spirit]]"
+---
+
 (KJV) **Galatians 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4|<< Galatians 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6|Galatians 6 >>]]</td></tr></table>
 
 <big><big>[[Gal.5.1 Freedom in Christ|⥃]]</big></big>***Freedom in Christ***

@@ -1,3 +1,25 @@
+---
+title: Hebrews 7
+type: Chapter
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 7
+book/chapter: "[[Heb.7|Hebrews 7]]"
+chronological_order: 1146
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+pericopes:
+- "[[Heb.7.1 Melchizedek and Abraham|Melchizedek and Abraham]]"
+- "[[Heb.7.11 A Superior Priesthood|A Superior Priesthood]]"
+---
+
 (KJV) **Hebrews 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6|<< Hebrews 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.8|Hebrews 8 >>]]</td></tr></table>
 
 <big><big>[[Heb.7.1 Melchizedek and Abraham|⥃]]</big></big>***Melchizedek and Abraham***&emsp;<small><sup>\[ [[Gen.14|Genesis 14:17–24]] ]</sup></small>

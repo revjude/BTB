@@ -1,3 +1,30 @@
+---
+title: Deuteronomy 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Deuteronomy
+chapter: 2
+book/chapter: "[[Deut.2|Deuteronomy 2]]"
+chronological_order: 198
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+pericopes:
+- "[[Deut.2.1 Wanderings in the Wilderness|Wanderings in the Wilderness]]"
+- "[[Deut.2.24 The Defeat of Sihon|The Defeat of Sihon]]"
+---
+
 (KJV) **Deuteronomy 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1|<< Deuteronomy 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3|Deuteronomy 3 >>]]</td></tr></table>
 
 <big><big>[[Deut.2.1 Wanderings in the Wilderness|⥃]]</big></big>***Wanderings in the Wilderness***

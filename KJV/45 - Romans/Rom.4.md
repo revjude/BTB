@@ -1,3 +1,24 @@
+---
+title: Romans 4
+type: Chapter
+original_language: Greek
+testament: New
+book: Romans
+chapter: 4
+book/chapter: "[[Rom.4|Romans 4]]"
+chronological_order: 1090
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+pericopes:
+- "[[Rom.4.1 Abraham Justified by Faith|Abraham Justified by Faith]]"
+- "[[Rom.4.13 Abraham Receives the Promise|Abraham Receives the Promise]]"
+---
+
 (KJV) **Romans 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3|<< Romans 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5|Romans 5 >>]]</td></tr></table>
 
 <big><big>[[Rom.4.1 Abraham Justified by Faith|⥃]]</big></big>***Abraham Justified by Faith***&emsp;<small><sup>\[ [[Gen.15|Genesis 15:1–7]] <big>†</big> [[Ps.32|Psalms 32:1–11]] <big>†</big> [[Heb.11|Hebrews 11:8–19]] ]</sup></small>

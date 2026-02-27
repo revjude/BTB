@@ -1,3 +1,25 @@
+---
+title: Job 31
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 31
+book/chapter: "[[Job.31|Job 31]]"
+chronological_order: 42
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.31.1 Job’s Final Appeal|Job’s Final Appeal]]"
+---
+
 (KJV) **Job 31**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30|<< Job 30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32|Job 32 >>]]</td></tr></table>
 
 <big><big>[[Job.31.1 Job’s Final Appeal|⥃]]</big></big>***Job’s Final Appeal***

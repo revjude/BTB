@@ -1,3 +1,27 @@
+---
+title: Revelation 17
+type: Chapter
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 17
+book/chapter: "[[Rev.17|Revelation 17]]"
+chronological_order: 1184
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+pericopes:
+- "[[Rev.17.1 The Woman on the Beast|The Woman on the Beast]]"
+- "[[Rev.17.6 The Mystery Explained|The Mystery Explained]]"
+- "[[Rev.17.14 The Victory of the Lamb|The Victory of the Lamb]]"
+---
+
 (KJV) **Revelation 17**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16|<< Revelation 16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18|Revelation 18 >>]]</td></tr></table>
 
 <big><big>[[Rev.17.1 The Woman on the Beast|⥃]]</big></big>***The Woman on the Beast***

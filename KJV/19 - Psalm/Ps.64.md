@@ -1,3 +1,27 @@
+---
+title: Psalm 64
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 64
+book/chapter: "[[Ps.64|Psalm 64]]"
+chronological_order: 374
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.64.1 The Hurtful Tongue|The Hurtful Tongue]]"
+---
+
 (KJV) **Psalm 64**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.63|<< Psalm 63]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.65|Psalm 65 >>]]</td></tr></table>
 
 <big><big>[[Ps.64.1 The Hurtful Tongue|⥃]]</big></big>***The Hurtful Tongue***&emsp;<small><sup>\[ [[Jas.3|James 3:1–12]] ]</sup></small>

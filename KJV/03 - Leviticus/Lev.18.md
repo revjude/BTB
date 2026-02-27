@@ -1,3 +1,29 @@
+---
+title: Leviticus 18
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Leviticus
+chapter: 18
+book/chapter: "[[Lev.18|Leviticus 18]]"
+chronological_order: 150
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+pericopes:
+- "[[Lev.18.1 Unlawful Sexual Relations|Unlawful Sexual Relations]]"
+---
+
 (KJV) **Leviticus 18**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.17|<< Leviticus 17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19|Leviticus 19 >>]]</td></tr></table>
 
 <big><big>[[Lev.18.1 Unlawful Sexual Relations|⥃]]</big></big>***Unlawful Sexual Relations***&emsp;<small><sup>\[ [[Matt.5|Matthew 5:27–30]] ]</sup></small>

@@ -1,3 +1,25 @@
+---
+title: Amos 4
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Amos
+chapter: 4
+book/chapter: "[[Amos.4|Amos 4]]"
+chronological_order: 601
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+pericopes:
+- "[[Amos.4.1 Punishment Brings No Repentance|Punishment Brings No Repentance]]"
+---
+
 (KJV) **Amos 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.3|<< Amos 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5|Amos 5 >>]]</td></tr></table>
 
 <big><big>[[Amos.4.1 Punishment Brings No Repentance|⥃]]</big></big>***Punishment Brings No Repentance***

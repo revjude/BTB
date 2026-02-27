@@ -1,3 +1,26 @@
+---
+title: Amos 7
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Amos
+chapter: 7
+book/chapter: "[[Amos.7|Amos 7]]"
+chronological_order: 604
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+pericopes:
+- "[[Amos.7.1 The Locusts, Fire, and Plumb Line|The Locusts, Fire, and Plumb Line]]"
+- "[[Amos.7.10 Amaziah Accuses Amos|Amaziah Accuses Amos]]"
+---
+
 (KJV) **Amos 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.6|<< Amos 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.8|Amos 8 >>]]</td></tr></table>
 
 <big><big>[[Amos.7.1 The Locusts, Fire, and Plumb Line|⥃]]</big></big>***The Locusts, Fire, and Plumb Line***&emsp;<small><sup>\[ [[Joel.2|Joel 2:1–11]] ]</sup></small>

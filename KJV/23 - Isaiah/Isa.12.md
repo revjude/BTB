@@ -1,3 +1,25 @@
+---
+title: Isaiah 12
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 12
+book/chapter: "[[Isa.12|Isaiah 12]]"
+chronological_order: 622
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.12.1 Joyful Thanksgiving|Joyful Thanksgiving]]"
+---
+
 (KJV) **Isaiah 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11|<< Isaiah 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13|Isaiah 13 >>]]</td></tr></table>
 
 <big><big>[[Isa.12.1 Joyful Thanksgiving|⥃]]</big></big>***Joyful Thanksgiving***

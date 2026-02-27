@@ -1,3 +1,26 @@
+---
+title: Acts 25
+type: Chapter
+original_language: Greek
+testament: New
+book: Acts
+chapter: 25
+book/chapter: "[[Acts.25|Acts 25]]"
+chronological_order: 1107
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+pericopes:
+- "[[Acts.25.1 Paul’s Trial before Festus|Paul’s Trial before Festus]]"
+- "[[Acts.25.10 Paul Appeals to Caesar|Paul Appeals to Caesar]]"
+- "[[Acts.25.13 Festus Consults Agrippa|Festus Consults Agrippa]]"
+- "[[Acts.25.23 Paul before Agrippa and Bernice|Paul before Agrippa and Bernice]]"
+---
+
 (KJV) **Acts 25**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24|<< Acts 24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26|Acts 26 >>]]</td></tr></table>
 
 <big><big>[[Acts.25.1 Paul’s Trial before Festus|⥃]]</big></big>***Paul’s Trial before Festus***

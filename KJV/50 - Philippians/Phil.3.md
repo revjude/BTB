@@ -1,3 +1,26 @@
+---
+title: Philippians 3
+type: Chapter
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 3
+book/chapter: "[[Phil.3|Philippians 3]]"
+chronological_order: 1119
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+pericopes:
+- "[[Phil.3.1 Righteousness through Faith in Christ|Righteousness through Faith in Christ]]"
+- "[[Phil.3.12 Pressing on toward the Goal|Pressing on toward the Goal]]"
+- "[[Phil.3.17 Citizenship in Heaven|Citizenship in Heaven]]"
+---
+
 (KJV) **Philippians 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2|<< Philippians 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4|Philippians 4 >>]]</td></tr></table>
 
 <big><big>[[Phil.3.1 Righteousness through Faith in Christ|⥃]]</big></big>***Righteousness through Faith in Christ***&emsp;<small><sup>\[ [[Rom.3|Romans 3:21–31]] ]</sup></small>

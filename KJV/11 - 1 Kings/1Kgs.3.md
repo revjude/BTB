@@ -1,3 +1,27 @@
+---
+title: 1 Kings 3
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Kings
+chapter: 3
+book/chapter: "[[1Kgs.3|1 Kings 3]]"
+chronological_order: 443
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+pericopes:
+- "[[1Kgs.3.1 Solomon’s Prayer for Wisdom|Solomon’s Prayer for Wisdom]]"
+- "[[1Kgs.3.16 Solomon Judges Wisely|Solomon Judges Wisely]]"
+---
+
 (KJV) **1 Kings 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2|<< 1 Kings 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4|1 Kings 4 >>]]</td></tr></table>
 
 <big><big>[[1Kgs.3.1 Solomon’s Prayer for Wisdom|⥃]]</big></big>***Solomon’s Prayer for Wisdom***&emsp;<small><sup>\[ [[2Chr.1|2 Chronicles 1:1–13]] <big>†</big> [[Ps.45|Psalms 45:1–17]] <big>†</big> [[Ps.72|Psalms 72:1–20]] ]</sup></small>

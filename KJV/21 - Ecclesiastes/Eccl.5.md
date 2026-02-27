@@ -1,3 +1,25 @@
+---
+title: Ecclesiastes 5
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ecclesiastes
+chapter: 5
+book/chapter: "[[Eccl.5|Ecclesiastes 5]]"
+chronological_order: 543
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+pericopes:
+- "[[Eccl.5.1 Approaching God with Awe|Approaching God with Awe]]"
+- "[[Eccl.5.8 The Futility of Wealth|The Futility of Wealth]]"
+---
+
 (KJV) **Ecclesiastes 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.4|<< Ecclesiastes 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.6|Ecclesiastes 6 >>]]</td></tr></table>
 
 <big><big>[[Eccl.5.1 Approaching God with Awe|⥃]]</big></big>***Approaching God with Awe***

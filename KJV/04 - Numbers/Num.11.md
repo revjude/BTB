@@ -1,3 +1,31 @@
+---
+title: Numbers 11
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 11
+book/chapter: "[[Num.11|Numbers 11]]"
+chronological_order: 171
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.11.1 The Complaints of the People|The Complaints of the People]]"
+- "[[Num.11.10 The Complaint of Moses|The Complaint of Moses]]"
+- "[[Num.11.16 Seventy Elders Anointed|Seventy Elders Anointed]]"
+- "[[Num.11.31 The Quail and the Plague|The Quail and the Plague]]"
+---
+
 (KJV) **Numbers 11**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10|<< Numbers 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.12|Numbers 12 >>]]</td></tr></table>
 
 <big><big>[[Num.11.1 The Complaints of the People|⥃]]</big></big>***The Complaints of the People***

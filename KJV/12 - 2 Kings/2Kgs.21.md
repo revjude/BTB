@@ -1,3 +1,26 @@
+---
+title: 2 Kings 21
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Kings
+chapter: 21
+book/chapter: "[[2Kgs.21|2 Kings 21]]"
+chronological_order: 706
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[2Kgs.21.1 Manasseh Reigns in Judah|Manasseh Reigns in Judah]]"
+- "[[2Kgs.21.10 Manasseh’s Idolatries Rebuked|Manasseh’s Idolatries Rebuked]]"
+- "[[2Kgs.21.19 Amon Reigns in Judah|Amon Reigns in Judah]]"
+---
+
 (KJV) **2 Kings 21**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.20|<< 2 Kings 20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.22|2 Kings 22 >>]]</td></tr></table>
 
 <big><big>[[2Kgs.21.1 Manasseh Reigns in Judah|⥃]]</big></big>***Manasseh Reigns in Judah***&emsp;<small><sup>\[ [[2Chr.33|2 Chronicles 33:1–9]] ]</sup></small>

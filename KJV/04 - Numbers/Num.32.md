@@ -1,3 +1,28 @@
+---
+title: Numbers 32
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 32
+book/chapter: "[[Num.32|Numbers 32]]"
+chronological_order: 192
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.32.1 The Tribes East of the Jordan|The Tribes East of the Jordan]]"
+---
+
 (KJV) **Numbers 32**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31|<< Numbers 31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33|Numbers 33 >>]]</td></tr></table>
 
 <big><big>[[Num.32.1 The Tribes East of the Jordan|⥃]]</big></big>***The Tribes East of the Jordan***&emsp;<small><sup>\[ [[Deut.3|Deuteronomy 3:12–22]] <big>†</big> [[Josh.13|Joshua 13:8–14]] ]</sup></small>

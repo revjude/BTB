@@ -1,3 +1,26 @@
+---
+title: 2 Samuel 8
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Samuel
+chapter: 8
+book/chapter: "[[2Sam.8|2 Samuel 8]]"
+chronological_order: 402
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+pericopes:
+- "[[2Sam.8.1 David’s Triumphs|David’s Triumphs]]"
+- "[[2Sam.8.15 David’s Officers|David’s Officers]]"
+---
+
 (KJV) **2 Samuel 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7|<< 2 Samuel 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.9|2 Samuel 9 >>]]</td></tr></table>
 
 <big><big>[[2Sam.8.1 David’s Triumphs|⥃]]</big></big>***David’s Triumphs***&emsp;<small><sup>\[ [[1Chr.18|1 Chronicles 18:1–13]] <big>†</big> [[Ps.60|Psalms 60:1–12]] ]</sup></small>

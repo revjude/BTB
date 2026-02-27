@@ -1,3 +1,36 @@
+---
+title: Luke 9
+type: Chapter
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+pericopes:
+- "[[Luke.9.1 The Ministry of the Twelve|The Ministry of the Twelve]]"
+- "[[Luke.9.7 Herod Tries to See Jesus|Herod Tries to See Jesus]]"
+- "[[Luke.9.10 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+- "[[Luke.9.18 Peter’s Confession of Christ|Peter’s Confession of Christ]]"
+- "[[Luke.9.21 Christ’s Passion Foretold|Christ’s Passion Foretold]]"
+- "[[Luke.9.23 Take Up Your Cross|Take Up Your Cross]]"
+- "[[Luke.9.28 The Transfiguration|The Transfiguration]]"
+- "[[Luke.9.37 The Boy with an Evil Spirit|The Boy with an Evil Spirit]]"
+- "[[Luke.9.43 The Second Prediction of the Passion|The Second Prediction of the Passion]]"
+- "[[Luke.9.46 The Greatest in the Kingdom|The Greatest in the Kingdom]]"
+- "[[Luke.9.51 The Samaritans Reject Jesus|The Samaritans Reject Jesus]]"
+- "[[Luke.9.57 The Cost of Discipleship|The Cost of Discipleship]]"
+---
+
 (KJV) **Luke 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8|<< Luke 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10|Luke 10 >>]]</td></tr></table>
 
 <big><big>[[Luke.9.1 The Ministry of the Twelve|⥃]]</big></big>***The Ministry of the Twelve***&emsp;<small><sup>\[ [[Matt.10|Matthew 10:5–15]] <big>†</big> [[Mark.6|Mark 6:7–13]] ]</sup></small>

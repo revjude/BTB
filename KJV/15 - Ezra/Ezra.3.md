@@ -1,3 +1,25 @@
+---
+title: Ezra 3
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezra
+chapter: 3
+book/chapter: "[[Ezra.3|Ezra 3]]"
+chronological_order: 851
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+pericopes:
+- "[[Ezra.3.1 Sacrifices Restored|Sacrifices Restored]]"
+- "[[Ezra.3.8 Temple Restoration Begins|Temple Restoration Begins]]"
+---
+
 (KJV) **Ezra 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2|<< Ezra 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4|Ezra 4 >>]]</td></tr></table>
 
 <big><big>[[Ezra.3.1 Sacrifices Restored|⥃]]</big></big>***Sacrifices Restored***

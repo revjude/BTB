@@ -1,3 +1,31 @@
+---
+title: 1 Kings 11
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Kings
+chapter: 11
+book/chapter: "[[1Kgs.11|1 Kings 11]]"
+chronological_order: 536
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+pericopes:
+- "[[1Kgs.11.1 Solomon’s Foreign Wives|Solomon’s Foreign Wives]]"
+- "[[1Kgs.11.9 God’s Anger against Solomon|God’s Anger against Solomon]]"
+- "[[1Kgs.11.14 Hadad’s Return|Hadad’s Return]]"
+- "[[1Kgs.11.23 Rezon’s Hostility|Rezon’s Hostility]]"
+- "[[1Kgs.11.26 Jeroboam’s Rebellion|Jeroboam’s Rebellion]]"
+- "[[1Kgs.11.41 The Death of Solomon|The Death of Solomon]]"
+---
+
 (KJV) **1 Kings 11**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10|<< 1 Kings 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.12|1 Kings 12 >>]]</td></tr></table>
 
 <big><big>[[1Kgs.11.1 Solomon’s Foreign Wives|⥃]]</big></big>***Solomon’s Foreign Wives***

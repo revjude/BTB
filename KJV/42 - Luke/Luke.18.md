@@ -1,3 +1,30 @@
+---
+title: Luke 18
+type: Chapter
+original_language: Greek
+testament: New
+book: Luke
+chapter: 18
+book/chapter: "[[Luke.18|Luke 18]]"
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+pericopes:
+- "[[Luke.18.1 The Parable of the Persistent Widow|The Parable of the Persistent Widow]]"
+- "[[Luke.18.9 The Pharisee and the Tax Collector|The Pharisee and the Tax Collector]]"
+- "[[Luke.18.15 Jesus Blesses the Children|Jesus Blesses the Children]]"
+- "[[Luke.18.18 The Rich Young Ruler|The Rich Young Ruler]]"
+- "[[Luke.18.31 The Third Prediction of the Passion|The Third Prediction of the Passion]]"
+- "[[Luke.18.35 Jesus Heals a Blind Beggar|Jesus Heals a Blind Beggar]]"
+---
+
 (KJV) **Luke 18**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17|<< Luke 17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19|Luke 19 >>]]</td></tr></table>
 
 <big><big>[[Luke.18.1 The Parable of the Persistent Widow|⥃]]</big></big>***The Parable of the Persistent Widow***

@@ -1,3 +1,24 @@
+---
+title: Proverbs 29
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Proverbs
+chapter: 29
+book/chapter: "[[Prov.29|Proverbs 29]]"
+chronological_order: 484
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+pericopes:
+- "[[Prov.29.1 The Flourishing of the Righteous|The Flourishing of the Righteous]]"
+---
+
 (KJV) **Proverbs 29**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28|<< Proverbs 28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30|Proverbs 30 >>]]</td></tr></table>
 
 <big><big>[[Prov.29.1 The Flourishing of the Righteous|⥃]]</big></big>***The Flourishing of the Righteous***

@@ -1,3 +1,26 @@
+---
+title: John 9
+type: Chapter
+original_language: Greek
+testament: New
+book: John
+chapter: 9
+book/chapter: "[[John.9|John 9]]"
+chronological_order: 983
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+pericopes:
+- "[[John.9.1 Jesus Heals the Man Born Blind|Jesus Heals the Man Born Blind]]"
+- "[[John.9.13 The Pharisees Investigate the Healing|The Pharisees Investigate the Healing]]"
+- "[[John.9.35 Spiritual Blindness|Spiritual Blindness]]"
+---
+
 (KJV) **John 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8|<< John 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10|John 10 >>]]</td></tr></table>
 
 <big><big>[[John.9.1 Jesus Heals the Man Born Blind|⥃]]</big></big>***Jesus Heals the Man Born Blind***

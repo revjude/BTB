@@ -1,3 +1,25 @@
+---
+title: Malachi 4
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Malachi
+chapter: 4
+book/chapter: "[[Mal.4|Malachi 4]]"
+chronological_order: 929
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+pericopes:
+- "[[Mal.4.1 The Day of the LORD|The Day of the LORD]]"
+---
+
 (KJV) **Malachi 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3|<< Malachi 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1|Matthew 1 >>]]</td></tr></table>
 
 <big><big>[[Mal.4.1 The Day of the LORD|⥃]]</big></big>***The Day of the LORD***&emsp;<small><sup>\[ [[Zeph.1|Zephaniah 1:7–18]] <big>†</big> [[1Thess.5|1 Thessalonians 5:1–11]] <big>†</big> [[2Pet.3|2 Peter 3:8–13]] ]</sup></small>

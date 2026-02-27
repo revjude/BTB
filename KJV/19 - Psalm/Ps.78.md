@@ -1,3 +1,27 @@
+---
+title: Psalm 78
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+---
+
 (KJV) **Psalm 78**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.77|<< Psalm 77]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.79|Psalm 79 >>]]</td></tr></table>
 
 <big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥃]]</big></big>***I Will Open My Mouth in Parables***&emsp;<small><sup>\[ [[Matt.13|Matthew 13:34–35]] ]</sup></small>

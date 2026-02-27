@@ -1,3 +1,29 @@
+---
+title: Leviticus 11
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Leviticus
+chapter: 11
+book/chapter: "[[Lev.11|Leviticus 11]]"
+chronological_order: 143
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+pericopes:
+- "[[Lev.11.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+---
+
 (KJV) **Leviticus 11**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.10|<< Leviticus 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.12|Leviticus 12 >>]]</td></tr></table>
 
 <big><big>[[Lev.11.1 Clean and Unclean Animals|⥃]]</big></big>***Clean and Unclean Animals***&emsp;<small><sup>\[ [[Deut.14|Deuteronomy 14:1–21]] <big>†</big> [[Acts.10|Acts 10:9–16]] ]</sup></small>

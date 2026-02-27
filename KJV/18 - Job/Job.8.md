@@ -1,3 +1,25 @@
+---
+title: Job 8
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 8
+book/chapter: "[[Job.8|Job 8]]"
+chronological_order: 19
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.8.1 Bildad：Job Should Repent|Bildad：Job Should Repent]]"
+---
+
 (KJV) **Job 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.7|<< Job 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9|Job 9 >>]]</td></tr></table>
 
 <big><big>[[Job.8.1 Bildad：Job Should Repent|⥃]]</big></big>***Bildad: Job Should Repent***

@@ -1,3 +1,27 @@
+---
+title: 2 Kings 10
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Kings
+chapter: 10
+book/chapter: "[[2Kgs.10|2 Kings 10]]"
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[2Kgs.10.1 Ahab’s Seventy Sons Killed|Ahab’s Seventy Sons Killed]]"
+- "[[2Kgs.10.18 Jehu Kills the Priests of Baal|Jehu Kills the Priests of Baal]]"
+- "[[2Kgs.10.28 Jehu Repeats Jeroboam’s Sins|Jehu Repeats Jeroboam’s Sins]]"
+- "[[2Kgs.10.34 Jehoahaz Succeeds Jehu in Israel|Jehoahaz Succeeds Jehu in Israel]]"
+---
+
 (KJV) **2 Kings 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9|<< 2 Kings 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11|2 Kings 11 >>]]</td></tr></table>
 
 <big><big>[[2Kgs.10.1 Ahab’s Seventy Sons Killed|⥃]]</big></big>***Ahab’s Seventy Sons Killed***

@@ -1,3 +1,27 @@
+---
+title: Ezekiel 10
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 10
+book/chapter: "[[Ezek.10|Ezekiel 10]]"
+chronological_order: 801
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.10.1 God’s Glory Exits the Temple|God’s Glory Exits the Temple]]"
+---
+
 (KJV) **Ezekiel 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.9|<< Ezekiel 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11|Ezekiel 11 >>]]</td></tr></table>
 
 <big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥃]]</big></big>***God’s Glory Exits the Temple***

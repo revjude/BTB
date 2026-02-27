@@ -1,3 +1,27 @@
+---
+title: Psalm 126
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 126
+book/chapter: "[[Ps.126|Psalm 126]]"
+chronological_order: 888
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.126.1 Zion’s Captives Restored|Zion’s Captives Restored]]"
+---
+
 (KJV) **Psalm 126**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.125|<< Psalm 125]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.127|Psalm 127 >>]]</td></tr></table>
 
 <big><big>[[Ps.126.1 Zion’s Captives Restored|⥃]]</big></big>***Zion’s Captives Restored***

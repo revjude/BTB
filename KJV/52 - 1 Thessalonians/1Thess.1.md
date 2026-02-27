@@ -1,3 +1,24 @@
+---
+title: 1 Thessalonians 1
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 1
+book/chapter: "[[1Thess.1|1 Thessalonians 1]]"
+chronological_order: 1048
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+pericopes:
+- "[[1Thess.1.1 Greetings to the Thessalonians|Greetings to the Thessalonians]]"
+---
+
 (KJV) **1 Thessalonians 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4|<< Colossians 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2|1 Thessalonians 2 >>]]</td></tr></table>
 
 <big><big>[[1Thess.1.1 Greetings to the Thessalonians|⥃]]</big></big>***Greetings to the Thessalonians***&emsp;<small><sup>\[ [[2Thess.1|2 Thessalonians 1:1–4]] ]</sup></small>

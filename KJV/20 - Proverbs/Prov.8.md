@@ -1,3 +1,24 @@
+---
+title: Proverbs 8
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Proverbs
+chapter: 8
+book/chapter: "[[Prov.8|Proverbs 8]]"
+chronological_order: 463
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+pericopes:
+- "[[Prov.8.1 The Excellence of Wisdom|The Excellence of Wisdom]]"
+---
+
 (KJV) **Proverbs 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.7|<< Proverbs 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.9|Proverbs 9 >>]]</td></tr></table>
 
 <big><big>[[Prov.8.1 The Excellence of Wisdom|⥃]]</big></big>***The Excellence of Wisdom***

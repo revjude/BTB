@@ -1,3 +1,30 @@
+---
+title: Leviticus 13
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+pericopes:
+- "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+- "[[Lev.13.47 Laws about Mildew|Laws about Mildew]]"
+---
+
 (KJV) **Leviticus 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.12|<< Leviticus 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14|Leviticus 14 >>]]</td></tr></table>
 
 <big><big>[[Lev.13.1 Laws about Skin Diseases|⥃]]</big></big>***Laws about Skin Diseases***&emsp;<small><sup>\[ [[Num.5|Numbers 5:1–4]] ]</sup></small>

@@ -1,3 +1,28 @@
+---
+title: Ezekiel 13
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 13
+book/chapter: "[[Ezek.13|Ezekiel 13]]"
+chronological_order: 804
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.13.1 Reproof of False Prophets|Reproof of False Prophets]]"
+- "[[Ezek.13.17 Reproof of False Prophetesses|Reproof of False Prophetesses]]"
+---
+
 (KJV) **Ezekiel 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12|<< Ezekiel 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14|Ezekiel 14 >>]]</td></tr></table>
 
 <big><big>[[Ezek.13.1 Reproof of False Prophets|⥃]]</big></big>***Reproof of False Prophets***&emsp;<small><sup>\[ [[Mic.2|Micah 2:6–11]] ]</sup></small>

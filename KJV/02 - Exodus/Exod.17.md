@@ -1,3 +1,30 @@
+---
+title: Exodus 17
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 17
+book/chapter: "[[Exod.17|Exodus 17]]"
+chronological_order: 109
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.17.1 Water from the Rock|Water from the Rock]]"
+- "[[Exod.17.8 The Defeat of the Amalekites|The Defeat of the Amalekites]]"
+---
+
 (KJV) **Exodus 17**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16|<< Exodus 16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18|Exodus 18 >>]]</td></tr></table>
 
 <big><big>[[Exod.17.1 Water from the Rock|⥃]]</big></big>***Water from the Rock***&emsp;<small><sup>\[ [[Num.20|Numbers 20:1–13]] ]</sup></small>

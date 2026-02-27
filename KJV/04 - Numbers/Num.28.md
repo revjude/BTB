@@ -1,3 +1,32 @@
+---
+title: Numbers 28
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 28
+book/chapter: "[[Num.28|Numbers 28]]"
+chronological_order: 188
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.28.1 The Daily Offerings|The Daily Offerings]]"
+- "[[Num.28.9 The Sabbath Offerings|The Sabbath Offerings]]"
+- "[[Num.28.11 The Monthly Offerings|The Monthly Offerings]]"
+- "[[Num.28.16 Passover and the Feast of Unleavened Bread|Passover and the Feast of Unleavened Bread]]"
+- "[[Num.28.26 The Feast of Weeks|The Feast of Weeks]]"
+---
+
 (KJV) **Numbers 28**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.27|<< Numbers 27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.29|Numbers 29 >>]]</td></tr></table>
 
 <big><big>[[Num.28.1 The Daily Offerings|⥃]]</big></big>***The Daily Offerings***&emsp;<small><sup>\[ [[Exod.29|Exodus 29:38–44]] ]</sup></small>

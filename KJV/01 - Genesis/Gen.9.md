@@ -1,3 +1,29 @@
+---
+title: Genesis 9
+type: Chapter
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 9
+book/chapter: "[[Gen.9|Genesis 9]]"
+chronological_order: 9
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.9.1 The Covenant of the Rainbow|The Covenant of the Rainbow]]"
+- "[[Gen.9.18 Noah’s Shame and Canaan’s Curse|Noah’s Shame and Canaan’s Curse]]"
+- "[[Gen.9.26 Shem’s Blessing and Noah’s Death|Shem’s Blessing and Noah’s Death]]"
+---
+
 (KJV) **Genesis 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8|<< Genesis 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10|Genesis 10 >>]]</td></tr></table>
 
 <big><big>[[Gen.9.1 The Covenant of the Rainbow|⥃]]</big></big>***The Covenant of the Rainbow***

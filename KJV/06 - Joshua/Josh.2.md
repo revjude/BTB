@@ -1,3 +1,25 @@
+---
+title: Joshua 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Joshua
+chapter: 2
+book/chapter: "[[Josh.2|Joshua 2]]"
+chronological_order: 232
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+pericopes:
+- "[[Josh.2.1 Rahab Welcomes the Spies|Rahab Welcomes the Spies]]"
+- "[[Josh.2.8 The Promise to Rahab|The Promise to Rahab]]"
+---
+
 (KJV) **Joshua 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.1|<< Joshua 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.3|Joshua 3 >>]]</td></tr></table>
 
 <big><big>[[Josh.2.1 Rahab Welcomes the Spies|⥃]]</big></big>***Rahab Welcomes the Spies***&emsp;<small><sup>\[ [[Heb.11|Hebrews 11:30–31]] ]</sup></small>

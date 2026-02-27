@@ -1,3 +1,25 @@
+---
+title: Esther 8
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Esther
+chapter: 8
+book/chapter: "[[Esth.8|Esther 8]]"
+chronological_order: 906
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+pericopes:
+- "[[Esth.8.1 Esther Appeals for the Jews|Esther Appeals for the Jews]]"
+- "[[Esth.8.7 The Decree of Xerxes|The Decree of Xerxes]]"
+---
+
 (KJV) **Esther 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.7|<< Esther 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9|Esther 9 >>]]</td></tr></table>
 
 <big><big>[[Esth.8.1 Esther Appeals for the Jews|⥃]]</big></big>***Esther Appeals for the Jews***

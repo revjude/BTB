@@ -1,3 +1,26 @@
+---
+title: Nehemiah 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Nehemiah
+chapter: 2
+book/chapter: "[[Neh.2|Nehemiah 2]]"
+chronological_order: 914
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+pericopes:
+- "[[Neh.2.1 Nehemiah Sent to Jerusalem|Nehemiah Sent to Jerusalem]]"
+- "[[Neh.2.11 Nehemiah Inspects the Walls|Nehemiah Inspects the Walls]]"
+---
+
 (KJV) **Nehemiah 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.1|<< Nehemiah 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3|Nehemiah 3 >>]]</td></tr></table>
 
 <big><big>[[Neh.2.1 Nehemiah Sent to Jerusalem|⥃]]</big></big>***Nehemiah Sent to Jerusalem***

@@ -1,3 +1,28 @@
+---
+title: Numbers 36
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 36
+book/chapter: "[[Num.36|Numbers 36]]"
+chronological_order: 196
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.36.1 Zelophehad’s Daughters Marry|Zelophehad’s Daughters Marry]]"
+---
+
 (KJV) **Numbers 36**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35|<< Numbers 35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1|Deuteronomy 1 >>]]</td></tr></table>
 
 <big><big>[[Num.36.1 Zelophehad’s Daughters Marry|⥃]]</big></big>***Zelophehad’s Daughters Marry***&emsp;<small><sup>\[ [[Num.27|Numbers 27:1–11]] ]</sup></small>

@@ -1,3 +1,26 @@
+---
+title: Micah 5
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Micah
+chapter: 5
+book/chapter: "[[Mic.5|Micah 5]]"
+chronological_order: 627
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+pericopes:
+- "[[Mic.5.1 A Ruler from Bethlehem|A Ruler from Bethlehem]]"
+- "[[Mic.5.7 The Remnant of Jacob|The Remnant of Jacob]]"
+---
+
 (KJV) **Micah 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.4|<< Micah 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.6|Micah 6 >>]]</td></tr></table>
 
 <big><big>[[Mic.5.1 A Ruler from Bethlehem|⥃]]</big></big>***A Ruler from Bethlehem***&emsp;<small><sup>\[ [[Matt.2|Matthew 2:1–12]] ]</sup></small>

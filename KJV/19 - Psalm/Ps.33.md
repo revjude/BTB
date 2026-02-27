@@ -1,3 +1,27 @@
+---
+title: Psalm 33
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 33
+book/chapter: "[[Ps.33|Psalm 33]]"
+chronological_order: 423
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.33.1 Praise to the Creator|Praise to the Creator]]"
+---
+
 (KJV) **Psalm 33**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.32|<< Psalm 32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34|Psalm 34 >>]]</td></tr></table>
 
 <big><big>[[Ps.33.1 Praise to the Creator|⥃]]</big></big>***Praise to the Creator***&emsp;<small><sup>\[ [[Ps.148|Psalms 148:1–14]] ]</sup></small>

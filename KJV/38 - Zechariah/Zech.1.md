@@ -1,3 +1,28 @@
+---
+title: Zechariah 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Zechariah
+chapter: 1
+book/chapter: "[[Zech.1|Zechariah 1]]"
+chronological_order: 857
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+pericopes:
+- "[[Zech.1.1 A Call to Repentance|A Call to Repentance]]"
+- "[[Zech.1.7 The Vision of the Horses|The Vision of the Horses]]"
+- "[[Zech.1.18 The Vision of the Horns and the Craftsmen|The Vision of the Horns and the Craftsmen]]"
+---
+
 (KJV) **Zechariah 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2|<< Haggai 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.2|Zechariah 2 >>]]</td></tr></table>
 
 <big><big>[[Zech.1.1 A Call to Repentance|⥃]]</big></big>***A Call to Repentance***&emsp;<small><sup>\[ [[Jer.3|Jeremiah 3:11–25]] <big>†</big> [[Hos.14|Hosea 14:1–3]] ]</sup></small>

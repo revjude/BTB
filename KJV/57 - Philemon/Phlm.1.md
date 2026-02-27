@@ -1,3 +1,27 @@
+---
+title: Philemon 1
+type: Chapter
+original_language: Greek
+testament: New
+book: Philemon
+chapter: 1
+book/chapter: "[[Phlm.1|Philemon 1]]"
+chronological_order: 1125
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- personal letter
+pericopes:
+- "[[Phlm.1.1 Greetings from Paul and Timothy|Greetings from Paul and Timothy]]"
+- "[[Phlm.1.4 Philemon’s Faith and Love|Philemon’s Faith and Love]]"
+- "[[Phlm.1.8 Paul’s Appeal for Onesimus|Paul’s Appeal for Onesimus]]"
+- "[[Phlm.1.23 Additional Greetings|Additional Greetings]]"
+---
+
 (KJV) **Philemon 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.3|<< Titus 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.1|Hebrews 1 >>]]</td></tr></table>
 
 <big><big>[[Phlm.1.1 Greetings from Paul and Timothy|⥃]]</big></big>***Greetings from Paul and Timothy***&emsp;<small><sup>\[ [[Phil.1|Philippians 1:1–2]] <big>†</big> [[Col.1|Colossians 1:1–2]] ]</sup></small>

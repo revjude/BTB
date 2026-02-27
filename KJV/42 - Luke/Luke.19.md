@@ -1,3 +1,29 @@
+---
+title: Luke 19
+type: Chapter
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+pericopes:
+- "[[Luke.19.1 Jesus and Zacchaeus|Jesus and Zacchaeus]]"
+- "[[Luke.19.11 The Parable of the Ten Minas|The Parable of the Ten Minas]]"
+- "[[Luke.19.28 The Triumphal Entry|The Triumphal Entry]]"
+- "[[Luke.19.41 Jesus Weeps over Jerusalem|Jesus Weeps over Jerusalem]]"
+- "[[Luke.19.45 Jesus Cleanses the Temple|Jesus Cleanses the Temple]]"
+---
+
 (KJV) **Luke 19**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18|<< Luke 18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20|Luke 20 >>]]</td></tr></table>
 
 <big><big>[[Luke.19.1 Jesus and Zacchaeus|⥃]]</big></big>***Jesus and Zacchaeus***&emsp;<small><sup>\[ [[Num.5|Numbers 5:5–10]] ]</sup></small>

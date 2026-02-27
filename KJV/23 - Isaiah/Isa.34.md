@@ -1,3 +1,26 @@
+---
+title: Isaiah 34
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 34
+book/chapter: "[[Isa.34|Isaiah 34]]"
+chronological_order: 677
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.34.1 Judgment on the Nations|Judgment on the Nations]]"
+- "[[Isa.34.5 Judgment on Edom|Judgment on Edom]]"
+---
+
 (KJV) **Isaiah 34**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33|<< Isaiah 33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.35|Isaiah 35 >>]]</td></tr></table>
 
 <big><big>[[Isa.34.1 Judgment on the Nations|⥃]]</big></big>***Judgment on the Nations***

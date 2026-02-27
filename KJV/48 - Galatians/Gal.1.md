@@ -1,3 +1,25 @@
+---
+title: Galatians 1
+type: Chapter
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 1
+book/chapter: "[[Gal.1|Galatians 1]]"
+chronological_order: 1039
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+pericopes:
+- "[[Gal.1.1 Paul’s Greeting to the Galatians|Paul’s Greeting to the Galatians]]"
+- "[[Gal.1.6 No Other Gospel|No Other Gospel]]"
+- "[[Gal.1.10 Paul Preaches the Gospel|Paul Preaches the Gospel]]"
+---
+
 (KJV) **Galatians 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13|<< 2 Corinthians 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2|Galatians 2 >>]]</td></tr></table>
 
 <big><big>[[Gal.1.1 Paul’s Greeting to the Galatians|⥃]]</big></big>***Paul’s Greeting to the Galatians***

@@ -1,3 +1,25 @@
+---
+title: Obadiah 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Obadiah
+chapter: 1
+book/chapter: "[[Obad.1|Obadiah 1]]"
+chronological_order: 581
+era: Divided Kingdom
+period: "The Divided Kingdom: Obadiah's Prophecy"
+date: ~845 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+pericopes:
+- "[[Obad.1.1 The Destruction of Edom|The Destruction of Edom]]"
+- "[[Obad.1.15 The Deliverance of Israel|The Deliverance of Israel]]"
+---
+
 (KJV) **Obadiah 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.9|<< Amos 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.1|Jonah 1 >>]]</td></tr></table>
 
 <big><big>[[Obad.1.1 The Destruction of Edom|⥃]]</big></big>***The Destruction of Edom***&emsp;<small><sup>\[ [[Jer.49|Jeremiah 49:7–22]] ]</sup></small>

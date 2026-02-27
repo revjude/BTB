@@ -1,3 +1,27 @@
+---
+title: Psalm 43
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 43
+book/chapter: "[[Ps.43|Psalm 43]]"
+chronological_order: 498
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.43.1 Send Out Your Light|Send Out Your Light]]"
+---
+
 (KJV) **Psalm 43**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.42|<< Psalm 42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44|Psalm 44 >>]]</td></tr></table>
 
 <big><big>[[Ps.43.1 Send Out Your Light|⥃]]</big></big>***Send Out Your Light*** <small><small>[^2]</small></small> 

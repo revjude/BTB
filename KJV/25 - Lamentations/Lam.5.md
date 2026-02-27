@@ -1,3 +1,24 @@
+---
+title: Lamentations 5
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Lamentations
+chapter: 5
+book/chapter: "[[Lam.5|Lamentations 5]]"
+chronological_order: 780
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+pericopes:
+- "[[Lam.5.1 A Prayer for Restoration|A Prayer for Restoration]]"
+---
+
 (KJV) **Lamentations 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4|<< Lamentations 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1|Ezekiel 1 >>]]</td></tr></table>
 
 <big><big>[[Lam.5.1 A Prayer for Restoration|⥃]]</big></big>***A Prayer for Restoration***

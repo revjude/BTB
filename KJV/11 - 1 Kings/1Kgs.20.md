@@ -1,3 +1,30 @@
+---
+title: 1 Kings 20
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+pericopes:
+- "[[1Kgs.20.1 Ben-hadad Attacks Samaria|Ben-hadad Attacks Samaria]]"
+- "[[1Kgs.20.13 Ahab Defeats Ben-hadad|Ahab Defeats Ben-hadad]]"
+- "[[1Kgs.20.26 Another War with Ben-hadad|Another War with Ben-hadad]]"
+- "[[1Kgs.20.31 Ahab Spares Ben-hadad|Ahab Spares Ben-hadad]]"
+- "[[1Kgs.20.35 A Prophet Reproves Ahab|A Prophet Reproves Ahab]]"
+---
+
 (KJV) **1 Kings 20**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.19|<< 1 Kings 19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21|1 Kings 21 >>]]</td></tr></table>
 
 <big><big>[[1Kgs.20.1 Ben-hadad Attacks Samaria|⥃]]</big></big>***Ben-hadad Attacks Samaria***

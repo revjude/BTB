@@ -1,3 +1,28 @@
+---
+title: Genesis 32
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Genesis
+chapter: 32
+book/chapter: "[[Gen.32|Genesis 32]]"
+chronological_order: 74
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.32.1 Jacob Prepares to Meet Esau|Jacob Prepares to Meet Esau]]"
+- "[[Gen.32.22 Jacob Wrestles with God|Jacob Wrestles with God]]"
+---
+
 (KJV) **Genesis 32**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31|<< Genesis 31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.33|Genesis 33 >>]]</td></tr></table>
 
 <big><big>[[Gen.32.1 Jacob Prepares to Meet Esau|⥃]]</big></big>***Jacob Prepares to Meet Esau***

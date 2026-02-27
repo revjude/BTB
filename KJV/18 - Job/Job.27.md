@@ -1,3 +1,26 @@
+---
+title: Job 27
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 27
+book/chapter: "[[Job.27|Job 27]]"
+chronological_order: 38
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.27.1 Job Affirms His Integrity|Job Affirms His Integrity]]"
+- "[[Job.27.7 The Wicked Man’s Portion|The Wicked Man’s Portion]]"
+---
+
 (KJV) **Job 27**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.26|<< Job 26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28|Job 28 >>]]</td></tr></table>
 
 <big><big>[[Job.27.1 Job Affirms His Integrity|⥃]]</big></big>***Job Affirms His Integrity***

@@ -1,3 +1,27 @@
+---
+title: Luke 16
+type: Chapter
+original_language: Greek
+testament: New
+book: Luke
+chapter: 16
+book/chapter: "[[Luke.16|Luke 16]]"
+chronological_order: 978
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+pericopes:
+- "[[Luke.16.1 The Parable of the Shrewd Manager|The Parable of the Shrewd Manager]]"
+- "[[Luke.16.14 The Law and the Prophets|The Law and the Prophets]]"
+- "[[Luke.16.19 The Rich Man and Lazarus|The Rich Man and Lazarus]]"
+---
+
 (KJV) **Luke 16**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15|<< Luke 15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17|Luke 17 >>]]</td></tr></table>
 
 <big><big>[[Luke.16.1 The Parable of the Shrewd Manager|⥃]]</big></big>***The Parable of the Shrewd Manager***

@@ -1,3 +1,26 @@
+---
+title: 2 Chronicles 31
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 31
+book/chapter: "[[2Chr.31|2 Chronicles 31]]"
+chronological_order: 661
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.31.1 The Destruction of Idols|The Destruction of Idols]]"
+- "[[2Chr.31.3 Contributions for Worship|Contributions for Worship]]"
+- "[[2Chr.31.11 Hezekiah Organizes the Priests|Hezekiah Organizes the Priests]]"
+---
+
 (KJV) **2 Chronicles 31**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.30|<< 2 Chronicles 30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32|2 Chronicles 32 >>]]</td></tr></table>
 
 <big><big>[[2Chr.31.1 The Destruction of Idols|⥃]]</big></big>***The Destruction of Idols***

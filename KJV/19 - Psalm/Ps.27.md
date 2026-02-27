@@ -1,3 +1,27 @@
+---
+title: Psalm 27
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 27
+book/chapter: "[[Ps.27|Psalm 27]]"
+chronological_order: 359
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.27.1 The LORD Is My Salvation|The LORD Is My Salvation]]"
+---
+
 (KJV) **Psalm 27**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.26|<< Psalm 26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.28|Psalm 28 >>]]</td></tr></table>
 
 <big><big>[[Ps.27.1 The LORD Is My Salvation|⥃]]</big></big>***The LORD Is My Salvation***

@@ -1,3 +1,29 @@
+---
+title: Daniel 4
+type: Chapter
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 4
+book/chapter: "[[Dan.4|Daniel 4]]"
+chronological_order: 789
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+pericopes:
+- "[[Dan.4.1 Nebuchadnezzar Confesses God’s Kingdom|Nebuchadnezzar Confesses God’s Kingdom]]"
+- "[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|Nebuchadnezzar’s Dream of a Great Tree]]"
+- "[[Dan.4.19 Daniel Interprets the Second Dream|Daniel Interprets the Second Dream]]"
+- "[[Dan.4.28 The Second Dream Fulfilled|The Second Dream Fulfilled]]"
+- "[[Dan.4.34 Nebuchadnezzar Restored|Nebuchadnezzar Restored]]"
+---
+
 (KJV) **Daniel 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3|<< Daniel 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5|Daniel 5 >>]]</td></tr></table>
 
 <big><big>[[Dan.4.1 Nebuchadnezzar Confesses God’s Kingdom|⥃]]</big></big>***Nebuchadnezzar Confesses God’s Kingdom***

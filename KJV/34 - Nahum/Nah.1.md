@@ -1,3 +1,24 @@
+---
+title: Nahum 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Nahum
+chapter: 1
+book/chapter: "[[Nah.1|Nahum 1]]"
+chronological_order: 708
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+pericopes:
+- "[[Nah.1.1 The Burden against Nineveh|The Burden against Nineveh]]"
+---
+
 (KJV) **Nahum 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7|<< Micah 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.2|Nahum 2 >>]]</td></tr></table>
 
 <big><big>[[Nah.1.1 The Burden against Nineveh|⥃]]</big></big>***The Burden against Nineveh***&emsp;<small><sup>\[ [[Jonah.1|Jonah 1:1–3]] ]</sup></small>

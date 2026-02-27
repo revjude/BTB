@@ -1,3 +1,32 @@
+---
+title: Leviticus 24
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Leviticus
+chapter: 24
+book/chapter: "[[Lev.24|Leviticus 24]]"
+chronological_order: 156
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+pericopes:
+- "[[Lev.24.1 The Oil for the Lamps|The Oil for the Lamps]]"
+- "[[Lev.24.5 The Showbread|The Showbread]]"
+- "[[Lev.24.10 Punishment for Blasphemy|Punishment for Blasphemy]]"
+- "[[Lev.24.17 An Eye for an Eye|An Eye for an Eye]]"
+---
+
 (KJV) **Leviticus 24**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23|<< Leviticus 23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25|Leviticus 25 >>]]</td></tr></table>
 
 <big><big>[[Lev.24.1 The Oil for the Lamps|⥃]]</big></big>***The Oil for the Lamps***&emsp;<small><sup>\[ [[Exod.27|Exodus 27:20–21]] ]</sup></small>

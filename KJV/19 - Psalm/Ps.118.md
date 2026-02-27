@@ -1,3 +1,27 @@
+---
+title: Psalm 118
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 118
+book/chapter: "[[Ps.118|Psalm 118]]"
+chronological_order: 880
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.118.1 The LORD Is on My Side|The LORD Is on My Side]]"
+---
+
 (KJV) **Psalm 118**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.117|<< Psalm 117]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119|Psalm 119 >>]]</td></tr></table>
 
 <big><big>[[Ps.118.1 The LORD Is on My Side|⥃]]</big></big>***The LORD Is on My Side*** <small><small>[^2]</small></small> 

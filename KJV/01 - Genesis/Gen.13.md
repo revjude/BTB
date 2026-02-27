@@ -1,3 +1,29 @@
+---
+title: Genesis 13
+type: Chapter
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 13
+book/chapter: "[[Gen.13|Genesis 13]]"
+chronological_order: 55
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.13.1 Abram and Lot Part Ways|Abram and Lot Part Ways]]"
+- "[[Gen.13.10 Lot Proceeds toward Sodom|Lot Proceeds toward Sodom]]"
+- "[[Gen.13.14 God Renews the Promise to Abram|God Renews the Promise to Abram]]"
+---
+
 (KJV) **Genesis 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12|<< Genesis 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.14|Genesis 14 >>]]</td></tr></table>
 
 <big><big>[[Gen.13.1 Abram and Lot Part Ways|⥃]]</big></big>***Abram and Lot Part Ways***

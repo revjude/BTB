@@ -1,3 +1,25 @@
+---
+title: Job 18
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 18
+book/chapter: "[[Job.18|Job 18]]"
+chronological_order: 29
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.18.1 Bildad：God Punishes the Wicked|Bildad：God Punishes the Wicked]]"
+---
+
 (KJV) **Job 18**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.17|<< Job 17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19|Job 19 >>]]</td></tr></table>
 
 <big><big>[[Job.18.1 Bildad：God Punishes the Wicked|⥃]]</big></big>***Bildad: God Punishes the Wicked***

@@ -1,3 +1,27 @@
+---
+title: Jeremiah 6
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 6
+book/chapter: "[[Jer.6|Jeremiah 6]]"
+chronological_order: 723
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.6.1 Jerusalem’s Final Warning|Jerusalem’s Final Warning]]"
+- "[[Jer.6.22 An Invasion from the North|An Invasion from the North]]"
+---
+
 (KJV) **Jeremiah 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5|<< Jeremiah 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7|Jeremiah 7 >>]]</td></tr></table>
 
 <big><big>[[Jer.6.1 Jerusalem’s Final Warning|⥃]]</big></big>***Jerusalem’s Final Warning***

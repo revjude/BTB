@@ -1,3 +1,25 @@
+---
+title: Isaiah 15
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 15
+book/chapter: "[[Isa.15|Isaiah 15]]"
+chronological_order: 632
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.15.1 The Burden against Moab|The Burden against Moab]]"
+---
+
 (KJV) **Isaiah 15**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14|<< Isaiah 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16|Isaiah 16 >>]]</td></tr></table>
 
 <big><big>[[Isa.15.1 The Burden against Moab|⥃]]</big></big>***The Burden against Moab***&emsp;<small><sup>\[ [[Jer.48|Jeremiah 48:1–47]] ]</sup></small>

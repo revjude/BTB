@@ -1,3 +1,28 @@
+---
+title: Numbers 17
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 17
+book/chapter: "[[Num.17|Numbers 17]]"
+chronological_order: 177
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.17.1 Aaron’s Staff Buds|Aaron’s Staff Buds]]"
+---
+
 (KJV) **Numbers 17**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16|<< Numbers 16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18|Numbers 18 >>]]</td></tr></table>
 
 <big><big>[[Num.17.1 Aaron’s Staff Buds|⥃]]</big></big>***Aaron’s Staff Buds***

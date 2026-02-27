@@ -1,3 +1,31 @@
+---
+title: Exodus 33
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 33
+book/chapter: "[[Exod.33|Exodus 33]]"
+chronological_order: 125
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.33.1 The Command to Leave Sinai|The Command to Leave Sinai]]"
+- "[[Exod.33.7 The Tent of Meeting|The Tent of Meeting]]"
+- "[[Exod.33.12 The Promise of God’s Presence|The Promise of God’s Presence]]"
+---
+
 (KJV) **Exodus 33**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.32|<< Exodus 32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34|Exodus 34 >>]]</td></tr></table>
 
 <big><big>[[Exod.33.1 The Command to Leave Sinai|⥃]]</big></big>***The Command to Leave Sinai***&emsp;<small><sup>\[ [[Deut.1|Deuteronomy 1:1–8]] ]</sup></small>

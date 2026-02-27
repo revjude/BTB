@@ -1,3 +1,25 @@
+---
+title: Acts 28
+type: Chapter
+original_language: Greek
+testament: New
+book: Acts
+chapter: 28
+book/chapter: "[[Acts.28|Acts 28]]"
+chronological_order: 1110
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+pericopes:
+- "[[Acts.28.1 Ashore on Malta|Ashore on Malta]]"
+- "[[Acts.28.11 Paul Arrives in Italy|Paul Arrives in Italy]]"
+- "[[Acts.28.16 Paul Preaches at Rome|Paul Preaches at Rome]]"
+---
+
 (KJV) **Acts 28**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27|<< Acts 27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1|Romans 1 >>]]</td></tr></table>
 
 <big><big>[[Acts.28.1 Ashore on Malta|⥃]]</big></big>***Ashore on Malta***

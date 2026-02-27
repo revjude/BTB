@@ -1,3 +1,27 @@
+---
+title: 1 Chronicles 4
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Chronicles
+chapter: 4
+book/chapter: "[[1Chr.4|1 Chronicles 4]]"
+chronological_order: 323
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+pericopes:
+- "[[1Chr.4.1 The Descendants of Judah|The Descendants of Judah]]"
+- "[[1Chr.4.9 The Prayer of Jabez|The Prayer of Jabez]]"
+- "[[1Chr.4.11 More Descendants of Judah|More Descendants of Judah]]"
+- "[[1Chr.4.24 The Descendants of Simeon|The Descendants of Simeon]]"
+---
+
 (KJV) **1 Chronicles 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3|<< 1 Chronicles 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5|1 Chronicles 5 >>]]</td></tr></table>
 
 <big><big>[[1Chr.4.1 The Descendants of Judah|⥃]]</big></big>***The Descendants of Judah***

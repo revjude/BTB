@@ -1,3 +1,26 @@
+---
+title: 1 Samuel 8
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Samuel
+chapter: 8
+book/chapter: "[[1Sam.8|1 Samuel 8]]"
+chronological_order: 287
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[1Sam.8.1 Israel Demands a King|Israel Demands a King]]"
+- "[[1Sam.8.10 Samuel’s Warning|Samuel’s Warning]]"
+- "[[1Sam.8.19 God Grants the Request|God Grants the Request]]"
+---
+
 (KJV) **1 Samuel 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.7|<< 1 Samuel 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9|1 Samuel 9 >>]]</td></tr></table>
 
 <big><big>[[1Sam.8.1 Israel Demands a King|⥃]]</big></big>***Israel Demands a King***&emsp;<small><sup>\[ [[Deut.17|Deuteronomy 17:14–20]] ]</sup></small>

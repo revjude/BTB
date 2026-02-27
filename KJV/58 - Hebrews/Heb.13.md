@@ -1,3 +1,27 @@
+---
+title: Hebrews 13
+type: Chapter
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 13
+book/chapter: "[[Heb.13|Hebrews 13]]"
+chronological_order: 1152
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+pericopes:
+- "[[Heb.13.1 Brotherly Love|Brotherly Love]]"
+- "[[Heb.13.5 Christ’s Unchanging Nature|Christ’s Unchanging Nature]]"
+- "[[Heb.13.15 Sacrifice, Obedience, and Prayer|Sacrifice, Obedience, and Prayer]]"
+- "[[Heb.13.20 Benediction and Farewell|Benediction and Farewell]]"
+---
+
 (KJV) **Hebrews 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12|<< Hebrews 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1|James 1 >>]]</td></tr></table>
 
 <big><big>[[Heb.13.1 Brotherly Love|⥃]]</big></big>***Brotherly Love***

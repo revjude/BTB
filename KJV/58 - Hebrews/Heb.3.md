@@ -1,3 +1,26 @@
+---
+title: Hebrews 3
+type: Chapter
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 3
+book/chapter: "[[Heb.3|Hebrews 3]]"
+chronological_order: 1142
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+pericopes:
+- "[[Heb.3.1 Jesus Our Apostle and High Priest|Jesus Our Apostle and High Priest]]"
+- "[[Heb.3.7 Do Not Harden Your Hearts|Do Not Harden Your Hearts]]"
+- "[[Heb.3.12 The Peril of Unbelief|The Peril of Unbelief]]"
+---
+
 (KJV) **Hebrews 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2|<< Hebrews 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4|Hebrews 4 >>]]</td></tr></table>
 
 <big><big>[[Heb.3.1 Jesus Our Apostle and High Priest|⥃]]</big></big>***Jesus Our Apostle and High Priest***

@@ -1,3 +1,26 @@
+---
+title: 2 Chronicles 28
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 28
+book/chapter: "[[2Chr.28|2 Chronicles 28]]"
+chronological_order: 616
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.28.1 Ahaz Reigns in Judah|Ahaz Reigns in Judah]]"
+- "[[2Chr.28.5 Aram Defeats Judah|Aram Defeats Judah]]"
+- "[[2Chr.28.16 The Idolatry of Ahaz|The Idolatry of Ahaz]]"
+---
+
 (KJV) **2 Chronicles 28**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.27|<< 2 Chronicles 27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29|2 Chronicles 29 >>]]</td></tr></table>
 
 <big><big>[[2Chr.28.1 Ahaz Reigns in Judah|⥃]]</big></big>***Ahaz Reigns in Judah***&emsp;<small><sup>\[ [[2Kgs.16|2 Kings 16:1–9]] ]</sup></small>

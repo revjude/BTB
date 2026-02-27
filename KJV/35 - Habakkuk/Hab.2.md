@@ -1,3 +1,27 @@
+---
+title: Habakkuk 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Habakkuk
+chapter: 2
+book/chapter: "[[Hab.2|Habakkuk 2]]"
+chronological_order: 739
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+pericopes:
+- "[[Hab.2.1 The LORD Answers Again|The LORD Answers Again]]"
+- "[[Hab.2.6 Woe to the Chaldeans|Woe to the Chaldeans]]"
+---
+
 (KJV) **Habakkuk 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1|<< Habakkuk 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3|Habakkuk 3 >>]]</td></tr></table>
 
 <big><big>[[Hab.2.1 The LORD Answers Again|⥃]]</big></big>***The LORD Answers Again***

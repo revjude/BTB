@@ -1,3 +1,25 @@
+---
+title: 1 Timothy 2
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 2
+book/chapter: "[[1Tim.2|1 Timothy 2]]"
+chronological_order: 1127
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+pericopes:
+- "[[1Tim.2.1 A Call to Prayer|A Call to Prayer]]"
+- "[[1Tim.2.9 Instructions to Women|Instructions to Women]]"
+---
+
 (KJV) **1 Timothy 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1|<< 1 Timothy 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3|1 Timothy 3 >>]]</td></tr></table>
 
 <big><big>[[1Tim.2.1 A Call to Prayer|⥃]]</big></big>***A Call to Prayer***

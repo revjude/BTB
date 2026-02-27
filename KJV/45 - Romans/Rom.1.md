@@ -1,3 +1,25 @@
+---
+title: Romans 1
+type: Chapter
+original_language: Greek
+testament: New
+book: Romans
+chapter: 1
+book/chapter: "[[Rom.1|Romans 1]]"
+chronological_order: 1087
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+pericopes:
+- "[[Rom.1.1 Paul Greets the Saints in Rome|Paul Greets the Saints in Rome]]"
+- "[[Rom.1.8 Unashamed of the Gospel|Unashamed of the Gospel]]"
+- "[[Rom.1.18 God’s Wrath against Sin|God’s Wrath against Sin]]"
+---
+
 (KJV) **Romans 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28|<< Acts 28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2|Romans 2 >>]]</td></tr></table>
 
 <big><big>[[Rom.1.1 Paul Greets the Saints in Rome|⥃]]</big></big>***Paul Greets the Saints in Rome***

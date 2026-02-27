@@ -1,3 +1,27 @@
+---
+title: Micah 7
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Micah
+chapter: 7
+book/chapter: "[[Mic.7|Micah 7]]"
+chronological_order: 629
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+pericopes:
+- "[[Mic.7.1 Israel’s Great Misery|Israel’s Great Misery]]"
+- "[[Mic.7.7 Israel’s Confession and Comfort|Israel’s Confession and Comfort]]"
+- "[[Mic.7.14 God’s Compassion on Israel|God’s Compassion on Israel]]"
+---
+
 (KJV) **Micah 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.6|<< Micah 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.1|Nahum 1 >>]]</td></tr></table>
 
 <big><big>[[Mic.7.1 Israel’s Great Misery|⥃]]</big></big>***Israel’s Great Misery***&emsp;<small><sup>\[ [[Matt.10|Matthew 10:34–39]] <big>†</big> [[Luke.12|Luke 12:49–53]] ]</sup></small>

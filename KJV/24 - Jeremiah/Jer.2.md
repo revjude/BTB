@@ -1,3 +1,28 @@
+---
+title: Jeremiah 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 2
+book/chapter: "[[Jer.2|Jeremiah 2]]"
+chronological_order: 719
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.2.1 Israel Has Forsaken God|Israel Has Forsaken God]]"
+- "[[Jer.2.14 The Consequence of Israel’s Sin|The Consequence of Israel’s Sin]]"
+- "[[Jer.2.23 Israel’s Unfaithfulness|Israel’s Unfaithfulness]]"
+---
+
 (KJV) **Jeremiah 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.1|<< Jeremiah 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3|Jeremiah 3 >>]]</td></tr></table>
 
 <big><big>[[Jer.2.1 Israel Has Forsaken God|⥃]]</big></big>***Israel Has Forsaken God***

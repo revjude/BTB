@@ -1,3 +1,30 @@
+---
+title: Deuteronomy 26
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Deuteronomy
+chapter: 26
+book/chapter: "[[Deut.26|Deuteronomy 26]]"
+chronological_order: 222
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+pericopes:
+- "[[Deut.26.1 Offering Firstfruits and Tithes|Offering Firstfruits and Tithes]]"
+- "[[Deut.26.16 Obey the LORD’s Commands|Obey the LORD’s Commands]]"
+---
+
 (KJV) **Deuteronomy 26**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.25|<< Deuteronomy 25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.27|Deuteronomy 27 >>]]</td></tr></table>
 
 <big><big>[[Deut.26.1 Offering Firstfruits and Tithes|⥃]]</big></big>***Offering Firstfruits and Tithes***&emsp;<small><sup>\[ [[Lev.27|Leviticus 27:30–34]] <big>†</big> [[Deut.14|Deuteronomy 14:22–29]] <big>†</big> [[Neh.13|Nehemiah 13:10–14]] ]</sup></small>

@@ -1,3 +1,29 @@
+---
+title: Genesis 47
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Genesis
+chapter: 47
+book/chapter: "[[Gen.47|Genesis 47]]"
+chronological_order: 89
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.47.1 Jacob Settles in Goshen|Jacob Settles in Goshen]]"
+- "[[Gen.47.13 The Famine Continues|The Famine Continues]]"
+- "[[Gen.47.27 The Israelites Prosper in Goshen|The Israelites Prosper in Goshen]]"
+---
+
 (KJV) **Genesis 47**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46|<< Genesis 46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.48|Genesis 48 >>]]</td></tr></table>
 
 <big><big>[[Gen.47.1 Jacob Settles in Goshen|⥃]]</big></big>***Jacob Settles in Goshen***

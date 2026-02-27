@@ -1,3 +1,26 @@
+---
+title: Zechariah 3
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Zechariah
+chapter: 3
+book/chapter: "[[Zech.3|Zechariah 3]]"
+chronological_order: 859
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+pericopes:
+- "[[Zech.3.1 The Vision of Joshua the High Priest|The Vision of Joshua the High Priest]]"
+---
+
 (KJV) **Zechariah 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.2|<< Zechariah 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.4|Zechariah 4 >>]]</td></tr></table>
 
 <big><big>[[Zech.3.1 The Vision of Joshua the High Priest|⥃]]</big></big>***The Vision of Joshua the High Priest***

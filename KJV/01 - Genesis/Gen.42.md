@@ -1,3 +1,28 @@
+---
+title: Genesis 42
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Genesis
+chapter: 42
+book/chapter: "[[Gen.42|Genesis 42]]"
+chronological_order: 84
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.42.1 Joseph’s Brothers Sent to Egypt|Joseph’s Brothers Sent to Egypt]]"
+- "[[Gen.42.25 Joseph’s Brothers Return to Canaan|Joseph’s Brothers Return to Canaan]]"
+---
+
 (KJV) **Genesis 42**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41|<< Genesis 41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43|Genesis 43 >>]]</td></tr></table>
 
 <big><big>[[Gen.42.1 Joseph’s Brothers Sent to Egypt|⥃]]</big></big>***Joseph’s Brothers Sent to Egypt***

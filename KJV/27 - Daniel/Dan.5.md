@@ -1,3 +1,27 @@
+---
+title: Daniel 5
+type: Chapter
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 5
+book/chapter: "[[Dan.5|Daniel 5]]"
+chronological_order: 790
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+pericopes:
+- "[[Dan.5.1 Belshazzar’s Feast|Belshazzar’s Feast]]"
+- "[[Dan.5.5 The Handwriting on the Wall|The Handwriting on the Wall]]"
+- "[[Dan.5.13 Daniel Interprets the Handwriting|Daniel Interprets the Handwriting]]"
+---
+
 (KJV) **Daniel 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4|<< Daniel 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6|Daniel 6 >>]]</td></tr></table>
 
 <big><big>[[Dan.5.1 Belshazzar’s Feast|⥃]]</big></big>***Belshazzar’s Feast***

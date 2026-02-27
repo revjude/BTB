@@ -1,3 +1,27 @@
+---
+title: Psalm 114
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 114
+book/chapter: "[[Ps.114|Psalm 114]]"
+chronological_order: 876
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.114.1 A Psalm of Exodus|A Psalm of Exodus]]"
+---
+
 (KJV) **Psalm 114**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.113|<< Psalm 113]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.115|Psalm 115 >>]]</td></tr></table>
 
 <big><big>[[Ps.114.1 A Psalm of Exodus|⥃]]</big></big>***A Psalm of Exodus*** <small><small>[^2]</small></small> 

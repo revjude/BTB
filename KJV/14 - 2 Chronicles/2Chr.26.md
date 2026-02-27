@@ -1,3 +1,24 @@
+---
+title: 2 Chronicles 26
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 26
+book/chapter: "[[2Chr.26|2 Chronicles 26]]"
+chronological_order: 593
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.26.1 Uzziah Reigns in Judah|Uzziah Reigns in Judah]]"
+---
+
 (KJV) **2 Chronicles 26**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25|<< 2 Chronicles 25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.27|2 Chronicles 27 >>]]</td></tr></table>
 
 <big><big>[[2Chr.26.1 Uzziah Reigns in Judah|⥃]]</big></big>***Uzziah Reigns in Judah***&emsp;<small><sup>\[ [[2Kgs.14|2 Kings 14:21–22]] <big>†</big> [[2Kgs.15|2 Kings 15:1–7]] ]</sup></small>

@@ -1,3 +1,24 @@
+---
+title: Proverbs 4
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Proverbs
+chapter: 4
+book/chapter: "[[Prov.4|Proverbs 4]]"
+chronological_order: 459
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+pericopes:
+- "[[Prov.4.1 A Father’s Instruction|A Father’s Instruction]]"
+---
+
 (KJV) **Proverbs 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3|<< Proverbs 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.5|Proverbs 5 >>]]</td></tr></table>
 
 <big><big>[[Prov.4.1 A Father’s Instruction|⥃]]</big></big>***A Father’s Instruction***

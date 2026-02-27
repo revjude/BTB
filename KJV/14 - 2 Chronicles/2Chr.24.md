@@ -1,3 +1,27 @@
+---
+title: 2 Chronicles 24
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 24
+book/chapter: "[[2Chr.24|2 Chronicles 24]]"
+chronological_order: 589
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.24.1 Joash Repairs the Temple|Joash Repairs the Temple]]"
+- "[[2Chr.24.15 Jehoiada’s Death and Burial|Jehoiada’s Death and Burial]]"
+- "[[2Chr.24.17 The Wickedness of Joash|The Wickedness of Joash]]"
+- "[[2Chr.24.23 The Death of Joash|The Death of Joash]]"
+---
+
 (KJV) **2 Chronicles 24**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.23|<< 2 Chronicles 23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25|2 Chronicles 25 >>]]</td></tr></table>
 
 <big><big>[[2Chr.24.1 Joash Repairs the Temple|⥃]]</big></big>***Joash Repairs the Temple***&emsp;<small><sup>\[ [[2Kgs.12|2 Kings 12:1–16]] ]</sup></small>

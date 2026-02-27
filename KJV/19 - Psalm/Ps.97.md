@@ -1,3 +1,27 @@
+---
+title: Psalm 97
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 97
+book/chapter: "[[Ps.97|Psalm 97]]"
+chronological_order: 524
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.97.1 Let the Earth Rejoice|Let the Earth Rejoice]]"
+---
+
 (KJV) **Psalm 97**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.96|<< Psalm 96]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.98|Psalm 98 >>]]</td></tr></table>
 
 <big><big>[[Ps.97.1 Let the Earth Rejoice|⥃]]</big></big>***Let the Earth Rejoice***

@@ -1,3 +1,26 @@
+---
+title: Acts 4
+type: Chapter
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+pericopes:
+- "[[Acts.4.1 Peter and John before the Sanhedrin|Peter and John before the Sanhedrin]]"
+- "[[Acts.4.13 The Name Forbidden|The Name Forbidden]]"
+- "[[Acts.4.23 The Believers’ Prayer|The Believers’ Prayer]]"
+- "[[Acts.4.32 Sharing among Believers|Sharing among Believers]]"
+---
+
 (KJV) **Acts 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3|<< Acts 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5|Acts 5 >>]]</td></tr></table>
 
 <big><big>[[Acts.4.1 Peter and John before the Sanhedrin|⥃]]</big></big>***Peter and John before the Sanhedrin***

@@ -1,3 +1,26 @@
+---
+title: Joshua 10
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Joshua
+chapter: 10
+book/chapter: "[[Josh.10|Joshua 10]]"
+chronological_order: 240
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+pericopes:
+- "[[Josh.10.1 The Day the Sun Stood Still|The Day the Sun Stood Still]]"
+- "[[Josh.10.16 The Victory at Makkedah|The Victory at Makkedah]]"
+- "[[Josh.10.29 Conquest of the Southern Cities|Conquest of the Southern Cities]]"
+---
+
 (KJV) **Joshua 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9|<< Joshua 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.11|Joshua 11 >>]]</td></tr></table>
 
 <big><big>[[Josh.10.1 The Day the Sun Stood Still|⥃]]</big></big>***The Day the Sun Stood Still***

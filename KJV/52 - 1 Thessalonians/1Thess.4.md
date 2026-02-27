@@ -1,3 +1,25 @@
+---
+title: 1 Thessalonians 4
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 4
+book/chapter: "[[1Thess.4|1 Thessalonians 4]]"
+chronological_order: 1051
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+pericopes:
+- "[[1Thess.4.1 Living to Please God|Living to Please God]]"
+- "[[1Thess.4.13 The Return of the Lord|The Return of the Lord]]"
+---
+
 (KJV) **1 Thessalonians 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.3|<< 1 Thessalonians 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5|1 Thessalonians 5 >>]]</td></tr></table>
 
 <big><big>[[1Thess.4.1 Living to Please God|⥃]]</big></big>***Living to Please God***

@@ -1,3 +1,25 @@
+---
+title: Matthew 1
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 1
+book/chapter: "[[Matt.1|Matthew 1]]"
+chronological_order: 931
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.1.1 The Genealogy of Jesus|The Genealogy of Jesus]]"
+- "[[Matt.1.18 The Birth of Jesus|The Birth of Jesus]]"
+---
+
 (KJV) **Matthew 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.4|<< Malachi 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2|Matthew 2 >>]]</td></tr></table>
 
 <big><big>[[Matt.1.1 The Genealogy of Jesus|⥃]]</big></big>***The Genealogy of Jesus***&emsp;<small><sup>\[ [[Ruth.4|Ruth 4:18–22]] <big>†</big> [[Luke.3|Luke 3:23–38]] ]</sup></small>

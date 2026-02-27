@@ -1,3 +1,29 @@
+---
+title: Exodus 11
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 11
+book/chapter: "[[Exod.11|Exodus 11]]"
+chronological_order: 103
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.11.1 The Plague on the Firstborn Foretold|The Plague on the Firstborn Foretold]]"
+---
+
 (KJV) **Exodus 11**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10|<< Exodus 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12|Exodus 12 >>]]</td></tr></table>
 
 <big><big>[[Exod.11.1 The Plague on the Firstborn Foretold|⥃]]</big></big>***The Plague on the Firstborn Foretold***

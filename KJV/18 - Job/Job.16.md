@@ -1,3 +1,25 @@
+---
+title: Job 16
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 16
+book/chapter: "[[Job.16|Job 16]]"
+chronological_order: 27
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.16.1 Job Decries His Comforters|Job Decries His Comforters]]"
+---
+
 (KJV) **Job 16**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15|<< Job 15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.17|Job 17 >>]]</td></tr></table>
 
 <big><big>[[Job.16.1 Job Decries His Comforters|⥃]]</big></big>***Job Decries His Comforters***

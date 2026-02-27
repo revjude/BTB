@@ -1,3 +1,27 @@
+---
+title: 1 Kings 9
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Kings
+chapter: 9
+book/chapter: "[[1Kgs.9|1 Kings 9]]"
+chronological_order: 534
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+pericopes:
+- "[[1Kgs.9.1 The LORD’s Response to Solomon|The LORD’s Response to Solomon]]"
+- "[[1Kgs.9.10 Solomon’s Additional Achievements|Solomon’s Additional Achievements]]"
+---
+
 (KJV) **1 Kings 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8|<< 1 Kings 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10|1 Kings 10 >>]]</td></tr></table>
 
 <big><big>[[1Kgs.9.1 The LORD’s Response to Solomon|⥃]]</big></big>***The LORD’s Response to Solomon***&emsp;<small><sup>\[ [[2Chr.7|2 Chronicles 7:11–22]] ]</sup></small>

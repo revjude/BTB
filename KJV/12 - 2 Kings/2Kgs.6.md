@@ -1,3 +1,26 @@
+---
+title: 2 Kings 6
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Kings
+chapter: 6
+book/chapter: "[[2Kgs.6|2 Kings 6]]"
+chronological_order: 578
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[2Kgs.6.1 The Axe Head Floats|The Axe Head Floats]]"
+- "[[2Kgs.6.8 Elisha Captures the Blinded Arameans|Elisha Captures the Blinded Arameans]]"
+- "[[2Kgs.6.24 The Siege and Famine of Samaria|The Siege and Famine of Samaria]]"
+---
+
 (KJV) **2 Kings 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5|<< 2 Kings 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.7|2 Kings 7 >>]]</td></tr></table>
 
 <big><big>[[2Kgs.6.1 The Axe Head Floats|⥃]]</big></big>***The Axe Head Floats***

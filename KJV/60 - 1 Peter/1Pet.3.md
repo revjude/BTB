@@ -1,3 +1,26 @@
+---
+title: 1 Peter 3
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 3
+book/chapter: "[[1Pet.3|1 Peter 3]]"
+chronological_order: 1137
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+pericopes:
+- "[[1Pet.3.1 Wives and Husbands|Wives and Husbands]]"
+- "[[1Pet.3.8 Turning from Evil|Turning from Evil]]"
+- "[[1Pet.3.14 Suffering for Righteousness|Suffering for Righteousness]]"
+---
+
 (KJV) **1 Peter 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2|<< 1 Peter 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4|1 Peter 4 >>]]</td></tr></table>
 
 <big><big>[[1Pet.3.1 Wives and Husbands|⥃]]</big></big>***Wives and Husbands***&emsp;<small><sup>\[ [[Song.1|Song 1:1–17]] <big>†</big> [[Eph.5|Ephesians 5:22–33]] ]</sup></small>

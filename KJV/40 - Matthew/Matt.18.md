@@ -1,3 +1,29 @@
+---
+title: Matthew 18
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 18
+book/chapter: "[[Matt.18|Matthew 18]]"
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.18.1 The Greatest in the Kingdom|The Greatest in the Kingdom]]"
+- "[[Matt.18.6 Temptations and Trespasses|Temptations and Trespasses]]"
+- "[[Matt.18.10 The Parable of the Lost Sheep|The Parable of the Lost Sheep]]"
+- "[[Matt.18.15 A Brother Who Sins|A Brother Who Sins]]"
+- "[[Matt.18.19 Ask in My Name|Ask in My Name]]"
+- "[[Matt.18.21 The Unforgiving Servant|The Unforgiving Servant]]"
+---
+
 (KJV) **Matthew 18**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17|<< Matthew 17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19|Matthew 19 >>]]</td></tr></table>
 
 <big><big>[[Matt.18.1 The Greatest in the Kingdom|⥃]]</big></big>***The Greatest in the Kingdom***&emsp;<small><sup>\[ [[Mark.9|Mark 9:33–41]] <big>†</big> [[Luke.9|Luke 9:46–50]] ]</sup></small>

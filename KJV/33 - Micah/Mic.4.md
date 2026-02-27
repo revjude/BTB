@@ -1,3 +1,26 @@
+---
+title: Micah 4
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Micah
+chapter: 4
+book/chapter: "[[Mic.4|Micah 4]]"
+chronological_order: 626
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+pericopes:
+- "[[Mic.4.1 The Mountain of the House of the LORD|The Mountain of the House of the LORD]]"
+- "[[Mic.4.6 The Restoration of Zion|The Restoration of Zion]]"
+---
+
 (KJV) **Micah 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.3|<< Micah 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.5|Micah 5 >>]]</td></tr></table>
 
 <big><big>[[Mic.4.1 The Mountain of the House of the LORD|⥃]]</big></big>***The Mountain of the House of the LORD***&emsp;<small><sup>\[ [[Isa.2|Isaiah 2:1–4]] ]</sup></small>

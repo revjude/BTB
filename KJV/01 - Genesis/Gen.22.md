@@ -1,3 +1,29 @@
+---
+title: Genesis 22
+type: Chapter
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 22
+book/chapter: "[[Gen.22|Genesis 22]]"
+chronological_order: 64
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.22.1 The Offering of Isaac|The Offering of Isaac]]"
+- "[[Gen.22.11 The LORD Provides the Sacrifice|The LORD Provides the Sacrifice]]"
+- "[[Gen.22.20 The Sons of Nahor|The Sons of Nahor]]"
+---
+
 (KJV) **Genesis 22**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21|<< Genesis 21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.23|Genesis 23 >>]]</td></tr></table>
 
 <big><big>[[Gen.22.1 The Offering of Isaac|⥃]]</big></big>***The Offering of Isaac***&emsp;<small><sup>\[ [[John.3|John 3:1–21]] ]</sup></small>

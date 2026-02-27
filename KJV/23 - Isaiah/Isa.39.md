@@ -1,3 +1,25 @@
+---
+title: Isaiah 39
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 39
+book/chapter: "[[Isa.39|Isaiah 39]]"
+chronological_order: 666
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.39.1 Hezekiah Shows His Treasures|Hezekiah Shows His Treasures]]"
+---
+
 (KJV) **Isaiah 39**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38|<< Isaiah 38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40|Isaiah 40 >>]]</td></tr></table>
 
 <big><big>[[Isa.39.1 Hezekiah Shows His Treasures|⥃]]</big></big>***Hezekiah Shows His Treasures***&emsp;<small><sup>\[ [[2Kgs.20|2 Kings 20:12–19]] ]</sup></small>

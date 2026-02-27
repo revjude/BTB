@@ -1,3 +1,24 @@
+---
+title: Ruth 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ruth
+chapter: 2
+book/chapter: "[[Ruth.2|Ruth 2]]"
+chronological_order: 277
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+pericopes:
+- "[[Ruth.2.1 Boaz Meets Ruth|Boaz Meets Ruth]]"
+---
+
 (KJV) **Ruth 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1|<< Ruth 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.3|Ruth 3 >>]]</td></tr></table>
 
 <big><big>[[Ruth.2.1 Boaz Meets Ruth|⥃]]</big></big>***Boaz Meets Ruth***

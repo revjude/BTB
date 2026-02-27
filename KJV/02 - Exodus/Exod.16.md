@@ -1,3 +1,31 @@
+---
+title: Exodus 16
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 16
+book/chapter: "[[Exod.16|Exodus 16]]"
+chronological_order: 108
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.16.1 Manna and Quail from Heaven|Manna and Quail from Heaven]]"
+- "[[Exod.16.22 The Sabbath Observed|The Sabbath Observed]]"
+- "[[Exod.16.31 The Jar of Manna|The Jar of Manna]]"
+---
+
 (KJV) **Exodus 16**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15|<< Exodus 15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.17|Exodus 17 >>]]</td></tr></table>
 
 <big><big>[[Exod.16.1 Manna and Quail from Heaven|⥃]]</big></big>***Manna and Quail from Heaven***

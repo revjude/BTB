@@ -1,3 +1,29 @@
+---
+title: 2 Kings 14
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Kings
+chapter: 14
+book/chapter: "[[2Kgs.14|2 Kings 14]]"
+chronological_order: 591
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[2Kgs.14.1 Amaziah Reigns in Judah|Amaziah Reigns in Judah]]"
+- "[[2Kgs.14.8 Jehoash Defeats Amaziah|Jehoash Defeats Amaziah]]"
+- "[[2Kgs.14.15 Jeroboam II Succeeds Jehoash in Israel|Jeroboam II Succeeds Jehoash in Israel]]"
+- "[[2Kgs.14.17 The Death of Amaziah|The Death of Amaziah]]"
+- "[[2Kgs.14.21 Azariah Succeeds Amaziah in Judah|Azariah Succeeds Amaziah in Judah]]"
+- "[[2Kgs.14.23 Jeroboam II Reigns in Israel|Jeroboam II Reigns in Israel]]"
+---
+
 (KJV) **2 Kings 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.13|<< 2 Kings 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15|2 Kings 15 >>]]</td></tr></table>
 
 <big><big>[[2Kgs.14.1 Amaziah Reigns in Judah|⥃]]</big></big>***Amaziah Reigns in Judah***&emsp;<small><sup>\[ [[2Chr.25|2 Chronicles 25:1–4]] ]</sup></small>

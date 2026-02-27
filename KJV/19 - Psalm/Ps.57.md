@@ -1,3 +1,27 @@
+---
+title: Psalm 57
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 57
+book/chapter: "[[Ps.57|Psalm 57]]"
+chronological_order: 316
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.57.1 In You My Soul Takes Refuge|In You My Soul Takes Refuge]]"
+---
+
 (KJV) **Psalm 57**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.56|<< Psalm 56]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.58|Psalm 58 >>]]</td></tr></table>
 
 <big><big>[[Ps.57.1 In You My Soul Takes Refuge|⥃]]</big></big>***In You My Soul Takes Refuge***&emsp;<small><sup>\[ [[1Sam.22|1 Samuel 22:1–5]] <big>†</big> [[Ps.108|Psalms 108:1–13]] <big>†</big> [[Ps.142|Psalms 142:1–7]] ]</sup></small>

@@ -1,3 +1,27 @@
+---
+title: Nehemiah 7
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Nehemiah
+chapter: 7
+book/chapter: "[[Neh.7|Nehemiah 7]]"
+chronological_order: 919
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+pericopes:
+- "[[Neh.7.1 Securing the City|Securing the City]]"
+- "[[Neh.7.4 The List of Returning Exiles|The List of Returning Exiles]]"
+- "[[Neh.7.70 Offerings by the Exiles|Offerings by the Exiles]]"
+---
+
 (KJV) **Nehemiah 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.6|<< Nehemiah 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.8|Nehemiah 8 >>]]</td></tr></table>
 
 <big><big>[[Neh.7.1 Securing the City|⥃]]</big></big>***Securing the City***

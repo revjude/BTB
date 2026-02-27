@@ -1,3 +1,24 @@
+---
+title: Joshua 21
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Joshua
+chapter: 21
+book/chapter: "[[Josh.21|Joshua 21]]"
+chronological_order: 251
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+pericopes:
+- "[[Josh.21.1 Forty-Eight Cities for the Levites|Forty-Eight Cities for the Levites]]"
+---
+
 (KJV) **Joshua 21**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.20|<< Joshua 20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22|Joshua 22 >>]]</td></tr></table>
 
 <big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥃]]</big></big>***Forty-Eight Cities for the Levites***&emsp;<small><sup>\[ [[Num.35|Numbers 35:1–8]] <big>†</big> [[1Chr.6|1 Chronicles 6:54–81]] ]</sup></small>

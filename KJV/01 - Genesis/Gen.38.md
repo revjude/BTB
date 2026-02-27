@@ -1,3 +1,28 @@
+---
+title: Genesis 38
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Genesis
+chapter: 38
+book/chapter: "[[Gen.38|Genesis 38]]"
+chronological_order: 80
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.38.1 Judah and Tamar|Judah and Tamar]]"
+- "[[Gen.38.27 The Birth of Perez and Zerah|The Birth of Perez and Zerah]]"
+---
+
 (KJV) **Genesis 38**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37|<< Genesis 37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39|Genesis 39 >>]]</td></tr></table>
 
 <big><big>[[Gen.38.1 Judah and Tamar|⥃]]</big></big>***Judah and Tamar***&emsp;<small><sup>\[ [[1Chr.2|1 Chronicles 2:3–4]] ]</sup></small>

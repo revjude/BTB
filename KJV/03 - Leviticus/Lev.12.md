@@ -1,3 +1,29 @@
+---
+title: Leviticus 12
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Leviticus
+chapter: 12
+book/chapter: "[[Lev.12|Leviticus 12]]"
+chronological_order: 144
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+pericopes:
+- "[[Lev.12.1 Purification after Childbirth|Purification after Childbirth]]"
+---
+
 (KJV) **Leviticus 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11|<< Leviticus 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13|Leviticus 13 >>]]</td></tr></table>
 
 <big><big>[[Lev.12.1 Purification after Childbirth|⥃]]</big></big>***Purification after Childbirth***

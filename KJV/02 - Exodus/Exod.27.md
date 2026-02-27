@@ -1,3 +1,31 @@
+---
+title: Exodus 27
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 27
+book/chapter: "[[Exod.27|Exodus 27]]"
+chronological_order: 119
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.27.1 The Bronze Altar|The Bronze Altar]]"
+- "[[Exod.27.9 The Courtyard|The Courtyard]]"
+- "[[Exod.27.20 The Oil for the Lamps|The Oil for the Lamps]]"
+---
+
 (KJV) **Exodus 27**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26|<< Exodus 26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28|Exodus 28 >>]]</td></tr></table>
 
 <big><big>[[Exod.27.1 The Bronze Altar|⥃]]</big></big>***The Bronze Altar***&emsp;<small><sup>\[ [[Exod.38|Exodus 38:1–7]] ]</sup></small>

@@ -1,3 +1,27 @@
+---
+title: 1 Corinthians 1
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 1
+book/chapter: "[[1Cor.1|1 Corinthians 1]]"
+chronological_order: 1058
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+pericopes:
+- "[[1Cor.1.1 Greetings from Paul and Sosthenes|Greetings from Paul and Sosthenes]]"
+- "[[1Cor.1.4 Thanksgiving|Thanksgiving]]"
+- "[[1Cor.1.10 Unity in the Church|Unity in the Church]]"
+- "[[1Cor.1.18 The Message of the Cross|The Message of the Cross]]"
+- "[[1Cor.1.26 Wisdom from God|Wisdom from God]]"
+---
+
 (KJV) **1 Corinthians 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16|<< Romans 16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2|1 Corinthians 2 >>]]</td></tr></table>
 
 <big><big>[[1Cor.1.1 Greetings from Paul and Sosthenes|⥃]]</big></big>***Greetings from Paul and Sosthenes***&emsp;<small><sup>\[ [[Acts.18|Acts 18:1–11]] <big>†</big> [[2Cor.1|2 Corinthians 1:1–2]] ]</sup></small>

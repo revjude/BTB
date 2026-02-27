@@ -1,3 +1,27 @@
+---
+title: 1 Samuel 14
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[1Sam.14.1 Jonathan’s Victory over the Philistines|Jonathan’s Victory over the Philistines]]"
+- "[[1Sam.14.24 Jonathan Eats the Honey|Jonathan Eats the Honey]]"
+- "[[1Sam.14.37 The People Save Jonathan|The People Save Jonathan]]"
+- "[[1Sam.14.47 Saul’s Victories|Saul’s Victories]]"
+---
+
 (KJV) **1 Samuel 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13|<< 1 Samuel 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15|1 Samuel 15 >>]]</td></tr></table>
 
 <big><big>[[1Sam.14.1 Jonathan’s Victory over the Philistines|⥃]]</big></big>***Jonathan’s Victory over the Philistines***

@@ -1,3 +1,30 @@
+---
+title: Mark 12
+type: Chapter
+original_language: Greek
+testament: New
+book: Mark
+chapter: 12
+book/chapter: "[[Mark.12|Mark 12]]"
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Mark.12.1 The Parable of the Wicked Tenants|The Parable of the Wicked Tenants]]"
+- "[[Mark.12.13 Paying Taxes to Caesar|Paying Taxes to Caesar]]"
+- "[[Mark.12.18 The Sadducees and the Resurrection|The Sadducees and the Resurrection]]"
+- "[[Mark.12.28 The Greatest Commandment|The Greatest Commandment]]"
+- "[[Mark.12.35 Whose Son Is the Christ？|Whose Son Is the Christ？]]"
+- "[[Mark.12.38 Beware of the Scribes|Beware of the Scribes]]"
+- "[[Mark.12.41 The Widow’s Offering|The Widow’s Offering]]"
+---
+
 (KJV) **Mark 12**<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11|<< Mark 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13|Mark 13 >>]]</td></tr></table>
 
 <big><big>[[Mark.12.1 The Parable of the Wicked Tenants|⥃]]</big></big>***The Parable of the Wicked Tenants***&emsp;<small><sup>\[ [[Matt.21|Matthew 21:33–46]] <big>†</big> [[Luke.20|Luke 20:9–18]] ]</sup></small>

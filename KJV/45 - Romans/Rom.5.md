@@ -1,3 +1,25 @@
+---
+title: Romans 5
+type: Chapter
+original_language: Greek
+testament: New
+book: Romans
+chapter: 5
+book/chapter: "[[Rom.5|Romans 5]]"
+chronological_order: 1091
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+pericopes:
+- "[[Rom.5.1 The Triumph of Faith|The Triumph of Faith]]"
+- "[[Rom.5.6 Christ’s Sacrifice for the Ungodly|Christ’s Sacrifice for the Ungodly]]"
+- "[[Rom.5.12 Death in Adam, Life in Christ|Death in Adam, Life in Christ]]"
+---
+
 (KJV) **Romans 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4|<< Romans 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6|Romans 6 >>]]</td></tr></table>
 
 <big><big>[[Rom.5.1 The Triumph of Faith|⥃]]</big></big>***The Triumph of Faith***

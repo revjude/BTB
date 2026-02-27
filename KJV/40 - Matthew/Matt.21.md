@@ -1,3 +1,29 @@
+---
+title: Matthew 21
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 21
+book/chapter: "[[Matt.21|Matthew 21]]"
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.21.1 The Triumphal Entry|The Triumphal Entry]]"
+- "[[Matt.21.12 Jesus Cleanses the Temple|Jesus Cleanses the Temple]]"
+- "[[Matt.21.18 The Barren Fig Tree|The Barren Fig Tree]]"
+- "[[Matt.21.23 Jesus’ Authority Challenged|Jesus’ Authority Challenged]]"
+- "[[Matt.21.28 The Parable of the Two Sons|The Parable of the Two Sons]]"
+- "[[Matt.21.33 The Parable of the Wicked Tenants|The Parable of the Wicked Tenants]]"
+---
+
 (KJV) **Matthew 21**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20|<< Matthew 20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22|Matthew 22 >>]]</td></tr></table>
 
 <big><big>[[Matt.21.1 The Triumphal Entry|⥃]]</big></big>***The Triumphal Entry***&emsp;<small><sup>\[ [[Zech.9|Zechariah 9:9–13]] <big>†</big> [[Mark.11|Mark 11:1–11]] <big>†</big> [[Luke.19|Luke 19:28–40]] <big>†</big> [[John.12|John 12:12–19]] ]</sup></small>

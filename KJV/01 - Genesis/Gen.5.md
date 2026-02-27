@@ -1,3 +1,29 @@
+---
+title: Genesis 5
+type: Chapter
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 5
+book/chapter: "[[Gen.5|Genesis 5]]"
+chronological_order: 5
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.5.1 The Descendants of Adam|The Descendants of Adam]]"
+- "[[Gen.5.18 God Takes Up Enoch|God Takes Up Enoch]]"
+- "[[Gen.5.25 From Methuselah to Noah|From Methuselah to Noah]]"
+---
+
 (KJV) **Genesis 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4|<< Genesis 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.6|Genesis 6 >>]]</td></tr></table>
 
 <big><big>[[Gen.5.1 The Descendants of Adam|⥃]]</big></big>***The Descendants of Adam***&emsp;<small><sup>\[ [[1Chr.1|1 Chronicles 1:1–3]] ]</sup></small>

@@ -1,3 +1,27 @@
+---
+title: Nehemiah 12
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Nehemiah
+chapter: 12
+book/chapter: "[[Neh.12|Nehemiah 12]]"
+chronological_order: 924
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+pericopes:
+- "[[Neh.12.1 The Priests and Levites Who Returned|The Priests and Levites Who Returned]]"
+- "[[Neh.12.27 The Dedication of the Wall|The Dedication of the Wall]]"
+- "[[Neh.12.44 Provisions for Temple Worship|Provisions for Temple Worship]]"
+---
+
 (KJV) **Nehemiah 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11|<< Nehemiah 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13|Nehemiah 13 >>]]</td></tr></table>
 
 <big><big>[[Neh.12.1 The Priests and Levites Who Returned|⥃]]</big></big>***The Priests and Levites Who Returned***

@@ -1,3 +1,26 @@
+---
+title: 2 Kings 7
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Kings
+chapter: 7
+book/chapter: "[[2Kgs.7|2 Kings 7]]"
+chronological_order: 579
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[2Kgs.7.1 Elisha’s Prophecy of Plenty|Elisha’s Prophecy of Plenty]]"
+- "[[2Kgs.7.3 The Syrians Flee|The Syrians Flee]]"
+- "[[2Kgs.7.16 Elisha’s Prophecy Fulfilled|Elisha’s Prophecy Fulfilled]]"
+---
+
 (KJV) **2 Kings 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6|<< 2 Kings 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8|2 Kings 8 >>]]</td></tr></table>
 
 <big><big>[[2Kgs.7.1 Elisha’s Prophecy of Plenty|⥃]]</big></big>***Elisha’s Prophecy of Plenty***

@@ -1,3 +1,27 @@
+---
+title: Revelation 13
+type: Chapter
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 13
+book/chapter: "[[Rev.13|Revelation 13]]"
+chronological_order: 1180
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+pericopes:
+- "[[Rev.13.1 The Beast from the Sea|The Beast from the Sea]]"
+- "[[Rev.13.11 The Beast from the Earth|The Beast from the Earth]]"
+- "[[Rev.13.16 The Mark of the Beast|The Mark of the Beast]]"
+---
+
 (KJV) **Revelation 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12|<< Revelation 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14|Revelation 14 >>]]</td></tr></table>
 
 <big><big>[[Rev.13.1 The Beast from the Sea|⥃]]</big></big>***The Beast from the Sea***&emsp;<small><sup>\[ [[Dan.7|Daniel 7:1–8]] ]</sup></small>

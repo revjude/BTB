@@ -1,3 +1,24 @@
+---
+title: Song of Solomon 4
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Song of Solomon
+chapter: 4
+book/chapter: "[[Song.4|Song of Solomon 4]]"
+chronological_order: 451
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+pericopes:
+- "[[Song.4.1 The Bridegroom|The Bridegroom]]"
+- "[[Song.4.16 The Bride|The Bride]]"
+---
+
 (KJV) **Song of Solomon 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.3|<< Song of Solomon 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5|Song of Solomon 5 >>]]</td></tr></table>
 
 <big><big>[[Song.4.1 The Bridegroom|⥃]]</big></big>*The Bridegroom*

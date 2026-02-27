@@ -1,3 +1,25 @@
+---
+title: Joshua 5
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Joshua
+chapter: 5
+book/chapter: "[[Josh.5|Joshua 5]]"
+chronological_order: 235
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+pericopes:
+- "[[Josh.5.1 The Circumcision and Passover at Gilgal|The Circumcision and Passover at Gilgal]]"
+- "[[Josh.5.13 The Commander of the LORD’s Army|The Commander of the LORD’s Army]]"
+---
+
 (KJV) **Joshua 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4|<< Joshua 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6|Joshua 6 >>]]</td></tr></table>
 
 <big><big>[[Josh.5.1 The Circumcision and Passover at Gilgal|⥃]]</big></big>***The Circumcision and Passover at Gilgal***

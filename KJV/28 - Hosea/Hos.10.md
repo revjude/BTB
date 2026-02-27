@@ -1,3 +1,24 @@
+---
+title: Hosea 10
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Hosea
+chapter: 10
+book/chapter: "[[Hos.10|Hosea 10]]"
+chronological_order: 651
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+pericopes:
+- "[[Hos.10.1 Retribution for Israel’s Sin|Retribution for Israel’s Sin]]"
+---
+
 (KJV) **Hosea 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9|<< Hosea 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.11|Hosea 11 >>]]</td></tr></table>
 
 <big><big>[[Hos.10.1 Retribution for Israel’s Sin|⥃]]</big></big>***Retribution for Israel’s Sin***

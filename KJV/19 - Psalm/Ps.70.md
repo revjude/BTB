@@ -1,3 +1,27 @@
+---
+title: Psalm 70
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 70
+book/chapter: "[[Ps.70|Psalm 70]]"
+chronological_order: 378
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.70.1 Hurry, O LORD, to Help Me!|Hurry, O LORD, to Help Me!]]"
+---
+
 (KJV) **Psalm 70**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69|<< Psalm 69]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71|Psalm 71 >>]]</td></tr></table>
 
 <big><big>[[Ps.70.1 Hurry, O LORD, to Help Me!|⥃]]</big></big>***Hurry, O LORD, to Help Me!***&emsp;<small><sup>\[ [[Ps.40|Psalms 40:1–17]] <big>†</big> [[Ps.141|Psalms 141:1–10]] ]</sup></small>

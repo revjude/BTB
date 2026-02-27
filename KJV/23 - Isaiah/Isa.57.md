@@ -1,3 +1,27 @@
+---
+title: Isaiah 57
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 57
+book/chapter: "[[Isa.57|Isaiah 57]]"
+chronological_order: 696
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.57.1 The Blessed Death of the Righteous|The Blessed Death of the Righteous]]"
+- "[[Isa.57.3 God Condemns Idolatry|God Condemns Idolatry]]"
+- "[[Isa.57.14 Healing for the Repentant|Healing for the Repentant]]"
+---
+
 (KJV) **Isaiah 57**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.56|<< Isaiah 56]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.58|Isaiah 58 >>]]</td></tr></table>
 
 <big><big>[[Isa.57.1 The Blessed Death of the Righteous|⥃]]</big></big>***The Blessed Death of the Righteous***

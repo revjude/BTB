@@ -1,3 +1,25 @@
+---
+title: Matthew 3
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 3
+book/chapter: "[[Matt.3|Matthew 3]]"
+chronological_order: 935
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.3.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
+- "[[Matt.3.13 The Baptism of Jesus|The Baptism of Jesus]]"
+---
+
 (KJV) **Matthew 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2|<< Matthew 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4|Matthew 4 >>]]</td></tr></table>
 
 <big><big>[[Matt.3.1 The Mission of John the Baptist|⥃]]</big></big>***The Mission of John the Baptist***&emsp;<small><sup>\[ [[Isa.40|Isaiah 40:1–5]] <big>†</big> [[Mark.1|Mark 1:1–8]] <big>†</big> [[Luke.3|Luke 3:1–20]] <big>†</big> [[John.1|John 1:19–28]] ]</sup></small>

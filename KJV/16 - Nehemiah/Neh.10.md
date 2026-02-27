@@ -1,3 +1,26 @@
+---
+title: Nehemiah 10
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Nehemiah
+chapter: 10
+book/chapter: "[[Neh.10|Nehemiah 10]]"
+chronological_order: 922
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+pericopes:
+- "[[Neh.10.1 Signers of the Covenant|Signers of the Covenant]]"
+- "[[Neh.10.28 The Vows of the Covenant|The Vows of the Covenant]]"
+---
+
 (KJV) **Nehemiah 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9|<< Nehemiah 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11|Nehemiah 11 >>]]</td></tr></table>
 
 <big><big>[[Neh.10.1 Signers of the Covenant|⥃]]</big></big>***Signers of the Covenant***

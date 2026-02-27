@@ -1,3 +1,28 @@
+---
+title: Numbers 12
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 12
+book/chapter: "[[Num.12|Numbers 12]]"
+chronological_order: 172
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.12.1 The Complaint of Miriam and Aaron|The Complaint of Miriam and Aaron]]"
+---
+
 (KJV) **Numbers 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11|<< Numbers 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13|Numbers 13 >>]]</td></tr></table>
 
 <big><big>[[Num.12.1 The Complaint of Miriam and Aaron|⥃]]</big></big>***The Complaint of Miriam and Aaron***

@@ -1,3 +1,36 @@
+---
+title: Leviticus 25
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+pericopes:
+- "[[Lev.25.1 The Seventh Year|The Seventh Year]]"
+- "[[Lev.25.8 The Year of Jubilee|The Year of Jubilee]]"
+- "[[Lev.25.13 Return of Property|Return of Property]]"
+- "[[Lev.25.18 The Blessing of Obedience|The Blessing of Obedience]]"
+- "[[Lev.25.23 The Law of Redemption|The Law of Redemption]]"
+- "[[Lev.25.35 Redemption of the Poor|Redemption of the Poor]]"
+- "[[Lev.25.39 Redemption of Bondmen|Redemption of Bondmen]]"
+- "[[Lev.25.47 Redemption of Servants|Redemption of Servants]]"
+---
+
 (KJV) **Leviticus 25**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24|<< Leviticus 24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26|Leviticus 26 >>]]</td></tr></table>
 
 <big><big>[[Lev.25.1 The Seventh Year|⥃]]</big></big>***The Seventh Year***&emsp;<small><sup>\[ [[Exod.23|Exodus 23:10–13]] <big>†</big> [[Deut.15|Deuteronomy 15:1–6]] ]</sup></small>

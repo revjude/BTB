@@ -1,3 +1,25 @@
+---
+title: Joshua 22
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Joshua
+chapter: 22
+book/chapter: "[[Josh.22|Joshua 22]]"
+chronological_order: 252
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+pericopes:
+- "[[Josh.22.1 The Eastern Tribes Return Home|The Eastern Tribes Return Home]]"
+- "[[Josh.22.9 The Altar of Witness|The Altar of Witness]]"
+---
+
 (KJV) **Joshua 22**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21|<< Joshua 21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.23|Joshua 23 >>]]</td></tr></table>
 
 <big><big>[[Josh.22.1 The Eastern Tribes Return Home|⥃]]</big></big>***The Eastern Tribes Return Home***

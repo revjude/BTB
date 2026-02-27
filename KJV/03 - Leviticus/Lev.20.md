@@ -1,3 +1,31 @@
+---
+title: Leviticus 20
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Leviticus
+chapter: 20
+book/chapter: "[[Lev.20|Leviticus 20]]"
+chronological_order: 152
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+pericopes:
+- "[[Lev.20.1 Punishments for Disobedience|Punishments for Disobedience]]"
+- "[[Lev.20.10 Punishments for Sexual Immorality|Punishments for Sexual Immorality]]"
+- "[[Lev.20.22 Distinguish between Clean and Unclean|Distinguish between Clean and Unclean]]"
+---
+
 (KJV) **Leviticus 20**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19|<< Leviticus 19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.21|Leviticus 21 >>]]</td></tr></table>
 
 <big><big>[[Lev.20.1 Punishments for Disobedience|⥃]]</big></big>***Punishments for Disobedience***&emsp;<small><sup>\[ [[Lev.26|Leviticus 26:14–39]] <big>†</big> [[Deut.28|Deuteronomy 28:15–68]] ]</sup></small>

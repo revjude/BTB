@@ -1,3 +1,26 @@
+---
+title: 2 Corinthians 1
+type: Chapter
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 1
+book/chapter: "[[2Cor.1|2 Corinthians 1]]"
+chronological_order: 1074
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+pericopes:
+- "[[2Cor.1.1 Paul Greets the Corinthians|Paul Greets the Corinthians]]"
+- "[[2Cor.1.3 The God of All Comfort|The God of All Comfort]]"
+- "[[2Cor.1.12 Paul’s Change of Plans|Paul’s Change of Plans]]"
+---
+
 (KJV) **2 Corinthians 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16|<< 1 Corinthians 16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.2|2 Corinthians 2 >>]]</td></tr></table>
 
 <big><big>[[2Cor.1.1 Paul Greets the Corinthians|⥃]]</big></big>***Paul Greets the Corinthians***&emsp;<small><sup>\[ [[Acts.18|Acts 18:1–11]] <big>†</big> [[1Cor.1|1 Corinthians 1:1–3]] ]</sup></small>

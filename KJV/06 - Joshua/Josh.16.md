@@ -1,3 +1,24 @@
+---
+title: Joshua 16
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Joshua
+chapter: 16
+book/chapter: "[[Josh.16|Joshua 16]]"
+chronological_order: 246
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+pericopes:
+- "[[Josh.16.1 Ephraim’s Inheritance|Ephraim’s Inheritance]]"
+---
+
 (KJV) **Joshua 16**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15|<< Joshua 15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.17|Joshua 17 >>]]</td></tr></table>
 
 <big><big>[[Josh.16.1 Ephraim’s Inheritance|⥃]]</big></big>***Ephraim’s Inheritance***

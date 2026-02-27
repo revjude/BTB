@@ -1,3 +1,26 @@
+---
+title: 1 Samuel 13
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Samuel
+chapter: 13
+book/chapter: "[[1Sam.13|1 Samuel 13]]"
+chronological_order: 292
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[1Sam.13.1 War with the Philistines|War with the Philistines]]"
+- "[[1Sam.13.8 Saul’s Unlawful Sacrifice|Saul’s Unlawful Sacrifice]]"
+- "[[1Sam.13.16 Israel without Weapons|Israel without Weapons]]"
+---
+
 (KJV) **1 Samuel 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.12|<< 1 Samuel 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14|1 Samuel 14 >>]]</td></tr></table>
 
 <big><big>[[1Sam.13.1 War with the Philistines|⥃]]</big></big>***War with the Philistines***

@@ -1,3 +1,30 @@
+---
+title: Deuteronomy 7
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Deuteronomy
+chapter: 7
+book/chapter: "[[Deut.7|Deuteronomy 7]]"
+chronological_order: 203
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+pericopes:
+- "[[Deut.7.1 Drive Out the Nations|Drive Out the Nations]]"
+- "[[Deut.7.12 The Promises of God|The Promises of God]]"
+---
+
 (KJV) **Deuteronomy 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6|<< Deuteronomy 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.8|Deuteronomy 8 >>]]</td></tr></table>
 
 <big><big>[[Deut.7.1 Drive Out the Nations|⥃]]</big></big>***Drive Out the Nations***

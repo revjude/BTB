@@ -1,3 +1,27 @@
+---
+title: Isaiah 10
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 10
+book/chapter: "[[Isa.10|Isaiah 10]]"
+chronological_order: 620
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.10.1 Woe to Tyrants|Woe to Tyrants]]"
+- "[[Isa.10.5 Judgment on Assyria|Judgment on Assyria]]"
+- "[[Isa.10.20 A Remnant Shall Return|A Remnant Shall Return]]"
+---
+
 (KJV) **Isaiah 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9|<< Isaiah 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.11|Isaiah 11 >>]]</td></tr></table>
 
 <big><big>[[Isa.10.1 Woe to Tyrants|⥃]]</big></big>***Woe to Tyrants***

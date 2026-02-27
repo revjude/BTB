@@ -1,3 +1,27 @@
+---
+title: Psalm 109
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 109
+book/chapter: "[[Ps.109|Psalm 109]]"
+chronological_order: 383
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.109.1 The Song of the Slandered|The Song of the Slandered]]"
+---
+
 (KJV) **Psalm 109**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.108|<< Psalm 108]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.110|Psalm 110 >>]]</td></tr></table>
 
 <big><big>[[Ps.109.1 The Song of the Slandered|⥃]]</big></big>***The Song of the Slandered*** <small><small>[^2]</small></small> 

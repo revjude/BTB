@@ -1,3 +1,28 @@
+---
+title: Jeremiah 3
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 3
+book/chapter: "[[Jer.3|Jeremiah 3]]"
+chronological_order: 720
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.3.1 The Wages of the Harlot|The Wages of the Harlot]]"
+- "[[Jer.3.6 Judah Follows Israel’s Example|Judah Follows Israel’s Example]]"
+- "[[Jer.3.11 A Call to Repentance|A Call to Repentance]]"
+---
+
 (KJV) **Jeremiah 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2|<< Jeremiah 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4|Jeremiah 4 >>]]</td></tr></table>
 
 <big><big>[[Jer.3.1 The Wages of the Harlot|⥃]]</big></big>***The Wages of the Harlot***

@@ -1,3 +1,32 @@
+---
+title: 1 Kings 7
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+pericopes:
+- "[[1Kgs.7.1 Solomon’s Palace Complex|Solomon’s Palace Complex]]"
+- "[[1Kgs.7.13 The Pillars and Capitals|The Pillars and Capitals]]"
+- "[[1Kgs.7.23 The Molten Sea|The Molten Sea]]"
+- "[[1Kgs.7.27 The Ten Bronze Stands|The Ten Bronze Stands]]"
+- "[[1Kgs.7.38 The Ten Bronze Basins|The Ten Bronze Basins]]"
+- "[[1Kgs.7.40 Completion of the Bronze Works|Completion of the Bronze Works]]"
+- "[[1Kgs.7.48 Completion of the Gold Furnishings|Completion of the Gold Furnishings]]"
+---
+
 (KJV) **1 Kings 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6|<< 1 Kings 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8|1 Kings 8 >>]]</td></tr></table>
 
 <big><big>[[1Kgs.7.1 Solomon’s Palace Complex|⥃]]</big></big>***Solomon’s Palace Complex***

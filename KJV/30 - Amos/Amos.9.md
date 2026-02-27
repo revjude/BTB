@@ -1,3 +1,26 @@
+---
+title: Amos 9
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Amos
+chapter: 9
+book/chapter: "[[Amos.9|Amos 9]]"
+chronological_order: 606
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+pericopes:
+- "[[Amos.9.1 The Destruction of Israel|The Destruction of Israel]]"
+- "[[Amos.9.11 A Promise of Restoration|A Promise of Restoration]]"
+---
+
 (KJV) **Amos 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.8|<< Amos 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1|Obadiah 1 >>]]</td></tr></table>
 
 <big><big>[[Amos.9.1 The Destruction of Israel|⥃]]</big></big>***The Destruction of Israel***

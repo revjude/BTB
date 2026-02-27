@@ -1,3 +1,28 @@
+---
+title: Genesis 34
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Genesis
+chapter: 34
+book/chapter: "[[Gen.34|Genesis 34]]"
+chronological_order: 76
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.34.1 The Defiling of Dinah|The Defiling of Dinah]]"
+- "[[Gen.34.13 The Revenge of Dinah’s Brothers|The Revenge of Dinah’s Brothers]]"
+---
+
 (KJV) **Genesis 34**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.33|<< Genesis 33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35|Genesis 35 >>]]</td></tr></table>
 
 <big><big>[[Gen.34.1 The Defiling of Dinah|⥃]]</big></big>***The Defiling of Dinah***

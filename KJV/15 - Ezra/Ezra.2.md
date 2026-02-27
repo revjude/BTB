@@ -1,3 +1,25 @@
+---
+title: Ezra 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezra
+chapter: 2
+book/chapter: "[[Ezra.2|Ezra 2]]"
+chronological_order: 850
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+pericopes:
+- "[[Ezra.2.1 The List of Returning Exiles|The List of Returning Exiles]]"
+- "[[Ezra.2.68 Offerings by the Exiles|Offerings by the Exiles]]"
+---
+
 (KJV) **Ezra 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.1|<< Ezra 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.3|Ezra 3 >>]]</td></tr></table>
 
 <big><big>[[Ezra.2.1 The List of Returning Exiles|⥃]]</big></big>***The List of Returning Exiles***&emsp;<small><sup>\[ [[Neh.7|Nehemiah 7:4–69]] ]</sup></small>

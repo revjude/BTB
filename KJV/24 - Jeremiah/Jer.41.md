@@ -1,3 +1,27 @@
+---
+title: Jeremiah 41
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 41
+book/chapter: "[[Jer.41|Jeremiah 41]]"
+chronological_order: 764
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.41.1 The Murder of Gedaliah|The Murder of Gedaliah]]"
+- "[[Jer.41.11 Johanan Rescues the Captives|Johanan Rescues the Captives]]"
+---
+
 (KJV) **Jeremiah 41**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.40|<< Jeremiah 40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42|Jeremiah 42 >>]]</td></tr></table>
 
 <big><big>[[Jer.41.1 The Murder of Gedaliah|⥃]]</big></big>***The Murder of Gedaliah***&emsp;<small><sup>\[ [[2Kgs.25|2 Kings 25:25–26]] ]</sup></small>

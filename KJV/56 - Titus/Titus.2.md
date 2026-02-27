@@ -1,3 +1,25 @@
+---
+title: Titus 2
+type: Chapter
+original_language: Greek
+testament: New
+book: Titus
+chapter: 2
+book/chapter: "[[Titus.2|Titus 2]]"
+chronological_order: 1133
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+pericopes:
+- "[[Titus.2.1 Teaching Sound Doctrine|Teaching Sound Doctrine]]"
+- "[[Titus.2.11 God’s Grace Brings Salvation|God’s Grace Brings Salvation]]"
+---
+
 (KJV) **Titus 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.1|<< Titus 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.3|Titus 3 >>]]</td></tr></table>
 
 <big><big>[[Titus.2.1 Teaching Sound Doctrine|⥃]]</big></big>***Teaching Sound Doctrine***

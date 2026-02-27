@@ -1,3 +1,27 @@
+---
+title: James 1
+type: Chapter
+original_language: Greek
+testament: New
+book: James
+chapter: 1
+book/chapter: "[[Jas.1|James 1]]"
+chronological_order: 1033
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+pericopes:
+- "[[Jas.1.1 A Greeting from James|A Greeting from James]]"
+- "[[Jas.1.2 Rejoicing in Trials|Rejoicing in Trials]]"
+- "[[Jas.1.13 Good and Perfect Gifts|Good and Perfect Gifts]]"
+- "[[Jas.1.19 Hearing and Doing|Hearing and Doing]]"
+---
+
 (KJV) **James 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13|<< Hebrews 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2|James 2 >>]]</td></tr></table>
 
 <big><big>[[Jas.1.1 A Greeting from James|⥃]]</big></big>***A Greeting from James***&emsp;<small><sup>\[ [[Jude.1|Jude 1:1–2]] ]</sup></small>

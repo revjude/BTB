@@ -1,3 +1,29 @@
+---
+title: Numbers 25
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 25
+book/chapter: "[[Num.25|Numbers 25]]"
+chronological_order: 185
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.25.1 Moab Seduces Israel|Moab Seduces Israel]]"
+- "[[Num.25.6 The Zeal of Phinehas|The Zeal of Phinehas]]"
+---
+
 (KJV) **Numbers 25**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24|<< Numbers 24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26|Numbers 26 >>]]</td></tr></table>
 
 <big><big>[[Num.25.1 Moab Seduces Israel|⥃]]</big></big>***Moab Seduces Israel***&emsp;<small><sup>\[ [[1Cor.10|1 Corinthians 10:1–13]] ]</sup></small>

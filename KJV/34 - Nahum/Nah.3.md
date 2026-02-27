@@ -1,3 +1,24 @@
+---
+title: Nahum 3
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Nahum
+chapter: 3
+book/chapter: "[[Nah.3|Nahum 3]]"
+chronological_order: 710
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+pericopes:
+- "[[Nah.3.1 Judgment on Nineveh|Judgment on Nineveh]]"
+---
+
 (KJV) **Nahum 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.2|<< Nahum 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1|Habakkuk 1 >>]]</td></tr></table>
 
 <big><big>[[Nah.3.1 Judgment on Nineveh|⥃]]</big></big>***Judgment on Nineveh***

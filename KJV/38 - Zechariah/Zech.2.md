@@ -1,3 +1,27 @@
+---
+title: Zechariah 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Zechariah
+chapter: 2
+book/chapter: "[[Zech.2|Zechariah 2]]"
+chronological_order: 858
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+pericopes:
+- "[[Zech.2.1 The Vision of the Measuring Line|The Vision of the Measuring Line]]"
+- "[[Zech.2.6 The Redemption of Zion|The Redemption of Zion]]"
+---
+
 (KJV) **Zechariah 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.1|<< Zechariah 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.3|Zechariah 3 >>]]</td></tr></table>
 
 <big><big>[[Zech.2.1 The Vision of the Measuring Line|⥃]]</big></big>***The Vision of the Measuring Line***&emsp;<small><sup>\[ [[Ezek.40|Ezekiel 40:1–4]] ]</sup></small>

@@ -1,3 +1,29 @@
+---
+title: Nehemiah 13
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Nehemiah
+chapter: 13
+book/chapter: "[[Neh.13|Nehemiah 13]]"
+chronological_order: 925
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+pericopes:
+- "[[Neh.13.1 Foreigners Excluded|Foreigners Excluded]]"
+- "[[Neh.13.4 The Temple Cleansed|The Temple Cleansed]]"
+- "[[Neh.13.10 Tithes Restored|Tithes Restored]]"
+- "[[Neh.13.15 The Sabbath Restored|The Sabbath Restored]]"
+- "[[Neh.13.23 Intermarriage Forbidden|Intermarriage Forbidden]]"
+---
+
 (KJV) **Nehemiah 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12|<< Nehemiah 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.1|Esther 1 >>]]</td></tr></table>
 
 <big><big>[[Neh.13.1 Foreigners Excluded|⥃]]</big></big>***Foreigners Excluded***

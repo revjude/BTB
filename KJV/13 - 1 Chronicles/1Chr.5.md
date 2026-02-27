@@ -1,3 +1,26 @@
+---
+title: 1 Chronicles 5
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Chronicles
+chapter: 5
+book/chapter: "[[1Chr.5|1 Chronicles 5]]"
+chronological_order: 324
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+pericopes:
+- "[[1Chr.5.1 The Descendants of Reuben|The Descendants of Reuben]]"
+- "[[1Chr.5.11 The Descendants of Gad|The Descendants of Gad]]"
+- "[[1Chr.5.23 The Half-Tribe of Manasseh|The Half-Tribe of Manasseh]]"
+---
+
 (KJV) **1 Chronicles 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4|<< 1 Chronicles 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6|1 Chronicles 6 >>]]</td></tr></table>
 
 <big><big>[[1Chr.5.1 The Descendants of Reuben|⥃]]</big></big>***The Descendants of Reuben***

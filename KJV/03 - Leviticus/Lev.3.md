@@ -1,3 +1,29 @@
+---
+title: Leviticus 3
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Leviticus
+chapter: 3
+book/chapter: "[[Lev.3|Leviticus 3]]"
+chronological_order: 135
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+pericopes:
+- "[[Lev.3.1 Laws for Peace Offerings|Laws for Peace Offerings]]"
+---
+
 (KJV) **Leviticus 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.2|<< Leviticus 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4|Leviticus 4 >>]]</td></tr></table>
 
 <big><big>[[Lev.3.1 Laws for Peace Offerings|⥃]]</big></big>***Laws for Peace Offerings***&emsp;<small><sup>\[ [[Lev.7|Leviticus 7:11–21]] ]</sup></small>

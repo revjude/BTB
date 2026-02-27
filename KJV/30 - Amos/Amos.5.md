@@ -1,3 +1,27 @@
+---
+title: Amos 5
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Amos
+chapter: 5
+book/chapter: "[[Amos.5|Amos 5]]"
+chronological_order: 602
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+pericopes:
+- "[[Amos.5.1 A Lamentation against Israel|A Lamentation against Israel]]"
+- "[[Amos.5.4 A Call to Repentance|A Call to Repentance]]"
+- "[[Amos.5.16 Woe to Rebellious Israel|Woe to Rebellious Israel]]"
+---
+
 (KJV) **Amos 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.4|<< Amos 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.6|Amos 6 >>]]</td></tr></table>
 
 <big><big>[[Amos.5.1 A Lamentation against Israel|⥃]]</big></big>***A Lamentation against Israel***

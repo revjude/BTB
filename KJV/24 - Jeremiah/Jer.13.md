@@ -1,3 +1,28 @@
+---
+title: Jeremiah 13
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 13
+book/chapter: "[[Jer.13|Jeremiah 13]]"
+chronological_order: 730
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.13.1 The Linen Loincloth|The Linen Loincloth]]"
+- "[[Jer.13.12 The Wineskins|The Wineskins]]"
+- "[[Jer.13.15 Captivity Threatened|Captivity Threatened]]"
+---
+
 (KJV) **Jeremiah 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.12|<< Jeremiah 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14|Jeremiah 14 >>]]</td></tr></table>
 
 <big><big>[[Jer.13.1 The Linen Loincloth|⥃]]</big></big>***The Linen Loincloth***

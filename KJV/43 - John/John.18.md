@@ -1,3 +1,28 @@
+---
+title: John 18
+type: Chapter
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+pericopes:
+- "[[John.18.1 The Betrayal of Jesus|The Betrayal of Jesus]]"
+- "[[John.18.15 Peter’s First Denial|Peter’s First Denial]]"
+- "[[John.18.19 Jesus before the High Priest|Jesus before the High Priest]]"
+- "[[John.18.25 Peter’s Second and Third Denials|Peter’s Second and Third Denials]]"
+- "[[John.18.28 Jesus before Pilate|Jesus before Pilate]]"
+---
+
 (KJV) **John 18**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17|<< John 17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19|John 19 >>]]</td></tr></table>
 
 <big><big>[[John.18.1 The Betrayal of Jesus|⥃]]</big></big>***The Betrayal of Jesus***&emsp;<small><sup>\[ [[Matt.26|Matthew 26:47–56]] <big>†</big> [[Mark.14|Mark 14:43–52]] <big>†</big> [[Luke.22|Luke 22:47–53]] ]</sup></small>

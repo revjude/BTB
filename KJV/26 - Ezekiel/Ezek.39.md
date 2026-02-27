@@ -1,3 +1,28 @@
+---
+title: Ezekiel 39
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 39
+book/chapter: "[[Ezek.39|Ezekiel 39]]"
+chronological_order: 830
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.39.1 The Slaughter of Gog’s Armies|The Slaughter of Gog’s Armies]]"
+- "[[Ezek.39.21 Israel to Be Restored|Israel to Be Restored]]"
+---
+
 (KJV) **Ezekiel 39**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38|<< Ezekiel 38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40|Ezekiel 40 >>]]</td></tr></table>
 
 <big><big>[[Ezek.39.1 The Slaughter of Gog’s Armies|⥃]]</big></big>***The Slaughter of Gog’s Armies***

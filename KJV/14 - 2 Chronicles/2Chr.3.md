@@ -1,3 +1,27 @@
+---
+title: 2 Chronicles 3
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 3
+book/chapter: "[[2Chr.3|2 Chronicles 3]]"
+chronological_order: 492
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.3.1 Temple Construction Begins|Temple Construction Begins]]"
+- "[[2Chr.3.5 The Temple’s Interior|The Temple’s Interior]]"
+- "[[2Chr.3.10 The Cherubim|The Cherubim]]"
+- "[[2Chr.3.14 The Veil and Pillars|The Veil and Pillars]]"
+---
+
 (KJV) **2 Chronicles 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2|<< 2 Chronicles 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.4|2 Chronicles 4 >>]]</td></tr></table>
 
 <big><big>[[2Chr.3.1 Temple Construction Begins|⥃]]</big></big>***Temple Construction Begins***&emsp;<small><sup>\[ [[1Kgs.6|1 Kings 6:1–4]] ]</sup></small>

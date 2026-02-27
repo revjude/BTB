@@ -1,3 +1,27 @@
+---
+title: Zechariah 12
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Zechariah
+chapter: 12
+book/chapter: "[[Zech.12|Zechariah 12]]"
+chronological_order: 868
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+pericopes:
+- "[[Zech.12.1 The Coming Deliverance of Jerusalem|The Coming Deliverance of Jerusalem]]"
+- "[[Zech.12.10 Mourning the One They Pierced|Mourning the One They Pierced]]"
+---
+
 (KJV) **Zechariah 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.11|<< Zechariah 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.13|Zechariah 13 >>]]</td></tr></table>
 
 <big><big>[[Zech.12.1 The Coming Deliverance of Jerusalem|⥃]]</big></big>***The Coming Deliverance of Jerusalem***

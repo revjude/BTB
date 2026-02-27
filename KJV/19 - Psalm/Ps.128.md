@@ -1,3 +1,27 @@
+---
+title: Psalm 128
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 128
+book/chapter: "[[Ps.128|Psalm 128]]"
+chronological_order: 889
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.128.1 The Blessed Fear of the LORD|The Blessed Fear of the LORD]]"
+---
+
 (KJV) **Psalm 128**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.127|<< Psalm 127]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.129|Psalm 129 >>]]</td></tr></table>
 
 <big><big>[[Ps.128.1 The Blessed Fear of the LORD|⥃]]</big></big>***The Blessed Fear of the LORD***&emsp;<small><sup>\[ [[Ps.112|Psalms 112:1–10]] ]</sup></small>

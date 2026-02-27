@@ -1,3 +1,26 @@
+---
+title: 2 Chronicles 33
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 33
+book/chapter: "[[2Chr.33|2 Chronicles 33]]"
+chronological_order: 707
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.33.1 Manasseh Reigns in Judah|Manasseh Reigns in Judah]]"
+- "[[2Chr.33.10 Manasseh’s Repentance and Restoration|Manasseh’s Repentance and Restoration]]"
+- "[[2Chr.33.21 Amon Reigns in Judah|Amon Reigns in Judah]]"
+---
+
 (KJV) **2 Chronicles 33**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32|<< 2 Chronicles 32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34|2 Chronicles 34 >>]]</td></tr></table>
 
 <big><big>[[2Chr.33.1 Manasseh Reigns in Judah|⥃]]</big></big>***Manasseh Reigns in Judah***&emsp;<small><sup>\[ [[2Kgs.21|2 Kings 21:1–9]] ]</sup></small>

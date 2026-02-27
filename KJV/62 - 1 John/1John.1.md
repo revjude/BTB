@@ -1,3 +1,26 @@
+---
+title: 1 John 1
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 1
+book/chapter: "[[1John.1|1 John 1]]"
+chronological_order: 1161
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+pericopes:
+- "[[1John.1.1 The Word of Life|The Word of Life]]"
+- "[[1John.1.5 Walking in the Light|Walking in the Light]]"
+---
+
 (KJV) **1 John 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3|<< 2 Peter 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2|1 John 2 >>]]</td></tr></table>
 
 <big><big>[[1John.1.1 The Word of Life|⥃]]</big></big>***The Word of Life***&emsp;<small><sup>\[ [[Luke.24|Luke 24:36–49]] <big>†</big> [[John.20|John 20:19–23]] ]</sup></small>

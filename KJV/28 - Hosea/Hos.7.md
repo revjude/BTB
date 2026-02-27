@@ -1,3 +1,24 @@
+---
+title: Hosea 7
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Hosea
+chapter: 7
+book/chapter: "[[Hos.7|Hosea 7]]"
+chronological_order: 648
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+pericopes:
+- "[[Hos.7.1 Ephraim’s Iniquity|Ephraim’s Iniquity]]"
+---
+
 (KJV) **Hosea 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.6|<< Hosea 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.8|Hosea 8 >>]]</td></tr></table>
 
 <big><big>[[Hos.7.1 Ephraim’s Iniquity|⥃]]</big></big>***Ephraim’s Iniquity***

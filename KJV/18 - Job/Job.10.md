@@ -1,3 +1,25 @@
+---
+title: Job 10
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 10
+book/chapter: "[[Job.10|Job 10]]"
+chronological_order: 21
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.10.1 Job’s Plea to God|Job’s Plea to God]]"
+---
+
 (KJV) **Job 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9|<< Job 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11|Job 11 >>]]</td></tr></table>
 
 <big><big>[[Job.10.1 Job’s Plea to God|⥃]]</big></big>***Job’s Plea to God***

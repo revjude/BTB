@@ -1,3 +1,27 @@
+---
+title: Ezekiel 8
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 8
+book/chapter: "[[Ezek.8|Ezekiel 8]]"
+chronological_order: 799
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.8.1 The Vision of Idolatry in the Temple|The Vision of Idolatry in the Temple]]"
+---
+
 (KJV) **Ezekiel 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7|<< Ezekiel 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.9|Ezekiel 9 >>]]</td></tr></table>
 
 <big><big>[[Ezek.8.1 The Vision of Idolatry in the Temple|⥃]]</big></big>***The Vision of Idolatry in the Temple***

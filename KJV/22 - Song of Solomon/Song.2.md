@@ -1,3 +1,28 @@
+---
+title: Song of Solomon 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Song of Solomon
+chapter: 2
+book/chapter: "[[Song.2|Song of Solomon 2]]"
+chronological_order: 449
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+pericopes:
+- "[[Song.2.1 The Bride|The Bride]]"
+- "[[Song.2.2 The Bridegroom|The Bridegroom]]"
+- "[[Song.2.3 The Bride|The Bride]]"
+- "[[Song.2.14 The Bridegroom|The Bridegroom]]"
+- "[[Song.2.15 The Friends|The Friends]]"
+- "[[Song.2.16 The Bride|The Bride]]"
+---
+
 (KJV) **Song of Solomon 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.1|<< Song of Solomon 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.3|Song of Solomon 3 >>]]</td></tr></table>
 
 <big><big>[[Song.2.1 The Bride|⥃]]</big></big>*The Bride*

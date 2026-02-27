@@ -1,3 +1,31 @@
+---
+title: Leviticus 19
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Leviticus
+chapter: 19
+book/chapter: "[[Lev.19|Leviticus 19]]"
+chronological_order: 151
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+pericopes:
+- "[[Lev.19.1 Commandments for Holiness|Commandments for Holiness]]"
+- "[[Lev.19.9 Love Your Neighbor|Love Your Neighbor]]"
+- "[[Lev.19.19 Keep My Statutes|Keep My Statutes]]"
+---
+
 (KJV) **Leviticus 19**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.18|<< Leviticus 18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.20|Leviticus 20 >>]]</td></tr></table>
 
 <big><big>[[Lev.19.1 Commandments for Holiness|⥃]]</big></big>***Commandments for Holiness***

@@ -1,3 +1,24 @@
+---
+title: Galatians 6
+type: Chapter
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 6
+book/chapter: "[[Gal.6|Galatians 6]]"
+chronological_order: 1044
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+pericopes:
+- "[[Gal.6.1 Carry One Another’s Burdens|Carry One Another’s Burdens]]"
+- "[[Gal.6.11 Final Warnings and Blessings|Final Warnings and Blessings]]"
+---
+
 (KJV) **Galatians 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5|<< Galatians 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1|Ephesians 1 >>]]</td></tr></table>
 
 <big><big>[[Gal.6.1 Carry One Another’s Burdens|⥃]]</big></big>***Carry One Another’s Burdens***

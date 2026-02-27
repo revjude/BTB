@@ -1,3 +1,28 @@
+---
+title: Acts 16
+type: Chapter
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+pericopes:
+- "[[Acts.16.1 Timothy Joins Paul and Silas|Timothy Joins Paul and Silas]]"
+- "[[Acts.16.6 Paul’s Vision of the Macedonian|Paul’s Vision of the Macedonian]]"
+- "[[Acts.16.11 Lydia’s Conversion in Philippi|Lydia’s Conversion in Philippi]]"
+- "[[Acts.16.16 Paul and Silas Imprisoned|Paul and Silas Imprisoned]]"
+- "[[Acts.16.25 The Conversion of the Jailer|The Conversion of the Jailer]]"
+- "[[Acts.16.35 An Official Apology|An Official Apology]]"
+---
+
 (KJV) **Acts 16**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15|<< Acts 15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17|Acts 17 >>]]</td></tr></table>
 
 <big><big>[[Acts.16.1 Timothy Joins Paul and Silas|⥃]]</big></big>***Timothy Joins Paul and Silas***

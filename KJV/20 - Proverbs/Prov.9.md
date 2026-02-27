@@ -1,3 +1,25 @@
+---
+title: Proverbs 9
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Proverbs
+chapter: 9
+book/chapter: "[[Prov.9|Proverbs 9]]"
+chronological_order: 464
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+pericopes:
+- "[[Prov.9.1 The Way of Wisdom|The Way of Wisdom]]"
+- "[[Prov.9.13 The Way of Folly|The Way of Folly]]"
+---
+
 (KJV) **Proverbs 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8|<< Proverbs 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10|Proverbs 10 >>]]</td></tr></table>
 
 <big><big>[[Prov.9.1 The Way of Wisdom|⥃]]</big></big>***The Way of Wisdom***&emsp;<small><sup>\[ [[Prov.1|Proverbs 1:1–7]] ]</sup></small>

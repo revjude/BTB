@@ -1,3 +1,27 @@
+---
+title: Psalm 49
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 49
+book/chapter: "[[Ps.49|Psalm 49]]"
+chronological_order: 504
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.49.1 The Evanescence of Wealth|The Evanescence of Wealth]]"
+---
+
 (KJV) **Psalm 49**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.48|<< Psalm 48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.50|Psalm 50 >>]]</td></tr></table>
 
 <big><big>[[Ps.49.1 The Evanescence of Wealth|⥃]]</big></big>***The Evanescence of Wealth***&emsp;<small><sup>\[ [[Eccl.5|Ecclesiastes 5:8–20]] ]</sup></small>

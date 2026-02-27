@@ -1,3 +1,25 @@
+---
+title: Joshua 11
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Joshua
+chapter: 11
+book/chapter: "[[Josh.11|Joshua 11]]"
+chronological_order: 241
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+pericopes:
+- "[[Josh.11.1 Conquest of the Northern Cities|Conquest of the Northern Cities]]"
+- "[[Josh.11.16 Joshua Takes the Whole Land|Joshua Takes the Whole Land]]"
+---
+
 (KJV) **Joshua 11**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10|<< Joshua 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.12|Joshua 12 >>]]</td></tr></table>
 
 <big><big>[[Josh.11.1 Conquest of the Northern Cities|⥃]]</big></big>***Conquest of the Northern Cities***

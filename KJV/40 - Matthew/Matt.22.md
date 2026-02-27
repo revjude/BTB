@@ -1,3 +1,28 @@
+---
+title: Matthew 22
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 22
+book/chapter: "[[Matt.22|Matthew 22]]"
+chronological_order: 993
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.22.1 The Parable of the Banquet|The Parable of the Banquet]]"
+- "[[Matt.22.15 Paying Taxes to Caesar|Paying Taxes to Caesar]]"
+- "[[Matt.22.23 The Sadducees and the Resurrection|The Sadducees and the Resurrection]]"
+- "[[Matt.22.34 The Greatest Commandment|The Greatest Commandment]]"
+- "[[Matt.22.41 Whose Son Is the Christ？|Whose Son Is the Christ？]]"
+---
+
 (KJV) **Matthew 22**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21|<< Matthew 21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23|Matthew 23 >>]]</td></tr></table>
 
 <big><big>[[Matt.22.1 The Parable of the Banquet|⥃]]</big></big>***The Parable of the Banquet***&emsp;<small><sup>\[ [[Luke.14|Luke 14:15–24]] ]</sup></small>

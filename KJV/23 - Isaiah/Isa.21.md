@@ -1,3 +1,27 @@
+---
+title: Isaiah 21
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 21
+book/chapter: "[[Isa.21|Isaiah 21]]"
+chronological_order: 638
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.21.1 Babylon Is Fallen|Babylon Is Fallen]]"
+- "[[Isa.21.11 The Burden against Edom|The Burden against Edom]]"
+- "[[Isa.21.13 The Burden against Arabia|The Burden against Arabia]]"
+---
+
 (KJV) **Isaiah 21**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.20|<< Isaiah 20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22|Isaiah 22 >>]]</td></tr></table>
 
 <big><big>[[Isa.21.1 Babylon Is Fallen|⥃]]</big></big>***Babylon Is Fallen***&emsp;<small><sup>\[ [[Rev.18|Revelation 18:1–8]] ]</sup></small>

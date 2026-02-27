@@ -1,3 +1,27 @@
+---
+title: Psalm 85
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 85
+book/chapter: "[[Ps.85|Psalm 85]]"
+chronological_order: 871
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.85.1 You Showed Favor to Your Land|You Showed Favor to Your Land]]"
+---
+
 (KJV) **Psalm 85**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.84|<< Psalm 84]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.86|Psalm 86 >>]]</td></tr></table>
 
 <big><big>[[Ps.85.1 You Showed Favor to Your Land|⥃]]</big></big>***You Showed Favor to Your Land***

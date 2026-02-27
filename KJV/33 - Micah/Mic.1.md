@@ -1,3 +1,26 @@
+---
+title: Micah 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Micah
+chapter: 1
+book/chapter: "[[Mic.1|Micah 1]]"
+chronological_order: 623
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+pericopes:
+- "[[Mic.1.1 Judgment to Come|Judgment to Come]]"
+- "[[Mic.1.8 Weeping and Mourning|Weeping and Mourning]]"
+---
+
 (KJV) **Micah 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.4|<< Jonah 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.2|Micah 2 >>]]</td></tr></table>
 
 <big><big>[[Mic.1.1 Judgment to Come|⥃]]</big></big>***Judgment to Come***&emsp;<small><sup>\[ [[Isa.7|Isaiah 7:17–25]] ]</sup></small>

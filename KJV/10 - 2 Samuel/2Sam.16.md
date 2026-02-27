@@ -1,3 +1,27 @@
+---
+title: 2 Samuel 16
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Samuel
+chapter: 16
+book/chapter: "[[2Sam.16|2 Samuel 16]]"
+chronological_order: 415
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+pericopes:
+- "[[2Sam.16.1 David and Ziba|David and Ziba]]"
+- "[[2Sam.16.5 Shimei Curses David|Shimei Curses David]]"
+- "[[2Sam.16.15 The Counsel of Ahithophel and Hushai|The Counsel of Ahithophel and Hushai]]"
+---
+
 (KJV) **2 Samuel 16**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15|<< 2 Samuel 15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17|2 Samuel 17 >>]]</td></tr></table>
 
 <big><big>[[2Sam.16.1 David and Ziba|⥃]]</big></big>***David and Ziba***

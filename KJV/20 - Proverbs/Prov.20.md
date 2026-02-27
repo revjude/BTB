@@ -1,3 +1,24 @@
+---
+title: Proverbs 20
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Proverbs
+chapter: 20
+book/chapter: "[[Prov.20|Proverbs 20]]"
+chronological_order: 475
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+pericopes:
+- "[[Prov.20.1 Wine Is a Mocker|Wine Is a Mocker]]"
+---
+
 (KJV) **Proverbs 20**<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19|<< Proverbs 19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21|Proverbs 21 >>]]</td></tr></table>
 
 <big><big>[[Prov.20.1 Wine Is a Mocker|⥃]]</big></big>***Wine Is a Mocker***

@@ -1,3 +1,27 @@
+---
+title: Ezekiel 26
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 26
+book/chapter: "[[Ezek.26|Ezekiel 26]]"
+chronological_order: 817
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.26.1 A Prophecy against Tyre|A Prophecy against Tyre]]"
+---
+
 (KJV) **Ezekiel 26**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.25|<< Ezekiel 25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27|Ezekiel 27 >>]]</td></tr></table>
 
 <big><big>[[Ezek.26.1 A Prophecy against Tyre|⥃]]</big></big>***A Prophecy against Tyre***&emsp;<small><sup>\[ [[Isa.23|Isaiah 23:1–18]] ]</sup></small>

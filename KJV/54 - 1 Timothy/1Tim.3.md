@@ -1,3 +1,26 @@
+---
+title: 1 Timothy 3
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 3
+book/chapter: "[[1Tim.3|1 Timothy 3]]"
+chronological_order: 1128
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+pericopes:
+- "[[1Tim.3.1 Qualifications for Overseers|Qualifications for Overseers]]"
+- "[[1Tim.3.8 Qualifications for Deacons|Qualifications for Deacons]]"
+- "[[1Tim.3.14 The Mystery of Godliness|The Mystery of Godliness]]"
+---
+
 (KJV) **1 Timothy 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.2|<< 1 Timothy 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.4|1 Timothy 4 >>]]</td></tr></table>
 
 <big><big>[[1Tim.3.1 Qualifications for Overseers|⥃]]</big></big>***Qualifications for Overseers***&emsp;<small><sup>\[ [[Titus.1|Titus 1:5–9]] <big>†</big> [[1Pet.5|1 Peter 5:1–4]] ]</sup></small>

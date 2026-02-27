@@ -1,3 +1,27 @@
+---
+title: Job 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 1
+book/chapter: "[[Job.1|Job 1]]"
+chronological_order: 12
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.1.1 Job’s Character and Wealth|Job’s Character and Wealth]]"
+- "[[Job.1.6 Satan’s First Attack|Satan’s First Attack]]"
+- "[[Job.1.13 Job Loses His Children and Possessions|Job Loses His Children and Possessions]]"
+---
+
 (KJV) **Job 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.10|<< Esther 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.2|Job 2 >>]]</td></tr></table>
 
 <big><big>[[Job.1.1 Job’s Character and Wealth|⥃]]</big></big>***Job’s Character and Wealth***&emsp;<small><sup>\[ [[Jas.5|James 5:7–12]] ]</sup></small>

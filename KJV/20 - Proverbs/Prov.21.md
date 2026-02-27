@@ -1,3 +1,24 @@
+---
+title: Proverbs 21
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Proverbs
+chapter: 21
+book/chapter: "[[Prov.21|Proverbs 21]]"
+chronological_order: 476
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+pericopes:
+- "[[Prov.21.1 The King’s Heart|The King’s Heart]]"
+---
+
 (KJV) **Proverbs 21**<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20|<< Proverbs 20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22|Proverbs 22 >>]]</td></tr></table>
 
 <big><big>[[Prov.21.1 The King’s Heart|⥃]]</big></big>***The King’s Heart***&emsp;<small><sup>\[ [[Ps.21|Psalms 21:1–13]] ]</sup></small>

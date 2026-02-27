@@ -1,3 +1,33 @@
+---
+title: Genesis 1
+type: Chapter
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 1
+book/chapter: "[[Gen.1|Genesis 1]]"
+chronological_order: 1
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.1.1 The Creation|The Creation]]"
+- "[[Gen.1.3 The First Day|The First Day]]"
+- "[[Gen.1.6 The Second Day|The Second Day]]"
+- "[[Gen.1.9 The Third Day|The Third Day]]"
+- "[[Gen.1.14 The Fourth Day|The Fourth Day]]"
+- "[[Gen.1.20 The Fifth Day|The Fifth Day]]"
+- "[[Gen.1.24 The Sixth Day|The Sixth Day]]"
+---
+
 (KJV) **Genesis 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">&nbsp;</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2|Genesis 2 >>]]</td></tr></table>
 
 <big><big>[[Gen.1.1 The Creation|⥃]]</big></big>***The Creation***&emsp;<small><sup>\[ [[John.1|John 1:1–5]] <big>†</big> [[Heb.11|Hebrews 11:1–3]] ]</sup></small>

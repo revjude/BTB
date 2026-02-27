@@ -1,3 +1,28 @@
+---
+title: Song of Solomon 6
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Song of Solomon
+chapter: 6
+book/chapter: "[[Song.6|Song of Solomon 6]]"
+chronological_order: 453
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+pericopes:
+- "[[Song.6.1 The Friends|The Friends]]"
+- "[[Song.6.2 The Bride|The Bride]]"
+- "[[Song.6.4 The Bridegroom|The Bridegroom]]"
+- "[[Song.6.10 The Friends|The Friends]]"
+- "[[Song.6.11 The Bridegroom|The Bridegroom]]"
+- "[[Song.6.13 The Friends|The Friends]]"
+---
+
 (KJV) **Song of Solomon 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5|<< Song of Solomon 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.7|Song of Solomon 7 >>]]</td></tr></table>
 
 <big><big>[[Song.6.1 The Friends|⥃]]</big></big>*The Friends*

@@ -1,3 +1,29 @@
+---
+title: Mark 6
+type: Chapter
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Mark.6.1 The Rejection at Nazareth|The Rejection at Nazareth]]"
+- "[[Mark.6.7 The Ministry of the Twelve|The Ministry of the Twelve]]"
+- "[[Mark.6.14 The Beheading of John|The Beheading of John]]"
+- "[[Mark.6.30 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+- "[[Mark.6.45 Jesus Walks on Water|Jesus Walks on Water]]"
+- "[[Mark.6.53 Jesus Heals at Gennesaret|Jesus Heals at Gennesaret]]"
+---
+
 (KJV) **Mark 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5|<< Mark 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7|Mark 7 >>]]</td></tr></table>
 
 <big><big>[[Mark.6.1 The Rejection at Nazareth|⥃]]</big></big>***The Rejection at Nazareth***&emsp;<small><sup>\[ [[Matt.13|Matthew 13:53–58]] <big>†</big> [[Luke.4|Luke 4:16–30]] ]</sup></small>

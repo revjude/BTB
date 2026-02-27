@@ -1,3 +1,27 @@
+---
+title: Ezra 6
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezra
+chapter: 6
+book/chapter: "[[Ezra.6|Ezra 6]]"
+chronological_order: 854
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+pericopes:
+- "[[Ezra.6.1 The Decree of Darius|The Decree of Darius]]"
+- "[[Ezra.6.13 The Temple Completed|The Temple Completed]]"
+- "[[Ezra.6.16 Dedication of the Temple|Dedication of the Temple]]"
+- "[[Ezra.6.19 The Returned Exiles Keep the Passover|The Returned Exiles Keep the Passover]]"
+---
+
 (KJV) **Ezra 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5|<< Ezra 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7|Ezra 7 >>]]</td></tr></table>
 
 <big><big>[[Ezra.6.1 The Decree of Darius|⥃]]</big></big>***The Decree of Darius***

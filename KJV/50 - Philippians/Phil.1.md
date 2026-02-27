@@ -1,3 +1,28 @@
+---
+title: Philippians 1
+type: Chapter
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 1
+book/chapter: "[[Phil.1|Philippians 1]]"
+chronological_order: 1117
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+pericopes:
+- "[[Phil.1.1 Greetings from Paul and Timothy|Greetings from Paul and Timothy]]"
+- "[[Phil.1.3 Thanksgiving and Prayer|Thanksgiving and Prayer]]"
+- "[[Phil.1.12 Paul’s Trials Advance the Gospel|Paul’s Trials Advance the Gospel]]"
+- "[[Phil.1.21 To Live Is Christ|To Live Is Christ]]"
+- "[[Phil.1.27 Worthy of the Gospel|Worthy of the Gospel]]"
+---
+
 (KJV) **Philippians 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6|<< Ephesians 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2|Philippians 2 >>]]</td></tr></table>
 
 <big><big>[[Phil.1.1 Greetings from Paul and Timothy|⥃]]</big></big>***Greetings from Paul and Timothy***&emsp;<small><sup>\[ [[Col.1|Colossians 1:1–2]] <big>†</big> [[Phlm.1|Philemon 1:1–3]] ]</sup></small>

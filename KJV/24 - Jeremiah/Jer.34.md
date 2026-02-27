@@ -1,3 +1,27 @@
+---
+title: Jeremiah 34
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 34
+book/chapter: "[[Jer.34|Jeremiah 34]]"
+chronological_order: 757
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.34.1 A Prophecy against Zedekiah|A Prophecy against Zedekiah]]"
+- "[[Jer.34.8 Freedom for Hebrew Slaves|Freedom for Hebrew Slaves]]"
+---
+
 (KJV) **Jeremiah 34**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33|<< Jeremiah 33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.35|Jeremiah 35 >>]]</td></tr></table>
 
 <big><big>[[Jer.34.1 A Prophecy against Zedekiah|⥃]]</big></big>***A Prophecy against Zedekiah***

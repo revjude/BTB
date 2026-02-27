@@ -1,3 +1,27 @@
+---
+title: Isaiah 28
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 28
+book/chapter: "[[Isa.28|Isaiah 28]]"
+chronological_order: 671
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.28.1 The Captivity of Ephraim|The Captivity of Ephraim]]"
+- "[[Isa.28.14 A Cornerstone in Zion|A Cornerstone in Zion]]"
+- "[[Isa.28.23 Listen and Hear|Listen and Hear]]"
+---
+
 (KJV) **Isaiah 28**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.27|<< Isaiah 27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29|Isaiah 29 >>]]</td></tr></table>
 
 <big><big>[[Isa.28.1 The Captivity of Ephraim|⥃]]</big></big>***The Captivity of Ephraim***

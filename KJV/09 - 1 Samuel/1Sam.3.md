@@ -1,3 +1,25 @@
+---
+title: 1 Samuel 3
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Samuel
+chapter: 3
+book/chapter: "[[1Sam.3|1 Samuel 3]]"
+chronological_order: 282
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[1Sam.3.1 The LORD Calls Samuel|The LORD Calls Samuel]]"
+- "[[1Sam.3.15 Samuel Shares the Vision|Samuel Shares the Vision]]"
+---
+
 (KJV) **1 Samuel 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2|<< 1 Samuel 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.4|1 Samuel 4 >>]]</td></tr></table>
 
 <big><big>[[1Sam.3.1 The LORD Calls Samuel|⥃]]</big></big>***The LORD Calls Samuel***

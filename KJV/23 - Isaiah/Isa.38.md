@@ -1,3 +1,26 @@
+---
+title: Isaiah 38
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 38
+book/chapter: "[[Isa.38|Isaiah 38]]"
+chronological_order: 665
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.38.1 Hezekiah’s Illness and Recovery|Hezekiah’s Illness and Recovery]]"
+- "[[Isa.38.9 Hezekiah’s Song of Thanksgiving|Hezekiah’s Song of Thanksgiving]]"
+---
+
 (KJV) **Isaiah 38**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37|<< Isaiah 37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.39|Isaiah 39 >>]]</td></tr></table>
 
 <big><big>[[Isa.38.1 Hezekiah’s Illness and Recovery|⥃]]</big></big>***Hezekiah’s Illness and Recovery***&emsp;<small><sup>\[ [[2Kgs.20|2 Kings 20:1–11]] <big>†</big> [[2Chr.32|2 Chronicles 32:24–31]] ]</sup></small>

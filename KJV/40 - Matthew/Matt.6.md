@@ -1,3 +1,29 @@
+---
+title: Matthew 6
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 6
+book/chapter: "[[Matt.6|Matthew 6]]"
+chronological_order: 944
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.6.1 Giving to the Needy|Giving to the Needy]]"
+- "[[Matt.6.5 The Lord’s Prayer|The Lord’s Prayer]]"
+- "[[Matt.6.16 Proper Fasting|Proper Fasting]]"
+- "[[Matt.6.19 Treasures in Heaven|Treasures in Heaven]]"
+- "[[Matt.6.22 The Lamp of the Body|The Lamp of the Body]]"
+- "[[Matt.6.25 Do Not Worry|Do Not Worry]]"
+---
+
 (KJV) **Matthew 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5|<< Matthew 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7|Matthew 7 >>]]</td></tr></table>
 
 <big><big>[[Matt.6.1 Giving to the Needy|⥃]]</big></big>***Giving to the Needy***&emsp;<small><sup>\[ [[Deut.15|Deuteronomy 15:7–11]] ]</sup></small>

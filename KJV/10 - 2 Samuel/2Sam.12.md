@@ -1,3 +1,28 @@
+---
+title: 2 Samuel 12
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Samuel
+chapter: 12
+book/chapter: "[[2Sam.12|2 Samuel 12]]"
+chronological_order: 411
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+pericopes:
+- "[[2Sam.12.1 Nathan Rebukes David|Nathan Rebukes David]]"
+- "[[2Sam.12.13 David’s Loss and Repentance|David’s Loss and Repentance]]"
+- "[[2Sam.12.24 Solomon’s Birth|Solomon’s Birth]]"
+- "[[2Sam.12.26 The Capture of Rabbah|The Capture of Rabbah]]"
+---
+
 (KJV) **2 Samuel 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.11|<< 2 Samuel 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13|2 Samuel 13 >>]]</td></tr></table>
 
 <big><big>[[2Sam.12.1 Nathan Rebukes David|⥃]]</big></big>***Nathan Rebukes David***&emsp;<small><sup>\[ [[Ps.51|Psalms 51:1–19]] ]</sup></small>

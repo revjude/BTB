@@ -1,3 +1,30 @@
+---
+title: Joshua 19
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Joshua
+chapter: 19
+book/chapter: "[[Josh.19|Joshua 19]]"
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+pericopes:
+- "[[Josh.19.1 Simeon’s Inheritance|Simeon’s Inheritance]]"
+- "[[Josh.19.10 Zebulun’s Inheritance|Zebulun’s Inheritance]]"
+- "[[Josh.19.17 Issachar’s Inheritance|Issachar’s Inheritance]]"
+- "[[Josh.19.24 Asher’s Inheritance|Asher’s Inheritance]]"
+- "[[Josh.19.32 Naphtali’s Inheritance|Naphtali’s Inheritance]]"
+- "[[Josh.19.40 Dan’s Inheritance|Dan’s Inheritance]]"
+- "[[Josh.19.49 Joshua’s Inheritance|Joshua’s Inheritance]]"
+---
+
 (KJV) **Joshua 19**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18|<< Joshua 18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.20|Joshua 20 >>]]</td></tr></table>
 
 <big><big>[[Josh.19.1 Simeon’s Inheritance|⥃]]</big></big>***Simeon’s Inheritance***

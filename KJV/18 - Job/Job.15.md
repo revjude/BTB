@@ -1,3 +1,25 @@
+---
+title: Job 15
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 15
+book/chapter: "[[Job.15|Job 15]]"
+chronological_order: 26
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.15.1 Eliphaz：Job Does Not Fear God|Eliphaz：Job Does Not Fear God]]"
+---
+
 (KJV) **Job 15**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.14|<< Job 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16|Job 16 >>]]</td></tr></table>
 
 <big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥃]]</big></big>***Eliphaz: Job Does Not Fear God***

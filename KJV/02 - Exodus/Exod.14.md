@@ -1,3 +1,30 @@
+---
+title: Exodus 14
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 14
+book/chapter: "[[Exod.14|Exodus 14]]"
+chronological_order: 106
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.14.1 Pharaoh Pursues the Israelites|Pharaoh Pursues the Israelites]]"
+- "[[Exod.14.15 Parting the Red Sea|Parting the Red Sea]]"
+---
+
 (KJV) **Exodus 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.13|<< Exodus 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15|Exodus 15 >>]]</td></tr></table>
 
 <big><big>[[Exod.14.1 Pharaoh Pursues the Israelites|⥃]]</big></big>***Pharaoh Pursues the Israelites***

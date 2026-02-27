@@ -1,3 +1,25 @@
+---
+title: Job 6
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 6
+book/chapter: "[[Job.6|Job 6]]"
+chronological_order: 17
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.6.1 Job Replies：My Complaint Is Just|Job Replies：My Complaint Is Just]]"
+---
+
 (KJV) **Job 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5|<< Job 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.7|Job 7 >>]]</td></tr></table>
 
 <big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥃]]</big></big>***Job Replies: My Complaint Is Just***

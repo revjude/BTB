@@ -1,3 +1,25 @@
+---
+title: John 3
+type: Chapter
+original_language: Greek
+testament: New
+book: John
+chapter: 3
+book/chapter: "[[John.3|John 3]]"
+chronological_order: 941
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+pericopes:
+- "[[John.3.1 Jesus and Nicodemus|Jesus and Nicodemus]]"
+- "[[John.3.22 John’s Testimony about Jesus|John’s Testimony about Jesus]]"
+---
+
 (KJV) **John 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2|<< John 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4|John 4 >>]]</td></tr></table>
 
 <big><big>[[John.3.1 Jesus and Nicodemus|⥃]]</big></big>***Jesus and Nicodemus***&emsp;<small><sup>\[ [[Gen.22|Genesis 22:1–10]] <big>†</big> [[Rom.5|Romans 5:6–11]] ]</sup></small>

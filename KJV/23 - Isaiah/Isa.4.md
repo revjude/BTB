@@ -1,3 +1,25 @@
+---
+title: Isaiah 4
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 4
+book/chapter: "[[Isa.4|Isaiah 4]]"
+chronological_order: 612
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.4.1 A Remnant in Zion|A Remnant in Zion]]"
+---
+
 (KJV) **Isaiah 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3|<< Isaiah 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5|Isaiah 5 >>]]</td></tr></table>
 
 <big><big>[[Isa.4.1 A Remnant in Zion|⥃]]</big></big>***A Remnant in Zion***

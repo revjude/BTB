@@ -1,3 +1,29 @@
+---
+title: Ezekiel 29
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 29
+book/chapter: "[[Ezek.29|Ezekiel 29]]"
+chronological_order: 820
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.29.1 A Prophecy against Pharaoh|A Prophecy against Pharaoh]]"
+- "[[Ezek.29.8 The Desolation of Egypt|The Desolation of Egypt]]"
+- "[[Ezek.29.17 Egypt the Reward of Nebuchadnezzar|Egypt the Reward of Nebuchadnezzar]]"
+---
+
 (KJV) **Ezekiel 29**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28|<< Ezekiel 28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30|Ezekiel 30 >>]]</td></tr></table>
 
 <big><big>[[Ezek.29.1 A Prophecy against Pharaoh|⥃]]</big></big>***A Prophecy against Pharaoh***

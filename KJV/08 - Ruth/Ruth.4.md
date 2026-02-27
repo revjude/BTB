@@ -1,3 +1,26 @@
+---
+title: Ruth 4
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ruth
+chapter: 4
+book/chapter: "[[Ruth.4|Ruth 4]]"
+chronological_order: 279
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+pericopes:
+- "[[Ruth.4.1 Boaz Redeems Ruth|Boaz Redeems Ruth]]"
+- "[[Ruth.4.13 Boaz Marries Ruth|Boaz Marries Ruth]]"
+- "[[Ruth.4.18 The Line of David|The Line of David]]"
+---
+
 (KJV) **Ruth 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.3|<< Ruth 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1|1 Samuel 1 >>]]</td></tr></table>
 
 <big><big>[[Ruth.4.1 Boaz Redeems Ruth|⥃]]</big></big>***Boaz Redeems Ruth***

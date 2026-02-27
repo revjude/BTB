@@ -1,3 +1,31 @@
+---
+title: Luke 2
+type: Chapter
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+pericopes:
+- "[[Luke.2.1 The Birth of Jesus|The Birth of Jesus]]"
+- "[[Luke.2.8 The Shepherds and the Angels|The Shepherds and the Angels]]"
+- "[[Luke.2.21 Jesus Presented at the Temple|Jesus Presented at the Temple]]"
+- "[[Luke.2.25 The Prophecy of Simeon|The Prophecy of Simeon]]"
+- "[[Luke.2.36 The Prophecy of Anna|The Prophecy of Anna]]"
+- "[[Luke.2.39 The Return to Nazareth|The Return to Nazareth]]"
+- "[[Luke.2.41 The Boy Jesus at the Temple|The Boy Jesus at the Temple]]"
+---
+
 (KJV) **Luke 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1|<< Luke 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3|Luke 3 >>]]</td></tr></table>
 
 <big><big>[[Luke.2.1 The Birth of Jesus|⥃]]</big></big>***The Birth of Jesus***&emsp;<small><sup>\[ [[Matt.1|Matthew 1:18–25]] ]</sup></small>

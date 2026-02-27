@@ -1,3 +1,28 @@
+---
+title: 2 Samuel 24
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Samuel
+chapter: 24
+book/chapter: "[[2Sam.24|2 Samuel 24]]"
+chronological_order: 432
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+pericopes:
+- "[[2Sam.24.1 David’s Military Census|David’s Military Census]]"
+- "[[2Sam.24.10 Judgment for David’s Sin|Judgment for David’s Sin]]"
+- "[[2Sam.24.15 A Plague on Israel|A Plague on Israel]]"
+- "[[2Sam.24.18 David Builds an Altar|David Builds an Altar]]"
+---
+
 (KJV) **2 Samuel 24**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23|<< 2 Samuel 23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1|1 Kings 1 >>]]</td></tr></table>
 
 <big><big>[[2Sam.24.1 David’s Military Census|⥃]]</big></big>***David’s Military Census***&emsp;<small><sup>\[ [[Exod.30|Exodus 30:11–16]] <big>†</big> [[1Chr.21|1 Chronicles 21:1–6]] ]</sup></small>

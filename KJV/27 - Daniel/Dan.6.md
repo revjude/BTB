@@ -1,3 +1,27 @@
+---
+title: Daniel 6
+type: Chapter
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 6
+book/chapter: "[[Dan.6|Daniel 6]]"
+chronological_order: 791
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+pericopes:
+- "[[Dan.6.1 The Plot against Daniel|The Plot against Daniel]]"
+- "[[Dan.6.10 Daniel in the Lions’ Den|Daniel in the Lions’ Den]]"
+- "[[Dan.6.25 Darius Honors God|Darius Honors God]]"
+---
+
 (KJV) **Daniel 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5|<< Daniel 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7|Daniel 7 >>]]</td></tr></table>
 
 <big><big>[[Dan.6.1 The Plot against Daniel|⥃]]</big></big>***The Plot against Daniel***

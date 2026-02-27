@@ -1,3 +1,32 @@
+---
+title: Exodus 38
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 38
+book/chapter: "[[Exod.38|Exodus 38]]"
+chronological_order: 130
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.38.1 The Bronze Altar|The Bronze Altar]]"
+- "[[Exod.38.8 The Bronze Basin|The Bronze Basin]]"
+- "[[Exod.38.9 The Courtyard|The Courtyard]]"
+- "[[Exod.38.21 An Inventory of Materials|An Inventory of Materials]]"
+---
+
 (KJV) **Exodus 38**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37|<< Exodus 37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39|Exodus 39 >>]]</td></tr></table>
 
 <big><big>[[Exod.38.1 The Bronze Altar|⥃]]</big></big>***The Bronze Altar***&emsp;<small><sup>\[ [[Exod.27|Exodus 27:1–8]] ]</sup></small>

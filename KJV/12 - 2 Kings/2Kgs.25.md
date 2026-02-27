@@ -1,3 +1,29 @@
+---
+title: 2 Kings 25
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Kings
+chapter: 25
+book/chapter: "[[2Kgs.25|2 Kings 25]]"
+chronological_order: 742
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[2Kgs.25.1 Nebuchadnezzar Besieges Jerusalem|Nebuchadnezzar Besieges Jerusalem]]"
+- "[[2Kgs.25.8 The Temple Destroyed|The Temple Destroyed]]"
+- "[[2Kgs.25.18 Captives Carried to Babylon|Captives Carried to Babylon]]"
+- "[[2Kgs.25.22 Gedaliah Governs in Judah|Gedaliah Governs in Judah]]"
+- "[[2Kgs.25.25 The Murder of Gedaliah|The Murder of Gedaliah]]"
+- "[[2Kgs.25.27 Jehoiachin Released from Prison|Jehoiachin Released from Prison]]"
+---
+
 (KJV) **2 Kings 25**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.24|<< 2 Kings 24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1|1 Chronicles 1 >>]]</td></tr></table>
 
 <big><big>[[2Kgs.25.1 Nebuchadnezzar Besieges Jerusalem|⥃]]</big></big>***Nebuchadnezzar Besieges Jerusalem***&emsp;<small><sup>\[ [[2Chr.36|2 Chronicles 36:15–21]] <big>†</big> [[Jer.39|Jeremiah 39:1–10]] ]</sup></small>

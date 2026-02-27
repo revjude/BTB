@@ -1,3 +1,30 @@
+---
+title: Jeremiah 50
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.50.1 A Prophecy against Babylon|A Prophecy against Babylon]]"
+- "[[Jer.50.4 Hope for Israel and Judah|Hope for Israel and Judah]]"
+- "[[Jer.50.11 Babylon’s Fall Is Certain|Babylon’s Fall Is Certain]]"
+- "[[Jer.50.17 Redemption for God’s People|Redemption for God’s People]]"
+- "[[Jer.50.21 The Destruction of Babylon|The Destruction of Babylon]]"
+---
+
 (KJV) **Jeremiah 50**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49|<< Jeremiah 49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51|Jeremiah 51 >>]]</td></tr></table>
 
 <big><big>[[Jer.50.1 A Prophecy against Babylon|⥃]]</big></big>***A Prophecy against Babylon***

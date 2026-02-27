@@ -1,3 +1,27 @@
+---
+title: 1 Kings 10
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Kings
+chapter: 10
+book/chapter: "[[1Kgs.10|1 Kings 10]]"
+chronological_order: 535
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+pericopes:
+- "[[1Kgs.10.1 The Queen of Sheba|The Queen of Sheba]]"
+- "[[1Kgs.10.14 Solomon’s Wealth and Splendor|Solomon’s Wealth and Splendor]]"
+---
+
 (KJV) **1 Kings 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9|<< 1 Kings 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11|1 Kings 11 >>]]</td></tr></table>
 
 <big><big>[[1Kgs.10.1 The Queen of Sheba|⥃]]</big></big>***The Queen of Sheba***&emsp;<small><sup>\[ [[2Chr.9|2 Chronicles 9:1–12]] ]</sup></small>

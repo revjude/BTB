@@ -1,3 +1,29 @@
+---
+title: 1 Kings 21
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Kings
+chapter: 21
+book/chapter: "[[1Kgs.21|1 Kings 21]]"
+chronological_order: 567
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+pericopes:
+- "[[1Kgs.21.1 Naboth’s Vineyard|Naboth’s Vineyard]]"
+- "[[1Kgs.21.8 Jezebel’s Plot|Jezebel’s Plot]]"
+- "[[1Kgs.21.17 Elijah Denounces Ahab and Jezebel|Elijah Denounces Ahab and Jezebel]]"
+- "[[1Kgs.21.25 Ahab’s Repentance|Ahab’s Repentance]]"
+---
+
 (KJV) **1 Kings 21**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20|<< 1 Kings 20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22|1 Kings 22 >>]]</td></tr></table>
 
 <big><big>[[1Kgs.21.1 Naboth’s Vineyard|⥃]]</big></big>***Naboth’s Vineyard***

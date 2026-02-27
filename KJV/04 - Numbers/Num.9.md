@@ -1,3 +1,29 @@
+---
+title: Numbers 9
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 9
+book/chapter: "[[Num.9|Numbers 9]]"
+chronological_order: 168
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.9.1 The Second Passover|The Second Passover]]"
+- "[[Num.9.15 The Cloud above the Tabernacle|The Cloud above the Tabernacle]]"
+---
+
 (KJV) **Numbers 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8|<< Numbers 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10|Numbers 10 >>]]</td></tr></table>
 
 <big><big>[[Num.9.1 The Second Passover|⥃]]</big></big>***The Second Passover***&emsp;<small><sup>\[ [[Exod.12|Exodus 12:1–13]] ]</sup></small>

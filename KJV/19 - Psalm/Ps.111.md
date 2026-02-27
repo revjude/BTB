@@ -1,3 +1,27 @@
+---
+title: Psalm 111
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 111
+book/chapter: "[[Ps.111|Psalm 111]]"
+chronological_order: 873
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.111.1 Majestic Is His Work|Majestic Is His Work]]"
+---
+
 (KJV) **Psalm 111**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.110|<< Psalm 110]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.112|Psalm 112 >>]]</td></tr></table>
 
 <big><big>[[Ps.111.1 Majestic Is His Work|⥃]]</big></big>***Majestic Is His Work***

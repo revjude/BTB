@@ -1,3 +1,27 @@
+---
+title: Psalm 104
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 104
+book/chapter: "[[Ps.104|Psalm 104]]"
+chronological_order: 528
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.104.1 How Many Are Your Works, O LORD!|How Many Are Your Works, O LORD!]]"
+---
+
 (KJV) **Psalm 104**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.103|<< Psalm 103]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105|Psalm 105 >>]]</td></tr></table>
 
 <big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥃]]</big></big>***How Many Are Your Works, O LORD!***

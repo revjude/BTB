@@ -1,3 +1,28 @@
+---
+title: Genesis 2
+type: Chapter
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 2
+book/chapter: "[[Gen.2|Genesis 2]]"
+chronological_order: 2
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.2.1 The Seventh Day|The Seventh Day]]"
+- "[[Gen.2.4 Man and Woman in the Garden|Man and Woman in the Garden]]"
+---
+
 (KJV) **Genesis 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.1|<< Genesis 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3|Genesis 3 >>]]</td></tr></table>
 
 <big><big>[[Gen.2.1 The Seventh Day|⥃]]</big></big>***The Seventh Day***&emsp;<small><sup>\[ [[Exod.16|Exodus 16:22–30]] <big>†</big> [[Heb.4|Hebrews 4:1–11]] ]</sup></small>

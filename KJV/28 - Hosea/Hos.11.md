@@ -1,3 +1,25 @@
+---
+title: Hosea 11
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Hosea
+chapter: 11
+book/chapter: "[[Hos.11|Hosea 11]]"
+chronological_order: 652
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+pericopes:
+- "[[Hos.11.1 Out of Egypt I Called My Son|Out of Egypt I Called My Son]]"
+- "[[Hos.11.8 God’s Love for Israel|God’s Love for Israel]]"
+---
+
 (KJV) **Hosea 11**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10|<< Hosea 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.12|Hosea 12 >>]]</td></tr></table>
 
 <big><big>[[Hos.11.1 Out of Egypt I Called My Son|⥃]]</big></big>***Out of Egypt I Called My Son***&emsp;<small><sup>\[ [[Matt.2|Matthew 2:13–15]] ]</sup></small>

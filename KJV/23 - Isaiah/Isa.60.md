@@ -1,3 +1,25 @@
+---
+title: Isaiah 60
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 60
+book/chapter: "[[Isa.60|Isaiah 60]]"
+chronological_order: 699
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.60.1 Future Glory for Zion|Future Glory for Zion]]"
+---
+
 (KJV) **Isaiah 60**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59|<< Isaiah 59]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.61|Isaiah 61 >>]]</td></tr></table>
 
 <big><big>[[Isa.60.1 Future Glory for Zion|⥃]]</big></big>***Future Glory for Zion***

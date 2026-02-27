@@ -1,3 +1,28 @@
+---
+title: 2 Chronicles 25
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 25
+book/chapter: "[[2Chr.25|2 Chronicles 25]]"
+chronological_order: 592
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.25.1 Amaziah Reigns in Judah|Amaziah Reigns in Judah]]"
+- "[[2Chr.25.5 Amaziah’s Victories|Amaziah’s Victories]]"
+- "[[2Chr.25.14 Amaziah Rebuked for Idolatry|Amaziah Rebuked for Idolatry]]"
+- "[[2Chr.25.17 Jehoash Defeats Amaziah|Jehoash Defeats Amaziah]]"
+- "[[2Chr.25.25 The Death of Amaziah|The Death of Amaziah]]"
+---
+
 (KJV) **2 Chronicles 25**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24|<< 2 Chronicles 24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26|2 Chronicles 26 >>]]</td></tr></table>
 
 <big><big>[[2Chr.25.1 Amaziah Reigns in Judah|⥃]]</big></big>***Amaziah Reigns in Judah***&emsp;<small><sup>\[ [[2Kgs.14|2 Kings 14:1–7]] ]</sup></small>

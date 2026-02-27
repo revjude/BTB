@@ -1,3 +1,26 @@
+---
+title: Isaiah 65
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 65
+book/chapter: "[[Isa.65|Isaiah 65]]"
+chronological_order: 704
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.65.1 Judgments and Promises|Judgments and Promises]]"
+- "[[Isa.65.17 A New Heaven and a New Earth|A New Heaven and a New Earth]]"
+---
+
 (KJV) **Isaiah 65**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.64|<< Isaiah 64]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66|Isaiah 66 >>]]</td></tr></table>
 
 <big><big>[[Isa.65.1 Judgments and Promises|⥃]]</big></big>***Judgments and Promises***&emsp;<small><sup>\[ [[Rom.10|Romans 10:1–21]] ]</sup></small>

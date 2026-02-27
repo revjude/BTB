@@ -1,3 +1,27 @@
+---
+title: Psalm 106
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 106
+book/chapter: "[[Ps.106|Psalm 106]]"
+chronological_order: 530
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.106.1 Give Thanks to the LORD, for He Is Good|Give Thanks to the LORD, for He Is Good]]"
+---
+
 (KJV) **Psalm 106**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105|<< Psalm 105]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107|Psalm 107 >>]]</td></tr></table>
 
 <big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥃]]</big></big>***Give Thanks to the LORD, for He Is Good*** <small><small>[^2]</small></small> 

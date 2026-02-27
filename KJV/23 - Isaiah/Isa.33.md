@@ -1,3 +1,25 @@
+---
+title: Isaiah 33
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 33
+book/chapter: "[[Isa.33|Isaiah 33]]"
+chronological_order: 676
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.33.1 The LORD Is Exalted|The LORD Is Exalted]]"
+---
+
 (KJV) **Isaiah 33**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32|<< Isaiah 32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.34|Isaiah 34 >>]]</td></tr></table>
 
 <big><big>[[Isa.33.1 The LORD Is Exalted|⥃]]</big></big>***The LORD Is Exalted***

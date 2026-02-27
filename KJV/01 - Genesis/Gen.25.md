@@ -1,3 +1,31 @@
+---
+title: Genesis 25
+type: Chapter
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 25
+book/chapter: "[[Gen.25|Genesis 25]]"
+chronological_order: 67
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.25.1 Abraham and Keturah|Abraham and Keturah]]"
+- "[[Gen.25.7 The Death of Abraham|The Death of Abraham]]"
+- "[[Gen.25.12 The Descendants of Ishmael|The Descendants of Ishmael]]"
+- "[[Gen.25.19 Jacob and Esau|Jacob and Esau]]"
+- "[[Gen.25.29 Esau Sells His Birthright|Esau Sells His Birthright]]"
+---
+
 (KJV) **Genesis 25**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24|<< Genesis 24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26|Genesis 26 >>]]</td></tr></table>
 
 <big><big>[[Gen.25.1 Abraham and Keturah|⥃]]</big></big>***Abraham and Keturah***&emsp;<small><sup>\[ [[1Chr.1|1 Chronicles 1:32–33]] ]</sup></small>

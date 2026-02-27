@@ -1,3 +1,26 @@
+---
+title: 2 Peter 3
+type: Chapter
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 3
+book/chapter: "[[2Pet.3|2 Peter 3]]"
+chronological_order: 1159
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+pericopes:
+- "[[2Pet.3.1 The Coming Judgment|The Coming Judgment]]"
+- "[[2Pet.3.8 The Day of the Lord|The Day of the Lord]]"
+- "[[2Pet.3.14 Final Exhortations|Final Exhortations]]"
+---
+
 (KJV) **2 Peter 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2|<< 2 Peter 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.1|1 John 1 >>]]</td></tr></table>
 
 <big><big>[[2Pet.3.1 The Coming Judgment|⥃]]</big></big>***The Coming Judgment***&emsp;<small><sup>\[ [[Gen.7|Genesis 7:1–24]] <big>†</big> [[Jude.1|Jude 1:17–23]] ]</sup></small>

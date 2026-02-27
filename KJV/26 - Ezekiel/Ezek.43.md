@@ -1,3 +1,28 @@
+---
+title: Ezekiel 43
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 43
+book/chapter: "[[Ezek.43|Ezekiel 43]]"
+chronological_order: 834
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.43.1 The Glory of the LORD Returns to the Temple|The Glory of the LORD Returns to the Temple]]"
+- "[[Ezek.43.13 The Altar of Sacrifice|The Altar of Sacrifice]]"
+---
+
 (KJV) **Ezekiel 43**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42|<< Ezekiel 42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44|Ezekiel 44 >>]]</td></tr></table>
 
 <big><big>[[Ezek.43.1 The Glory of the LORD Returns to the Temple|⥃]]</big></big>***The Glory of the LORD Returns to the Temple***

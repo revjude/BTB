@@ -1,3 +1,27 @@
+---
+title: Psalm 125
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 125
+book/chapter: "[[Ps.125|Psalm 125]]"
+chronological_order: 887
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.125.1 The LORD Surrounds His People|The LORD Surrounds His People]]"
+---
+
 (KJV) **Psalm 125**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.124|<< Psalm 124]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.126|Psalm 126 >>]]</td></tr></table>
 
 <big><big>[[Ps.125.1 The LORD Surrounds His People|⥃]]</big></big>***The LORD Surrounds His People***

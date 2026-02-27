@@ -1,3 +1,25 @@
+---
+title: Hosea 14
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Hosea
+chapter: 14
+book/chapter: "[[Hos.14|Hosea 14]]"
+chronological_order: 655
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+pericopes:
+- "[[Hos.14.1 A Call to Repentance|A Call to Repentance]]"
+- "[[Hos.14.4 A Promise of God’s Blessing|A Promise of God’s Blessing]]"
+---
+
 (KJV) **Hosea 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13|<< Hosea 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1|Joel 1 >>]]</td></tr></table>
 
 <big><big>[[Hos.14.1 A Call to Repentance|⥃]]</big></big>***A Call to Repentance***&emsp;<small><sup>\[ [[Jer.3|Jeremiah 3:11–25]] <big>†</big> [[Zech.1|Zechariah 1:1–6]] ]</sup></small>

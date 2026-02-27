@@ -1,3 +1,26 @@
+---
+title: Isaiah 29
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 29
+book/chapter: "[[Isa.29|Isaiah 29]]"
+chronological_order: 672
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.29.1 Woe to David’s City|Woe to David’s City]]"
+- "[[Isa.29.17 Sanctification for the Godly|Sanctification for the Godly]]"
+---
+
 (KJV) **Isaiah 29**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28|<< Isaiah 28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30|Isaiah 30 >>]]</td></tr></table>
 
 <big><big>[[Isa.29.1 Woe to David’s City|⥃]]</big></big>***Woe to David’s City***&emsp;<small><sup>\[ [[Luke.19|Luke 19:41–44]] ]</sup></small>

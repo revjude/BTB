@@ -1,3 +1,25 @@
+---
+title: 2 Thessalonians 2
+type: Chapter
+original_language: Greek
+testament: New
+book: 2 Thessalonians
+chapter: 2
+book/chapter: "[[2Thess.2|2 Thessalonians 2]]"
+chronological_order: 1054
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+pericopes:
+- "[[2Thess.2.1 The Man of Lawlessness|The Man of Lawlessness]]"
+- "[[2Thess.2.13 Stand Firm|Stand Firm]]"
+---
+
 (KJV) **2 Thessalonians 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.1|<< 2 Thessalonians 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3|2 Thessalonians 3 >>]]</td></tr></table>
 
 <big><big>[[2Thess.2.1 The Man of Lawlessness|⥃]]</big></big>***The Man of Lawlessness***

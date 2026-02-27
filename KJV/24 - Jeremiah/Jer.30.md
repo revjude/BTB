@@ -1,3 +1,26 @@
+---
+title: Jeremiah 30
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 30
+book/chapter: "[[Jer.30|Jeremiah 30]]"
+chronological_order: 753
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.30.1 The Restoration of Israel and Judah|The Restoration of Israel and Judah]]"
+---
+
 (KJV) **Jeremiah 30**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29|<< Jeremiah 29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31|Jeremiah 31 >>]]</td></tr></table>
 
 <big><big>[[Jer.30.1 The Restoration of Israel and Judah|⥃]]</big></big>***The Restoration of Israel and Judah***&emsp;<small><sup>\[ [[Ezek.28|Ezekiel 28:25–26]] ]</sup></small>

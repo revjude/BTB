@@ -1,3 +1,26 @@
+---
+title: Ecclesiastes 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ecclesiastes
+chapter: 2
+book/chapter: "[[Eccl.2|Ecclesiastes 2]]"
+chronological_order: 540
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+pericopes:
+- "[[Eccl.2.1 The Futility of Pleasure|The Futility of Pleasure]]"
+- "[[Eccl.2.12 The Wise and the Foolish|The Wise and the Foolish]]"
+- "[[Eccl.2.18 The Futility of Work|The Futility of Work]]"
+---
+
 (KJV) **Ecclesiastes 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.1|<< Ecclesiastes 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.3|Ecclesiastes 3 >>]]</td></tr></table>
 
 <big><big>[[Eccl.2.1 The Futility of Pleasure|⥃]]</big></big>***The Futility of Pleasure***

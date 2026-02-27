@@ -1,3 +1,27 @@
+---
+title: Acts 21
+type: Chapter
+original_language: Greek
+testament: New
+book: Acts
+chapter: 21
+book/chapter: "[[Acts.21|Acts 21]]"
+chronological_order: 1103
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+pericopes:
+- "[[Acts.21.1 Paul’s Journey to Jerusalem|Paul’s Journey to Jerusalem]]"
+- "[[Acts.21.8 Paul Visits Philip the Evangelist|Paul Visits Philip the Evangelist]]"
+- "[[Acts.21.17 Paul’s Arrival at Jerusalem|Paul’s Arrival at Jerusalem]]"
+- "[[Acts.21.27 Paul Seized at the Temple|Paul Seized at the Temple]]"
+- "[[Acts.21.37 Paul Addresses the Crowd|Paul Addresses the Crowd]]"
+---
+
 (KJV) **Acts 21**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20|<< Acts 20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22|Acts 22 >>]]</td></tr></table>
 
 <big><big>[[Acts.21.1 Paul’s Journey to Jerusalem|⥃]]</big></big>***Paul’s Journey to Jerusalem***

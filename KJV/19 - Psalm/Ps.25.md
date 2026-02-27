@@ -1,3 +1,27 @@
+---
+title: Psalm 25
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 25
+book/chapter: "[[Ps.25|Psalm 25]]"
+chronological_order: 357
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.25.1 To You I Lift Up My Soul|To You I Lift Up My Soul]]"
+---
+
 (KJV) **Psalm 25**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.24|<< Psalm 24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.26|Psalm 26 >>]]</td></tr></table>
 
 <big><big>[[Ps.25.1 To You I Lift Up My Soul|⥃]]</big></big>***To You I Lift Up My Soul***

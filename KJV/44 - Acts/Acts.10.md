@@ -1,3 +1,28 @@
+---
+title: Acts 10
+type: Chapter
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+pericopes:
+- "[[Acts.10.1 Cornelius Sends for Peter|Cornelius Sends for Peter]]"
+- "[[Acts.10.9 Peter’s Vision|Peter’s Vision]]"
+- "[[Acts.10.17 Peter Called to Caesarea|Peter Called to Caesarea]]"
+- "[[Acts.10.24 Peter Visits Cornelius|Peter Visits Cornelius]]"
+- "[[Acts.10.34 Good News for the Gentiles|Good News for the Gentiles]]"
+- "[[Acts.10.44 The Gentiles Receive the Holy Spirit|The Gentiles Receive the Holy Spirit]]"
+---
+
 (KJV) **Acts 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9|<< Acts 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11|Acts 11 >>]]</td></tr></table>
 
 <big><big>[[Acts.10.1 Cornelius Sends for Peter|⥃]]</big></big>***Cornelius Sends for Peter***

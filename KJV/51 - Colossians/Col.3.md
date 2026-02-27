@@ -1,3 +1,26 @@
+---
+title: Colossians 3
+type: Chapter
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 3
+book/chapter: "[[Col.3|Colossians 3]]"
+chronological_order: 1123
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+pericopes:
+- "[[Col.3.1 Put On the New Self|Put On the New Self]]"
+- "[[Col.3.18 Christian Households|Christian Households]]"
+- "[[Col.3.22 Serving with Honor|Serving with Honor]]"
+---
+
 (KJV) **Colossians 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2|<< Colossians 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4|Colossians 4 >>]]</td></tr></table>
 
 <big><big>[[Col.3.1 Put On the New Self|⥃]]</big></big>***Put On the New Self***&emsp;<small><sup>\[ [[Eph.4|Ephesians 4:17–32]] ]</sup></small>

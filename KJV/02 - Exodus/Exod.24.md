@@ -1,3 +1,30 @@
+---
+title: Exodus 24
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 24
+book/chapter: "[[Exod.24|Exodus 24]]"
+chronological_order: 116
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.24.1 The Covenant Sealed|The Covenant Sealed]]"
+- "[[Exod.24.12 Moses on the Mountain|Moses on the Mountain]]"
+---
+
 (KJV) **Exodus 24**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23|<< Exodus 23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25|Exodus 25 >>]]</td></tr></table>
 
 <big><big>[[Exod.24.1 The Covenant Sealed|⥃]]</big></big>***The Covenant Sealed***

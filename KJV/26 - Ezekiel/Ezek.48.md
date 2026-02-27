@@ -1,3 +1,32 @@
+---
+title: Ezekiel 48
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 48
+book/chapter: "[[Ezek.48|Ezekiel 48]]"
+chronological_order: 839
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.48.1 The Portions for the Tribes|The Portions for the Tribes]]"
+- "[[Ezek.48.8 The Portions for the Priests and Levites|The Portions for the Priests and Levites]]"
+- "[[Ezek.48.15 The Common Portion|The Common Portion]]"
+- "[[Ezek.48.21 The Portion for the Prince|The Portion for the Prince]]"
+- "[[Ezek.48.23 The Portions for the Remaining Tribes|The Portions for the Remaining Tribes]]"
+- "[[Ezek.48.30 The City Gates and Dimensions|The City Gates and Dimensions]]"
+---
+
 (KJV) **Ezekiel 48**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47|<< Ezekiel 47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1|Daniel 1 >>]]</td></tr></table>
 
 <big><big>[[Ezek.48.1 The Portions for the Tribes|⥃]]</big></big>***The Portions for the Tribes***

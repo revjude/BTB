@@ -1,3 +1,25 @@
+---
+title: Ezra 5
+type: Chapter
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 5
+book/chapter: "[[Ezra.5|Ezra 5]]"
+chronological_order: 853
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+pericopes:
+- "[[Ezra.5.1 Temple Rebuilding Resumes|Temple Rebuilding Resumes]]"
+- "[[Ezra.5.6 Tattenai’s Letter to Darius|Tattenai’s Letter to Darius]]"
+---
+
 (KJV) **Ezra 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4|<< Ezra 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6|Ezra 6 >>]]</td></tr></table>
 
 <big><big>[[Ezra.5.1 Temple Rebuilding Resumes|⥃]]</big></big>***Temple Rebuilding Resumes***&emsp;<small><sup>\[ [[Hag.1|Haggai 1:1–11]] ]</sup></small>

@@ -1,3 +1,30 @@
+---
+title: Exodus 6
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 6
+book/chapter: "[[Exod.6|Exodus 6]]"
+chronological_order: 98
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.6.1 God Promises Deliverance|God Promises Deliverance]]"
+- "[[Exod.6.14 Genealogies of Moses and Aaron|Genealogies of Moses and Aaron]]"
+---
+
 (KJV) **Exodus 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.5|<< Exodus 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7|Exodus 7 >>]]</td></tr></table>
 
 <big><big>[[Exod.6.1 God Promises Deliverance|⥃]]</big></big>***God Promises Deliverance***

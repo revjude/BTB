@@ -1,3 +1,30 @@
+---
+title: 1 Kings 22
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Kings
+chapter: 22
+book/chapter: "[[1Kgs.22|1 Kings 22]]"
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+pericopes:
+- "[[1Kgs.22.1 Ahab and the False Prophets|Ahab and the False Prophets]]"
+- "[[1Kgs.22.13 Micaiah Prophesies against Ahab|Micaiah Prophesies against Ahab]]"
+- "[[1Kgs.22.29 Ahab’s Defeat and Death|Ahab’s Defeat and Death]]"
+- "[[1Kgs.22.41 Jehoshaphat Reigns in Judah|Jehoshaphat Reigns in Judah]]"
+- "[[1Kgs.22.51 Ahaziah Reigns in Israel|Ahaziah Reigns in Israel]]"
+---
+
 (KJV) **1 Kings 22**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21|<< 1 Kings 21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.1|2 Kings 1 >>]]</td></tr></table>
 
 <big><big>[[1Kgs.22.1 Ahab and the False Prophets|⥃]]</big></big>***Ahab and the False Prophets***&emsp;<small><sup>\[ [[2Chr.18|2 Chronicles 18:1–11]] ]</sup></small>

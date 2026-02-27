@@ -1,3 +1,28 @@
+---
+title: Jeremiah 25
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 25
+book/chapter: "[[Jer.25|Jeremiah 25]]"
+chronological_order: 748
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.25.1 Seventy Years of Captivity|Seventy Years of Captivity]]"
+- "[[Jer.25.15 The Cup of God’s Wrath|The Cup of God’s Wrath]]"
+- "[[Jer.25.34 The Cry of the Shepherds|The Cry of the Shepherds]]"
+---
+
 (KJV) **Jeremiah 25**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.24|<< Jeremiah 24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26|Jeremiah 26 >>]]</td></tr></table>
 
 <big><big>[[Jer.25.1 Seventy Years of Captivity|⥃]]</big></big>***Seventy Years of Captivity***

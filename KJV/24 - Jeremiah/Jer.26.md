@@ -1,3 +1,29 @@
+---
+title: Jeremiah 26
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 26
+book/chapter: "[[Jer.26|Jeremiah 26]]"
+chronological_order: 749
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.26.1 A Warning to the Cities of Judah|A Warning to the Cities of Judah]]"
+- "[[Jer.26.7 Jeremiah Threatened with Death|Jeremiah Threatened with Death]]"
+- "[[Jer.26.16 Jeremiah Spared from Death|Jeremiah Spared from Death]]"
+- "[[Jer.26.20 The Prophet Uriah|The Prophet Uriah]]"
+---
+
 (KJV) **Jeremiah 26**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25|<< Jeremiah 25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27|Jeremiah 27 >>]]</td></tr></table>
 
 <big><big>[[Jer.26.1 A Warning to the Cities of Judah|⥃]]</big></big>***A Warning to the Cities of Judah***

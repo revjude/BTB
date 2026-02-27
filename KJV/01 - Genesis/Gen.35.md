@@ -1,3 +1,30 @@
+---
+title: Genesis 35
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Genesis
+chapter: 35
+book/chapter: "[[Gen.35|Genesis 35]]"
+chronological_order: 77
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.35.1 Jacob Returns to Bethel|Jacob Returns to Bethel]]"
+- "[[Gen.35.16 Benjamin Born, Rachel Dies|Benjamin Born, Rachel Dies]]"
+- "[[Gen.35.21 The Sons of Jacob|The Sons of Jacob]]"
+- "[[Gen.35.27 The Death of Isaac|The Death of Isaac]]"
+---
+
 (KJV) **Genesis 35**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34|<< Genesis 34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36|Genesis 36 >>]]</td></tr></table>
 
 <big><big>[[Gen.35.1 Jacob Returns to Bethel|⥃]]</big></big>***Jacob Returns to Bethel***

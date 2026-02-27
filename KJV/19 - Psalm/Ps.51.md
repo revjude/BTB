@@ -1,3 +1,27 @@
+---
+title: Psalm 51
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 51
+book/chapter: "[[Ps.51|Psalm 51]]"
+chronological_order: 425
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.51.1 Create in Me a Clean Heart, O God|Create in Me a Clean Heart, O God]]"
+---
+
 (KJV) **Psalm 51**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.50|<< Psalm 50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.52|Psalm 52 >>]]</td></tr></table>
 
 <big><big>[[Ps.51.1 Create in Me a Clean Heart, O God|⥃]]</big></big>***Create in Me a Clean Heart, O God***&emsp;<small><sup>\[ [[2Sam.12|2 Samuel 12:1–12]] ]</sup></small>

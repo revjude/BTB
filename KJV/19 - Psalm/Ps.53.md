@@ -1,3 +1,27 @@
+---
+title: Psalm 53
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 53
+book/chapter: "[[Ps.53|Psalm 53]]"
+chronological_order: 369
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.53.1 The Fool Says There Is No God|The Fool Says There Is No God]]"
+---
+
 (KJV) **Psalm 53**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.52|<< Psalm 52]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.54|Psalm 54 >>]]</td></tr></table>
 
 <big><big>[[Ps.53.1 The Fool Says There Is No God|⥃]]</big></big>***The Fool Says There Is No God***&emsp;<small><sup>\[ [[Ps.14|Psalms 14:1–7]] <big>†</big> [[Isa.59|Isaiah 59:1–17]] <big>†</big> [[Rom.3|Romans 3:9–20]] ]</sup></small>

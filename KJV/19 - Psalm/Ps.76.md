@@ -1,3 +1,27 @@
+---
+title: Psalm 76
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 76
+book/chapter: "[[Ps.76|Psalm 76]]"
+chronological_order: 508
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.76.1 God’s Name Is Great in Israel|God’s Name Is Great in Israel]]"
+---
+
 (KJV) **Psalm 76**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.75|<< Psalm 75]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.77|Psalm 77 >>]]</td></tr></table>
 
 <big><big>[[Ps.76.1 God’s Name Is Great in Israel|⥃]]</big></big>***God’s Name Is Great in Israel***

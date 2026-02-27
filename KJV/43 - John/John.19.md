@@ -1,3 +1,28 @@
+---
+title: John 19
+type: Chapter
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+pericopes:
+- "[[John.19.1 The Soldiers Mock Jesus|The Soldiers Mock Jesus]]"
+- "[[John.19.16 The Crucifixion|The Crucifixion]]"
+- "[[John.19.28 The Death of Jesus|The Death of Jesus]]"
+- "[[John.19.31 Jesus’ Side Is Pierced|Jesus’ Side Is Pierced]]"
+- "[[John.19.38 The Burial of Jesus|The Burial of Jesus]]"
+---
+
 (KJV) **John 19**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18|<< John 18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20|John 20 >>]]</td></tr></table>
 
 <big><big>[[John.19.1 The Soldiers Mock Jesus|⥃]]</big></big>***The Soldiers Mock Jesus***&emsp;<small><sup>\[ [[Isa.50|Isaiah 50:4–11]] <big>†</big> [[Matt.27|Matthew 27:27–31]] <big>†</big> [[Mark.15|Mark 15:16–20]] <big>†</big> [[Luke.22|Luke 22:63–65]] ]</sup></small>

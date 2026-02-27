@@ -1,3 +1,25 @@
+---
+title: 2 Chronicles 13
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 13
+book/chapter: "[[2Chr.13|2 Chronicles 13]]"
+chronological_order: 559
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.13.1 Abijah Reigns in Judah|Abijah Reigns in Judah]]"
+- "[[2Chr.13.4 Civil War against Jeroboam|Civil War against Jeroboam]]"
+---
+
 (KJV) **2 Chronicles 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.12|<< 2 Chronicles 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.14|2 Chronicles 14 >>]]</td></tr></table>
 
 <big><big>[[2Chr.13.1 Abijah Reigns in Judah|⥃]]</big></big>***Abijah Reigns in Judah***&emsp;<small><sup>\[ [[1Kgs.15|1 Kings 15:1–8]] ]</sup></small>

@@ -1,3 +1,28 @@
+---
+title: 1 Chronicles 23
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Chronicles
+chapter: 23
+book/chapter: "[[1Chr.23|1 Chronicles 23]]"
+chronological_order: 434
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+pericopes:
+- "[[1Chr.23.1 The Divisions of the Levites|The Divisions of the Levites]]"
+- "[[1Chr.23.7 The Gershonites|The Gershonites]]"
+- "[[1Chr.23.12 The Kohathites|The Kohathites]]"
+- "[[1Chr.23.21 The Merarites|The Merarites]]"
+- "[[1Chr.23.24 Levite Duties Revised|Levite Duties Revised]]"
+---
+
 (KJV) **1 Chronicles 23**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.22|<< 1 Chronicles 22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24|1 Chronicles 24 >>]]</td></tr></table>
 
 <big><big>[[1Chr.23.1 The Divisions of the Levites|⥃]]</big></big>***The Divisions of the Levites***

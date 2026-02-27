@@ -1,3 +1,25 @@
+---
+title: Job 25
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 25
+book/chapter: "[[Job.25|Job 25]]"
+chronological_order: 36
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.25.1 Bildad：Man Cannot Be Righteous|Bildad：Man Cannot Be Righteous]]"
+---
+
 (KJV) **Job 25**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24|<< Job 24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.26|Job 26 >>]]</td></tr></table>
 
 <big><big>[[Job.25.1 Bildad：Man Cannot Be Righteous|⥃]]</big></big>***Bildad: Man Cannot Be Righteous***

@@ -1,3 +1,28 @@
+---
+title: Jeremiah 23
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 23
+book/chapter: "[[Jer.23|Jeremiah 23]]"
+chronological_order: 746
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.23.1 David’s Righteous Branch|David’s Righteous Branch]]"
+- "[[Jer.23.9 Lying Prophets|Lying Prophets]]"
+- "[[Jer.23.33 False Prophecies|False Prophecies]]"
+---
+
 (KJV) **Jeremiah 23**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22|<< Jeremiah 22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.24|Jeremiah 24 >>]]</td></tr></table>
 
 <big><big>[[Jer.23.1 David’s Righteous Branch|⥃]]</big></big>***David’s Righteous Branch***

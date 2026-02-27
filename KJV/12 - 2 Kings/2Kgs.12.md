@@ -1,3 +1,25 @@
+---
+title: 2 Kings 12
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Kings
+chapter: 12
+book/chapter: "[[2Kgs.12|2 Kings 12]]"
+chronological_order: 585
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~835–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[2Kgs.12.1 Joash Repairs the Temple|Joash Repairs the Temple]]"
+- "[[2Kgs.12.17 The Death of Joash|The Death of Joash]]"
+---
+
 (KJV) **2 Kings 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.11|<< 2 Kings 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.13|2 Kings 13 >>]]</td></tr></table>
 
 <big><big>[[2Kgs.12.1 Joash Repairs the Temple|⥃]]</big></big>***Joash Repairs the Temple***&emsp;<small><sup>\[ [[2Chr.24|2 Chronicles 24:1–14]] ]</sup></small>

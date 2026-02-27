@@ -1,3 +1,25 @@
+---
+title: 2 Samuel 20
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Samuel
+chapter: 20
+book/chapter: "[[2Sam.20|2 Samuel 20]]"
+chronological_order: 419
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+pericopes:
+- "[[2Sam.20.1 Sheba’s Rebellion|Sheba’s Rebellion]]"
+---
+
 (KJV) **2 Samuel 20**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19|<< 2 Samuel 19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21|2 Samuel 21 >>]]</td></tr></table>
 
 <big><big>[[2Sam.20.1 Sheba’s Rebellion|⥃]]</big></big>***Sheba’s Rebellion***

@@ -1,3 +1,29 @@
+---
+title: Ezekiel 16
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.16.1 Jerusalem’s Unfaithfulness|Jerusalem’s Unfaithfulness]]"
+- "[[Ezek.16.35 Judgment on Jerusalem|Judgment on Jerusalem]]"
+- "[[Ezek.16.59 The Covenant Remembered|The Covenant Remembered]]"
+---
+
 (KJV) **Ezekiel 16**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.15|<< Ezekiel 15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17|Ezekiel 17 >>]]</td></tr></table>
 
 <big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥃]]</big></big>***Jerusalem’s Unfaithfulness***

@@ -1,3 +1,26 @@
+---
+title: Joshua 24
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+pericopes:
+- "[[Josh.24.1 Joshua Reviews Israel’s History|Joshua Reviews Israel’s History]]"
+- "[[Josh.24.14 Choose Whom You Will Serve|Choose Whom You Will Serve]]"
+- "[[Josh.24.29 Joshua’s Death and Burial|Joshua’s Death and Burial]]"
+---
+
 (KJV) **Joshua 24**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.23|<< Joshua 23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1|Judges 1 >>]]</td></tr></table>
 
 <big><big>[[Josh.24.1 Joshua Reviews Israel’s History|⥃]]</big></big>***Joshua Reviews Israel’s History***

@@ -1,3 +1,24 @@
+---
+title: Joshua 20
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Joshua
+chapter: 20
+book/chapter: "[[Josh.20|Joshua 20]]"
+chronological_order: 250
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+pericopes:
+- "[[Josh.20.1 Six Cities of Refuge|Six Cities of Refuge]]"
+---
+
 (KJV) **Joshua 20**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19|<< Joshua 19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21|Joshua 21 >>]]</td></tr></table>
 
 <big><big>[[Josh.20.1 Six Cities of Refuge|⥃]]</big></big>***Six Cities of Refuge***&emsp;<small><sup>\[ [[Num.35|Numbers 35:9–34]] <big>†</big> [[Deut.4|Deuteronomy 4:41–43]] <big>†</big> [[Deut.19|Deuteronomy 19:1–14]] ]</sup></small>

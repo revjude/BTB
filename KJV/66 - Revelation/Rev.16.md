@@ -1,3 +1,26 @@
+---
+title: Revelation 16
+type: Chapter
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 16
+book/chapter: "[[Rev.16|Revelation 16]]"
+chronological_order: 1183
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+pericopes:
+- "[[Rev.16.1 The First Six Bowls of Wrath|The First Six Bowls of Wrath]]"
+- "[[Rev.16.17 The Seventh Bowl of Wrath|The Seventh Bowl of Wrath]]"
+---
+
 (KJV) **Revelation 16**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.15|<< Revelation 15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17|Revelation 17 >>]]</td></tr></table>
 
 <big><big>[[Rev.16.1 The First Six Bowls of Wrath|⥃]]</big></big>***The First Six Bowls of Wrath***

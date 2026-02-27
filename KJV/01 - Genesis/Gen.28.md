@@ -1,3 +1,30 @@
+---
+title: Genesis 28
+type: Chapter
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 28
+book/chapter: "[[Gen.28|Genesis 28]]"
+chronological_order: 70
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.28.1 Jacob’s Departure|Jacob’s Departure]]"
+- "[[Gen.28.6 Esau Marries Mahalath|Esau Marries Mahalath]]"
+- "[[Gen.28.10 Jacob’s Ladder|Jacob’s Ladder]]"
+- "[[Gen.28.18 The Stone of Bethel|The Stone of Bethel]]"
+---
+
 (KJV) **Genesis 28**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27|<< Genesis 27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29|Genesis 29 >>]]</td></tr></table>
 
 <big><big>[[Gen.28.1 Jacob’s Departure|⥃]]</big></big>***Jacob’s Departure***

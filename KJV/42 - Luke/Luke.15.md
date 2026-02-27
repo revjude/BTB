@@ -1,3 +1,27 @@
+---
+title: Luke 15
+type: Chapter
+original_language: Greek
+testament: New
+book: Luke
+chapter: 15
+book/chapter: "[[Luke.15|Luke 15]]"
+chronological_order: 977
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+pericopes:
+- "[[Luke.15.1 The Parable of the Lost Sheep|The Parable of the Lost Sheep]]"
+- "[[Luke.15.8 The Parable of the Lost Coin|The Parable of the Lost Coin]]"
+- "[[Luke.15.11 The Parable of the Prodigal Son|The Parable of the Prodigal Son]]"
+---
+
 (KJV) **Luke 15**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14|<< Luke 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16|Luke 16 >>]]</td></tr></table>
 
 <big><big>[[Luke.15.1 The Parable of the Lost Sheep|⥃]]</big></big>***The Parable of the Lost Sheep***&emsp;<small><sup>\[ [[Matt.18|Matthew 18:10–14]] ]</sup></small>

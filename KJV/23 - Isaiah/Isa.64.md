@@ -1,3 +1,25 @@
+---
+title: Isaiah 64
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 64
+book/chapter: "[[Isa.64|Isaiah 64]]"
+chronological_order: 703
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.64.1 A Prayer for God’s Power|A Prayer for God’s Power]]"
+---
+
 (KJV) **Isaiah 64**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63|<< Isaiah 63]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65|Isaiah 65 >>]]</td></tr></table>
 
 <big><big>[[Isa.64.1 A Prayer for God’s Power|⥃]]</big></big>***A Prayer for God’s Power***

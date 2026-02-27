@@ -1,3 +1,27 @@
+---
+title: Psalm 142
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 142
+book/chapter: "[[Ps.142|Psalm 142]]"
+chronological_order: 319
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.142.1 I Lift My Voice to the LORD|I Lift My Voice to the LORD]]"
+---
+
 (KJV) **Psalm 142**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.141|<< Psalm 141]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.143|Psalm 143 >>]]</td></tr></table>
 
 <big><big>[[Ps.142.1 I Lift My Voice to the LORD|⥃]]</big></big>***I Lift My Voice to the LORD***&emsp;<small><sup>\[ [[1Sam.22|1 Samuel 22:1–5]] <big>†</big> [[Ps.57|Psalms 57:1–11]] ]</sup></small>

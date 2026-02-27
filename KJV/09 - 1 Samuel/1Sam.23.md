@@ -1,3 +1,25 @@
+---
+title: 1 Samuel 23
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Samuel
+chapter: 23
+book/chapter: "[[1Sam.23|1 Samuel 23]]"
+chronological_order: 302
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[1Sam.23.1 David Delivers Keilah|David Delivers Keilah]]"
+- "[[1Sam.23.7 Saul Pursues David|Saul Pursues David]]"
+---
+
 (KJV) **1 Samuel 23**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.22|<< 1 Samuel 22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.24|1 Samuel 24 >>]]</td></tr></table>
 
 <big><big>[[1Sam.23.1 David Delivers Keilah|⥃]]</big></big>***David Delivers Keilah***

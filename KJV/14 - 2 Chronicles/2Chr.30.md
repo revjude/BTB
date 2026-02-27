@@ -1,3 +1,25 @@
+---
+title: 2 Chronicles 30
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 30
+book/chapter: "[[2Chr.30|2 Chronicles 30]]"
+chronological_order: 660
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.30.1 Hezekiah Proclaims a Passover|Hezekiah Proclaims a Passover]]"
+- "[[2Chr.30.13 Hezekiah Celebrates the Passover|Hezekiah Celebrates the Passover]]"
+---
+
 (KJV) **2 Chronicles 30**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29|<< 2 Chronicles 29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31|2 Chronicles 31 >>]]</td></tr></table>
 
 <big><big>[[2Chr.30.1 Hezekiah Proclaims a Passover|⥃]]</big></big>***Hezekiah Proclaims a Passover***

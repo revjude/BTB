@@ -1,3 +1,25 @@
+---
+title: 2 Chronicles 10
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 10
+book/chapter: "[[2Chr.10|2 Chronicles 10]]"
+chronological_order: 556
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.10.1 Rebellion against Rehoboam|Rebellion against Rehoboam]]"
+- "[[2Chr.10.16 The Kingdom Divided|The Kingdom Divided]]"
+---
+
 (KJV) **2 Chronicles 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9|<< 2 Chronicles 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.11|2 Chronicles 11 >>]]</td></tr></table>
 
 <big><big>[[2Chr.10.1 Rebellion against Rehoboam|⥃]]</big></big>***Rebellion against Rehoboam***&emsp;<small><sup>\[ [[1Kgs.12|1 Kings 12:1–15]] ]</sup></small>

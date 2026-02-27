@@ -1,3 +1,31 @@
+---
+title: Ezekiel 20
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.20.1 Israel’s Rebellion in Egypt|Israel’s Rebellion in Egypt]]"
+- "[[Ezek.20.10 Israel’s Rebellion in the Wilderness|Israel’s Rebellion in the Wilderness]]"
+- "[[Ezek.20.27 Israel’s Rebellion in the Land|Israel’s Rebellion in the Land]]"
+- "[[Ezek.20.33 Judgment and Restoration|Judgment and Restoration]]"
+- "[[Ezek.20.45 A Prophecy against the South|A Prophecy against the South]]"
+---
+
 (KJV) **Ezekiel 20**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.19|<< Ezekiel 19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21|Ezekiel 21 >>]]</td></tr></table>
 
 <big><big>[[Ezek.20.1 Israel’s Rebellion in Egypt|⥃]]</big></big>***Israel’s Rebellion in Egypt***

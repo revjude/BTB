@@ -1,3 +1,29 @@
+---
+title: Ezekiel 33
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 33
+book/chapter: "[[Ezek.33|Ezekiel 33]]"
+chronological_order: 824
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.33.1 Ezekiel the Watchman for Israel|Ezekiel the Watchman for Israel]]"
+- "[[Ezek.33.10 The Message of the Watchman|The Message of the Watchman]]"
+- "[[Ezek.33.21 Word of Jerusalem’s Fall|Word of Jerusalem’s Fall]]"
+---
+
 (KJV) **Ezekiel 33**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32|<< Ezekiel 32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34|Ezekiel 34 >>]]</td></tr></table>
 
 <big><big>[[Ezek.33.1 Ezekiel the Watchman for Israel|⥃]]</big></big>***Ezekiel the Watchman for Israel***

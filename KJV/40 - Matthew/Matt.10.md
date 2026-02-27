@@ -1,3 +1,30 @@
+---
+title: Matthew 10
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 10
+book/chapter: "[[Matt.10|Matthew 10]]"
+chronological_order: 954
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.10.1 The Twelve Apostles|The Twelve Apostles]]"
+- "[[Matt.10.5 The Ministry of the Twelve|The Ministry of the Twelve]]"
+- "[[Matt.10.16 Sheep among Wolves|Sheep among Wolves]]"
+- "[[Matt.10.26 Fear God Alone|Fear God Alone]]"
+- "[[Matt.10.32 Confessing Christ|Confessing Christ]]"
+- "[[Matt.10.34 Not Peace but a Sword|Not Peace but a Sword]]"
+- "[[Matt.10.40 The Reward of Service|The Reward of Service]]"
+---
+
 (KJV) **Matthew 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9|<< Matthew 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11|Matthew 11 >>]]</td></tr></table>
 
 <big><big>[[Matt.10.1 The Twelve Apostles|⥃]]</big></big>***The Twelve Apostles***&emsp;<small><sup>\[ [[Mark.3|Mark 3:13–19]] <big>†</big> [[Luke.6|Luke 6:12–16]] ]</sup></small>

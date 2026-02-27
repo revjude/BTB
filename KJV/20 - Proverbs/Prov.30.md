@@ -1,3 +1,24 @@
+---
+title: Proverbs 30
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Proverbs
+chapter: 30
+book/chapter: "[[Prov.30|Proverbs 30]]"
+chronological_order: 485
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+pericopes:
+- "[[Prov.30.1 The Words of Agur|The Words of Agur]]"
+---
+
 (KJV) **Proverbs 30**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29|<< Proverbs 29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31|Proverbs 31 >>]]</td></tr></table>
 
 <big><big>[[Prov.30.1 The Words of Agur|⥃]]</big></big>***The Words of Agur***

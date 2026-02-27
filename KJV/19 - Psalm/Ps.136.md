@@ -1,3 +1,27 @@
+---
+title: Psalm 136
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 136
+book/chapter: "[[Ps.136|Psalm 136]]"
+chronological_order: 533
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.136.1 His Loving Devotion Endures Forever|His Loving Devotion Endures Forever]]"
+---
+
 (KJV) **Psalm 136**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.135|<< Psalm 135]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.137|Psalm 137 >>]]</td></tr></table>
 
 <big><big>[[Ps.136.1 His Loving Devotion Endures Forever|⥃]]</big></big>***His Loving Devotion Endures Forever*** <small><small>[^2]</small></small> &emsp;<small><sup>\[ [[2Chr.7|2 Chronicles 7:1–3]] ]</sup></small>

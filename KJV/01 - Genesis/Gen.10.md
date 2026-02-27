@@ -1,3 +1,30 @@
+---
+title: Genesis 10
+type: Chapter
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 10
+book/chapter: "[[Gen.10|Genesis 10]]"
+chronological_order: 10
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.10.1 The Table of Nations|The Table of Nations]]"
+- "[[Gen.10.2 The Japhethites|The Japhethites]]"
+- "[[Gen.10.6 The Hamites|The Hamites]]"
+- "[[Gen.10.21 The Semites|The Semites]]"
+---
+
 (KJV) **Genesis 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9|<< Genesis 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11|Genesis 11 >>]]</td></tr></table>
 
 <big><big>[[Gen.10.1 The Table of Nations|⥃]]</big></big>***The Table of Nations***&emsp;<small><sup>\[ [[1Chr.1|1 Chronicles 1:4–27]] ]</sup></small>

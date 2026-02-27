@@ -1,3 +1,26 @@
+---
+title: Daniel 11
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+pericopes:
+- "[[Dan.11.1 Kings of the South and North|Kings of the South and North]]"
+- "[[Dan.11.36 The King Who Exalts Himself|The King Who Exalts Himself]]"
+---
+
 (KJV) **Daniel 11**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.10|<< Daniel 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.12|Daniel 12 >>]]</td></tr></table>
 
 <big><big>[[Dan.11.1 Kings of the South and North|⥃]]</big></big>***Kings of the South and North***

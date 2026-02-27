@@ -1,3 +1,25 @@
+---
+title: Daniel 10
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Daniel
+chapter: 10
+book/chapter: "[[Dan.10|Daniel 10]]"
+chronological_order: 846
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+pericopes:
+- "[[Dan.10.1 Daniel’s Vision by the Tigris|Daniel’s Vision by the Tigris]]"
+---
+
 (KJV) **Daniel 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9|<< Daniel 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11|Daniel 11 >>]]</td></tr></table>
 
 <big><big>[[Dan.10.1 Daniel’s Vision by the Tigris|⥃]]</big></big>***Daniel’s Vision by the Tigris***

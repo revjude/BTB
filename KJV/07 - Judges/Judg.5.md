@@ -1,3 +1,24 @@
+---
+title: Judges 5
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Judges
+chapter: 5
+book/chapter: "[[Judg.5|Judges 5]]"
+chronological_order: 259
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+pericopes:
+- "[[Judg.5.1 The Song of Deborah and Barak|The Song of Deborah and Barak]]"
+---
+
 (KJV) **Judges 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4|<< Judges 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6|Judges 6 >>]]</td></tr></table>
 
 <big><big>[[Judg.5.1 The Song of Deborah and Barak|⥃]]</big></big>***The Song of Deborah and Barak***&emsp;<small><sup>\[ [[Exod.15|Exodus 15:1–21]] ]</sup></small>

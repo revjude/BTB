@@ -1,3 +1,33 @@
+---
+title: Exodus 12
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 12
+book/chapter: "[[Exod.12|Exodus 12]]"
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.12.1 The First Passover|The First Passover]]"
+- "[[Exod.12.14 The Feast of Unleavened Bread|The Feast of Unleavened Bread]]"
+- "[[Exod.12.29 The Tenth Plague：Death of the Firstborn|The Tenth Plague：Death of the Firstborn]]"
+- "[[Exod.12.31 The Exodus Begins|The Exodus Begins]]"
+- "[[Exod.12.43 Instructions for the Passover|Instructions for the Passover]]"
+---
+
 (KJV) **Exodus 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.11|<< Exodus 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.13|Exodus 13 >>]]</td></tr></table>
 
 <big><big>[[Exod.12.1 The First Passover|⥃]]</big></big>***The First Passover***&emsp;<small><sup>\[ [[Num.9|Numbers 9:1–14]] ]</sup></small>

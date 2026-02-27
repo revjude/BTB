@@ -1,3 +1,26 @@
+---
+title: Acts 8
+type: Chapter
+original_language: Greek
+testament: New
+book: Acts
+chapter: 8
+book/chapter: "[[Acts.8|Acts 8]]"
+chronological_order: 1026
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+pericopes:
+- "[[Acts.8.1 Saul Persecutes the Church|Saul Persecutes the Church]]"
+- "[[Acts.8.4 Philip in Samaria|Philip in Samaria]]"
+- "[[Acts.8.9 Simon the Sorcerer|Simon the Sorcerer]]"
+- "[[Acts.8.26 Philip and the Ethiopian|Philip and the Ethiopian]]"
+---
+
 (KJV) **Acts 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7|<< Acts 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9|Acts 9 >>]]</td></tr></table>
 
 <big><big>[[Acts.8.1 Saul Persecutes the Church|⥃]]</big></big>***Saul Persecutes the Church***

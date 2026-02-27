@@ -1,3 +1,26 @@
+---
+title: James 4
+type: Chapter
+original_language: Greek
+testament: New
+book: James
+chapter: 4
+book/chapter: "[[Jas.4|James 4]]"
+chronological_order: 1036
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+pericopes:
+- "[[Jas.4.1 A Warning against Pride|A Warning against Pride]]"
+- "[[Jas.4.7 Drawing Near to God|Drawing Near to God]]"
+- "[[Jas.4.13 Do Not Boast about Tomorrow|Do Not Boast about Tomorrow]]"
+---
+
 (KJV) **James 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3|<< James 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5|James 5 >>]]</td></tr></table>
 
 <big><big>[[Jas.4.1 A Warning against Pride|⥃]]</big></big>***A Warning against Pride***

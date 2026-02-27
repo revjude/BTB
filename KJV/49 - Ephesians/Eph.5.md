@@ -1,3 +1,26 @@
+---
+title: Ephesians 5
+type: Chapter
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 5
+book/chapter: "[[Eph.5|Ephesians 5]]"
+chronological_order: 1115
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+pericopes:
+- "[[Eph.5.1 Imitators of God|Imitators of God]]"
+- "[[Eph.5.8 Children of Light|Children of Light]]"
+- "[[Eph.5.21 Wives and Husbands|Wives and Husbands]]"
+---
+
 (KJV) **Ephesians 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4|<< Ephesians 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6|Ephesians 6 >>]]</td></tr></table>
 
 <big><big>[[Eph.5.1 Imitators of God|⥃]]</big></big>***Imitators of God***

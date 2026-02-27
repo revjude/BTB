@@ -1,3 +1,28 @@
+---
+title: Isaiah 9
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 9
+book/chapter: "[[Isa.9|Isaiah 9]]"
+chronological_order: 619
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.9.1 Unto Us a Child Is Born|Unto Us a Child Is Born]]"
+- "[[Isa.9.8 Judgment against Israel’s Pride|Judgment against Israel’s Pride]]"
+- "[[Isa.9.13 Judgment against Israel’s Hypocrisy|Judgment against Israel’s Hypocrisy]]"
+- "[[Isa.9.18 Judgment against Israel’s Unrepentance|Judgment against Israel’s Unrepentance]]"
+---
+
 (KJV) **Isaiah 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.8|<< Isaiah 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10|Isaiah 10 >>]]</td></tr></table>
 
 <big><big>[[Isa.9.1 Unto Us a Child Is Born|⥃]]</big></big>***Unto Us a Child Is Born***&emsp;<small><sup>\[ [[Matt.4|Matthew 4:12–17]] <big>†</big> [[Mark.1|Mark 1:14–15]] <big>†</big> [[Luke.4|Luke 4:14–15]] ]</sup></small>

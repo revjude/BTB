@@ -1,3 +1,30 @@
+---
+title: Jeremiah 49
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 49
+book/chapter: "[[Jer.49|Jeremiah 49]]"
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.49.1 Judgment on the Ammonites|Judgment on the Ammonites]]"
+- "[[Jer.49.7 Judgment on Edom|Judgment on Edom]]"
+- "[[Jer.49.23 Judgment on Damascus|Judgment on Damascus]]"
+- "[[Jer.49.28 Judgment on Kedar and Hazor|Judgment on Kedar and Hazor]]"
+- "[[Jer.49.34 Judgment on Elam|Judgment on Elam]]"
+---
+
 (KJV) **Jeremiah 49**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48|<< Jeremiah 48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50|Jeremiah 50 >>]]</td></tr></table>
 
 <big><big>[[Jer.49.1 Judgment on the Ammonites|⥃]]</big></big>***Judgment on the Ammonites***

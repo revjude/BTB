@@ -1,3 +1,33 @@
+---
+title: Exodus 25
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 25
+book/chapter: "[[Exod.25|Exodus 25]]"
+chronological_order: 117
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.25.1 Offerings for the Tabernacle|Offerings for the Tabernacle]]"
+- "[[Exod.25.10 The Ark of the Covenant|The Ark of the Covenant]]"
+- "[[Exod.25.17 The Mercy Seat|The Mercy Seat]]"
+- "[[Exod.25.23 The Table of Showbread|The Table of Showbread]]"
+- "[[Exod.25.31 The Lampstand|The Lampstand]]"
+---
+
 (KJV) **Exodus 25**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.24|<< Exodus 24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26|Exodus 26 >>]]</td></tr></table>
 
 <big><big>[[Exod.25.1 Offerings for the Tabernacle|⥃]]</big></big>***Offerings for the Tabernacle***&emsp;<small><sup>\[ [[Exod.35|Exodus 35:4–9]] ]</sup></small>

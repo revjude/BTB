@@ -1,3 +1,32 @@
+---
+title: Exodus 39
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 39
+book/chapter: "[[Exod.39|Exodus 39]]"
+chronological_order: 131
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.39.1 The Ephod|The Ephod]]"
+- "[[Exod.39.8 The Breastpiece|The Breastpiece]]"
+- "[[Exod.39.22 Additional Priestly Garments|Additional Priestly Garments]]"
+- "[[Exod.39.32 Moses Approves the Work|Moses Approves the Work]]"
+---
+
 (KJV) **Exodus 39**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38|<< Exodus 38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40|Exodus 40 >>]]</td></tr></table>
 
 <big><big>[[Exod.39.1 The Ephod|⥃]]</big></big>***The Ephod***&emsp;<small><sup>\[ [[Exod.28|Exodus 28:6–14]] ]</sup></small>

@@ -1,3 +1,26 @@
+---
+title: Zechariah 4
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Zechariah
+chapter: 4
+book/chapter: "[[Zech.4|Zechariah 4]]"
+chronological_order: 860
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+pericopes:
+- "[[Zech.4.1 The Vision of the Lampstand and Olive Trees|The Vision of the Lampstand and Olive Trees]]"
+---
+
 (KJV) **Zechariah 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.3|<< Zechariah 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.5|Zechariah 5 >>]]</td></tr></table>
 
 <big><big>[[Zech.4.1 The Vision of the Lampstand and Olive Trees|⥃]]</big></big>***The Vision of the Lampstand and Olive Trees***

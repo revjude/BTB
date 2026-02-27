@@ -1,3 +1,29 @@
+---
+title: Genesis 36
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Genesis
+chapter: 36
+book/chapter: "[[Gen.36|Genesis 36]]"
+chronological_order: 78
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.36.1 The Descendants of Esau|The Descendants of Esau]]"
+- "[[Gen.36.20 The Descendants of Seir|The Descendants of Seir]]"
+- "[[Gen.36.31 The Kings of Edom|The Kings of Edom]]"
+---
+
 (KJV) **Genesis 36**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35|<< Genesis 35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37|Genesis 37 >>]]</td></tr></table>
 
 <big><big>[[Gen.36.1 The Descendants of Esau|⥃]]</big></big>***The Descendants of Esau***&emsp;<small><sup>\[ [[1Chr.1|1 Chronicles 1:35–37]] ]</sup></small>

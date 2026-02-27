@@ -1,3 +1,25 @@
+---
+title: Job 12
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 12
+book/chapter: "[[Job.12|Job 12]]"
+chronological_order: 23
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.12.1 Job Presents His Case|Job Presents His Case]]"
+---
+
 (KJV) **Job 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11|<< Job 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.13|Job 13 >>]]</td></tr></table>
 
 <big><big>[[Job.12.1 Job Presents His Case|⥃]]</big></big>***Job Presents His Case***

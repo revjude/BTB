@@ -1,3 +1,27 @@
+---
+title: 1 Chronicles 27
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Chronicles
+chapter: 27
+book/chapter: "[[1Chr.27|1 Chronicles 27]]"
+chronological_order: 438
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+pericopes:
+- "[[1Chr.27.1 Twelve Captains for Twelve Months|Twelve Captains for Twelve Months]]"
+- "[[1Chr.27.16 The Leaders of the Twelve Tribes|The Leaders of the Twelve Tribes]]"
+- "[[1Chr.27.25 David’s Various Overseers|David’s Various Overseers]]"
+- "[[1Chr.27.32 The Counselors|The Counselors]]"
+---
+
 (KJV) **1 Chronicles 27**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26|<< 1 Chronicles 26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.28|1 Chronicles 28 >>]]</td></tr></table>
 
 <big><big>[[1Chr.27.1 Twelve Captains for Twelve Months|⥃]]</big></big>***Twelve Captains for Twelve Months***

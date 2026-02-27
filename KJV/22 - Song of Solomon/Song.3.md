@@ -1,3 +1,24 @@
+---
+title: Song of Solomon 3
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Song of Solomon
+chapter: 3
+book/chapter: "[[Song.3|Song of Solomon 3]]"
+chronological_order: 450
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+pericopes:
+- "[[Song.3.1 The Bride’s Dream|The Bride’s Dream]]"
+- "[[Song.3.6 Solomon Arrives on His Wedding Day|Solomon Arrives on His Wedding Day]]"
+---
+
 (KJV) **Song of Solomon 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2|<< Song of Solomon 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.4|Song of Solomon 4 >>]]</td></tr></table>
 
 <big><big>[[Song.3.1 The Bride’s Dream|⥃]]</big></big>***The Bride’s Dream***

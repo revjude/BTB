@@ -1,3 +1,28 @@
+---
+title: Numbers 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 2
+book/chapter: "[[Num.2|Numbers 2]]"
+chronological_order: 161
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.2.1 The Order of the Camps|The Order of the Camps]]"
+---
+
 (KJV) **Numbers 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1|<< Numbers 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3|Numbers 3 >>]]</td></tr></table>
 
 <big><big>[[Num.2.1 The Order of the Camps|⥃]]</big></big>***The Order of the Camps***

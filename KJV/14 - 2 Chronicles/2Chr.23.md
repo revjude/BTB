@@ -1,3 +1,26 @@
+---
+title: 2 Chronicles 23
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 23
+book/chapter: "[[2Chr.23|2 Chronicles 23]]"
+chronological_order: 588
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.23.1 Joash Anointed King of Judah|Joash Anointed King of Judah]]"
+- "[[2Chr.23.12 The Death of Athaliah|The Death of Athaliah]]"
+- "[[2Chr.23.16 Jehoiada Restores the Worship of the LORD|Jehoiada Restores the Worship of the LORD]]"
+---
+
 (KJV) **2 Chronicles 23**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.22|<< 2 Chronicles 22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24|2 Chronicles 24 >>]]</td></tr></table>
 
 <big><big>[[2Chr.23.1 Joash Anointed King of Judah|⥃]]</big></big>***Joash Anointed King of Judah***&emsp;<small><sup>\[ [[2Kgs.11|2 Kings 11:4–12]] ]</sup></small>

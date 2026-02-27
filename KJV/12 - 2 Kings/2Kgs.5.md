@@ -1,3 +1,25 @@
+---
+title: 2 Kings 5
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Kings
+chapter: 5
+book/chapter: "[[2Kgs.5|2 Kings 5]]"
+chronological_order: 577
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[2Kgs.5.1 Naaman Cured of Leprosy|Naaman Cured of Leprosy]]"
+- "[[2Kgs.5.15 Gehazi’s Greed and Leprosy|Gehazi’s Greed and Leprosy]]"
+---
+
 (KJV) **2 Kings 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4|<< 2 Kings 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.6|2 Kings 6 >>]]</td></tr></table>
 
 <big><big>[[2Kgs.5.1 Naaman Cured of Leprosy|⥃]]</big></big>***Naaman Cured of Leprosy***&emsp;<small><sup>\[ [[Luke.17|Luke 17:11–19]] ]</sup></small>

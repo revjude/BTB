@@ -1,3 +1,25 @@
+---
+title: Job 38
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 38
+book/chapter: "[[Job.38|Job 38]]"
+chronological_order: 49
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.38.1 The LORD Challenges Job|The LORD Challenges Job]]"
+---
+
 (KJV) **Job 38**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37|<< Job 37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39|Job 39 >>]]</td></tr></table>
 
 <big><big>[[Job.38.1 The LORD Challenges Job|⥃]]</big></big>***The LORD Challenges Job***

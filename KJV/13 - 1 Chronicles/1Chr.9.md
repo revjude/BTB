@@ -1,3 +1,25 @@
+---
+title: 1 Chronicles 9
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Chronicles
+chapter: 9
+book/chapter: "[[1Chr.9|1 Chronicles 9]]"
+chronological_order: 328
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+pericopes:
+- "[[1Chr.9.1 The People of Jerusalem|The People of Jerusalem]]"
+- "[[1Chr.9.35 The Descendants of Saul|The Descendants of Saul]]"
+---
+
 (KJV) **1 Chronicles 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8|<< 1 Chronicles 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.10|1 Chronicles 10 >>]]</td></tr></table>
 
 <big><big>[[1Chr.9.1 The People of Jerusalem|⥃]]</big></big>***The People of Jerusalem***

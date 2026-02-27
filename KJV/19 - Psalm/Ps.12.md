@@ -1,3 +1,27 @@
+---
+title: Psalm 12
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 12
+book/chapter: "[[Ps.12|Psalm 12]]"
+chronological_order: 346
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.12.1 The Godly Are No More|The Godly Are No More]]"
+---
+
 (KJV) **Psalm 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.11|<< Psalm 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.13|Psalm 13 >>]]</td></tr></table>
 
 <big><big>[[Ps.12.1 The Godly Are No More|⥃]]</big></big>***The Godly Are No More***

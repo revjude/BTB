@@ -1,3 +1,24 @@
+---
+title: Proverbs 27
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Proverbs
+chapter: 27
+book/chapter: "[[Prov.27|Proverbs 27]]"
+chronological_order: 482
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+pericopes:
+- "[[Prov.27.1 Do Not Boast about Tomorrow|Do Not Boast about Tomorrow]]"
+---
+
 (KJV) **Proverbs 27**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26|<< Proverbs 26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28|Proverbs 28 >>]]</td></tr></table>
 
 <big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥃]]</big></big>***Do Not Boast about Tomorrow***&emsp;<small><sup>\[ [[Jas.4|James 4:13–17]] ]</sup></small>

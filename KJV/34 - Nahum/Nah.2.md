@@ -1,3 +1,24 @@
+---
+title: Nahum 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Nahum
+chapter: 2
+book/chapter: "[[Nah.2|Nahum 2]]"
+chronological_order: 709
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+pericopes:
+- "[[Nah.2.1 The Overthrow of Nineveh|The Overthrow of Nineveh]]"
+---
+
 (KJV) **Nahum 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.1|<< Nahum 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3|Nahum 3 >>]]</td></tr></table>
 
 <big><big>[[Nah.2.1 The Overthrow of Nineveh|⥃]]</big></big>***The Overthrow of Nineveh***

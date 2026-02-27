@@ -1,3 +1,24 @@
+---
+title: 2 Chronicles 14
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 14
+book/chapter: "[[2Chr.14|2 Chronicles 14]]"
+chronological_order: 560
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.14.1 Asa Reigns in Judah|Asa Reigns in Judah]]"
+---
+
 (KJV) **2 Chronicles 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.13|<< 2 Chronicles 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.15|2 Chronicles 15 >>]]</td></tr></table>
 
 <big><big>[[2Chr.14.1 Asa Reigns in Judah|⥃]]</big></big>***Asa Reigns in Judah***&emsp;<small><sup>\[ [[1Kgs.15|1 Kings 15:9–15]] ]</sup></small>

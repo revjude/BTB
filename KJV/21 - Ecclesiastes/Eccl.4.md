@@ -1,3 +1,25 @@
+---
+title: Ecclesiastes 4
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ecclesiastes
+chapter: 4
+book/chapter: "[[Eccl.4|Ecclesiastes 4]]"
+chronological_order: 542
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+pericopes:
+- "[[Eccl.4.1 The Evil of Oppression|The Evil of Oppression]]"
+- "[[Eccl.4.13 The Futility of Power|The Futility of Power]]"
+---
+
 (KJV) **Ecclesiastes 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.3|<< Ecclesiastes 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5|Ecclesiastes 5 >>]]</td></tr></table>
 
 <big><big>[[Eccl.4.1 The Evil of Oppression|⥃]]</big></big>***The Evil of Oppression***

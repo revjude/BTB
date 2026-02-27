@@ -1,3 +1,32 @@
+---
+title: Matthew 12
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.12.1 The Lord of the Sabbath|The Lord of the Sabbath]]"
+- "[[Matt.12.9 Jesus Heals on the Sabbath|Jesus Heals on the Sabbath]]"
+- "[[Matt.12.15 God’s Chosen Servant|God’s Chosen Servant]]"
+- "[[Matt.12.22 A House Divided|A House Divided]]"
+- "[[Matt.12.31 The Unpardonable Sin|The Unpardonable Sin]]"
+- "[[Matt.12.33 Good and Bad Fruit|Good and Bad Fruit]]"
+- "[[Matt.12.38 The Sign of Jonah|The Sign of Jonah]]"
+- "[[Matt.12.43 An Unclean Spirit Returns|An Unclean Spirit Returns]]"
+- "[[Matt.12.46 Jesus’ Mother and Brothers|Jesus’ Mother and Brothers]]"
+---
+
 (KJV) **Matthew 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11|<< Matthew 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13|Matthew 13 >>]]</td></tr></table>
 
 <big><big>[[Matt.12.1 The Lord of the Sabbath|⥃]]</big></big>***The Lord of the Sabbath***&emsp;<small><sup>\[ [[1Sam.21|1 Samuel 21:1–7]] <big>†</big> [[Mark.2|Mark 2:23–28]] <big>†</big> [[Luke.6|Luke 6:1–5]] ]</sup></small>

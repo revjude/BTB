@@ -1,3 +1,28 @@
+---
+title: Jeremiah 4
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 4
+book/chapter: "[[Jer.4|Jeremiah 4]]"
+chronological_order: 721
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.4.1 A Plea to Return|A Plea to Return]]"
+- "[[Jer.4.5 Disaster from the North|Disaster from the North]]"
+- "[[Jer.4.19 Lamentation for Judah|Lamentation for Judah]]"
+---
+
 (KJV) **Jeremiah 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3|<< Jeremiah 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5|Jeremiah 5 >>]]</td></tr></table>
 
 <big><big>[[Jer.4.1 A Plea to Return|⥃]]</big></big>***A Plea to Return***

@@ -1,3 +1,30 @@
+---
+title: Deuteronomy 10
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Deuteronomy
+chapter: 10
+book/chapter: "[[Deut.10|Deuteronomy 10]]"
+chronological_order: 206
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+pericopes:
+- "[[Deut.10.1 New Stone Tablets|New Stone Tablets]]"
+- "[[Deut.10.12 A Call to Obedience|A Call to Obedience]]"
+---
+
 (KJV) **Deuteronomy 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9|<< Deuteronomy 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11|Deuteronomy 11 >>]]</td></tr></table>
 
 <big><big>[[Deut.10.1 New Stone Tablets|⥃]]</big></big>***New Stone Tablets***&emsp;<small><sup>\[ [[Exod.34|Exodus 34:1–9]] ]</sup></small>

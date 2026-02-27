@@ -1,3 +1,24 @@
+---
+title: 1 Corinthians 11
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 11
+book/chapter: "[[1Cor.11|1 Corinthians 11]]"
+chronological_order: 1068
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+pericopes:
+- "[[1Cor.11.1 Roles in Worship|Roles in Worship]]"
+- "[[1Cor.11.17 Sharing in the Lord’s Supper|Sharing in the Lord’s Supper]]"
+---
+
 (KJV) **1 Corinthians 11**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10|<< 1 Corinthians 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12|1 Corinthians 12 >>]]</td></tr></table>
 
 <big><big>[[1Cor.11.1 Roles in Worship|⥃]]</big></big>***Roles in Worship***

@@ -1,3 +1,27 @@
+---
+title: Psalm 58
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 58
+book/chapter: "[[Ps.58|Psalm 58]]"
+chronological_order: 371
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.58.1 God Judges the Earth|God Judges the Earth]]"
+---
+
 (KJV) **Psalm 58**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.57|<< Psalm 57]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59|Psalm 59 >>]]</td></tr></table>
 
 <big><big>[[Ps.58.1 God Judges the Earth|⥃]]</big></big>***God Judges the Earth***

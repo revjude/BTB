@@ -1,3 +1,29 @@
+---
+title: 1 Kings 14
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Kings
+chapter: 14
+book/chapter: "[[1Kgs.14|1 Kings 14]]"
+chronological_order: 553
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+pericopes:
+- "[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|Ahijah’s Prophecy against Jeroboam]]"
+- "[[1Kgs.14.19 Nadab Succeeds Jeroboam|Nadab Succeeds Jeroboam]]"
+- "[[1Kgs.14.21 Rehoboam Reigns in Judah|Rehoboam Reigns in Judah]]"
+- "[[1Kgs.14.25 Shishak Raids Jerusalem|Shishak Raids Jerusalem]]"
+---
+
 (KJV) **1 Kings 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.13|<< 1 Kings 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15|1 Kings 15 >>]]</td></tr></table>
 
 <big><big>[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|⥃]]</big></big>***Ahijah’s Prophecy against Jeroboam***

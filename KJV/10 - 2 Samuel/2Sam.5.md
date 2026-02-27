@@ -1,3 +1,28 @@
+---
+title: 2 Samuel 5
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Samuel
+chapter: 5
+book/chapter: "[[2Sam.5|2 Samuel 5]]"
+chronological_order: 333
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+pericopes:
+- "[[2Sam.5.1 David Anointed King of All Israel|David Anointed King of All Israel]]"
+- "[[2Sam.5.6 David Conquers Jerusalem|David Conquers Jerusalem]]"
+- "[[2Sam.5.12 David’s Family Grows|David’s Family Grows]]"
+- "[[2Sam.5.17 Two Victories over the Philistines|Two Victories over the Philistines]]"
+---
+
 (KJV) **2 Samuel 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.4|<< 2 Samuel 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6|2 Samuel 6 >>]]</td></tr></table>
 
 <big><big>[[2Sam.5.1 David Anointed King of All Israel|⥃]]</big></big>***David Anointed King of All Israel***&emsp;<small><sup>\[ [[1Chr.11|1 Chronicles 11:1–3]] ]</sup></small>

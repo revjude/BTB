@@ -1,3 +1,30 @@
+---
+title: Mark 8
+type: Chapter
+original_language: Greek
+testament: New
+book: Mark
+chapter: 8
+book/chapter: "[[Mark.8|Mark 8]]"
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Mark.8.1 The Feeding of the Four Thousand|The Feeding of the Four Thousand]]"
+- "[[Mark.8.11 The Demand for a Sign|The Demand for a Sign]]"
+- "[[Mark.8.14 The Leaven of the Pharisees and of Herod|The Leaven of the Pharisees and of Herod]]"
+- "[[Mark.8.22 The Blind Man at Bethsaida|The Blind Man at Bethsaida]]"
+- "[[Mark.8.27 Peter’s Confession of Christ|Peter’s Confession of Christ]]"
+- "[[Mark.8.31 Christ’s Passion Foretold|Christ’s Passion Foretold]]"
+- "[[Mark.8.34 Take Up Your Cross|Take Up Your Cross]]"
+---
+
 (KJV) **Mark 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7|<< Mark 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9|Mark 9 >>]]</td></tr></table>
 
 <big><big>[[Mark.8.1 The Feeding of the Four Thousand|⥃]]</big></big>***The Feeding of the Four Thousand***&emsp;<small><sup>\[ [[2Kgs.4|2 Kings 4:42–44]] <big>†</big> [[Matt.15|Matthew 15:29–39]] ]</sup></small>

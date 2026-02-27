@@ -1,3 +1,29 @@
+---
+title: Ezekiel 41
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 41
+book/chapter: "[[Ezek.41|Ezekiel 41]]"
+chronological_order: 832
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.41.1 Inside the Temple|Inside the Temple]]"
+- "[[Ezek.41.5 Outside the Temple|Outside the Temple]]"
+- "[[Ezek.41.15 The Interior Structures|The Interior Structures]]"
+---
+
 (KJV) **Ezekiel 41**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40|<< Ezekiel 40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42|Ezekiel 42 >>]]</td></tr></table>
 
 <big><big>[[Ezek.41.1 Inside the Temple|⥃]]</big></big>***Inside the Temple***

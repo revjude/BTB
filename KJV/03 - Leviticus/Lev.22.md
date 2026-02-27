@@ -1,3 +1,30 @@
+---
+title: Leviticus 22
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Leviticus
+chapter: 22
+book/chapter: "[[Lev.22|Leviticus 22]]"
+chronological_order: 154
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+pericopes:
+- "[[Lev.22.1 Restrictions against the Unclean|Restrictions against the Unclean]]"
+- "[[Lev.22.17 Worthy Offerings|Worthy Offerings]]"
+---
+
 (KJV) **Leviticus 22**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.21|<< Leviticus 21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23|Leviticus 23 >>]]</td></tr></table>
 
 <big><big>[[Lev.22.1 Restrictions against the Unclean|⥃]]</big></big>***Restrictions against the Unclean***

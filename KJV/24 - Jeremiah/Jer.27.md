@@ -1,3 +1,26 @@
+---
+title: Jeremiah 27
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 27
+book/chapter: "[[Jer.27|Jeremiah 27]]"
+chronological_order: 750
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.27.1 The Yoke of Nebuchadnezzar|The Yoke of Nebuchadnezzar]]"
+---
+
 (KJV) **Jeremiah 27**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26|<< Jeremiah 26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.28|Jeremiah 28 >>]]</td></tr></table>
 
 <big><big>[[Jer.27.1 The Yoke of Nebuchadnezzar|⥃]]</big></big>***The Yoke of Nebuchadnezzar***

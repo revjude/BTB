@@ -1,3 +1,28 @@
+---
+title: Numbers 7
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 7
+book/chapter: "[[Num.7|Numbers 7]]"
+chronological_order: 166
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.7.1 Offerings of Dedication|Offerings of Dedication]]"
+---
+
 (KJV) **Numbers 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6|<< Numbers 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8|Numbers 8 >>]]</td></tr></table>
 
 <big><big>[[Num.7.1 Offerings of Dedication|⥃]]</big></big>***Offerings of Dedication***

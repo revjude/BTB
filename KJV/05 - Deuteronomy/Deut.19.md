@@ -1,3 +1,30 @@
+---
+title: Deuteronomy 19
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Deuteronomy
+chapter: 19
+book/chapter: "[[Deut.19|Deuteronomy 19]]"
+chronological_order: 215
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+pericopes:
+- "[[Deut.19.1 Cities of Refuge|Cities of Refuge]]"
+- "[[Deut.19.15 The Testimony of Two or Three Witnesses|The Testimony of Two or Three Witnesses]]"
+---
+
 (KJV) **Deuteronomy 19**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.18|<< Deuteronomy 18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.20|Deuteronomy 20 >>]]</td></tr></table>
 
 <big><big>[[Deut.19.1 Cities of Refuge|⥃]]</big></big>***Cities of Refuge***&emsp;<small><sup>\[ [[Num.35|Numbers 35:9–34]] <big>†</big> [[Deut.4|Deuteronomy 4:41–43]] <big>†</big> [[Josh.20|Joshua 20:1–9]] ]</sup></small>

@@ -1,3 +1,27 @@
+---
+title: James 5
+type: Chapter
+original_language: Greek
+testament: New
+book: James
+chapter: 5
+book/chapter: "[[Jas.5|James 5]]"
+chronological_order: 1037
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+pericopes:
+- "[[Jas.5.1 A Warning to the Rich|A Warning to the Rich]]"
+- "[[Jas.5.7 Patience in Suffering|Patience in Suffering]]"
+- "[[Jas.5.13 The Prayer of Faith|The Prayer of Faith]]"
+- "[[Jas.5.19 Restoring a Sinner|Restoring a Sinner]]"
+---
+
 (KJV) **James 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4|<< James 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1|1 Peter 1 >>]]</td></tr></table>
 
 <big><big>[[Jas.5.1 A Warning to the Rich|⥃]]</big></big>***A Warning to the Rich***&emsp;<small><sup>\[ [[Prov.23|Proverbs 23:1–5]] <big>†</big> [[1Tim.6|1 Timothy 6:17–19]] ]</sup></small>

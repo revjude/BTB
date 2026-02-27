@@ -1,3 +1,30 @@
+---
+title: Luke 5
+type: Chapter
+original_language: Greek
+testament: New
+book: Luke
+chapter: 5
+book/chapter: "[[Luke.5|Luke 5]]"
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+pericopes:
+- "[[Luke.5.1 The First Disciples|The First Disciples]]"
+- "[[Luke.5.12 The Leper’s Prayer|The Leper’s Prayer]]"
+- "[[Luke.5.17 Jesus Heals a Paralytic|Jesus Heals a Paralytic]]"
+- "[[Luke.5.27 Jesus Calls Levi|Jesus Calls Levi]]"
+- "[[Luke.5.33 Questions about Fasting|Questions about Fasting]]"
+- "[[Luke.5.36 The Patches and the Wineskins|The Patches and the Wineskins]]"
+---
+
 (KJV) **Luke 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4|<< Luke 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6|Luke 6 >>]]</td></tr></table>
 
 <big><big>[[Luke.5.1 The First Disciples|⥃]]</big></big>***The First Disciples***&emsp;<small><sup>\[ [[Matt.4|Matthew 4:18–22]] <big>†</big> [[Mark.1|Mark 1:16–20]] <big>†</big> [[John.1|John 1:35–42]] ]</sup></small>

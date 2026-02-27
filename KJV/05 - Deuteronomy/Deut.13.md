@@ -1,3 +1,30 @@
+---
+title: Deuteronomy 13
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Deuteronomy
+chapter: 13
+book/chapter: "[[Deut.13|Deuteronomy 13]]"
+chronological_order: 209
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+pericopes:
+- "[[Deut.13.1 Idolaters to Be Put to Death|Idolaters to Be Put to Death]]"
+- "[[Deut.13.12 Idolatrous Cities to Be Destroyed|Idolatrous Cities to Be Destroyed]]"
+---
+
 (KJV) **Deuteronomy 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12|<< Deuteronomy 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.14|Deuteronomy 14 >>]]</td></tr></table>
 
 <big><big>[[Deut.13.1 Idolaters to Be Put to Death|⥃]]</big></big>***Idolaters to Be Put to Death***

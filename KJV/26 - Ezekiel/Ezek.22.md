@@ -1,3 +1,29 @@
+---
+title: Ezekiel 22
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 22
+book/chapter: "[[Ezek.22|Ezekiel 22]]"
+chronological_order: 813
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.22.1 The Sins of Jerusalem|The Sins of Jerusalem]]"
+- "[[Ezek.22.17 The Refining Furnace|The Refining Furnace]]"
+- "[[Ezek.22.23 Israel’s Wicked Leaders|Israel’s Wicked Leaders]]"
+---
+
 (KJV) **Ezekiel 22**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21|<< Ezekiel 21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23|Ezekiel 23 >>]]</td></tr></table>
 
 <big><big>[[Ezek.22.1 The Sins of Jerusalem|⥃]]</big></big>***The Sins of Jerusalem***

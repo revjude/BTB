@@ -1,3 +1,31 @@
+---
+title: Leviticus 26
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+pericopes:
+- "[[Lev.26.1 Additional Blessings of Obedience|Additional Blessings of Obedience]]"
+- "[[Lev.26.14 Punishments for Disobedience|Punishments for Disobedience]]"
+- "[[Lev.26.40 God Remembers Those Who Repent|God Remembers Those Who Repent]]"
+---
+
 (KJV) **Leviticus 26**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25|<< Leviticus 25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27|Leviticus 27 >>]]</td></tr></table>
 
 <big><big>[[Lev.26.1 Additional Blessings of Obedience|⥃]]</big></big>***Additional Blessings of Obedience***

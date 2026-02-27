@@ -1,3 +1,27 @@
+---
+title: Zephaniah 3
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Zephaniah
+chapter: 3
+book/chapter: "[[Zeph.3|Zephaniah 3]]"
+chronological_order: 717
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+pericopes:
+- "[[Zeph.3.1 Judgment on Jerusalem|Judgment on Jerusalem]]"
+- "[[Zeph.3.6 Purification of the Nations|Purification of the Nations]]"
+- "[[Zeph.3.9 A Faithful Remnant|A Faithful Remnant]]"
+- "[[Zeph.3.14 Israel’s Restoration|Israel’s Restoration]]"
+---
+
 (KJV) **Zephaniah 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.2|<< Zephaniah 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.1|Haggai 1 >>]]</td></tr></table>
 
 <big><big>[[Zeph.3.1 Judgment on Jerusalem|⥃]]</big></big>***Judgment on Jerusalem***

@@ -1,3 +1,26 @@
+---
+title: Judges 10
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Judges
+chapter: 10
+book/chapter: "[[Judg.10|Judges 10]]"
+chronological_order: 264
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+pericopes:
+- "[[Judg.10.1 Tola|Tola]]"
+- "[[Judg.10.3 Jair|Jair]]"
+- "[[Judg.10.6 Oppression by the Philistines and Ammonites|Oppression by the Philistines and Ammonites]]"
+---
+
 (KJV) **Judges 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9|<< Judges 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11|Judges 11 >>]]</td></tr></table>
 
 <big><big>[[Judg.10.1 Tola|⥃]]</big></big>***Tola***

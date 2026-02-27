@@ -1,3 +1,24 @@
+---
+title: Hebrews 1
+type: Chapter
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 1
+book/chapter: "[[Heb.1|Hebrews 1]]"
+chronological_order: 1140
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+pericopes:
+- "[[Heb.1.1 The Supremacy of the Son|The Supremacy of the Son]]"
+---
+
 (KJV) **Hebrews 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1|<< Philemon 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2|Hebrews 2 >>]]</td></tr></table>
 
 <big><big>[[Heb.1.1 The Supremacy of the Son|⥃]]</big></big>***The Supremacy of the Son***&emsp;<small><sup>\[ [[Col.1|Colossians 1:15–23]] ]</sup></small>

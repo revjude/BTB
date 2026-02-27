@@ -1,3 +1,29 @@
+---
+title: Genesis 4
+type: Chapter
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 4
+book/chapter: "[[Gen.4|Genesis 4]]"
+chronological_order: 4
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.4.1 Cain and Abel|Cain and Abel]]"
+- "[[Gen.4.17 The Descendants of Cain|The Descendants of Cain]]"
+- "[[Gen.4.25 Seth and Enosh|Seth and Enosh]]"
+---
+
 (KJV) **Genesis 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3|<< Genesis 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5|Genesis 5 >>]]</td></tr></table>
 
 <big><big>[[Gen.4.1 Cain and Abel|⥃]]</big></big>***Cain and Abel***&emsp;<small><sup>\[ [[Heb.11|Hebrews 11:4]] ]</sup></small>

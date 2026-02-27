@@ -1,3 +1,28 @@
+---
+title: 1 Chronicles 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Chronicles
+chapter: 1
+book/chapter: "[[1Chr.1|1 Chronicles 1]]"
+chronological_order: 320
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+pericopes:
+- "[[1Chr.1.1 From Adam to Abraham|From Adam to Abraham]]"
+- "[[1Chr.1.28 The Descendants of Abraham|The Descendants of Abraham]]"
+- "[[1Chr.1.35 The Descendants of Esau|The Descendants of Esau]]"
+- "[[1Chr.1.38 The Descendants of Seir|The Descendants of Seir]]"
+- "[[1Chr.1.43 The Kings of Edom|The Kings of Edom]]"
+---
+
 (KJV) **1 Chronicles 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25|<< 2 Kings 25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2|1 Chronicles 2 >>]]</td></tr></table>
 
 <big><big>[[1Chr.1.1 From Adam to Abraham|⥃]]</big></big>***From Adam to Abraham***&emsp;<small><sup>\[ [[Gen.5|Genesis 5:1–32]] <big>†</big> [[Gen.10|Genesis 10:1–32]] <big>†</big> [[Gen.11|Genesis 11:10–26]] ]</sup></small>

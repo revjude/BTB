@@ -1,3 +1,26 @@
+---
+title: Revelation 7
+type: Chapter
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 7
+book/chapter: "[[Rev.7|Revelation 7]]"
+chronological_order: 1174
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+pericopes:
+- "[[Rev.7.1 144,000 Sealed|144,000 Sealed]]"
+- "[[Rev.7.9 Praise from the Great Multitude|Praise from the Great Multitude]]"
+---
+
 (KJV) **Revelation 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6|<< Revelation 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8|Revelation 8 >>]]</td></tr></table>
 
 <big><big>[[Rev.7.1 144,000 Sealed|⥃]]</big></big>***144,000 Sealed***

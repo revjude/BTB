@@ -1,3 +1,28 @@
+---
+title: Genesis 49
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Genesis
+chapter: 49
+book/chapter: "[[Gen.49|Genesis 49]]"
+chronological_order: 91
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.49.1 Jacob Blesses His Sons|Jacob Blesses His Sons]]"
+- "[[Gen.49.29 The Death of Jacob|The Death of Jacob]]"
+---
+
 (KJV) **Genesis 49**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.48|<< Genesis 48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50|Genesis 50 >>]]</td></tr></table>
 
 <big><big>[[Gen.49.1 Jacob Blesses His Sons|⥃]]</big></big>***Jacob Blesses His Sons***

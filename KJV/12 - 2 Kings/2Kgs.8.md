@@ -1,3 +1,28 @@
+---
+title: 2 Kings 8
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Kings
+chapter: 8
+book/chapter: "[[2Kgs.8|2 Kings 8]]"
+chronological_order: 580
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[2Kgs.8.1 The Shunammite’s Land Restored|The Shunammite’s Land Restored]]"
+- "[[2Kgs.8.7 Hazael Murders Ben-hadad|Hazael Murders Ben-hadad]]"
+- "[[2Kgs.8.16 Jehoram Reigns in Judah|Jehoram Reigns in Judah]]"
+- "[[2Kgs.8.20 Edom and Libnah Rebel|Edom and Libnah Rebel]]"
+- "[[2Kgs.8.25 Ahaziah Reigns in Judah|Ahaziah Reigns in Judah]]"
+---
+
 (KJV) **2 Kings 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.7|<< 2 Kings 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9|2 Kings 9 >>]]</td></tr></table>
 
 <big><big>[[2Kgs.8.1 The Shunammite’s Land Restored|⥃]]</big></big>***The Shunammite’s Land Restored***

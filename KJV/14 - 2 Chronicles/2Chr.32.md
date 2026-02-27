@@ -1,3 +1,28 @@
+---
+title: 2 Chronicles 32
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 32
+book/chapter: "[[2Chr.32|2 Chronicles 32]]"
+chronological_order: 662
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.32.1 Sennacherib Invades Judah|Sennacherib Invades Judah]]"
+- "[[2Chr.32.9 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+- "[[2Chr.32.20 Jerusalem Delivered from the Assyrians|Jerusalem Delivered from the Assyrians]]"
+- "[[2Chr.32.24 Hezekiah’s Illness and Recovery|Hezekiah’s Illness and Recovery]]"
+- "[[2Chr.32.32 Hezekiah’s Death|Hezekiah’s Death]]"
+---
+
 (KJV) **2 Chronicles 32**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31|<< 2 Chronicles 31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.33|2 Chronicles 33 >>]]</td></tr></table>
 
 <big><big>[[2Chr.32.1 Sennacherib Invades Judah|⥃]]</big></big>***Sennacherib Invades Judah***&emsp;<small><sup>\[ [[2Kgs.18|2 Kings 18:13–16]] <big>†</big> [[Ps.46|Psalms 46:1–11]] ]</sup></small>

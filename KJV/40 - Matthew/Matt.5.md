@@ -1,3 +1,32 @@
+---
+title: Matthew 5
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 5
+book/chapter: "[[Matt.5|Matthew 5]]"
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.5.1 The Sermon on the Mount|The Sermon on the Mount]]"
+- "[[Matt.5.3 The Beatitudes|The Beatitudes]]"
+- "[[Matt.5.13 Salt and Light|Salt and Light]]"
+- "[[Matt.5.17 The Fulfillment of the Law|The Fulfillment of the Law]]"
+- "[[Matt.5.21 Anger and Reconciliation|Anger and Reconciliation]]"
+- "[[Matt.5.27 Adultery|Adultery]]"
+- "[[Matt.5.31 Divorce|Divorce]]"
+- "[[Matt.5.33 Oaths and Vows|Oaths and Vows]]"
+- "[[Matt.5.38 Love Your Enemies|Love Your Enemies]]"
+---
+
 (KJV) **Matthew 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4|<< Matthew 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6|Matthew 6 >>]]</td></tr></table>
 
 <big><big>[[Matt.5.1 The Sermon on the Mount|⥃]]</big></big>***The Sermon on the Mount***

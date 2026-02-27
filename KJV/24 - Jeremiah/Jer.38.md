@@ -1,3 +1,26 @@
+---
+title: Jeremiah 38
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 38
+book/chapter: "[[Jer.38|Jeremiah 38]]"
+chronological_order: 761
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.38.1 Jeremiah Cast into the Cistern|Jeremiah Cast into the Cistern]]"
+---
+
 (KJV) **Jeremiah 38**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.37|<< Jeremiah 37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.39|Jeremiah 39 >>]]</td></tr></table>
 
 <big><big>[[Jer.38.1 Jeremiah Cast into the Cistern|⥃]]</big></big>***Jeremiah Cast into the Cistern***

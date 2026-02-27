@@ -1,3 +1,27 @@
+---
+title: 1 Samuel 25
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Samuel
+chapter: 25
+book/chapter: "[[1Sam.25|1 Samuel 25]]"
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[1Sam.25.1 The Death of Samuel|The Death of Samuel]]"
+- "[[1Sam.25.2 David, Nabal, and Abigail|David, Nabal, and Abigail]]"
+- "[[1Sam.25.18 Abigail Intercedes for Nabal|Abigail Intercedes for Nabal]]"
+- "[[1Sam.25.39 David Marries Abigail|David Marries Abigail]]"
+---
+
 (KJV) **1 Samuel 25**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.24|<< 1 Samuel 24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26|1 Samuel 26 >>]]</td></tr></table>
 
 <big><big>[[1Sam.25.1 The Death of Samuel|⥃]]</big></big>***The Death of Samuel***

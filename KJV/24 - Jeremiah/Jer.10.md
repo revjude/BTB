@@ -1,3 +1,27 @@
+---
+title: Jeremiah 10
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 10
+book/chapter: "[[Jer.10|Jeremiah 10]]"
+chronological_order: 727
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.10.1 The Sovereignty of God|The Sovereignty of God]]"
+- "[[Jer.10.17 The Coming Captivity of Judah|The Coming Captivity of Judah]]"
+---
+
 (KJV) **Jeremiah 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9|<< Jeremiah 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.11|Jeremiah 11 >>]]</td></tr></table>
 
 <big><big>[[Jer.10.1 The Sovereignty of God|⥃]]</big></big>***The Sovereignty of God***

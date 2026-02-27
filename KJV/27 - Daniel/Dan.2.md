@@ -1,3 +1,28 @@
+---
+title: Daniel 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Daniel
+chapter: 2
+book/chapter: "[[Dan.2|Daniel 2]]"
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+pericopes:
+- "[[Dan.2.1 Nebuchadnezzar’s Troubling Dream|Nebuchadnezzar’s Troubling Dream]]"
+- "[[Dan.2.14 The Dream Revealed to Daniel|The Dream Revealed to Daniel]]"
+- "[[Dan.2.24 Daniel Interprets the Dream|Daniel Interprets the Dream]]"
+- "[[Dan.2.46 Nebuchadnezzar Promotes Daniel|Nebuchadnezzar Promotes Daniel]]"
+---
+
 (KJV) **Daniel 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.1|<< Daniel 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3|Daniel 3 >>]]</td></tr></table>
 
 <big><big>[[Dan.2.1 Nebuchadnezzar’s Troubling Dream|⥃]]</big></big>***Nebuchadnezzar’s Troubling Dream***

@@ -1,3 +1,30 @@
+---
+title: Genesis 19
+type: Chapter
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 19
+book/chapter: "[[Gen.19|Genesis 19]]"
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.19.1 Lot Welcomes the Angels|Lot Welcomes the Angels]]"
+- "[[Gen.19.12 Lot Flees to Zoar|Lot Flees to Zoar]]"
+- "[[Gen.19.24 The Destruction of Sodom and Gomorrah|The Destruction of Sodom and Gomorrah]]"
+- "[[Gen.19.30 Lot and His Daughters|Lot and His Daughters]]"
+---
+
 (KJV) **Genesis 19**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18|<< Genesis 18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.20|Genesis 20 >>]]</td></tr></table>
 
 <big><big>[[Gen.19.1 Lot Welcomes the Angels|⥃]]</big></big>***Lot Welcomes the Angels***&emsp;<small><sup>\[ [[Judg.19|Judges 19:1–30]] ]</sup></small>

@@ -1,3 +1,26 @@
+---
+title: 2 Peter 1
+type: Chapter
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 1
+book/chapter: "[[2Pet.1|2 Peter 1]]"
+chronological_order: 1157
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+pericopes:
+- "[[2Pet.1.1 A Greeting from Peter|A Greeting from Peter]]"
+- "[[2Pet.1.3 Partakers of the Divine Nature|Partakers of the Divine Nature]]"
+- "[[2Pet.1.16 Eyewitnesses of His Majesty|Eyewitnesses of His Majesty]]"
+---
+
 (KJV) **2 Peter 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5|<< 1 Peter 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2|2 Peter 2 >>]]</td></tr></table>
 
 <big><big>[[2Pet.1.1 A Greeting from Peter|⥃]]</big></big>***A Greeting from Peter***&emsp;<small><sup>\[ [[1Pet.1|1 Peter 1:1–2]] ]</sup></small>

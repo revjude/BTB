@@ -1,3 +1,27 @@
+---
+title: Psalm 31
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 31
+book/chapter: "[[Ps.31|Psalm 31]]"
+chronological_order: 362
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.31.1 Into Your Hands I Commit My Spirit|Into Your Hands I Commit My Spirit]]"
+---
+
 (KJV) **Psalm 31**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.30|<< Psalm 30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.32|Psalm 32 >>]]</td></tr></table>
 
 <big><big>[[Ps.31.1 Into Your Hands I Commit My Spirit|⥃]]</big></big>***Into Your Hands I Commit My Spirit***&emsp;<small><sup>\[ [[Luke.23|Luke 23:44–49]] ]</sup></small>

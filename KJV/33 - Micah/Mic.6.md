@@ -1,3 +1,26 @@
+---
+title: Micah 6
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Micah
+chapter: 6
+book/chapter: "[[Mic.6|Micah 6]]"
+chronological_order: 628
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+pericopes:
+- "[[Mic.6.1 The Case against Israel|The Case against Israel]]"
+- "[[Mic.6.9 The Punishment of Israel|The Punishment of Israel]]"
+---
+
 (KJV) **Micah 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.5|<< Micah 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7|Micah 7 >>]]</td></tr></table>
 
 <big><big>[[Mic.6.1 The Case against Israel|⥃]]</big></big>***The Case against Israel***

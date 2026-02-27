@@ -1,3 +1,27 @@
+---
+title: Judges 8
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Judges
+chapter: 8
+book/chapter: "[[Judg.8|Judges 8]]"
+chronological_order: 262
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+pericopes:
+- "[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|Gideon Defeats Zebah and Zalmunna]]"
+- "[[Judg.8.22 Gideon’s Ephod|Gideon’s Ephod]]"
+- "[[Judg.8.28 Forty Years of Peace|Forty Years of Peace]]"
+- "[[Judg.8.32 Gideon’s Death|Gideon’s Death]]"
+---
+
 (KJV) **Judges 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7|<< Judges 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9|Judges 9 >>]]</td></tr></table>
 
 <big><big>[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|⥃]]</big></big>***Gideon Defeats Zebah and Zalmunna***

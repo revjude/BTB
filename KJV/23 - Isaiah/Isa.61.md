@@ -1,3 +1,25 @@
+---
+title: Isaiah 61
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 61
+book/chapter: "[[Isa.61|Isaiah 61]]"
+chronological_order: 700
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.61.1 The Year of the LORD’s Favor|The Year of the LORD’s Favor]]"
+---
+
 (KJV) **Isaiah 61**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60|<< Isaiah 60]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.62|Isaiah 62 >>]]</td></tr></table>
 
 <big><big>[[Isa.61.1 The Year of the LORD’s Favor|⥃]]</big></big>***The Year of the LORD’s Favor***&emsp;<small><sup>\[ [[Luke.4|Luke 4:16–30]] ]</sup></small>

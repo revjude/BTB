@@ -1,3 +1,29 @@
+---
+title: Luke 7
+type: Chapter
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+pericopes:
+- "[[Luke.7.1 The Faith of the Centurion|The Faith of the Centurion]]"
+- "[[Luke.7.11 Jesus Raises a Widow’s Son|Jesus Raises a Widow’s Son]]"
+- "[[Luke.7.18 John’s Inquiry|John’s Inquiry]]"
+- "[[Luke.7.24 Jesus Testifies about John|Jesus Testifies about John]]"
+- "[[Luke.7.36 A Sinful Woman Anoints Jesus|A Sinful Woman Anoints Jesus]]"
+---
+
 (KJV) **Luke 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6|<< Luke 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8|Luke 8 >>]]</td></tr></table>
 
 <big><big>[[Luke.7.1 The Faith of the Centurion|⥃]]</big></big>***The Faith of the Centurion***&emsp;<small><sup>\[ [[Matt.8|Matthew 8:5–13]] <big>†</big> [[John.4|John 4:43–54]] ]</sup></small>

@@ -1,3 +1,30 @@
+---
+title: Deuteronomy 27
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Deuteronomy
+chapter: 27
+book/chapter: "[[Deut.27|Deuteronomy 27]]"
+chronological_order: 223
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+pericopes:
+- "[[Deut.27.1 The Altar on Mount Ebal|The Altar on Mount Ebal]]"
+- "[[Deut.27.11 Curses Pronounced from Ebal|Curses Pronounced from Ebal]]"
+---
+
 (KJV) **Deuteronomy 27**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.26|<< Deuteronomy 26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28|Deuteronomy 28 >>]]</td></tr></table>
 
 <big><big>[[Deut.27.1 The Altar on Mount Ebal|⥃]]</big></big>***The Altar on Mount Ebal***&emsp;<small><sup>\[ [[Josh.8|Joshua 8:30–35]] ]</sup></small>

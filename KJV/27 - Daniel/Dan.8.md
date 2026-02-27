@@ -1,3 +1,26 @@
+---
+title: Daniel 8
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Daniel
+chapter: 8
+book/chapter: "[[Dan.8|Daniel 8]]"
+chronological_order: 844
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+pericopes:
+- "[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|Daniel’s Vision of the Ram and the Goat]]"
+- "[[Dan.8.15 Gabriel Interprets Daniel’s Vision|Gabriel Interprets Daniel’s Vision]]"
+---
+
 (KJV) **Daniel 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7|<< Daniel 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9|Daniel 9 >>]]</td></tr></table>
 
 <big><big>[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|⥃]]</big></big>***Daniel’s Vision of the Ram and the Goat***

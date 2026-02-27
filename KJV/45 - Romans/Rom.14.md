@@ -1,3 +1,24 @@
+---
+title: Romans 14
+type: Chapter
+original_language: Greek
+testament: New
+book: Romans
+chapter: 14
+book/chapter: "[[Rom.14|Romans 14]]"
+chronological_order: 1100
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+pericopes:
+- "[[Rom.14.1 The Law of Liberty|The Law of Liberty]]"
+- "[[Rom.14.13 The Law of Love|The Law of Love]]"
+---
+
 (KJV) **Romans 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13|<< Romans 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15|Romans 15 >>]]</td></tr></table>
 
 <big><big>[[Rom.14.1 The Law of Liberty|⥃]]</big></big>***The Law of Liberty***&emsp;<small><sup>\[ [[Matt.7|Matthew 7:1–6]] <big>†</big> [[Luke.6|Luke 6:37–42]] ]</sup></small>

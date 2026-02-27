@@ -1,3 +1,27 @@
+---
+title: Matthew 14
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 14
+book/chapter: "[[Matt.14|Matthew 14]]"
+chronological_order: 964
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.14.1 The Beheading of John|The Beheading of John]]"
+- "[[Matt.14.13 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+- "[[Matt.14.22 Jesus Walks on Water|Jesus Walks on Water]]"
+- "[[Matt.14.34 Jesus Heals at Gennesaret|Jesus Heals at Gennesaret]]"
+---
+
 (KJV) **Matthew 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13|<< Matthew 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15|Matthew 15 >>]]</td></tr></table>
 
 <big><big>[[Matt.14.1 The Beheading of John|⥃]]</big></big>***The Beheading of John***&emsp;<small><sup>\[ [[Mark.6|Mark 6:14–29]] <big>†</big> [[Luke.9|Luke 9:7–9]] ]</sup></small>

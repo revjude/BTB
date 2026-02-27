@@ -1,3 +1,24 @@
+---
+title: Hosea 5
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Hosea
+chapter: 5
+book/chapter: "[[Hos.5|Hosea 5]]"
+chronological_order: 646
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+pericopes:
+- "[[Hos.5.1 Judgment on Israel and Judah|Judgment on Israel and Judah]]"
+---
+
 (KJV) **Hosea 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.4|<< Hosea 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.6|Hosea 6 >>]]</td></tr></table>
 
 <big><big>[[Hos.5.1 Judgment on Israel and Judah|⥃]]</big></big>***Judgment on Israel and Judah***

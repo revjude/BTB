@@ -1,3 +1,29 @@
+---
+title: Genesis 21
+type: Chapter
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 21
+book/chapter: "[[Gen.21|Genesis 21]]"
+chronological_order: 63
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.21.1 The Birth of Isaac|The Birth of Isaac]]"
+- "[[Gen.21.9 Sarah Turns against Hagar|Sarah Turns against Hagar]]"
+- "[[Gen.21.22 The Covenant at Beersheba|The Covenant at Beersheba]]"
+---
+
 (KJV) **Genesis 21**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.20|<< Genesis 20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.22|Genesis 22 >>]]</td></tr></table>
 
 <big><big>[[Gen.21.1 The Birth of Isaac|⥃]]</big></big>***The Birth of Isaac***

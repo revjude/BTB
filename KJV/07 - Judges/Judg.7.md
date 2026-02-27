@@ -1,3 +1,26 @@
+---
+title: Judges 7
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Judges
+chapter: 7
+book/chapter: "[[Judg.7|Judges 7]]"
+chronological_order: 261
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+pericopes:
+- "[[Judg.7.1 Gideon’s Army of Three Hundred|Gideon’s Army of Three Hundred]]"
+- "[[Judg.7.9 The Sword of Gideon|The Sword of Gideon]]"
+- "[[Judg.7.15 Gideon Defeats Midian|Gideon Defeats Midian]]"
+---
+
 (KJV) **Judges 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6|<< Judges 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8|Judges 8 >>]]</td></tr></table>
 
 <big><big>[[Judg.7.1 Gideon’s Army of Three Hundred|⥃]]</big></big>***Gideon’s Army of Three Hundred***

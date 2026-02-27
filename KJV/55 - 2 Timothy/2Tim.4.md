@@ -1,3 +1,27 @@
+---
+title: 2 Timothy 4
+type: Chapter
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 4
+book/chapter: "[[2Tim.4|2 Timothy 4]]"
+chronological_order: 1156
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+pericopes:
+- "[[2Tim.4.1 Preach the Word|Preach the Word]]"
+- "[[2Tim.4.9 Personal Concerns|Personal Concerns]]"
+- "[[2Tim.4.16 The Lord Remains Faithful|The Lord Remains Faithful]]"
+- "[[2Tim.4.19 Final Greetings|Final Greetings]]"
+---
+
 (KJV) **2 Timothy 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.3|<< 2 Timothy 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1|Titus 1 >>]]</td></tr></table>
 
 <big><big>[[2Tim.4.1 Preach the Word|⥃]]</big></big>***Preach the Word***

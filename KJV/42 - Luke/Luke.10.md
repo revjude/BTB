@@ -1,3 +1,30 @@
+---
+title: Luke 10
+type: Chapter
+original_language: Greek
+testament: New
+book: Luke
+chapter: 10
+book/chapter: "[[Luke.10|Luke 10]]"
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+pericopes:
+- "[[Luke.10.1 Jesus Sends the Seventy-Two|Jesus Sends the Seventy-Two]]"
+- "[[Luke.10.13 Woe to the Unrepentant|Woe to the Unrepentant]]"
+- "[[Luke.10.17 The Joyful Return|The Joyful Return]]"
+- "[[Luke.10.21 Jesus’ Prayer of Thanksgiving|Jesus’ Prayer of Thanksgiving]]"
+- "[[Luke.10.25 The Parable of the Good Samaritan|The Parable of the Good Samaritan]]"
+- "[[Luke.10.38 Martha and Mary|Martha and Mary]]"
+---
+
 (KJV) **Luke 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9|<< Luke 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11|Luke 11 >>]]</td></tr></table>
 
 <big><big>[[Luke.10.1 Jesus Sends the Seventy-Two|⥃]]</big></big>***Jesus Sends the Seventy-Two***&emsp;<small><sup>\[ [[Matt.9|Matthew 9:35–38]] ]</sup></small>

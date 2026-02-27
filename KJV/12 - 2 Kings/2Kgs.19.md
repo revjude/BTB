@@ -1,3 +1,28 @@
+---
+title: 2 Kings 19
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Kings
+chapter: 19
+book/chapter: "[[2Kgs.19|2 Kings 19]]"
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[2Kgs.19.1 Isaiah’s Message of Deliverance|Isaiah’s Message of Deliverance]]"
+- "[[2Kgs.19.8 Sennacherib’s Blasphemous Letter|Sennacherib’s Blasphemous Letter]]"
+- "[[2Kgs.19.14 Hezekiah’s Prayer|Hezekiah’s Prayer]]"
+- "[[2Kgs.19.20 Sennacherib’s Fall Prophesied|Sennacherib’s Fall Prophesied]]"
+- "[[2Kgs.19.35 Jerusalem Delivered from the Assyrians|Jerusalem Delivered from the Assyrians]]"
+---
+
 (KJV) **2 Kings 19**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18|<< 2 Kings 18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.20|2 Kings 20 >>]]</td></tr></table>
 
 <big><big>[[2Kgs.19.1 Isaiah’s Message of Deliverance|⥃]]</big></big>***Isaiah’s Message of Deliverance***&emsp;<small><sup>\[ [[Isa.37|Isaiah 37:1–7]] ]</sup></small>

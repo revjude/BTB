@@ -1,3 +1,24 @@
+---
+title: 1 Samuel 6
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Samuel
+chapter: 6
+book/chapter: "[[1Sam.6|1 Samuel 6]]"
+chronological_order: 285
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[1Sam.6.1 The Ark Returned to Israel|The Ark Returned to Israel]]"
+---
+
 (KJV) **1 Samuel 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.5|<< 1 Samuel 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.7|1 Samuel 7 >>]]</td></tr></table>
 
 <big><big>[[1Sam.6.1 The Ark Returned to Israel|⥃]]</big></big>***The Ark Returned to Israel***

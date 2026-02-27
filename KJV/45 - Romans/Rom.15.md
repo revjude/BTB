@@ -1,3 +1,26 @@
+---
+title: Romans 15
+type: Chapter
+original_language: Greek
+testament: New
+book: Romans
+chapter: 15
+book/chapter: "[[Rom.15|Romans 15]]"
+chronological_order: 1101
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+pericopes:
+- "[[Rom.15.1 Accept One Another|Accept One Another]]"
+- "[[Rom.15.7 Christ the Servant of Jews and Gentiles|Christ the Servant of Jews and Gentiles]]"
+- "[[Rom.15.14 Paul the Minister to the Gentiles|Paul the Minister to the Gentiles]]"
+- "[[Rom.15.23 Paul’s Travel Plans|Paul’s Travel Plans]]"
+---
+
 (KJV) **Romans 15**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14|<< Romans 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16|Romans 16 >>]]</td></tr></table>
 
 <big><big>[[Rom.15.1 Accept One Another|⥃]]</big></big>***Accept One Another***

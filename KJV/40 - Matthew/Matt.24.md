@@ -1,3 +1,29 @@
+---
+title: Matthew 24
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 24
+book/chapter: "[[Matt.24|Matthew 24]]"
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.24.1 Temple Destruction and Other Signs|Temple Destruction and Other Signs]]"
+- "[[Matt.24.9 Witnessing to All Nations|Witnessing to All Nations]]"
+- "[[Matt.24.15 The Abomination of Desolation|The Abomination of Desolation]]"
+- "[[Matt.24.26 The Return of the Son of Man|The Return of the Son of Man]]"
+- "[[Matt.24.32 The Lesson of the Fig Tree|The Lesson of the Fig Tree]]"
+- "[[Matt.24.36 Readiness at Any Hour|Readiness at Any Hour]]"
+---
+
 (KJV) **Matthew 24**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23|<< Matthew 23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25|Matthew 25 >>]]</td></tr></table>
 
 <big><big>[[Matt.24.1 Temple Destruction and Other Signs|⥃]]</big></big>***Temple Destruction and Other Signs***&emsp;<small><sup>\[ [[Mark.13|Mark 13:1–8]] <big>†</big> [[Luke.21|Luke 21:5–9]] ]</sup></small>

@@ -1,3 +1,28 @@
+---
+title: Habakkuk 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Habakkuk
+chapter: 1
+book/chapter: "[[Hab.1|Habakkuk 1]]"
+chronological_order: 738
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+pericopes:
+- "[[Hab.1.1 Habakkuk’s First Complaint|Habakkuk’s First Complaint]]"
+- "[[Hab.1.5 The LORD’s Answer|The LORD’s Answer]]"
+- "[[Hab.1.12 Habakkuk’s Second Complaint|Habakkuk’s Second Complaint]]"
+---
+
 (KJV) **Habakkuk 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3|<< Nahum 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.2|Habakkuk 2 >>]]</td></tr></table>
 
 <big><big>[[Hab.1.1 Habakkuk’s First Complaint|⥃]]</big></big>***Habakkuk’s First Complaint***

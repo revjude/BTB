@@ -1,3 +1,26 @@
+---
+title: Jeremiah 42
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 42
+book/chapter: "[[Jer.42|Jeremiah 42]]"
+chronological_order: 765
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.42.1 A Warning against Going to Egypt|A Warning against Going to Egypt]]"
+---
+
 (KJV) **Jeremiah 42**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41|<< Jeremiah 41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.43|Jeremiah 43 >>]]</td></tr></table>
 
 <big><big>[[Jer.42.1 A Warning against Going to Egypt|⥃]]</big></big>***A Warning against Going to Egypt***

@@ -1,3 +1,24 @@
+---
+title: 2 Peter 2
+type: Chapter
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 2
+book/chapter: "[[2Pet.2|2 Peter 2]]"
+chronological_order: 1158
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+pericopes:
+- "[[2Pet.2.1 Deliverance from False Prophets|Deliverance from False Prophets]]"
+---
+
 (KJV) **2 Peter 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1|<< 2 Peter 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3|2 Peter 3 >>]]</td></tr></table>
 
 <big><big>[[2Pet.2.1 Deliverance from False Prophets|⥃]]</big></big>***Deliverance from False Prophets***&emsp;<small><sup>\[ [[Jude.1|Jude 1:3–16]] ]</sup></small>

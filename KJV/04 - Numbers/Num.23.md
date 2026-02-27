@@ -1,3 +1,29 @@
+---
+title: Numbers 23
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 23
+book/chapter: "[[Num.23|Numbers 23]]"
+chronological_order: 183
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.23.1 Balaam’s First Oracle|Balaam’s First Oracle]]"
+- "[[Num.23.13 Balaam’s Second Oracle|Balaam’s Second Oracle]]"
+---
+
 (KJV) **Numbers 23**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22|<< Numbers 22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24|Numbers 24 >>]]</td></tr></table>
 
 <big><big>[[Num.23.1 Balaam’s First Oracle|⥃]]</big></big>***Balaam’s First Oracle***

@@ -1,3 +1,26 @@
+---
+title: 1 Samuel 31
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Samuel
+chapter: 31
+book/chapter: "[[1Sam.31|1 Samuel 31]]"
+chronological_order: 310
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[1Sam.31.1 Saul’s Overthrow and Death|Saul’s Overthrow and Death]]"
+- "[[1Sam.31.7 The Philistines Possess the Towns|The Philistines Possess the Towns]]"
+- "[[1Sam.31.11 Jabesh-gilead’s Tribute to Saul|Jabesh-gilead’s Tribute to Saul]]"
+---
+
 (KJV) **1 Samuel 31**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30|<< 1 Samuel 30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.1|2 Samuel 1 >>]]</td></tr></table>
 
 <big><big>[[1Sam.31.1 Saul’s Overthrow and Death|⥃]]</big></big>***Saul’s Overthrow and Death***&emsp;<small><sup>\[ [[2Sam.1|2 Samuel 1:1–16]] <big>†</big> [[1Chr.10|1 Chronicles 10:1–6]] ]</sup></small>

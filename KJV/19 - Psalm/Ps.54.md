@@ -1,3 +1,27 @@
+---
+title: Psalm 54
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 54
+book/chapter: "[[Ps.54|Psalm 54]]"
+chronological_order: 314
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.54.1 Save Me by Your Name|Save Me by Your Name]]"
+---
+
 (KJV) **Psalm 54**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.53|<< Psalm 53]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.55|Psalm 55 >>]]</td></tr></table>
 
 <big><big>[[Ps.54.1 Save Me by Your Name|⥃]]</big></big>***Save Me by Your Name***&emsp;<small><sup>\[ [[1Sam.23|1 Samuel 23:7–29]] ]</sup></small>

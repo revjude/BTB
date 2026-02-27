@@ -1,3 +1,25 @@
+---
+title: 1 Chronicles 8
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Chronicles
+chapter: 8
+book/chapter: "[[1Chr.8|1 Chronicles 8]]"
+chronological_order: 327
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+pericopes:
+- "[[1Chr.8.1 Genealogy from Benjamin to Saul|Genealogy from Benjamin to Saul]]"
+- "[[1Chr.8.33 The Family of Saul|The Family of Saul]]"
+---
+
 (KJV) **1 Chronicles 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7|<< 1 Chronicles 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9|1 Chronicles 9 >>]]</td></tr></table>
 
 <big><big>[[1Chr.8.1 Genealogy from Benjamin to Saul|⥃]]</big></big>***Genealogy from Benjamin to Saul***

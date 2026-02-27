@@ -1,3 +1,26 @@
+---
+title: Matthew 28
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 28
+book/chapter: "[[Matt.28|Matthew 28]]"
+chronological_order: 1014
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.28.1 The Resurrection|The Resurrection]]"
+- "[[Matt.28.11 The Report of the Guards|The Report of the Guards]]"
+- "[[Matt.28.16 The Great Commission|The Great Commission]]"
+---
+
 (KJV) **Matthew 28**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27|<< Matthew 27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1|Mark 1 >>]]</td></tr></table>
 
 <big><big>[[Matt.28.1 The Resurrection|⥃]]</big></big>***The Resurrection***&emsp;<small><sup>\[ [[Mark.16|Mark 16:1–8]] <big>†</big> [[Luke.24|Luke 24:1–12]] <big>†</big> [[John.20|John 20:1–9]] ]</sup></small>

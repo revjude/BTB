@@ -1,3 +1,33 @@
+---
+title: Exodus 30
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 30
+book/chapter: "[[Exod.30|Exodus 30]]"
+chronological_order: 122
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.30.1 The Altar of Incense|The Altar of Incense]]"
+- "[[Exod.30.11 The Census Offering|The Census Offering]]"
+- "[[Exod.30.17 The Bronze Basin|The Bronze Basin]]"
+- "[[Exod.30.22 The Anointing Oil|The Anointing Oil]]"
+- "[[Exod.30.34 The Incense|The Incense]]"
+---
+
 (KJV) **Exodus 30**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29|<< Exodus 29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.31|Exodus 31 >>]]</td></tr></table>
 
 <big><big>[[Exod.30.1 The Altar of Incense|⥃]]</big></big>***The Altar of Incense***&emsp;<small><sup>\[ [[Exod.37|Exodus 37:25–29]] ]</sup></small>

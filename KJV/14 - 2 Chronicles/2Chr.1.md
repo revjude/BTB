@@ -1,3 +1,25 @@
+---
+title: 2 Chronicles 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 1
+book/chapter: "[[2Chr.1|2 Chronicles 1]]"
+chronological_order: 445
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.1.1 Solomon’s Prayer for Wisdom|Solomon’s Prayer for Wisdom]]"
+- "[[2Chr.1.14 Solomon’s Riches|Solomon’s Riches]]"
+---
+
 (KJV) **2 Chronicles 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29|<< 1 Chronicles 29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.2|2 Chronicles 2 >>]]</td></tr></table>
 
 <big><big>[[2Chr.1.1 Solomon’s Prayer for Wisdom|⥃]]</big></big>***Solomon’s Prayer for Wisdom***&emsp;<small><sup>\[ [[1Kgs.3|1 Kings 3:1–15]] <big>†</big> [[Ps.45|Psalms 45:1–17]] <big>†</big> [[Ps.72|Psalms 72:1–20]] ]</sup></small>

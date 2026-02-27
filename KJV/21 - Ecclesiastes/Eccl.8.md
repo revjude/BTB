@@ -1,3 +1,26 @@
+---
+title: Ecclesiastes 8
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ecclesiastes
+chapter: 8
+book/chapter: "[[Eccl.8|Ecclesiastes 8]]"
+chronological_order: 546
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+pericopes:
+- "[[Eccl.8.1 Obey the King|Obey the King]]"
+- "[[Eccl.8.10 Fear God|Fear God]]"
+- "[[Eccl.8.14 God’s Ways Are Mysterious|God’s Ways Are Mysterious]]"
+---
+
 (KJV) **Ecclesiastes 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7|<< Ecclesiastes 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9|Ecclesiastes 9 >>]]</td></tr></table>
 
 <big><big>[[Eccl.8.1 Obey the King|⥃]]</big></big>***Obey the King***

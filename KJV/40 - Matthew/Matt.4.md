@@ -1,3 +1,27 @@
+---
+title: Matthew 4
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 4
+book/chapter: "[[Matt.4|Matthew 4]]"
+chronological_order: 936
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.4.1 The Temptation of Jesus|The Temptation of Jesus]]"
+- "[[Matt.4.12 Jesus Begins His Ministry|Jesus Begins His Ministry]]"
+- "[[Matt.4.18 The First Disciples|The First Disciples]]"
+- "[[Matt.4.23 Jesus Heals the Multitudes|Jesus Heals the Multitudes]]"
+---
+
 (KJV) **Matthew 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.3|<< Matthew 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5|Matthew 5 >>]]</td></tr></table>
 
 <big><big>[[Matt.4.1 The Temptation of Jesus|⥃]]</big></big>***The Temptation of Jesus***&emsp;<small><sup>\[ [[Mark.1|Mark 1:12–13]] <big>†</big> [[Luke.4|Luke 4:1–13]] ]</sup></small>

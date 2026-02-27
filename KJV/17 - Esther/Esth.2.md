@@ -1,3 +1,27 @@
+---
+title: Esther 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Esther
+chapter: 2
+book/chapter: "[[Esth.2|Esther 2]]"
+chronological_order: 900
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+pericopes:
+- "[[Esth.2.1 Seeking Vashti’s Successor|Seeking Vashti’s Successor]]"
+- "[[Esth.2.5 Esther Finds Favor|Esther Finds Favor]]"
+- "[[Esth.2.17 Esther Becomes Queen|Esther Becomes Queen]]"
+- "[[Esth.2.21 Mordecai Uncovers a Conspiracy|Mordecai Uncovers a Conspiracy]]"
+---
+
 (KJV) **Esther 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.1|<< Esther 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.3|Esther 3 >>]]</td></tr></table>
 
 <big><big>[[Esth.2.1 Seeking Vashti’s Successor|⥃]]</big></big>***Seeking Vashti’s Successor***

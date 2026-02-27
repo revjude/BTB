@@ -1,3 +1,27 @@
+---
+title: Matthew 11
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 11
+book/chapter: "[[Matt.11|Matthew 11]]"
+chronological_order: 955
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.11.1 John’s Inquiry|John’s Inquiry]]"
+- "[[Matt.11.7 Jesus Testifies about John|Jesus Testifies about John]]"
+- "[[Matt.11.20 Woe to the Unrepentant|Woe to the Unrepentant]]"
+- "[[Matt.11.25 Rest for the Weary|Rest for the Weary]]"
+---
+
 (KJV) **Matthew 11**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10|<< Matthew 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12|Matthew 12 >>]]</td></tr></table>
 
 <big><big>[[Matt.11.1 John’s Inquiry|⥃]]</big></big>***John’s Inquiry***&emsp;<small><sup>\[ [[Luke.7|Luke 7:18–23]] ]</sup></small>

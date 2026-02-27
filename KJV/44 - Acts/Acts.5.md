@@ -1,3 +1,27 @@
+---
+title: Acts 5
+type: Chapter
+original_language: Greek
+testament: New
+book: Acts
+chapter: 5
+book/chapter: "[[Acts.5|Acts 5]]"
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+pericopes:
+- "[[Acts.5.1 Ananias and Sapphira|Ananias and Sapphira]]"
+- "[[Acts.5.12 The Apostles Heal Many|The Apostles Heal Many]]"
+- "[[Acts.5.17 The Apostles Arrested and Freed|The Apostles Arrested and Freed]]"
+- "[[Acts.5.24 The Apostles before the Sanhedrin|The Apostles before the Sanhedrin]]"
+- "[[Acts.5.33 Gamaliel’s Advice|Gamaliel’s Advice]]"
+---
+
 (KJV) **Acts 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4|<< Acts 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.6|Acts 6 >>]]</td></tr></table>
 
 <big><big>[[Acts.5.1 Ananias and Sapphira|⥃]]</big></big>***Ananias and Sapphira***

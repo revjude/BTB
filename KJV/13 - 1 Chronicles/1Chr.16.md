@@ -1,3 +1,27 @@
+---
+title: 1 Chronicles 16
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Chronicles
+chapter: 16
+book/chapter: "[[1Chr.16|1 Chronicles 16]]"
+chronological_order: 397
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+pericopes:
+- "[[1Chr.16.1 A Tent for the Ark|A Tent for the Ark]]"
+- "[[1Chr.16.7 David’s Psalms of Thanksgiving|David’s Psalms of Thanksgiving]]"
+- "[[1Chr.16.23 Sing to the LORD, All the Earth|Sing to the LORD, All the Earth]]"
+- "[[1Chr.16.37 Worship before the Ark|Worship before the Ark]]"
+---
+
 (KJV) **1 Chronicles 16**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15|<< 1 Chronicles 15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17|1 Chronicles 17 >>]]</td></tr></table>
 
 <big><big>[[1Chr.16.1 A Tent for the Ark|⥃]]</big></big>***A Tent for the Ark***&emsp;<small><sup>\[ [[2Sam.6|2 Samuel 6:17–19]] ]</sup></small>

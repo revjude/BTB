@@ -1,3 +1,24 @@
+---
+title: Acts 26
+type: Chapter
+original_language: Greek
+testament: New
+book: Acts
+chapter: 26
+book/chapter: "[[Acts.26|Acts 26]]"
+chronological_order: 1108
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+pericopes:
+- "[[Acts.26.1 Paul’s Testimony to Agrippa|Paul’s Testimony to Agrippa]]"
+- "[[Acts.26.24 Festus Interrupts Paul’s Defense|Festus Interrupts Paul’s Defense]]"
+---
+
 (KJV) **Acts 26**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25|<< Acts 25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27|Acts 27 >>]]</td></tr></table>
 
 <big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥃]]</big></big>***Paul’s Testimony to Agrippa***&emsp;<small><sup>\[ [[Acts.9|Acts 9:1–19]] <big>†</big> [[Acts.22|Acts 22:1–21]] ]</sup></small>

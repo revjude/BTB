@@ -1,3 +1,26 @@
+---
+title: 2 Samuel 10
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Samuel
+chapter: 10
+book/chapter: "[[2Sam.10|2 Samuel 10]]"
+chronological_order: 404
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+pericopes:
+- "[[2Sam.10.1 David’s Messengers Disgraced|David’s Messengers Disgraced]]"
+- "[[2Sam.10.9 David Defeats Ammon and Aram|David Defeats Ammon and Aram]]"
+---
+
 (KJV) **2 Samuel 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.9|<< 2 Samuel 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.11|2 Samuel 11 >>]]</td></tr></table>
 
 <big><big>[[2Sam.10.1 David’s Messengers Disgraced|⥃]]</big></big>***David’s Messengers Disgraced***&emsp;<small><sup>\[ [[1Chr.19|1 Chronicles 19:1–9]] ]</sup></small>

@@ -1,3 +1,27 @@
+---
+title: Judges 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Judges
+chapter: 2
+book/chapter: "[[Judg.2|Judges 2]]"
+chronological_order: 256
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+pericopes:
+- "[[Judg.2.1 Israel Rebuked at Bochim|Israel Rebuked at Bochim]]"
+- "[[Judg.2.6 Joshua’s Death and Burial|Joshua’s Death and Burial]]"
+- "[[Judg.2.10 Israel’s Unfaithfulness|Israel’s Unfaithfulness]]"
+- "[[Judg.2.16 Judges Raised Up|Judges Raised Up]]"
+---
+
 (KJV) **Judges 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1|<< Judges 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3|Judges 3 >>]]</td></tr></table>
 
 <big><big>[[Judg.2.1 Israel Rebuked at Bochim|⥃]]</big></big>***Israel Rebuked at Bochim***

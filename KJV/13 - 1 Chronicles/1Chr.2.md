@@ -1,3 +1,24 @@
+---
+title: 1 Chronicles 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Chronicles
+chapter: 2
+book/chapter: "[[1Chr.2|1 Chronicles 2]]"
+chronological_order: 321
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+pericopes:
+- "[[1Chr.2.1 The Sons of Israel|The Sons of Israel]]"
+---
+
 (KJV) **1 Chronicles 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1|<< 1 Chronicles 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3|1 Chronicles 3 >>]]</td></tr></table>
 
 <big><big>[[1Chr.2.1 The Sons of Israel|⥃]]</big></big>***The Sons of Israel***&emsp;<small><sup>\[ [[Gen.35|Genesis 35:21–26]] <big>†</big> [[Gen.38|Genesis 38:1–30]] ]</sup></small>

@@ -1,3 +1,24 @@
+---
+title: Proverbs 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Proverbs
+chapter: 2
+book/chapter: "[[Prov.2|Proverbs 2]]"
+chronological_order: 457
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+pericopes:
+- "[[Prov.2.1 The Benefits of Wisdom|The Benefits of Wisdom]]"
+---
+
 (KJV) **Proverbs 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1|<< Proverbs 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3|Proverbs 3 >>]]</td></tr></table>
 
 <big><big>[[Prov.2.1 The Benefits of Wisdom|⥃]]</big></big>***The Benefits of Wisdom***

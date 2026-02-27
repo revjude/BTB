@@ -1,3 +1,28 @@
+---
+title: Ezekiel 32
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 32
+book/chapter: "[[Ezek.32|Ezekiel 32]]"
+chronological_order: 823
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.32.1 A Lament for Pharaoh King of Egypt|A Lament for Pharaoh King of Egypt]]"
+- "[[Ezek.32.17 Egypt Cast into the Pit|Egypt Cast into the Pit]]"
+---
+
 (KJV) **Ezekiel 32**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31|<< Ezekiel 31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33|Ezekiel 33 >>]]</td></tr></table>
 
 <big><big>[[Ezek.32.1 A Lament for Pharaoh King of Egypt|⥃]]</big></big>***A Lament for Pharaoh King of Egypt***

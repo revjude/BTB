@@ -1,3 +1,26 @@
+---
+title: Joshua 15
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Joshua
+chapter: 15
+book/chapter: "[[Josh.15|Joshua 15]]"
+chronological_order: 245
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+pericopes:
+- "[[Josh.15.1 Judah’s Inheritance|Judah’s Inheritance]]"
+- "[[Josh.15.13 Caleb’s Portion and Conquest|Caleb’s Portion and Conquest]]"
+- "[[Josh.15.20 The Cities of Judah|The Cities of Judah]]"
+---
+
 (KJV) **Joshua 15**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.14|<< Joshua 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.16|Joshua 16 >>]]</td></tr></table>
 
 <big><big>[[Josh.15.1 Judah’s Inheritance|⥃]]</big></big>***Judah’s Inheritance***

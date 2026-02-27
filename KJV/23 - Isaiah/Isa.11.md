@@ -1,3 +1,25 @@
+---
+title: Isaiah 11
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 11
+book/chapter: "[[Isa.11|Isaiah 11]]"
+chronological_order: 621
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.11.1 The Root of Jesse|The Root of Jesse]]"
+---
+
 (KJV) **Isaiah 11**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10|<< Isaiah 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.12|Isaiah 12 >>]]</td></tr></table>
 
 <big><big>[[Isa.11.1 The Root of Jesse|⥃]]</big></big>***The Root of Jesse***

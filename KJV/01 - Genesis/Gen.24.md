@@ -1,3 +1,29 @@
+---
+title: Genesis 24
+type: Chapter
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.24.1 A Wife for Isaac|A Wife for Isaac]]"
+- "[[Gen.24.15 Rebekah Is Chosen|Rebekah Is Chosen]]"
+- "[[Gen.24.62 Isaac Marries Rebekah|Isaac Marries Rebekah]]"
+---
+
 (KJV) **Genesis 24**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.23|<< Genesis 23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25|Genesis 25 >>]]</td></tr></table>
 
 <big><big>[[Gen.24.1 A Wife for Isaac|⥃]]</big></big>***A Wife for Isaac***

@@ -1,3 +1,27 @@
+---
+title: Jeremiah 33
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 33
+book/chapter: "[[Jer.33|Jeremiah 33]]"
+chronological_order: 756
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.33.1 The Excellence of the Restored Nation|The Excellence of the Restored Nation]]"
+- "[[Jer.33.14 The Covenant with David|The Covenant with David]]"
+---
+
 (KJV) **Jeremiah 33**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32|<< Jeremiah 32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34|Jeremiah 34 >>]]</td></tr></table>
 
 <big><big>[[Jer.33.1 The Excellence of the Restored Nation|⥃]]</big></big>***The Excellence of the Restored Nation***

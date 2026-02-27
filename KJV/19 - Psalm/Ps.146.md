@@ -1,3 +1,27 @@
+---
+title: Psalm 146
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 146
+book/chapter: "[[Ps.146|Psalm 146]]"
+chronological_order: 894
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.146.1 Praise the LORD, O My Soul|Praise the LORD, O My Soul]]"
+---
+
 (KJV) **Psalm 146**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.145|<< Psalm 145]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.147|Psalm 147 >>]]</td></tr></table>
 
 <big><big>[[Ps.146.1 Praise the LORD, O My Soul|⥃]]</big></big>***Praise the LORD, O My Soul***

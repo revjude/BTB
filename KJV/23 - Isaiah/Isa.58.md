@@ -1,3 +1,25 @@
+---
+title: Isaiah 58
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 58
+book/chapter: "[[Isa.58|Isaiah 58]]"
+chronological_order: 697
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.58.1 True Fasts and Sabbaths|True Fasts and Sabbaths]]"
+---
+
 (KJV) **Isaiah 58**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57|<< Isaiah 57]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59|Isaiah 59 >>]]</td></tr></table>
 
 <big><big>[[Isa.58.1 True Fasts and Sabbaths|⥃]]</big></big>***True Fasts and Sabbaths***

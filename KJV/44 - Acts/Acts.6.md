@@ -1,3 +1,24 @@
+---
+title: Acts 6
+type: Chapter
+original_language: Greek
+testament: New
+book: Acts
+chapter: 6
+book/chapter: "[[Acts.6|Acts 6]]"
+chronological_order: 1024
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+pericopes:
+- "[[Acts.6.1 The Choosing of the Seven|The Choosing of the Seven]]"
+- "[[Acts.6.8 The Arrest of Stephen|The Arrest of Stephen]]"
+---
+
 (KJV) **Acts 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5|<< Acts 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7|Acts 7 >>]]</td></tr></table>
 
 <big><big>[[Acts.6.1 The Choosing of the Seven|⥃]]</big></big>***The Choosing of the Seven***&emsp;<small><sup>\[ [[1Tim.3|1 Timothy 3:8–13]] ]</sup></small>

@@ -1,3 +1,25 @@
+---
+title: 2 Chronicles 19
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 19
+book/chapter: "[[2Chr.19|2 Chronicles 19]]"
+chronological_order: 572
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.19.1 Jehoshaphat Reproved by Jehu|Jehoshaphat Reproved by Jehu]]"
+- "[[2Chr.19.4 Jehoshaphat’s Reforms|Jehoshaphat’s Reforms]]"
+---
+
 (KJV) **2 Chronicles 19**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18|<< 2 Chronicles 18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20|2 Chronicles 20 >>]]</td></tr></table>
 
 <big><big>[[2Chr.19.1 Jehoshaphat Reproved by Jehu|⥃]]</big></big>***Jehoshaphat Reproved by Jehu***

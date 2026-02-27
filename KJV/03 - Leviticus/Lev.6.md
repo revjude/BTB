@@ -1,3 +1,32 @@
+---
+title: Leviticus 6
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Leviticus
+chapter: 6
+book/chapter: "[[Lev.6|Leviticus 6]]"
+chronological_order: 138
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+pericopes:
+- "[[Lev.6.1 Sins Requiring a Guilt Offering|Sins Requiring a Guilt Offering]]"
+- "[[Lev.6.8 The Burnt Offering|The Burnt Offering]]"
+- "[[Lev.6.14 The Grain Offering|The Grain Offering]]"
+- "[[Lev.6.24 The Sin Offering|The Sin Offering]]"
+---
+
 (KJV) **Leviticus 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.5|<< Leviticus 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7|Leviticus 7 >>]]</td></tr></table>
 
 <big><big>[[Lev.6.1 Sins Requiring a Guilt Offering|⥃]]</big></big>***Sins Requiring a Guilt Offering***&emsp;<small><sup>\[ [[Lev.5|Leviticus 5:14–19]] <big>†</big> [[Lev.7|Leviticus 7:1–10]] ]</sup></small>

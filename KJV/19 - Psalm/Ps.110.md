@@ -1,3 +1,27 @@
+---
+title: Psalm 110
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 110
+book/chapter: "[[Ps.110|Psalm 110]]"
+chronological_order: 384
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.110.1 God’s Faithful Messiah|God’s Faithful Messiah]]"
+---
+
 (KJV) **Psalm 110**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109|<< Psalm 109]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.111|Psalm 111 >>]]</td></tr></table>
 
 <big><big>[[Ps.110.1 God’s Faithful Messiah|⥃]]</big></big>***God’s Faithful Messiah*** <small><small>[^2]</small></small> &emsp;<small><sup>\[ [[Gen.14|Genesis 14:17–24]] <big>†</big> [[Heb.5|Hebrews 5:1–10]] ]</sup></small>

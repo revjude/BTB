@@ -1,3 +1,29 @@
+---
+title: 1 John 2
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 2
+book/chapter: "[[1John.2|1 John 2]]"
+chronological_order: 1162
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+pericopes:
+- "[[1John.2.1 Jesus Our Advocate|Jesus Our Advocate]]"
+- "[[1John.2.7 A New Commandment|A New Commandment]]"
+- "[[1John.2.15 Do Not Love the World|Do Not Love the World]]"
+- "[[1John.2.18 Beware of Antichrists|Beware of Antichrists]]"
+- "[[1John.2.24 Remain in Christ|Remain in Christ]]"
+---
+
 (KJV) **1 John 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.1|<< 1 John 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3|1 John 3 >>]]</td></tr></table>
 
 <big><big>[[1John.2.1 Jesus Our Advocate|⥃]]</big></big>***Jesus Our Advocate***

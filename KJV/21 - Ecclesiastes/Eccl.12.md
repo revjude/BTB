@@ -1,3 +1,25 @@
+---
+title: Ecclesiastes 12
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ecclesiastes
+chapter: 12
+book/chapter: "[[Eccl.12|Ecclesiastes 12]]"
+chronological_order: 550
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+pericopes:
+- "[[Eccl.12.1 Remember Your Creator|Remember Your Creator]]"
+- "[[Eccl.12.9 The Whole Duty of Man|The Whole Duty of Man]]"
+---
+
 (KJV) **Ecclesiastes 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.11|<< Ecclesiastes 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.1|Song of Solomon 1 >>]]</td></tr></table>
 
 <big><big>[[Eccl.12.1 Remember Your Creator|⥃]]</big></big>***Remember Your Creator***

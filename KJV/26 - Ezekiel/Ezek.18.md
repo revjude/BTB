@@ -1,3 +1,27 @@
+---
+title: Ezekiel 18
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 18
+book/chapter: "[[Ezek.18|Ezekiel 18]]"
+chronological_order: 809
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.18.1 The Soul Who Sins Will Die|The Soul Who Sins Will Die]]"
+---
+
 (KJV) **Ezekiel 18**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17|<< Ezekiel 17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.19|Ezekiel 19 >>]]</td></tr></table>
 
 <big><big>[[Ezek.18.1 The Soul Who Sins Will Die|⥃]]</big></big>***The Soul Who Sins Will Die***

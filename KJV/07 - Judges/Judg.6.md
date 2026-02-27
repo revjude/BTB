@@ -1,3 +1,27 @@
+---
+title: Judges 6
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Judges
+chapter: 6
+book/chapter: "[[Judg.6|Judges 6]]"
+chronological_order: 260
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+pericopes:
+- "[[Judg.6.1 Midian Oppresses Israel|Midian Oppresses Israel]]"
+- "[[Judg.6.11 The Call of Gideon|The Call of Gideon]]"
+- "[[Judg.6.25 Gideon Destroys Baal’s Altar|Gideon Destroys Baal’s Altar]]"
+- "[[Judg.6.33 The Sign of the Fleece|The Sign of the Fleece]]"
+---
+
 (KJV) **Judges 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5|<< Judges 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7|Judges 7 >>]]</td></tr></table>
 
 <big><big>[[Judg.6.1 Midian Oppresses Israel|⥃]]</big></big>***Midian Oppresses Israel***

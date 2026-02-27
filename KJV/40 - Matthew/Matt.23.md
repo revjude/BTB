@@ -1,3 +1,25 @@
+---
+title: Matthew 23
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 23
+book/chapter: "[[Matt.23|Matthew 23]]"
+chronological_order: 996
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.23.1 Woes to Scribes and Pharisees|Woes to Scribes and Pharisees]]"
+- "[[Matt.23.37 Lament over Jerusalem|Lament over Jerusalem]]"
+---
+
 (KJV) **Matthew 23**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22|<< Matthew 22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24|Matthew 24 >>]]</td></tr></table>
 
 <big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥃]]</big></big>***Woes to Scribes and Pharisees***&emsp;<small><sup>\[ [[Luke.11|Luke 11:37–54]] ]</sup></small>

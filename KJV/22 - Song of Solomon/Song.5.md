@@ -1,3 +1,26 @@
+---
+title: Song of Solomon 5
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Song of Solomon
+chapter: 5
+book/chapter: "[[Song.5|Song of Solomon 5]]"
+chronological_order: 452
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+pericopes:
+- "[[Song.5.1 The Bridegroom|The Bridegroom]]"
+- "[[Song.5.2 The Bride|The Bride]]"
+- "[[Song.5.9 The Friends|The Friends]]"
+- "[[Song.5.10 The Bride|The Bride]]"
+---
+
 (KJV) **Song of Solomon 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.4|<< Song of Solomon 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.6|Song of Solomon 6 >>]]</td></tr></table>
 
 <big><big>[[Song.5.1 The Bridegroom|⥃]]</big></big>*The Bridegroom*

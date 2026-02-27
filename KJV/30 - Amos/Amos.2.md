@@ -1,3 +1,25 @@
+---
+title: Amos 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Amos
+chapter: 2
+book/chapter: "[[Amos.2|Amos 2]]"
+chronological_order: 599
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+pericopes:
+- "[[Amos.2.1 Judgment on Moab, Judah, and Israel|Judgment on Moab, Judah, and Israel]]"
+---
+
 (KJV) **Amos 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.1|<< Amos 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.3|Amos 3 >>]]</td></tr></table>
 
 <big><big>[[Amos.2.1 Judgment on Moab, Judah, and Israel|⥃]]</big></big>***Judgment on Moab, Judah, and Israel***

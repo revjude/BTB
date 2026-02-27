@@ -1,3 +1,27 @@
+---
+title: John 5
+type: Chapter
+original_language: Greek
+testament: New
+book: John
+chapter: 5
+book/chapter: "[[John.5|John 5]]"
+chronological_order: 961
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+pericopes:
+- "[[John.5.1 The Pool of Bethesda|The Pool of Bethesda]]"
+- "[[John.5.16 The Father and the Son|The Father and the Son]]"
+- "[[John.5.31 Testimonies about Jesus|Testimonies about Jesus]]"
+- "[[John.5.39 The Witness of Scripture|The Witness of Scripture]]"
+---
+
 (KJV) **John 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4|<< John 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6|John 6 >>]]</td></tr></table>
 
 <big><big>[[John.5.1 The Pool of Bethesda|⥃]]</big></big>***The Pool of Bethesda***

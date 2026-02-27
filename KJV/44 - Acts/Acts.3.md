@@ -1,3 +1,24 @@
+---
+title: Acts 3
+type: Chapter
+original_language: Greek
+testament: New
+book: Acts
+chapter: 3
+book/chapter: "[[Acts.3|Acts 3]]"
+chronological_order: 1021
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+pericopes:
+- "[[Acts.3.1 A Lame Man Walks|A Lame Man Walks]]"
+- "[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|Peter Speaks in Solomon’s Colonnade]]"
+---
+
 (KJV) **Acts 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2|<< Acts 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4|Acts 4 >>]]</td></tr></table>
 
 <big><big>[[Acts.3.1 A Lame Man Walks|⥃]]</big></big>***A Lame Man Walks***

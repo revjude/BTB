@@ -1,3 +1,24 @@
+---
+title: 1 Samuel 5
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Samuel
+chapter: 5
+book/chapter: "[[1Sam.5|1 Samuel 5]]"
+chronological_order: 284
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[1Sam.5.1 The Ark Afflicts the Philistines|The Ark Afflicts the Philistines]]"
+---
+
 (KJV) **1 Samuel 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.4|<< 1 Samuel 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6|1 Samuel 6 >>]]</td></tr></table>
 
 <big><big>[[1Sam.5.1 The Ark Afflicts the Philistines|⥃]]</big></big>***The Ark Afflicts the Philistines***

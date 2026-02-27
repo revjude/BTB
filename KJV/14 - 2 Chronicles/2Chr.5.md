@@ -1,3 +1,24 @@
+---
+title: 2 Chronicles 5
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 5
+book/chapter: "[[2Chr.5|2 Chronicles 5]]"
+chronological_order: 494
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.5.1 The Ark Enters the Temple|The Ark Enters the Temple]]"
+---
+
 (KJV) **2 Chronicles 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.4|<< 2 Chronicles 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6|2 Chronicles 6 >>]]</td></tr></table>
 
 <big><big>[[2Chr.5.1 The Ark Enters the Temple|⥃]]</big></big>***The Ark Enters the Temple***&emsp;<small><sup>\[ [[1Kgs.8|1 Kings 8:1–11]] ]</sup></small>

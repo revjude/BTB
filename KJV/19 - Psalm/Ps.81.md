@@ -1,3 +1,27 @@
+---
+title: Psalm 81
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 81
+book/chapter: "[[Ps.81|Psalm 81]]"
+chronological_order: 511
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.81.1 Sing for Joy to God Our Strength|Sing for Joy to God Our Strength]]"
+---
+
 (KJV) **Psalm 81**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.80|<< Psalm 80]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.82|Psalm 82 >>]]</td></tr></table>
 
 <big><big>[[Ps.81.1 Sing for Joy to God Our Strength|⥃]]</big></big>***Sing for Joy to God Our Strength***

@@ -1,3 +1,26 @@
+---
+title: 1 Samuel 18
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Samuel
+chapter: 18
+book/chapter: "[[1Sam.18|1 Samuel 18]]"
+chronological_order: 297
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[1Sam.18.1 Jonathan Befriends David|Jonathan Befriends David]]"
+- "[[1Sam.18.5 Saul Envies David|Saul Envies David]]"
+- "[[1Sam.18.17 David Marries Michal|David Marries Michal]]"
+---
+
 (KJV) **1 Samuel 18**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17|<< 1 Samuel 17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19|1 Samuel 19 >>]]</td></tr></table>
 
 <big><big>[[1Sam.18.1 Jonathan Befriends David|⥃]]</big></big>***Jonathan Befriends David***

@@ -1,3 +1,25 @@
+---
+title: Ezra 9
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezra
+chapter: 9
+book/chapter: "[[Ezra.9|Ezra 9]]"
+chronological_order: 911
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+pericopes:
+- "[[Ezra.9.1 Intermarriage with Neighboring Peoples|Intermarriage with Neighboring Peoples]]"
+- "[[Ezra.9.5 Ezra’s Prayer of Confession|Ezra’s Prayer of Confession]]"
+---
+
 (KJV) **Ezra 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8|<< Ezra 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10|Ezra 10 >>]]</td></tr></table>
 
 <big><big>[[Ezra.9.1 Intermarriage with Neighboring Peoples|⥃]]</big></big>***Intermarriage with Neighboring Peoples***&emsp;<small><sup>\[ [[Neh.13|Nehemiah 13:23–31]] ]</sup></small>

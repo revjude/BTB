@@ -1,3 +1,28 @@
+---
+title: Ezekiel 17
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 17
+book/chapter: "[[Ezek.17|Ezekiel 17]]"
+chronological_order: 808
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.17.1 The Parable of Two Eagles and a Vine|The Parable of Two Eagles and a Vine]]"
+- "[[Ezek.17.11 The Parable Explained|The Parable Explained]]"
+---
+
 (KJV) **Ezekiel 17**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16|<< Ezekiel 16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18|Ezekiel 18 >>]]</td></tr></table>
 
 <big><big>[[Ezek.17.1 The Parable of Two Eagles and a Vine|⥃]]</big></big>***The Parable of Two Eagles and a Vine***&emsp;<small><sup>\[ [[Matt.13|Matthew 13:24–30]] ]</sup></small>

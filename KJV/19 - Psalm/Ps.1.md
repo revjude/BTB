@@ -1,3 +1,27 @@
+---
+title: Psalm 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 1
+book/chapter: "[[Ps.1|Psalm 1]]"
+chronological_order: 337
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.1.1 The Two Paths|The Two Paths]]"
+---
+
 (KJV) **Psalm 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.42|<< Job 42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.2|Psalm 2 >>]]</td></tr></table>
 
 <big><big>[[Ps.1.1 The Two Paths|⥃]]</big></big>***The Two Paths***&emsp;<small><sup>\[ [[Matt.5|Matthew 5:3–12]] <big>†</big> [[Luke.6|Luke 6:20–23]] ]</sup></small>

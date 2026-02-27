@@ -1,3 +1,28 @@
+---
+title: Genesis 33
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Genesis
+chapter: 33
+book/chapter: "[[Gen.33|Genesis 33]]"
+chronological_order: 75
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.33.1 Jacob Meets Esau|Jacob Meets Esau]]"
+- "[[Gen.33.18 Jacob Settles in Shechem|Jacob Settles in Shechem]]"
+---
+
 (KJV) **Genesis 33**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32|<< Genesis 32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34|Genesis 34 >>]]</td></tr></table>
 
 <big><big>[[Gen.33.1 Jacob Meets Esau|⥃]]</big></big>***Jacob Meets Esau***

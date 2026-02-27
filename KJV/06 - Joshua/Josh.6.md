@@ -1,3 +1,24 @@
+---
+title: Joshua 6
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Joshua
+chapter: 6
+book/chapter: "[[Josh.6|Joshua 6]]"
+chronological_order: 236
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+pericopes:
+- "[[Josh.6.1 The Walls of Jericho|The Walls of Jericho]]"
+---
+
 (KJV) **Joshua 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.5|<< Joshua 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7|Joshua 7 >>]]</td></tr></table>
 
 <big><big>[[Josh.6.1 The Walls of Jericho|⥃]]</big></big>***The Walls of Jericho***

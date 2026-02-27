@@ -1,3 +1,33 @@
+---
+title: Deuteronomy 16
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Deuteronomy
+chapter: 16
+book/chapter: "[[Deut.16|Deuteronomy 16]]"
+chronological_order: 212
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+pericopes:
+- "[[Deut.16.1 Passover and the Feast of Unleavened Bread|Passover and the Feast of Unleavened Bread]]"
+- "[[Deut.16.9 The Feast of Weeks|The Feast of Weeks]]"
+- "[[Deut.16.13 The Feast of Tabernacles|The Feast of Tabernacles]]"
+- "[[Deut.16.18 Judges and Justice|Judges and Justice]]"
+- "[[Deut.16.21 Forbidden Forms of Worship|Forbidden Forms of Worship]]"
+---
+
 (KJV) **Deuteronomy 16**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15|<< Deuteronomy 15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.17|Deuteronomy 17 >>]]</td></tr></table>
 
 <big><big>[[Deut.16.1 Passover and the Feast of Unleavened Bread|⥃]]</big></big>***Passover and the Feast of Unleavened Bread***&emsp;<small><sup>\[ [[Exod.12|Exodus 12:14–28]] <big>†</big> [[Lev.23|Leviticus 23:4–8]] <big>†</big> [[Num.28|Numbers 28:16–25]] ]</sup></small>

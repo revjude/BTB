@@ -1,3 +1,27 @@
+---
+title: Psalm 67
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 67
+book/chapter: "[[Ps.67|Psalm 67]]"
+chronological_order: 427
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.67.1 May God Cause His Face to Shine upon Us|May God Cause His Face to Shine upon Us]]"
+---
+
 (KJV) **Psalm 67**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66|<< Psalm 66]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68|Psalm 68 >>]]</td></tr></table>
 
 <big><big>[[Ps.67.1 May God Cause His Face to Shine upon Us|⥃]]</big></big>***May God Cause His Face to Shine upon Us***

@@ -1,3 +1,27 @@
+---
+title: Psalm 3
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 3
+book/chapter: "[[Ps.3|Psalm 3]]"
+chronological_order: 421
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.3.1 Deliver Me, O LORD!|Deliver Me, O LORD!]]"
+---
+
 (KJV) **Psalm 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.2|<< Psalm 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.4|Psalm 4 >>]]</td></tr></table>
 
 <big><big>[[Ps.3.1 Deliver Me, O LORD!|⥃]]</big></big>***Deliver Me, O LORD!***&emsp;<small><sup>\[ [[2Sam.15|2 Samuel 15:13–29]] ]</sup></small>

@@ -1,3 +1,27 @@
+---
+title: Psalm 149
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 149
+book/chapter: "[[Ps.149|Psalm 149]]"
+chronological_order: 897
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.149.1 Sing to the LORD a New Song|Sing to the LORD a New Song]]"
+---
+
 (KJV) **Psalm 149**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.148|<< Psalm 148]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.150|Psalm 150 >>]]</td></tr></table>
 
 <big><big>[[Ps.149.1 Sing to the LORD a New Song|⥃]]</big></big>***Sing to the LORD a New Song***&emsp;<small><sup>\[ [[Ps.98|Psalms 98:1–9]] <big>†</big> [[Isa.42|Isaiah 42:10–17]] ]</sup></small>

@@ -1,3 +1,30 @@
+---
+title: Deuteronomy 6
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Deuteronomy
+chapter: 6
+book/chapter: "[[Deut.6|Deuteronomy 6]]"
+chronological_order: 202
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+pericopes:
+- "[[Deut.6.1 The Greatest Commandment|The Greatest Commandment]]"
+- "[[Deut.6.20 Teach Your Children|Teach Your Children]]"
+---
+
 (KJV) **Deuteronomy 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5|<< Deuteronomy 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7|Deuteronomy 7 >>]]</td></tr></table>
 
 <big><big>[[Deut.6.1 The Greatest Commandment|⥃]]</big></big>***The Greatest Commandment***&emsp;<small><sup>\[ [[Matt.22|Matthew 22:34–40]] <big>†</big> [[Mark.12|Mark 12:28–34]] ]</sup></small>

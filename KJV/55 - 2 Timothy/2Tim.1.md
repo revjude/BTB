@@ -1,3 +1,26 @@
+---
+title: 2 Timothy 1
+type: Chapter
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 1
+book/chapter: "[[2Tim.1|2 Timothy 1]]"
+chronological_order: 1153
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+pericopes:
+- "[[2Tim.1.1 Paul’s Greeting to Timothy|Paul’s Greeting to Timothy]]"
+- "[[2Tim.1.3 Faithfulness under Persecution|Faithfulness under Persecution]]"
+- "[[2Tim.1.13 Holding to Sound Teaching|Holding to Sound Teaching]]"
+---
+
 (KJV) **2 Timothy 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6|<< 1 Timothy 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2|2 Timothy 2 >>]]</td></tr></table>
 
 <big><big>[[2Tim.1.1 Paul’s Greeting to Timothy|⥃]]</big></big>***Paul’s Greeting to Timothy***&emsp;<small><sup>\[ [[1Tim.1|1 Timothy 1:1–2]] ]</sup></small>

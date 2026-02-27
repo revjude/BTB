@@ -1,3 +1,27 @@
+---
+title: Revelation 12
+type: Chapter
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 12
+book/chapter: "[[Rev.12|Revelation 12]]"
+chronological_order: 1179
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+pericopes:
+- "[[Rev.12.1 The Woman and the Dragon|The Woman and the Dragon]]"
+- "[[Rev.12.7 The War in Heaven|The War in Heaven]]"
+- "[[Rev.12.13 The Woman Persecuted|The Woman Persecuted]]"
+---
+
 (KJV) **Revelation 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11|<< Revelation 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13|Revelation 13 >>]]</td></tr></table>
 
 <big><big>[[Rev.12.1 The Woman and the Dragon|⥃]]</big></big>***The Woman and the Dragon***

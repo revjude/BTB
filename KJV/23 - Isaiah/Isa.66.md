@@ -1,3 +1,27 @@
+---
+title: Isaiah 66
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 66
+book/chapter: "[[Isa.66|Isaiah 66]]"
+chronological_order: 705
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.66.1 Heaven Is My Throne|Heaven Is My Throne]]"
+- "[[Isa.66.7 Rejoice with Jerusalem|Rejoice with Jerusalem]]"
+- "[[Isa.66.15 Final Judgments against the Wicked|Final Judgments against the Wicked]]"
+---
+
 (KJV) **Isaiah 66**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65|<< Isaiah 65]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.1|Jeremiah 1 >>]]</td></tr></table>
 
 <big><big>[[Isa.66.1 Heaven Is My Throne|⥃]]</big></big>***Heaven Is My Throne***

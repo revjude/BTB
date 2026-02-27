@@ -1,3 +1,25 @@
+---
+title: Haggai 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Haggai
+chapter: 1
+book/chapter: "[[Hag.1|Haggai 1]]"
+chronological_order: 855
+era: Return
+period: "Return from Exile: Haggai and the Temple Rebuilding"
+date: ~520 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+pericopes:
+- "[[Hag.1.1 A Call to Rebuild the Temple|A Call to Rebuild the Temple]]"
+- "[[Hag.1.12 The People Obey|The People Obey]]"
+---
+
 (KJV) **Haggai 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3|<< Zephaniah 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2|Haggai 2 >>]]</td></tr></table>
 
 <big><big>[[Hag.1.1 A Call to Rebuild the Temple|⥃]]</big></big>***A Call to Rebuild the Temple***&emsp;<small><sup>\[ [[Ezra.5|Ezra 5:1–5]] ]</sup></small>

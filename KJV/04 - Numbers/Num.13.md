@@ -1,3 +1,29 @@
+---
+title: Numbers 13
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 13
+book/chapter: "[[Num.13|Numbers 13]]"
+chronological_order: 173
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.13.1 The Spies Explore Canaan|The Spies Explore Canaan]]"
+- "[[Num.13.25 The Reports of the Spies|The Reports of the Spies]]"
+---
+
 (KJV) **Numbers 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.12|<< Numbers 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14|Numbers 14 >>]]</td></tr></table>
 
 <big><big>[[Num.13.1 The Spies Explore Canaan|⥃]]</big></big>***The Spies Explore Canaan***&emsp;<small><sup>\[ [[Deut.1|Deuteronomy 1:19–25]] ]</sup></small>

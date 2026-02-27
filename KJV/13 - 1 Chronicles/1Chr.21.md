@@ -1,3 +1,27 @@
+---
+title: 1 Chronicles 21
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Chronicles
+chapter: 21
+book/chapter: "[[1Chr.21|1 Chronicles 21]]"
+chronological_order: 420
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+pericopes:
+- "[[1Chr.21.1 David’s Military Census|David’s Military Census]]"
+- "[[1Chr.21.7 Judgment for David’s Sin|Judgment for David’s Sin]]"
+- "[[1Chr.21.14 A Plague on Israel|A Plague on Israel]]"
+- "[[1Chr.21.18 David Builds an Altar|David Builds an Altar]]"
+---
+
 (KJV) **1 Chronicles 21**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.20|<< 1 Chronicles 20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.22|1 Chronicles 22 >>]]</td></tr></table>
 
 <big><big>[[1Chr.21.1 David’s Military Census|⥃]]</big></big>***David’s Military Census***&emsp;<small><sup>\[ [[Exod.30|Exodus 30:11–16]] <big>†</big> [[2Sam.24|2 Samuel 24:1–9]] ]</sup></small>

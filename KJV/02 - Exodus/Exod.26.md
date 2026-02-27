@@ -1,3 +1,33 @@
+---
+title: Exodus 26
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 26
+book/chapter: "[[Exod.26|Exodus 26]]"
+chronological_order: 118
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.26.1 The Ten Curtains for the Tabernacle|The Ten Curtains for the Tabernacle]]"
+- "[[Exod.26.7 The Eleven Curtains of Goat Hair|The Eleven Curtains of Goat Hair]]"
+- "[[Exod.26.15 The Frames and Bases|The Frames and Bases]]"
+- "[[Exod.26.31 The Veil|The Veil]]"
+- "[[Exod.26.36 The Curtain for the Entrance|The Curtain for the Entrance]]"
+---
+
 (KJV) **Exodus 26**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25|<< Exodus 25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27|Exodus 27 >>]]</td></tr></table>
 
 <big><big>[[Exod.26.1 The Ten Curtains for the Tabernacle|⥃]]</big></big>***The Ten Curtains for the Tabernacle***&emsp;<small><sup>\[ [[Exod.36|Exodus 36:8–13]] ]</sup></small>

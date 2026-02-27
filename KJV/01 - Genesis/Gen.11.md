@@ -1,3 +1,29 @@
+---
+title: Genesis 11
+type: Chapter
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 11
+book/chapter: "[[Gen.11|Genesis 11]]"
+chronological_order: 11
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.11.1 The Tower of Babel|The Tower of Babel]]"
+- "[[Gen.11.10 Genealogy from Shem to Abram|Genealogy from Shem to Abram]]"
+- "[[Gen.11.27 Terah’s Descendants|Terah’s Descendants]]"
+---
+
 (KJV) **Genesis 11**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10|<< Genesis 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12|Genesis 12 >>]]</td></tr></table>
 
 <big><big>[[Gen.11.1 The Tower of Babel|⥃]]</big></big>***The Tower of Babel***&emsp;<small><sup>\[ [[Deut.32|Deuteronomy 32:8]] <big>†</big> [[Acts.2|Acts 2:1–13]] ]</sup></small>

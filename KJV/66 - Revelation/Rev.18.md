@@ -1,3 +1,27 @@
+---
+title: Revelation 18
+type: Chapter
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 18
+book/chapter: "[[Rev.18|Revelation 18]]"
+chronological_order: 1185
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+pericopes:
+- "[[Rev.18.1 Babylon Is Fallen|Babylon Is Fallen]]"
+- "[[Rev.18.9 Lament over Babylon|Lament over Babylon]]"
+- "[[Rev.18.21 The Doom of Babylon|The Doom of Babylon]]"
+---
+
 (KJV) **Revelation 18**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17|<< Revelation 17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19|Revelation 19 >>]]</td></tr></table>
 
 <big><big>[[Rev.18.1 Babylon Is Fallen|⥃]]</big></big>***Babylon Is Fallen***&emsp;<small><sup>\[ [[Isa.21|Isaiah 21:1–10]] ]</sup></small>

@@ -1,3 +1,27 @@
+---
+title: John 16
+type: Chapter
+original_language: Greek
+testament: New
+book: John
+chapter: 16
+book/chapter: "[[John.16|John 16]]"
+chronological_order: 1004
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+pericopes:
+- "[[John.16.1 Persecution Foretold|Persecution Foretold]]"
+- "[[John.16.5 The Promise of the Holy Spirit|The Promise of the Holy Spirit]]"
+- "[[John.16.17 Grief Will Turn to Joy|Grief Will Turn to Joy]]"
+- "[[John.16.23 Ask in My Name|Ask in My Name]]"
+---
+
 (KJV) **John 16**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15|<< John 15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17|John 17 >>]]</td></tr></table>
 
 <big><big>[[John.16.1 Persecution Foretold|⥃]]</big></big>***Persecution Foretold***&emsp;<small><sup>\[ [[Acts.23|Acts 23:12–22]] ]</sup></small>

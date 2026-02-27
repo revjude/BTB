@@ -1,3 +1,25 @@
+---
+title: Job 21
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 21
+book/chapter: "[[Job.21|Job 21]]"
+chronological_order: 32
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.21.1 Job：God Will Punish the Wicked|Job：God Will Punish the Wicked]]"
+---
+
 (KJV) **Job 21**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20|<< Job 20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.22|Job 22 >>]]</td></tr></table>
 
 <big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥃]]</big></big>***Job: God Will Punish the Wicked***

@@ -1,3 +1,27 @@
+---
+title: Psalm 77
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 77
+book/chapter: "[[Ps.77|Psalm 77]]"
+chronological_order: 509
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.77.1 In the Day of Trouble I Sought the Lord|In the Day of Trouble I Sought the Lord]]"
+---
+
 (KJV) **Psalm 77**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.76|<< Psalm 76]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78|Psalm 78 >>]]</td></tr></table>
 
 <big><big>[[Ps.77.1 In the Day of Trouble I Sought the Lord|⥃]]</big></big>***In the Day of Trouble I Sought the Lord***

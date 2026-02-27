@@ -1,3 +1,30 @@
+---
+title: Exodus 21
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 21
+book/chapter: "[[Exod.21|Exodus 21]]"
+chronological_order: 113
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.21.1 Hebrew Servants|Hebrew Servants]]"
+- "[[Exod.21.12 Personal Injury Laws|Personal Injury Laws]]"
+---
+
 (KJV) **Exodus 21**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20|<< Exodus 20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22|Exodus 22 >>]]</td></tr></table>
 
 <big><big>[[Exod.21.1 Hebrew Servants|⥃]]</big></big>***Hebrew Servants***&emsp;<small><sup>\[ [[Deut.15|Deuteronomy 15:12–18]] ]</sup></small>

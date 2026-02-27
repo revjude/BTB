@@ -1,3 +1,27 @@
+---
+title: Psalm 107
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 107
+book/chapter: "[[Ps.107|Psalm 107]]"
+chronological_order: 872
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.107.1 Thanksgiving for Deliverance|Thanksgiving for Deliverance]]"
+---
+
 (KJV) **Psalm 107**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106|<< Psalm 106]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.108|Psalm 108 >>]]</td></tr></table>
 
 <big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥃]]</big></big>***Thanksgiving for Deliverance*** <small><small>[^2]</small></small> &emsp;<small><sup>\[ [[Matt.8|Matthew 8:23–27]] <big>†</big> [[Mark.4|Mark 4:35–41]] <big>†</big> [[Luke.8|Luke 8:22–25]] ]</sup></small>

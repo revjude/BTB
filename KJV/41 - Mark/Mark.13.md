@@ -1,3 +1,29 @@
+---
+title: Mark 13
+type: Chapter
+original_language: Greek
+testament: New
+book: Mark
+chapter: 13
+book/chapter: "[[Mark.13|Mark 13]]"
+chronological_order: 998
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Mark.13.1 Temple Destruction and Other Signs|Temple Destruction and Other Signs]]"
+- "[[Mark.13.9 Witnessing to All Nations|Witnessing to All Nations]]"
+- "[[Mark.13.14 The Abomination of Desolation|The Abomination of Desolation]]"
+- "[[Mark.13.24 The Return of the Son of Man|The Return of the Son of Man]]"
+- "[[Mark.13.28 The Lesson of the Fig Tree|The Lesson of the Fig Tree]]"
+- "[[Mark.13.32 Readiness at Any Hour|Readiness at Any Hour]]"
+---
+
 (KJV) **Mark 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12|<< Mark 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14|Mark 14 >>]]</td></tr></table>
 
 <big><big>[[Mark.13.1 Temple Destruction and Other Signs|⥃]]</big></big>***Temple Destruction and Other Signs***&emsp;<small><sup>\[ [[Matt.24|Matthew 24:1–8]] <big>†</big> [[Luke.21|Luke 21:5–9]] ]</sup></small>

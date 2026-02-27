@@ -1,3 +1,27 @@
+---
+title: Psalm 29
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 29
+book/chapter: "[[Ps.29|Psalm 29]]"
+chronological_order: 361
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.29.1 Ascribe Glory to the LORD|Ascribe Glory to the LORD]]"
+---
+
 (KJV) **Psalm 29**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.28|<< Psalm 28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.30|Psalm 30 >>]]</td></tr></table>
 
 <big><big>[[Ps.29.1 Ascribe Glory to the LORD|⥃]]</big></big>***Ascribe Glory to the LORD***

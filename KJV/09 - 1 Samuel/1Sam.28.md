@@ -1,3 +1,25 @@
+---
+title: 1 Samuel 28
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Samuel
+chapter: 28
+book/chapter: "[[1Sam.28|1 Samuel 28]]"
+chronological_order: 307
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[1Sam.28.1 The Philistines Gather against Israel|The Philistines Gather against Israel]]"
+- "[[1Sam.28.7 Saul and the Medium of Endor|Saul and the Medium of Endor]]"
+---
+
 (KJV) **1 Samuel 28**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.27|<< 1 Samuel 27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.29|1 Samuel 29 >>]]</td></tr></table>
 
 <big><big>[[1Sam.28.1 The Philistines Gather against Israel|⥃]]</big></big>***The Philistines Gather against Israel***

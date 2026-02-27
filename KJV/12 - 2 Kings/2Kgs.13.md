@@ -1,3 +1,26 @@
+---
+title: 2 Kings 13
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Kings
+chapter: 13
+book/chapter: "[[2Kgs.13|2 Kings 13]]"
+chronological_order: 590
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~798–782 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[2Kgs.13.1 Jehoahaz Reigns in Israel|Jehoahaz Reigns in Israel]]"
+- "[[2Kgs.13.10 Jehoash Reigns in Israel|Jehoash Reigns in Israel]]"
+- "[[2Kgs.13.14 Elisha’s Final Prophecy|Elisha’s Final Prophecy]]"
+---
+
 (KJV) **2 Kings 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.12|<< 2 Kings 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14|2 Kings 14 >>]]</td></tr></table>
 
 <big><big>[[2Kgs.13.1 Jehoahaz Reigns in Israel|⥃]]</big></big>***Jehoahaz Reigns in Israel***

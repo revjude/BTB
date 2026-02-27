@@ -1,3 +1,27 @@
+---
+title: 2 Kings 22
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Kings
+chapter: 22
+book/chapter: "[[2Kgs.22|2 Kings 22]]"
+chronological_order: 711
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[2Kgs.22.1 Josiah Reigns in Judah|Josiah Reigns in Judah]]"
+- "[[2Kgs.22.3 Funding the Temple Repairs|Funding the Temple Repairs]]"
+- "[[2Kgs.22.8 Hilkiah Finds the Book of the Law|Hilkiah Finds the Book of the Law]]"
+- "[[2Kgs.22.14 Huldah’s Prophecy|Huldah’s Prophecy]]"
+---
+
 (KJV) **2 Kings 22**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.21|<< 2 Kings 21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23|2 Kings 23 >>]]</td></tr></table>
 
 <big><big>[[2Kgs.22.1 Josiah Reigns in Judah|⥃]]</big></big>***Josiah Reigns in Judah***&emsp;<small><sup>\[ [[2Chr.34|2 Chronicles 34:1–2]] ]</sup></small>

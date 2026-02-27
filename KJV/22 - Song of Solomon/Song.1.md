@@ -1,3 +1,32 @@
+---
+title: Song of Solomon 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Song of Solomon
+chapter: 1
+book/chapter: "[[Song.1|Song of Solomon 1]]"
+chronological_order: 448
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+pericopes:
+- "[[Song.1.1 The Bride Confesses Her Love|The Bride Confesses Her Love]]"
+- "[[Song.1.2 The Bride|The Bride]]"
+- "[[Song.1.5 The Bride|The Bride]]"
+- "[[Song.1.8 The Friends|The Friends]]"
+- "[[Song.1.9 The Bridegroom|The Bridegroom]]"
+- "[[Song.1.11 The Friends|The Friends]]"
+- "[[Song.1.12 The Bride|The Bride]]"
+- "[[Song.1.15 The Bridegroom|The Bridegroom]]"
+- "[[Song.1.16 The Bride|The Bride]]"
+- "[[Song.1.17 The Bridegroom|The Bridegroom]]"
+---
+
 (KJV) **Song of Solomon 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.12|<< Ecclesiastes 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.2|Song of Solomon 2 >>]]</td></tr></table>
 
 <big><big>[[Song.1.1 The Bride Confesses Her Love|⥃]]</big></big>***The Bride Confesses Her Love***&emsp;<small><sup>\[ [[Eph.5|Ephesians 5:22–33]] <big>†</big> [[1Pet.3|1 Peter 3:1–7]] ]</sup></small>

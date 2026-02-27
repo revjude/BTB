@@ -1,3 +1,27 @@
+---
+title: 2 Kings 24
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Kings
+chapter: 24
+book/chapter: "[[2Kgs.24|2 Kings 24]]"
+chronological_order: 741
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[2Kgs.24.1 Babylon Controls Jehoiakim|Babylon Controls Jehoiakim]]"
+- "[[2Kgs.24.6 Jehoiachin Reigns in Judah|Jehoiachin Reigns in Judah]]"
+- "[[2Kgs.24.10 The Captivity of Jerusalem|The Captivity of Jerusalem]]"
+- "[[2Kgs.24.18 Zedekiah Reigns in Judah|Zedekiah Reigns in Judah]]"
+---
+
 (KJV) **2 Kings 24**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23|<< 2 Kings 23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25|2 Kings 25 >>]]</td></tr></table>
 
 <big><big>[[2Kgs.24.1 Babylon Controls Jehoiakim|⥃]]</big></big>***Babylon Controls Jehoiakim***

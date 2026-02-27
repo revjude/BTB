@@ -1,3 +1,28 @@
+---
+title: Genesis 12
+type: Chapter
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 12
+book/chapter: "[[Gen.12|Genesis 12]]"
+chronological_order: 54
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.12.1 The Call of Abram|The Call of Abram]]"
+- "[[Gen.12.10 Abram and Sarai in Egypt|Abram and Sarai in Egypt]]"
+---
+
 (KJV) **Genesis 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11|<< Genesis 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.13|Genesis 13 >>]]</td></tr></table>
 
 <big><big>[[Gen.12.1 The Call of Abram|⥃]]</big></big>***The Call of Abram***&emsp;<small><sup>\[ [[Gen.26|Genesis 26:1–5]] <big>†</big> [[Acts.7|Acts 7:1–8]] ]</sup></small>

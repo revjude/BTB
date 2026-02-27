@@ -1,3 +1,29 @@
+---
+title: Genesis 6
+type: Chapter
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 6
+book/chapter: "[[Gen.6|Genesis 6]]"
+chronological_order: 6
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.6.1 Corruption on the Earth|Corruption on the Earth]]"
+- "[[Gen.6.8 Noah’s Favor with God|Noah’s Favor with God]]"
+- "[[Gen.6.13 Preparing the Ark|Preparing the Ark]]"
+---
+
 (KJV) **Genesis 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5|<< Genesis 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.7|Genesis 7 >>]]</td></tr></table>
 
 <big><big>[[Gen.6.1 Corruption on the Earth|⥃]]</big></big>***Corruption on the Earth***&emsp;<small><sup>\[ [[Matt.24|Matthew 24:36–51]] ]</sup></small>

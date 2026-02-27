@@ -1,3 +1,30 @@
+---
+title: 2 Kings 15
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Kings
+chapter: 15
+book/chapter: "[[2Kgs.15|2 Kings 15]]"
+chronological_order: 607
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~767–735 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[2Kgs.15.1 Azariah Reigns in Judah|Azariah Reigns in Judah]]"
+- "[[2Kgs.15.8 Zechariah Reigns in Israel|Zechariah Reigns in Israel]]"
+- "[[2Kgs.15.13 Shallum Reigns in Israel|Shallum Reigns in Israel]]"
+- "[[2Kgs.15.17 Menahem Reigns in Israel|Menahem Reigns in Israel]]"
+- "[[2Kgs.15.23 Pekahiah Reigns in Israel|Pekahiah Reigns in Israel]]"
+- "[[2Kgs.15.27 Pekah Reigns in Israel|Pekah Reigns in Israel]]"
+- "[[2Kgs.15.32 Jotham Reigns in Judah|Jotham Reigns in Judah]]"
+---
+
 (KJV) **2 Kings 15**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14|<< 2 Kings 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.16|2 Kings 16 >>]]</td></tr></table>
 
 <big><big>[[2Kgs.15.1 Azariah Reigns in Judah|⥃]]</big></big>***Azariah Reigns in Judah***&emsp;<small><sup>\[ [[2Chr.26|2 Chronicles 26:3–23]] ]</sup></small>

@@ -1,3 +1,25 @@
+---
+title: Job 28
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 28
+book/chapter: "[[Job.28|Job 28]]"
+chronological_order: 39
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.28.1 Where Can Wisdom Be Found？|Where Can Wisdom Be Found？]]"
+---
+
 (KJV) **Job 28**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27|<< Job 27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29|Job 29 >>]]</td></tr></table>
 
 <big><big>[[Job.28.1 Where Can Wisdom Be Found？|⥃]]</big></big>***Where Can Wisdom Be Found?***

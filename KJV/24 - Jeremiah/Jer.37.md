@@ -1,3 +1,27 @@
+---
+title: Jeremiah 37
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 37
+book/chapter: "[[Jer.37|Jeremiah 37]]"
+chronological_order: 760
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.37.1 Jeremiah Warns Zedekiah|Jeremiah Warns Zedekiah]]"
+- "[[Jer.37.11 Jeremiah Imprisoned|Jeremiah Imprisoned]]"
+---
+
 (KJV) **Jeremiah 37**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36|<< Jeremiah 36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38|Jeremiah 38 >>]]</td></tr></table>
 
 <big><big>[[Jer.37.1 Jeremiah Warns Zedekiah|⥃]]</big></big>***Jeremiah Warns Zedekiah***

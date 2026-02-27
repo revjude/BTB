@@ -1,3 +1,25 @@
+---
+title: 2 Kings 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Kings
+chapter: 1
+book/chapter: "[[2Kgs.1|2 Kings 1]]"
+chronological_order: 571
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~853–852 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[2Kgs.1.1 Elijah Denounces Ahaziah|Elijah Denounces Ahaziah]]"
+- "[[2Kgs.1.17 Jehoram Succeeds Ahaziah|Jehoram Succeeds Ahaziah]]"
+---
+
 (KJV) **2 Kings 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22|<< 1 Kings 22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.2|2 Kings 2 >>]]</td></tr></table>
 
 <big><big>[[2Kgs.1.1 Elijah Denounces Ahaziah|⥃]]</big></big>***Elijah Denounces Ahaziah***&emsp;<small><sup>\[ [[1Kgs.22|1 Kings 22:51–53]] ]</sup></small>

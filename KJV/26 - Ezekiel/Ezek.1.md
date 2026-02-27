@@ -1,3 +1,30 @@
+---
+title: Ezekiel 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 1
+book/chapter: "[[Ezek.1|Ezekiel 1]]"
+chronological_order: 792
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.1.1 Ezekiel’s Vision by the River Kebar|Ezekiel’s Vision by the River Kebar]]"
+- "[[Ezek.1.4 The Four Living Creatures|The Four Living Creatures]]"
+- "[[Ezek.1.15 The Four Wheels|The Four Wheels]]"
+- "[[Ezek.1.22 The Divine Glory|The Divine Glory]]"
+---
+
 (KJV) **Ezekiel 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.5|<< Lamentations 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.2|Ezekiel 2 >>]]</td></tr></table>
 
 <big><big>[[Ezek.1.1 Ezekiel’s Vision by the River Kebar|⥃]]</big></big>***Ezekiel’s Vision by the River Kebar***&emsp;<small><sup>\[ [[Ps.137|Psalms 137:1–9]] ]</sup></small>

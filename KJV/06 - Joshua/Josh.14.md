@@ -1,3 +1,25 @@
+---
+title: Joshua 14
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Joshua
+chapter: 14
+book/chapter: "[[Josh.14|Joshua 14]]"
+chronological_order: 244
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+pericopes:
+- "[[Josh.14.1 Land Division West of the Jordan|Land Division West of the Jordan]]"
+- "[[Josh.14.6 Caleb Requests Hebron|Caleb Requests Hebron]]"
+---
+
 (KJV) **Joshua 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13|<< Joshua 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15|Joshua 15 >>]]</td></tr></table>
 
 <big><big>[[Josh.14.1 Land Division West of the Jordan|⥃]]</big></big>***Land Division West of the Jordan***

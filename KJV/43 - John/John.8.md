@@ -1,3 +1,27 @@
+---
+title: John 8
+type: Chapter
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+pericopes:
+- "[[John.8.1 The Woman Caught in Adultery|The Woman Caught in Adultery]]"
+- "[[John.8.12 Jesus the Light of the World|Jesus the Light of the World]]"
+- "[[John.8.30 The Truth Will Set You Free|The Truth Will Set You Free]]"
+- "[[John.8.48 Before Abraham Was Born, I Am|Before Abraham Was Born, I Am]]"
+---
+
 (KJV) **John 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7|<< John 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9|John 9 >>]]</td></tr></table>
 
 <big><big>[[John.8.1 The Woman Caught in Adultery|⥃]]</big></big>***The Woman Caught in Adultery***

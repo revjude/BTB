@@ -1,3 +1,25 @@
+---
+title: Isaiah 16
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 16
+book/chapter: "[[Isa.16|Isaiah 16]]"
+chronological_order: 633
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.16.1 Moab’s Destruction|Moab’s Destruction]]"
+---
+
 (KJV) **Isaiah 16**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.15|<< Isaiah 15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.17|Isaiah 17 >>]]</td></tr></table>
 
 <big><big>[[Isa.16.1 Moab’s Destruction|⥃]]</big></big>***Moab’s Destruction***&emsp;<small><sup>\[ [[Zeph.2|Zephaniah 2:8–11]] ]</sup></small>

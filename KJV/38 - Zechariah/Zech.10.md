@@ -1,3 +1,26 @@
+---
+title: Zechariah 10
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Zechariah
+chapter: 10
+book/chapter: "[[Zech.10|Zechariah 10]]"
+chronological_order: 866
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+pericopes:
+- "[[Zech.10.1 Judah and Israel Will Be Restored|Judah and Israel Will Be Restored]]"
+---
+
 (KJV) **Zechariah 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.9|<< Zechariah 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.11|Zechariah 11 >>]]</td></tr></table>
 
 <big><big>[[Zech.10.1 Judah and Israel Will Be Restored|⥃]]</big></big>***Judah and Israel Will Be Restored***

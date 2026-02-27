@@ -1,3 +1,27 @@
+---
+title: 2 Chronicles 11
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 11
+book/chapter: "[[2Chr.11|2 Chronicles 11]]"
+chronological_order: 557
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.11.1 Shemaiah’s Prophecy|Shemaiah’s Prophecy]]"
+- "[[2Chr.11.5 Rehoboam Fortifies Judah|Rehoboam Fortifies Judah]]"
+- "[[2Chr.11.13 Jeroboam Forsakes the Priests and Levites|Jeroboam Forsakes the Priests and Levites]]"
+- "[[2Chr.11.18 Rehoboam’s Family|Rehoboam’s Family]]"
+---
+
 (KJV) **2 Chronicles 11**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.10|<< 2 Chronicles 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.12|2 Chronicles 12 >>]]</td></tr></table>
 
 <big><big>[[2Chr.11.1 Shemaiah’s Prophecy|⥃]]</big></big>***Shemaiah’s Prophecy***&emsp;<small><sup>\[ [[1Kgs.12|1 Kings 12:20–24]] ]</sup></small>

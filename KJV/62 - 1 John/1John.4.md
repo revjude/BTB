@@ -1,3 +1,26 @@
+---
+title: 1 John 4
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 4
+book/chapter: "[[1John.4|1 John 4]]"
+chronological_order: 1164
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+pericopes:
+- "[[1John.4.1 Testing the Spirits|Testing the Spirits]]"
+- "[[1John.4.7 Love Comes from God|Love Comes from God]]"
+---
+
 (KJV) **1 John 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3|<< 1 John 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5|1 John 5 >>]]</td></tr></table>
 
 <big><big>[[1John.4.1 Testing the Spirits|⥃]]</big></big>***Testing the Spirits***

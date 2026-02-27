@@ -1,3 +1,25 @@
+---
+title: Mark 5
+type: Chapter
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Mark.5.1 The Demons and the Pigs|The Demons and the Pigs]]"
+- "[[Mark.5.21 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+---
+
 (KJV) **Mark 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4|<< Mark 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6|Mark 6 >>]]</td></tr></table>
 
 <big><big>[[Mark.5.1 The Demons and the Pigs|⥃]]</big></big>***The Demons and the Pigs***&emsp;<small><sup>\[ [[Matt.8|Matthew 8:28–34]] <big>†</big> [[Luke.8|Luke 8:26–39]] ]</sup></small>

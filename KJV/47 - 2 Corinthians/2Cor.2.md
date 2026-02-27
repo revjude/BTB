@@ -1,3 +1,25 @@
+---
+title: 2 Corinthians 2
+type: Chapter
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 2
+book/chapter: "[[2Cor.2|2 Corinthians 2]]"
+chronological_order: 1075
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+pericopes:
+- "[[2Cor.2.1 Reaffirm Your Love|Reaffirm Your Love]]"
+- "[[2Cor.2.12 Triumph in Christ|Triumph in Christ]]"
+---
+
 (KJV) **2 Corinthians 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1|<< 2 Corinthians 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3|2 Corinthians 3 >>]]</td></tr></table>
 
 <big><big>[[2Cor.2.1 Reaffirm Your Love|⥃]]</big></big>***Reaffirm Your Love***

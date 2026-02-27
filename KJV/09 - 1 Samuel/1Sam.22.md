@@ -1,3 +1,25 @@
+---
+title: 1 Samuel 22
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Samuel
+chapter: 22
+book/chapter: "[[1Sam.22|1 Samuel 22]]"
+chronological_order: 301
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[1Sam.22.1 David Flees to Adullam and Mizpeh|David Flees to Adullam and Mizpeh]]"
+- "[[1Sam.22.6 Saul Slays the Priests of Nob|Saul Slays the Priests of Nob]]"
+---
+
 (KJV) **1 Samuel 22**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.21|<< 1 Samuel 21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23|1 Samuel 23 >>]]</td></tr></table>
 
 <big><big>[[1Sam.22.1 David Flees to Adullam and Mizpeh|⥃]]</big></big>***David Flees to Adullam and Mizpeh***&emsp;<small><sup>\[ [[Ps.57|Psalms 57:1–11]] <big>†</big> [[Ps.142|Psalms 142:1–7]] ]</sup></small>

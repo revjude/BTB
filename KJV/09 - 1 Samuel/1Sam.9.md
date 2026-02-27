@@ -1,3 +1,24 @@
+---
+title: 1 Samuel 9
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Samuel
+chapter: 9
+book/chapter: "[[1Sam.9|1 Samuel 9]]"
+chronological_order: 288
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[1Sam.9.1 Saul Chosen as King|Saul Chosen as King]]"
+---
+
 (KJV) **1 Samuel 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8|<< 1 Samuel 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.10|1 Samuel 10 >>]]</td></tr></table>
 
 <big><big>[[1Sam.9.1 Saul Chosen as King|⥃]]</big></big>***Saul Chosen as King***

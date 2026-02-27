@@ -1,3 +1,32 @@
+---
+title: Luke 11
+type: Chapter
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+pericopes:
+- "[[Luke.11.1 The Lord’s Prayer|The Lord’s Prayer]]"
+- "[[Luke.11.5 Ask, Seek, Knock|Ask, Seek, Knock]]"
+- "[[Luke.11.14 A House Divided|A House Divided]]"
+- "[[Luke.11.24 An Unclean Spirit Returns|An Unclean Spirit Returns]]"
+- "[[Luke.11.27 True Blessedness|True Blessedness]]"
+- "[[Luke.11.29 The Sign of Jonah|The Sign of Jonah]]"
+- "[[Luke.11.33 The Lamp of the Body|The Lamp of the Body]]"
+- "[[Luke.11.37 Woes to Pharisees and Experts in the Law|Woes to Pharisees and Experts in the Law]]"
+---
+
 (KJV) **Luke 11**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10|<< Luke 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12|Luke 12 >>]]</td></tr></table>
 
 <big><big>[[Luke.11.1 The Lord’s Prayer|⥃]]</big></big>***The Lord’s Prayer***&emsp;<small><sup>\[ [[Matt.6|Matthew 6:5–15]] ]</sup></small>

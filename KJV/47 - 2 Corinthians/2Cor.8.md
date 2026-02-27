@@ -1,3 +1,25 @@
+---
+title: 2 Corinthians 8
+type: Chapter
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 8
+book/chapter: "[[2Cor.8|2 Corinthians 8]]"
+chronological_order: 1081
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+pericopes:
+- "[[2Cor.8.1 Generosity Commended|Generosity Commended]]"
+- "[[2Cor.8.16 Titus Commended|Titus Commended]]"
+---
+
 (KJV) **2 Corinthians 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.7|<< 2 Corinthians 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9|2 Corinthians 9 >>]]</td></tr></table>
 
 <big><big>[[2Cor.8.1 Generosity Commended|⥃]]</big></big>***Generosity Commended***&emsp;<small><sup>\[ [[Phil.4|Philippians 4:10–20]] ]</sup></small>

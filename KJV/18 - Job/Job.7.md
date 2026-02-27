@@ -1,3 +1,25 @@
+---
+title: Job 7
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 7
+book/chapter: "[[Job.7|Job 7]]"
+chronological_order: 18
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.7.1 Job Continues：Life Seems Futile|Job Continues：Life Seems Futile]]"
+---
+
 (KJV) **Job 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6|<< Job 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8|Job 8 >>]]</td></tr></table>
 
 <big><big>[[Job.7.1 Job Continues：Life Seems Futile|⥃]]</big></big>***Job Continues: Life Seems Futile***

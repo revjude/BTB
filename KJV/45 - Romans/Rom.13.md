@@ -1,3 +1,25 @@
+---
+title: Romans 13
+type: Chapter
+original_language: Greek
+testament: New
+book: Romans
+chapter: 13
+book/chapter: "[[Rom.13|Romans 13]]"
+chronological_order: 1099
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+pericopes:
+- "[[Rom.13.1 Submission to Authorities|Submission to Authorities]]"
+- "[[Rom.13.8 Love Fulfills the Law|Love Fulfills the Law]]"
+- "[[Rom.13.11 The Day Is Near|The Day Is Near]]"
+---
+
 (KJV) **Romans 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12|<< Romans 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14|Romans 14 >>]]</td></tr></table>
 
 <big><big>[[Rom.13.1 Submission to Authorities|⥃]]</big></big>***Submission to Authorities***&emsp;<small><sup>\[ [[1Pet.2|1 Peter 2:13–20]] ]</sup></small>

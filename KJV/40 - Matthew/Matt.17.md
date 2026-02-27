@@ -1,3 +1,28 @@
+---
+title: Matthew 17
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 17
+book/chapter: "[[Matt.17|Matthew 17]]"
+chronological_order: 967
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.17.1 The Transfiguration|The Transfiguration]]"
+- "[[Matt.17.14 The Boy with a Demon|The Boy with a Demon]]"
+- "[[Matt.17.19 The Power of Faith|The Power of Faith]]"
+- "[[Matt.17.22 The Second Prediction of the Passion|The Second Prediction of the Passion]]"
+- "[[Matt.17.24 The Temple Tax|The Temple Tax]]"
+---
+
 (KJV) **Matthew 17**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16|<< Matthew 16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18|Matthew 18 >>]]</td></tr></table>
 
 <big><big>[[Matt.17.1 The Transfiguration|⥃]]</big></big>***The Transfiguration***&emsp;<small><sup>\[ [[Mark.9|Mark 9:1–13]] <big>†</big> [[Luke.9|Luke 9:28–36]] <big>†</big> [[2Pet.1|2 Peter 1:16–21]] ]</sup></small>

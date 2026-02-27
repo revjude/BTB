@@ -1,3 +1,25 @@
+---
+title: 1 Peter 4
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 4
+book/chapter: "[[1Pet.4|1 Peter 4]]"
+chronological_order: 1138
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+pericopes:
+- "[[1Pet.4.1 Living for God’s Glory|Living for God’s Glory]]"
+- "[[1Pet.4.12 Suffering as Christians|Suffering as Christians]]"
+---
+
 (KJV) **1 Peter 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3|<< 1 Peter 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5|1 Peter 5 >>]]</td></tr></table>
 
 <big><big>[[1Pet.4.1 Living for God’s Glory|⥃]]</big></big>***Living for God’s Glory***&emsp;<small><sup>\[ [[1Cor.10|1 Corinthians 10:23–33]] ]</sup></small>

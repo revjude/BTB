@@ -1,3 +1,30 @@
+---
+title: Exodus 22
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 22
+book/chapter: "[[Exod.22|Exodus 22]]"
+chronological_order: 114
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.22.1 Property Laws|Property Laws]]"
+- "[[Exod.22.16 Laws of Social Responsibility|Laws of Social Responsibility]]"
+---
+
 (KJV) **Exodus 22**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21|<< Exodus 21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23|Exodus 23 >>]]</td></tr></table>
 
 <big><big>[[Exod.22.1 Property Laws|⥃]]</big></big>***Property Laws***

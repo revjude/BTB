@@ -1,3 +1,27 @@
+---
+title: Micah 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Micah
+chapter: 2
+book/chapter: "[[Mic.2|Micah 2]]"
+chronological_order: 624
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+pericopes:
+- "[[Mic.2.1 Woe to Oppressors|Woe to Oppressors]]"
+- "[[Mic.2.6 Reproof of False Prophets|Reproof of False Prophets]]"
+- "[[Mic.2.12 The Remnant of Israel|The Remnant of Israel]]"
+---
+
 (KJV) **Micah 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1|<< Micah 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.3|Micah 3 >>]]</td></tr></table>
 
 <big><big>[[Mic.2.1 Woe to Oppressors|⥃]]</big></big>***Woe to Oppressors***

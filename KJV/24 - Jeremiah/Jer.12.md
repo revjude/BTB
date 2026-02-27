@@ -1,3 +1,28 @@
+---
+title: Jeremiah 12
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 12
+book/chapter: "[[Jer.12|Jeremiah 12]]"
+chronological_order: 729
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.12.1 The Prosperity of the Wicked|The Prosperity of the Wicked]]"
+- "[[Jer.12.5 God’s Answer to Jeremiah|God’s Answer to Jeremiah]]"
+- "[[Jer.12.14 A Message for Israel’s Neighbors|A Message for Israel’s Neighbors]]"
+---
+
 (KJV) **Jeremiah 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11|<< Jeremiah 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.13|Jeremiah 13 >>]]</td></tr></table>
 
 <big><big>[[Jer.12.1 The Prosperity of the Wicked|⥃]]</big></big>***The Prosperity of the Wicked***

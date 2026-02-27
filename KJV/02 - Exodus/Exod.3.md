@@ -1,3 +1,29 @@
+---
+title: Exodus 3
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 3
+book/chapter: "[[Exod.3|Exodus 3]]"
+chronological_order: 95
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.3.1 Moses at the Burning Bush|Moses at the Burning Bush]]"
+---
+
 (KJV) **Exodus 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2|<< Exodus 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4|Exodus 4 >>]]</td></tr></table>
 
 <big><big>[[Exod.3.1 Moses at the Burning Bush|⥃]]</big></big>***Moses at the Burning Bush***&emsp;<small><sup>\[ [[Acts.7|Acts 7:30–38]] ]</sup></small>

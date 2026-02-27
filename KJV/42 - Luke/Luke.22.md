@@ -1,3 +1,35 @@
+---
+title: Luke 22
+type: Chapter
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+pericopes:
+- "[[Luke.22.1 The Plot to Kill Jesus|The Plot to Kill Jesus]]"
+- "[[Luke.22.3 Judas Agrees to Betray Jesus|Judas Agrees to Betray Jesus]]"
+- "[[Luke.22.7 Preparing the Passover|Preparing the Passover]]"
+- "[[Luke.22.14 The Last Supper|The Last Supper]]"
+- "[[Luke.22.24 Who Is the Greatest？|Who Is the Greatest？]]"
+- "[[Luke.22.31 Jesus Predicts Peter’s Denial|Jesus Predicts Peter’s Denial]]"
+- "[[Luke.22.39 Jesus Prays on the Mount of Olives|Jesus Prays on the Mount of Olives]]"
+- "[[Luke.22.47 The Betrayal of Jesus|The Betrayal of Jesus]]"
+- "[[Luke.22.54 Peter Denies Jesus|Peter Denies Jesus]]"
+- "[[Luke.22.63 The Soldiers Mock Jesus|The Soldiers Mock Jesus]]"
+- "[[Luke.22.66 Jesus before the Sanhedrin|Jesus before the Sanhedrin]]"
+---
+
 (KJV) **Luke 22**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21|<< Luke 21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23|Luke 23 >>]]</td></tr></table>
 
 <big><big>[[Luke.22.1 The Plot to Kill Jesus|⥃]]</big></big>***The Plot to Kill Jesus***&emsp;<small><sup>\[ [[Matt.26|Matthew 26:1–5]] <big>†</big> [[Mark.14|Mark 14:1–2]] <big>†</big> [[John.11|John 11:45–57]] ]</sup></small>

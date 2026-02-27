@@ -1,3 +1,28 @@
+---
+title: Ezekiel 24
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 24
+book/chapter: "[[Ezek.24|Ezekiel 24]]"
+chronological_order: 815
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.24.1 The Parable of the Cooking Pot|The Parable of the Cooking Pot]]"
+- "[[Ezek.24.15 Ezekiel’s Wife Dies|Ezekiel’s Wife Dies]]"
+---
+
 (KJV) **Ezekiel 24**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23|<< Ezekiel 23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.25|Ezekiel 25 >>]]</td></tr></table>
 
 <big><big>[[Ezek.24.1 The Parable of the Cooking Pot|⥃]]</big></big>***The Parable of the Cooking Pot***

@@ -1,3 +1,32 @@
+---
+title: Deuteronomy 15
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Deuteronomy
+chapter: 15
+book/chapter: "[[Deut.15|Deuteronomy 15]]"
+chronological_order: 211
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+pericopes:
+- "[[Deut.15.1 The Seventh Year|The Seventh Year]]"
+- "[[Deut.15.7 Generosity in Lending and Giving|Generosity in Lending and Giving]]"
+- "[[Deut.15.12 Hebrew Servants|Hebrew Servants]]"
+- "[[Deut.15.19 Firstborn Animals|Firstborn Animals]]"
+---
+
 (KJV) **Deuteronomy 15**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.14|<< Deuteronomy 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.16|Deuteronomy 16 >>]]</td></tr></table>
 
 <big><big>[[Deut.15.1 The Seventh Year|⥃]]</big></big>***The Seventh Year***&emsp;<small><sup>\[ [[Exod.23|Exodus 23:10–13]] <big>†</big> [[Lev.25|Leviticus 25:1–7]] ]</sup></small>

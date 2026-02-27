@@ -1,3 +1,26 @@
+---
+title: Isaiah 19
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 19
+book/chapter: "[[Isa.19|Isaiah 19]]"
+chronological_order: 636
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.19.1 The Burden against Egypt|The Burden against Egypt]]"
+- "[[Isa.19.16 A Blessing upon the Earth|A Blessing upon the Earth]]"
+---
+
 (KJV) **Isaiah 19**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.18|<< Isaiah 18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.20|Isaiah 20 >>]]</td></tr></table>
 
 <big><big>[[Isa.19.1 The Burden against Egypt|⥃]]</big></big>***The Burden against Egypt***

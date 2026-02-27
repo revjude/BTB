@@ -1,3 +1,28 @@
+---
+title: Jeremiah 44
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 44
+book/chapter: "[[Jer.44|Jeremiah 44]]"
+chronological_order: 767
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.44.1 Judgment on the Jews in Egypt|Judgment on the Jews in Egypt]]"
+- "[[Jer.44.15 The Stubbornness of the People|The Stubbornness of the People]]"
+- "[[Jer.44.20 Calamity for the Jews|Calamity for the Jews]]"
+---
+
 (KJV) **Jeremiah 44**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.43|<< Jeremiah 43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.45|Jeremiah 45 >>]]</td></tr></table>
 
 <big><big>[[Jer.44.1 Judgment on the Jews in Egypt|⥃]]</big></big>***Judgment on the Jews in Egypt***

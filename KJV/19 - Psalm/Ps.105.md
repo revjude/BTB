@@ -1,3 +1,27 @@
+---
+title: Psalm 105
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 105
+book/chapter: "[[Ps.105|Psalm 105]]"
+chronological_order: 529
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.105.1 Tell of His Wonders|Tell of His Wonders]]"
+---
+
 (KJV) **Psalm 105**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104|<< Psalm 104]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106|Psalm 106 >>]]</td></tr></table>
 
 <big><big>[[Ps.105.1 Tell of His Wonders|⥃]]</big></big>***Tell of His Wonders*** <small><small>[^2]</small></small> &emsp;<small><sup>\[ [[1Chr.16|1 Chronicles 16:7–22]] ]</sup></small>

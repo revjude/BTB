@@ -1,3 +1,27 @@
+---
+title: 3 John 1
+type: Chapter
+original_language: Greek
+testament: New
+book: 3 John
+chapter: 1
+book/chapter: "[[3John.1|3 John 1]]"
+chronological_order: 1167
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- personal letter
+pericopes:
+- "[[3John.1.1 A Greeting from the Elder|A Greeting from the Elder]]"
+- "[[3John.1.5 Gaius Commended for Hospitality|Gaius Commended for Hospitality]]"
+- "[[3John.1.9 Diotrephes and Demetrius|Diotrephes and Demetrius]]"
+- "[[3John.1.13 Conclusion|Conclusion]]"
+---
+
 (KJV) **3 John 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2John.1|<< 2 John 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1|Jude 1 >>]]</td></tr></table>
 
 <big><big>[[3John.1.1 A Greeting from the Elder|⥃]]</big></big>***A Greeting from the Elder***&emsp;<small><sup>\[ [[2John.1|2 John 1:1–3]] ]</sup></small>

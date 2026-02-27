@@ -1,3 +1,27 @@
+---
+title: Matthew 15
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 15
+book/chapter: "[[Matt.15|Matthew 15]]"
+chronological_order: 965
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.15.1 The Tradition of the Elders|The Tradition of the Elders]]"
+- "[[Matt.15.10 What Defiles a Man|What Defiles a Man]]"
+- "[[Matt.15.21 The Faith of the Canaanite Woman|The Faith of the Canaanite Woman]]"
+- "[[Matt.15.29 The Feeding of the Four Thousand|The Feeding of the Four Thousand]]"
+---
+
 (KJV) **Matthew 15**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14|<< Matthew 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16|Matthew 16 >>]]</td></tr></table>
 
 <big><big>[[Matt.15.1 The Tradition of the Elders|⥃]]</big></big>***The Tradition of the Elders***&emsp;<small><sup>\[ [[Mark.7|Mark 7:1–13]] ]</sup></small>

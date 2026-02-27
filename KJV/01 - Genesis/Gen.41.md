@@ -1,3 +1,31 @@
+---
+title: Genesis 41
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.41.1 The Dreams of Pharaoh|The Dreams of Pharaoh]]"
+- "[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|Joseph Interprets Pharaoh’s Dreams]]"
+- "[[Gen.41.37 Joseph Given Charge of Egypt|Joseph Given Charge of Egypt]]"
+- "[[Gen.41.46 The Seven Years of Plenty|The Seven Years of Plenty]]"
+- "[[Gen.41.53 The Famine Begins|The Famine Begins]]"
+---
+
 (KJV) **Genesis 41**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40|<< Genesis 40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42|Genesis 42 >>]]</td></tr></table>
 
 <big><big>[[Gen.41.1 The Dreams of Pharaoh|⥃]]</big></big>***The Dreams of Pharaoh***

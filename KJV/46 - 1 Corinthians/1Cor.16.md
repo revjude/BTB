@@ -1,3 +1,27 @@
+---
+title: 1 Corinthians 16
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 16
+book/chapter: "[[1Cor.16|1 Corinthians 16]]"
+chronological_order: 1073
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+pericopes:
+- "[[1Cor.16.1 The Collection for the Saints|The Collection for the Saints]]"
+- "[[1Cor.16.5 Paul’s Travel Plans|Paul’s Travel Plans]]"
+- "[[1Cor.16.10 Timothy and Apollos|Timothy and Apollos]]"
+- "[[1Cor.16.13 Concluding Exhortations|Concluding Exhortations]]"
+- "[[1Cor.16.19 Signature and Final Greetings|Signature and Final Greetings]]"
+---
+
 (KJV) **1 Corinthians 16**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15|<< 1 Corinthians 15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1|2 Corinthians 1 >>]]</td></tr></table>
 
 <big><big>[[1Cor.16.1 The Collection for the Saints|⥃]]</big></big>***The Collection for the Saints***&emsp;<small><sup>\[ [[2Cor.9|2 Corinthians 9:1–15]] ]</sup></small>

@@ -1,3 +1,27 @@
+---
+title: John 11
+type: Chapter
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+pericopes:
+- "[[John.11.1 The Death of Lazarus|The Death of Lazarus]]"
+- "[[John.11.17 Jesus Comforts Martha and Mary|Jesus Comforts Martha and Mary]]"
+- "[[John.11.38 Jesus Raises Lazarus|Jesus Raises Lazarus]]"
+- "[[John.11.45 The Plot to Kill Jesus|The Plot to Kill Jesus]]"
+---
+
 (KJV) **John 11**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10|<< John 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12|John 12 >>]]</td></tr></table>
 
 <big><big>[[John.11.1 The Death of Lazarus|⥃]]</big></big>***The Death of Lazarus***

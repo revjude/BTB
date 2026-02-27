@@ -1,3 +1,28 @@
+---
+title: Mark 11
+type: Chapter
+original_language: Greek
+testament: New
+book: Mark
+chapter: 11
+book/chapter: "[[Mark.11|Mark 11]]"
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Mark.11.1 The Triumphal Entry|The Triumphal Entry]]"
+- "[[Mark.11.12 Jesus Curses the Fig Tree|Jesus Curses the Fig Tree]]"
+- "[[Mark.11.15 Jesus Cleanses the Temple|Jesus Cleanses the Temple]]"
+- "[[Mark.11.20 The Withered Fig Tree|The Withered Fig Tree]]"
+- "[[Mark.11.27 Jesus’ Authority Challenged|Jesus’ Authority Challenged]]"
+---
+
 (KJV) **Mark 11**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10|<< Mark 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12|Mark 12 >>]]</td></tr></table>
 
 <big><big>[[Mark.11.1 The Triumphal Entry|⥃]]</big></big>***The Triumphal Entry***&emsp;<small><sup>\[ [[Zech.9|Zechariah 9:9–13]] <big>†</big> [[Matt.21|Matthew 21:1–11]] <big>†</big> [[Luke.19|Luke 19:28–40]] <big>†</big> [[John.12|John 12:12–19]] ]</sup></small>

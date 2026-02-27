@@ -1,3 +1,25 @@
+---
+title: 1 Corinthians 10
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 10
+book/chapter: "[[1Cor.10|1 Corinthians 10]]"
+chronological_order: 1067
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+pericopes:
+- "[[1Cor.10.1 Warnings from Israel’s Past|Warnings from Israel’s Past]]"
+- "[[1Cor.10.14 Flee from Idolatry|Flee from Idolatry]]"
+- "[[1Cor.10.23 All to God’s Glory|All to God’s Glory]]"
+---
+
 (KJV) **1 Corinthians 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9|<< 1 Corinthians 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11|1 Corinthians 11 >>]]</td></tr></table>
 
 <big><big>[[1Cor.10.1 Warnings from Israel’s Past|⥃]]</big></big>***Warnings from Israel’s Past***&emsp;<small><sup>\[ [[Num.16|Numbers 16:41–50]] <big>†</big> [[Num.25|Numbers 25:1–5]] ]</sup></small>

@@ -1,3 +1,28 @@
+---
+title: 2 Chronicles 4
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Chronicles
+chapter: 4
+book/chapter: "[[2Chr.4|2 Chronicles 4]]"
+chronological_order: 493
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+pericopes:
+- "[[2Chr.4.1 The Bronze Altar and Molten Sea|The Bronze Altar and Molten Sea]]"
+- "[[2Chr.4.6 The Ten Basins, Lampstands, and Tables|The Ten Basins, Lampstands, and Tables]]"
+- "[[2Chr.4.9 The Courts|The Courts]]"
+- "[[2Chr.4.11 Completion of the Bronze Works|Completion of the Bronze Works]]"
+- "[[2Chr.4.19 Completion of the Gold Furnishings|Completion of the Gold Furnishings]]"
+---
+
 (KJV) **2 Chronicles 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3|<< 2 Chronicles 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.5|2 Chronicles 5 >>]]</td></tr></table>
 
 <big><big>[[2Chr.4.1 The Bronze Altar and Molten Sea|⥃]]</big></big>***The Bronze Altar and Molten Sea***&emsp;<small><sup>\[ [[1Kgs.7|1 Kings 7:23–26]] ]</sup></small>

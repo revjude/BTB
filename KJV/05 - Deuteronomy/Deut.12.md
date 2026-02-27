@@ -1,3 +1,30 @@
+---
+title: Deuteronomy 12
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Deuteronomy
+chapter: 12
+book/chapter: "[[Deut.12|Deuteronomy 12]]"
+chronological_order: 208
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+pericopes:
+- "[[Deut.12.1 One Place for Worship|One Place for Worship]]"
+- "[[Deut.12.29 A Warning against Idolatry|A Warning against Idolatry]]"
+---
+
 (KJV) **Deuteronomy 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11|<< Deuteronomy 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.13|Deuteronomy 13 >>]]</td></tr></table>
 
 <big><big>[[Deut.12.1 One Place for Worship|⥃]]</big></big>***One Place for Worship***

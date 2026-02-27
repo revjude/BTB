@@ -1,3 +1,29 @@
+---
+title: Ezekiel 44
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 44
+book/chapter: "[[Ezek.44|Ezekiel 44]]"
+chronological_order: 835
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.44.1 The East Gate Assigned to the Prince|The East Gate Assigned to the Prince]]"
+- "[[Ezek.44.6 Reproof of the Levites|Reproof of the Levites]]"
+- "[[Ezek.44.15 The Duties of the Priests|The Duties of the Priests]]"
+---
+
 (KJV) **Ezekiel 44**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43|<< Ezekiel 43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45|Ezekiel 45 >>]]</td></tr></table>
 
 <big><big>[[Ezek.44.1 The East Gate Assigned to the Prince|⥃]]</big></big>***The East Gate Assigned to the Prince***

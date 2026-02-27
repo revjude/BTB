@@ -1,3 +1,34 @@
+---
+title: Deuteronomy 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+pericopes:
+- "[[Deut.1.1 The Command to Leave Horeb|The Command to Leave Horeb]]"
+- "[[Deut.1.9 Moses Appoints Leaders|Moses Appoints Leaders]]"
+- "[[Deut.1.19 Twelve Spies Sent Out|Twelve Spies Sent Out]]"
+- "[[Deut.1.26 Israel’s Rebellion|Israel’s Rebellion]]"
+- "[[Deut.1.34 Israel’s Penalty|Israel’s Penalty]]"
+- "[[Deut.1.41 The Defeat at Hormah|The Defeat at Hormah]]"
+---
+
 (KJV) **Deuteronomy 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.36|<< Numbers 36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2|Deuteronomy 2 >>]]</td></tr></table>
 
 <big><big>[[Deut.1.1 The Command to Leave Horeb|⥃]]</big></big>***The Command to Leave Horeb***&emsp;<small><sup>\[ [[Exod.33|Exodus 33:1–6]] ]</sup></small>

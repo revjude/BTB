@@ -1,3 +1,27 @@
+---
+title: Jeremiah 31
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.31.1 Mourning Turned to Joy|Mourning Turned to Joy]]"
+- "[[Jer.31.26 The New Covenant|The New Covenant]]"
+---
+
 (KJV) **Jeremiah 31**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30|<< Jeremiah 30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32|Jeremiah 32 >>]]</td></tr></table>
 
 <big><big>[[Jer.31.1 Mourning Turned to Joy|⥃]]</big></big>***Mourning Turned to Joy***&emsp;<small><sup>\[ [[Matt.2|Matthew 2:16–18]] ]</sup></small>

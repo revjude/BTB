@@ -1,3 +1,26 @@
+---
+title: Acts 19
+type: Chapter
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+pericopes:
+- "[[Acts.19.1 The Holy Spirit Received at Ephesus|The Holy Spirit Received at Ephesus]]"
+- "[[Acts.19.8 Paul Ministers in Ephesus|Paul Ministers in Ephesus]]"
+- "[[Acts.19.13 Seven Sons of Sceva|Seven Sons of Sceva]]"
+- "[[Acts.19.21 The Riot in Ephesus|The Riot in Ephesus]]"
+---
+
 (KJV) **Acts 19**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18|<< Acts 18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20|Acts 20 >>]]</td></tr></table>
 
 <big><big>[[Acts.19.1 The Holy Spirit Received at Ephesus|⥃]]</big></big>***The Holy Spirit Received at Ephesus***&emsp;<small><sup>\[ [[Acts.10|Acts 10:44–48]] ]</sup></small>

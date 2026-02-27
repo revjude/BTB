@@ -1,3 +1,27 @@
+---
+title: Psalm 34
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 34
+book/chapter: "[[Ps.34|Psalm 34]]"
+chronological_order: 312
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.34.1 Taste and See That the LORD Is Good|Taste and See That the LORD Is Good]]"
+---
+
 (KJV) **Psalm 34**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.33|<< Psalm 33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35|Psalm 35 >>]]</td></tr></table>
 
 <big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥃]]</big></big>***Taste and See That the LORD Is Good***&emsp;<small><sup>\[ [[1Sam.21|1 Samuel 21:8–15]] ]</sup></small>

@@ -1,3 +1,27 @@
+---
+title: Daniel 3
+type: Chapter
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 3
+book/chapter: "[[Dan.3|Daniel 3]]"
+chronological_order: 788
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+pericopes:
+- "[[Dan.3.1 Nebuchadnezzar’s Golden Statue|Nebuchadnezzar’s Golden Statue]]"
+- "[[Dan.3.8 Shadrach, Meshach, and Abednego Accused|Shadrach, Meshach, and Abednego Accused]]"
+- "[[Dan.3.19 The Fiery Furnace|The Fiery Furnace]]"
+---
+
 (KJV) **Daniel 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2|<< Daniel 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4|Daniel 4 >>]]</td></tr></table>
 
 <big><big>[[Dan.3.1 Nebuchadnezzar’s Golden Statue|⥃]]</big></big>***Nebuchadnezzar’s Golden Statue***

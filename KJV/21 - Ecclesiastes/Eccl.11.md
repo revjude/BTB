@@ -1,3 +1,25 @@
+---
+title: Ecclesiastes 11
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ecclesiastes
+chapter: 11
+book/chapter: "[[Eccl.11|Ecclesiastes 11]]"
+chronological_order: 549
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+pericopes:
+- "[[Eccl.11.1 Cast Your Bread upon the Waters|Cast Your Bread upon the Waters]]"
+- "[[Eccl.11.7 Enjoy Your Years|Enjoy Your Years]]"
+---
+
 (KJV) **Ecclesiastes 11**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10|<< Ecclesiastes 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.12|Ecclesiastes 12 >>]]</td></tr></table>
 
 <big><big>[[Eccl.11.1 Cast Your Bread upon the Waters|⥃]]</big></big>***Cast Your Bread upon the Waters***

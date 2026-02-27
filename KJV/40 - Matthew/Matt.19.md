@@ -1,3 +1,26 @@
+---
+title: Matthew 19
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 19
+book/chapter: "[[Matt.19|Matthew 19]]"
+chronological_order: 986
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.19.1 Teachings about Divorce|Teachings about Divorce]]"
+- "[[Matt.19.13 Jesus Blesses the Children|Jesus Blesses the Children]]"
+- "[[Matt.19.16 The Rich Young Man|The Rich Young Man]]"
+---
+
 (KJV) **Matthew 19**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18|<< Matthew 18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20|Matthew 20 >>]]</td></tr></table>
 
 <big><big>[[Matt.19.1 Teachings about Divorce|⥃]]</big></big>***Teachings about Divorce***&emsp;<small><sup>\[ [[Mark.10|Mark 10:1–12]] ]</sup></small>

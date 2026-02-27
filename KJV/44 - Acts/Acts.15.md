@@ -1,3 +1,27 @@
+---
+title: Acts 15
+type: Chapter
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+pericopes:
+- "[[Acts.15.1 The Dispute over Circumcision|The Dispute over Circumcision]]"
+- "[[Acts.15.5 The Council at Jerusalem|The Council at Jerusalem]]"
+- "[[Acts.15.22 The Letter to the Gentile Believers|The Letter to the Gentile Believers]]"
+- "[[Acts.15.30 The Believers at Antioch Rejoice|The Believers at Antioch Rejoice]]"
+- "[[Acts.15.36 Paul’s Second Missionary Journey Begins|Paul’s Second Missionary Journey Begins]]"
+---
+
 (KJV) **Acts 15**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14|<< Acts 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16|Acts 16 >>]]</td></tr></table>
 
 <big><big>[[Acts.15.1 The Dispute over Circumcision|⥃]]</big></big>***The Dispute over Circumcision***

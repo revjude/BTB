@@ -1,3 +1,28 @@
+---
+title: 2 Kings 4
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[2Kgs.4.1 The Widow’s Oil|The Widow’s Oil]]"
+- "[[2Kgs.4.8 The Shunammite Woman|The Shunammite Woman]]"
+- "[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|Elisha Raises the Shunammite’s Son]]"
+- "[[2Kgs.4.38 Elisha Purifies the Poisonous Stew|Elisha Purifies the Poisonous Stew]]"
+- "[[2Kgs.4.42 Feeding a Hundred Men|Feeding a Hundred Men]]"
+---
+
 (KJV) **2 Kings 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3|<< 2 Kings 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5|2 Kings 5 >>]]</td></tr></table>
 
 <big><big>[[2Kgs.4.1 The Widow’s Oil|⥃]]</big></big>***The Widow’s Oil***

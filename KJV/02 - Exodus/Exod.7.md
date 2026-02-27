@@ -1,3 +1,31 @@
+---
+title: Exodus 7
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 7
+book/chapter: "[[Exod.7|Exodus 7]]"
+chronological_order: 99
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.7.1 God Commands Moses and Aaron|God Commands Moses and Aaron]]"
+- "[[Exod.7.8 Aaron’s Staff|Aaron’s Staff]]"
+- "[[Exod.7.14 The First Plague：Blood|The First Plague：Blood]]"
+---
+
 (KJV) **Exodus 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6|<< Exodus 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8|Exodus 8 >>]]</td></tr></table>
 
 <big><big>[[Exod.7.1 God Commands Moses and Aaron|⥃]]</big></big>***God Commands Moses and Aaron***

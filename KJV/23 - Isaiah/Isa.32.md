@@ -1,3 +1,26 @@
+---
+title: Isaiah 32
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 32
+book/chapter: "[[Isa.32|Isaiah 32]]"
+chronological_order: 675
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.32.1 A Righteous King|A Righteous King]]"
+- "[[Isa.32.9 The Women of Jerusalem|The Women of Jerusalem]]"
+---
+
 (KJV) **Isaiah 32**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.31|<< Isaiah 31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33|Isaiah 33 >>]]</td></tr></table>
 
 <big><big>[[Isa.32.1 A Righteous King|⥃]]</big></big>***A Righteous King***

@@ -1,3 +1,26 @@
+---
+title: Esther 9
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Esther
+chapter: 9
+book/chapter: "[[Esth.9|Esther 9]]"
+chronological_order: 907
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+pericopes:
+- "[[Esth.9.1 The Jews Destroy Their Enemies|The Jews Destroy Their Enemies]]"
+- "[[Esth.9.11 Haman’s Sons Hanged|Haman’s Sons Hanged]]"
+- "[[Esth.9.18 The Feast of Purim Instituted|The Feast of Purim Instituted]]"
+---
+
 (KJV) **Esther 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.8|<< Esther 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.10|Esther 10 >>]]</td></tr></table>
 
 <big><big>[[Esth.9.1 The Jews Destroy Their Enemies|⥃]]</big></big>***The Jews Destroy Their Enemies***

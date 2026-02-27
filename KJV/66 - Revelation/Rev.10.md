@@ -1,3 +1,25 @@
+---
+title: Revelation 10
+type: Chapter
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 10
+book/chapter: "[[Rev.10|Revelation 10]]"
+chronological_order: 1177
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+pericopes:
+- "[[Rev.10.1 The Angel and the Small Scroll|The Angel and the Small Scroll]]"
+---
+
 (KJV) **Revelation 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9|<< Revelation 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11|Revelation 11 >>]]</td></tr></table>
 
 <big><big>[[Rev.10.1 The Angel and the Small Scroll|⥃]]</big></big>***The Angel and the Small Scroll***&emsp;<small><sup>\[ [[Ezek.3|Ezekiel 3:1–15]] ]</sup></small>

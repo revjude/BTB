@@ -1,3 +1,24 @@
+---
+title: Hosea 9
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Hosea
+chapter: 9
+book/chapter: "[[Hos.9|Hosea 9]]"
+chronological_order: 650
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+pericopes:
+- "[[Hos.9.1 Israel’s Punishment|Israel’s Punishment]]"
+---
+
 (KJV) **Hosea 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.8|<< Hosea 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10|Hosea 10 >>]]</td></tr></table>
 
 <big><big>[[Hos.9.1 Israel’s Punishment|⥃]]</big></big>***Israel’s Punishment***

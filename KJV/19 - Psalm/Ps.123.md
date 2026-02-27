@@ -1,3 +1,27 @@
+---
+title: Psalm 123
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 123
+book/chapter: "[[Ps.123|Psalm 123]]"
+chronological_order: 885
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.123.1 I Lift Up My Eyes to You|I Lift Up My Eyes to You]]"
+---
+
 (KJV) **Psalm 123**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.122|<< Psalm 122]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.124|Psalm 124 >>]]</td></tr></table>
 
 <big><big>[[Ps.123.1 I Lift Up My Eyes to You|⥃]]</big></big>***I Lift Up My Eyes to You***

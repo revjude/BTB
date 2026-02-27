@@ -1,3 +1,34 @@
+---
+title: Luke 6
+type: Chapter
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+pericopes:
+- "[[Luke.6.1 The Lord of the Sabbath|The Lord of the Sabbath]]"
+- "[[Luke.6.6 Jesus Heals on the Sabbath|Jesus Heals on the Sabbath]]"
+- "[[Luke.6.12 The Twelve Apostles|The Twelve Apostles]]"
+- "[[Luke.6.17 Jesus Heals the Multitudes|Jesus Heals the Multitudes]]"
+- "[[Luke.6.20 The Beatitudes|The Beatitudes]]"
+- "[[Luke.6.24 Woes to the Satisfied|Woes to the Satisfied]]"
+- "[[Luke.6.27 Love Your Enemies|Love Your Enemies]]"
+- "[[Luke.6.37 Judging Others|Judging Others]]"
+- "[[Luke.6.43 A Tree and Its Fruit|A Tree and Its Fruit]]"
+- "[[Luke.6.46 The House on the Rock|The House on the Rock]]"
+---
+
 (KJV) **Luke 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5|<< Luke 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7|Luke 7 >>]]</td></tr></table>
 
 <big><big>[[Luke.6.1 The Lord of the Sabbath|⥃]]</big></big>***The Lord of the Sabbath***&emsp;<small><sup>\[ [[1Sam.21|1 Samuel 21:1–7]] <big>†</big> [[Matt.12|Matthew 12:1–8]] <big>†</big> [[Mark.2|Mark 2:23–28]] ]</sup></small>

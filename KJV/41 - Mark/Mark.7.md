@@ -1,3 +1,27 @@
+---
+title: Mark 7
+type: Chapter
+original_language: Greek
+testament: New
+book: Mark
+chapter: 7
+book/chapter: "[[Mark.7|Mark 7]]"
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Mark.7.1 The Tradition of the Elders|The Tradition of the Elders]]"
+- "[[Mark.7.14 What Defiles a Man|What Defiles a Man]]"
+- "[[Mark.7.24 The Faith of the Gentile Woman|The Faith of the Gentile Woman]]"
+- "[[Mark.7.31 The Deaf and Mute Man|The Deaf and Mute Man]]"
+---
+
 (KJV) **Mark 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6|<< Mark 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8|Mark 8 >>]]</td></tr></table>
 
 <big><big>[[Mark.7.1 The Tradition of the Elders|⥃]]</big></big>***The Tradition of the Elders***&emsp;<small><sup>\[ [[Matt.15|Matthew 15:1–9]] ]</sup></small>

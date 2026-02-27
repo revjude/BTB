@@ -1,3 +1,24 @@
+---
+title: Ecclesiastes 6
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ecclesiastes
+chapter: 6
+book/chapter: "[[Eccl.6|Ecclesiastes 6]]"
+chronological_order: 544
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+pericopes:
+- "[[Eccl.6.1 The Futility of Life|The Futility of Life]]"
+---
+
 (KJV) **Ecclesiastes 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5|<< Ecclesiastes 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7|Ecclesiastes 7 >>]]</td></tr></table>
 
 <big><big>[[Eccl.6.1 The Futility of Life|⥃]]</big></big>***The Futility of Life***

@@ -1,3 +1,27 @@
+---
+title: Joel 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Joel
+chapter: 1
+book/chapter: "[[Joel.1|Joel 1]]"
+chronological_order: 840
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Joel.1.1 The Invasion of Locusts|The Invasion of Locusts]]"
+- "[[Joel.1.8 A Call to Mourning|A Call to Mourning]]"
+- "[[Joel.1.13 A Call to Repentance|A Call to Repentance]]"
+---
+
 (KJV) **Joel 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.14|<< Hosea 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2|Joel 2 >>]]</td></tr></table>
 
 <big><big>[[Joel.1.1 The Invasion of Locusts|⥃]]</big></big>***The Invasion of Locusts***

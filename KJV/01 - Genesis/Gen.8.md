@@ -1,3 +1,30 @@
+---
+title: Genesis 8
+type: Chapter
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 8
+book/chapter: "[[Gen.8|Genesis 8]]"
+chronological_order: 8
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.8.1 The Ark Rests on Ararat|The Ark Rests on Ararat]]"
+- "[[Gen.8.6 Noah Sends a Raven and a Dove|Noah Sends a Raven and a Dove]]"
+- "[[Gen.8.13 Exiting the Ark|Exiting the Ark]]"
+- "[[Gen.8.20 Noah Builds an Altar|Noah Builds an Altar]]"
+---
+
 (KJV) **Genesis 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.7|<< Genesis 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9|Genesis 9 >>]]</td></tr></table>
 
 <big><big>[[Gen.8.1 The Ark Rests on Ararat|⥃]]</big></big>***The Ark Rests on Ararat***

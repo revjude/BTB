@@ -1,3 +1,28 @@
+---
+title: 1 Kings 17
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Kings
+chapter: 17
+book/chapter: "[[1Kgs.17|1 Kings 17]]"
+chronological_order: 563
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+pericopes:
+- "[[1Kgs.17.1 The Ravens Feed Elijah|The Ravens Feed Elijah]]"
+- "[[1Kgs.17.8 The Widow of Zarephath|The Widow of Zarephath]]"
+- "[[1Kgs.17.17 Elijah Raises the Widow’s Son|Elijah Raises the Widow’s Son]]"
+---
+
 (KJV) **1 Kings 17**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16|<< 1 Kings 16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18|1 Kings 18 >>]]</td></tr></table>
 
 <big><big>[[1Kgs.17.1 The Ravens Feed Elijah|⥃]]</big></big>***The Ravens Feed Elijah***

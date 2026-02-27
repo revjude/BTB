@@ -1,3 +1,26 @@
+---
+title: 2 Kings 20
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 2 Kings
+chapter: 20
+book/chapter: "[[2Kgs.20|2 Kings 20]]"
+chronological_order: 658
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[2Kgs.20.1 Hezekiah’s Illness and Recovery|Hezekiah’s Illness and Recovery]]"
+- "[[2Kgs.20.12 Hezekiah Shows His Treasures|Hezekiah Shows His Treasures]]"
+- "[[2Kgs.20.20 Manasseh Succeeds Hezekiah|Manasseh Succeeds Hezekiah]]"
+---
+
 (KJV) **2 Kings 20**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19|<< 2 Kings 19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.21|2 Kings 21 >>]]</td></tr></table>
 
 <big><big>[[2Kgs.20.1 Hezekiah’s Illness and Recovery|⥃]]</big></big>***Hezekiah’s Illness and Recovery***&emsp;<small><sup>\[ [[2Chr.32|2 Chronicles 32:24–31]] <big>†</big> [[Isa.38|Isaiah 38:1–8]] ]</sup></small>

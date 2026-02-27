@@ -1,3 +1,26 @@
+---
+title: Jude 1
+type: Chapter
+original_language: Greek
+testament: New
+book: Jude
+chapter: 1
+book/chapter: "[[Jude.1|Jude 1]]"
+chronological_order: 1160
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- polemical
+pericopes:
+- "[[Jude.1.1 A Greeting from Jude|A Greeting from Jude]]"
+- "[[Jude.1.3 God’s Judgment on the Ungodly|God’s Judgment on the Ungodly]]"
+- "[[Jude.1.17 A Call to Persevere|A Call to Persevere]]"
+- "[[Jude.1.24 Doxology|Doxology]]"
+---
+
 (KJV) **Jude 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1|<< 3 John 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1|Revelation 1 >>]]</td></tr></table>
 
 <big><big>[[Jude.1.1 A Greeting from Jude|⥃]]</big></big>***A Greeting from Jude***&emsp;<small><sup>\[ [[Jas.1|James 1:1]] ]</sup></small>

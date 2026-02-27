@@ -1,3 +1,26 @@
+---
+title: Jeremiah 48
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+pericopes:
+- "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+---
+
 (KJV) **Jeremiah 48**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.47|<< Jeremiah 47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49|Jeremiah 49 >>]]</td></tr></table>
 
 <big><big>[[Jer.48.1 Judgment on Moab|⥃]]</big></big>***Judgment on Moab***&emsp;<small><sup>\[ [[Isa.15|Isaiah 15:1–9]] ]</sup></small>

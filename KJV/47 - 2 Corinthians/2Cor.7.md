@@ -1,3 +1,24 @@
+---
+title: 2 Corinthians 7
+type: Chapter
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 7
+book/chapter: "[[2Cor.7|2 Corinthians 7]]"
+chronological_order: 1080
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+pericopes:
+- "[[2Cor.7.1 Paul’s Joy in the Corinthians|Paul’s Joy in the Corinthians]]"
+---
+
 (KJV) **2 Corinthians 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.6|<< 2 Corinthians 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8|2 Corinthians 8 >>]]</td></tr></table>
 
 <big><big>[[2Cor.7.1 Paul’s Joy in the Corinthians|⥃]]</big></big>***Paul’s Joy in the Corinthians***

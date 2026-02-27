@@ -1,3 +1,29 @@
+---
+title: 1 Kings 4
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Kings
+chapter: 4
+book/chapter: "[[1Kgs.4|1 Kings 4]]"
+chronological_order: 444
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+pericopes:
+- "[[1Kgs.4.1 Solomon’s Princes|Solomon’s Princes]]"
+- "[[1Kgs.4.7 Solomon’s Twelve Officers|Solomon’s Twelve Officers]]"
+- "[[1Kgs.4.20 Solomon’s Prosperity|Solomon’s Prosperity]]"
+- "[[1Kgs.4.29 Solomon’s Wisdom|Solomon’s Wisdom]]"
+---
+
 (KJV) **1 Kings 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3|<< 1 Kings 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.5|1 Kings 5 >>]]</td></tr></table>
 
 <big><big>[[1Kgs.4.1 Solomon’s Princes|⥃]]</big></big>***Solomon’s Princes***

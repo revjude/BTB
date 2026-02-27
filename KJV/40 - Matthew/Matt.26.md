@@ -1,3 +1,33 @@
+---
+title: Matthew 26
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.26.1 The Plot to Kill Jesus|The Plot to Kill Jesus]]"
+- "[[Matt.26.6 Jesus Anointed at Bethany|Jesus Anointed at Bethany]]"
+- "[[Matt.26.14 Judas Agrees to Betray Jesus|Judas Agrees to Betray Jesus]]"
+- "[[Matt.26.17 Preparing the Passover|Preparing the Passover]]"
+- "[[Matt.26.20 The Last Supper|The Last Supper]]"
+- "[[Matt.26.31 Jesus Predicts Peter’s Denial|Jesus Predicts Peter’s Denial]]"
+- "[[Matt.26.36 Jesus Prays at Gethsemane|Jesus Prays at Gethsemane]]"
+- "[[Matt.26.47 The Betrayal of Jesus|The Betrayal of Jesus]]"
+- "[[Matt.26.57 Jesus before the Sanhedrin|Jesus before the Sanhedrin]]"
+- "[[Matt.26.69 Peter Denies Jesus|Peter Denies Jesus]]"
+---
+
 (KJV) **Matthew 26**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25|<< Matthew 25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27|Matthew 27 >>]]</td></tr></table>
 
 <big><big>[[Matt.26.1 The Plot to Kill Jesus|⥃]]</big></big>***The Plot to Kill Jesus***&emsp;<small><sup>\[ [[Mark.14|Mark 14:1–2]] <big>†</big> [[Luke.22|Luke 22:1–2]] <big>†</big> [[John.11|John 11:45–57]] ]</sup></small>

@@ -1,3 +1,25 @@
+---
+title: Job 20
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 20
+book/chapter: "[[Job.20|Job 20]]"
+chronological_order: 31
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.20.1 Zophar：Destruction Awaits the Wicked|Zophar：Destruction Awaits the Wicked]]"
+---
+
 (KJV) **Job 20**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19|<< Job 19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21|Job 21 >>]]</td></tr></table>
 
 <big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥃]]</big></big>***Zophar: Destruction Awaits the Wicked***

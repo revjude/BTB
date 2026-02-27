@@ -1,3 +1,34 @@
+---
+title: Exodus 36
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 36
+book/chapter: "[[Exod.36|Exodus 36]]"
+chronological_order: 128
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.36.1 The People Bring More than Enough|The People Bring More than Enough]]"
+- "[[Exod.36.8 The Ten Curtains for the Tabernacle|The Ten Curtains for the Tabernacle]]"
+- "[[Exod.36.14 The Eleven Curtains of Goat Hair|The Eleven Curtains of Goat Hair]]"
+- "[[Exod.36.20 The Frames and Bases|The Frames and Bases]]"
+- "[[Exod.36.35 The Veil|The Veil]]"
+- "[[Exod.36.37 The Curtain for the Entrance|The Curtain for the Entrance]]"
+---
+
 (KJV) **Exodus 36**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35|<< Exodus 35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37|Exodus 37 >>]]</td></tr></table>
 
 <big><big>[[Exod.36.1 The People Bring More than Enough|⥃]]</big></big>***The People Bring More than Enough***

@@ -1,3 +1,26 @@
+---
+title: Revelation 15
+type: Chapter
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 15
+book/chapter: "[[Rev.15|Revelation 15]]"
+chronological_order: 1182
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+pericopes:
+- "[[Rev.15.1 The Song of Moses and the Lamb|The Song of Moses and the Lamb]]"
+- "[[Rev.15.5 Preparation for Judgment|Preparation for Judgment]]"
+---
+
 (KJV) **Revelation 15**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14|<< Revelation 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16|Revelation 16 >>]]</td></tr></table>
 
 <big><big>[[Rev.15.1 The Song of Moses and the Lamb|⥃]]</big></big>***The Song of Moses and the Lamb***&emsp;<small><sup>\[ [[Deut.32|Deuteronomy 32:1–47]] ]</sup></small>

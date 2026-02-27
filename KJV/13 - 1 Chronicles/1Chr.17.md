@@ -1,3 +1,25 @@
+---
+title: 1 Chronicles 17
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Chronicles
+chapter: 17
+book/chapter: "[[1Chr.17|1 Chronicles 17]]"
+chronological_order: 398
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+pericopes:
+- "[[1Chr.17.1 God’s Covenant with David|God’s Covenant with David]]"
+- "[[1Chr.17.16 David’s Prayer of Thanksgiving|David’s Prayer of Thanksgiving]]"
+---
+
 (KJV) **1 Chronicles 17**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16|<< 1 Chronicles 16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.18|1 Chronicles 18 >>]]</td></tr></table>
 
 <big><big>[[1Chr.17.1 God’s Covenant with David|⥃]]</big></big>***God’s Covenant with David***&emsp;<small><sup>\[ [[2Sam.7|2 Samuel 7:1–17]] ]</sup></small>

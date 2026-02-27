@@ -1,3 +1,28 @@
+---
+title: Revelation 19
+type: Chapter
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 19
+book/chapter: "[[Rev.19|Revelation 19]]"
+chronological_order: 1186
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+pericopes:
+- "[[Rev.19.1 Rejoicing in Heaven|Rejoicing in Heaven]]"
+- "[[Rev.19.6 The Marriage of the Lamb|The Marriage of the Lamb]]"
+- "[[Rev.19.11 The Rider on the White Horse|The Rider on the White Horse]]"
+- "[[Rev.19.17 Defeat of the Beast and False Prophet|Defeat of the Beast and False Prophet]]"
+---
+
 (KJV) **Revelation 19**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18|<< Revelation 18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20|Revelation 20 >>]]</td></tr></table>
 
 <big><big>[[Rev.19.1 Rejoicing in Heaven|⥃]]</big></big>***Rejoicing in Heaven***

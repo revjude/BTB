@@ -1,3 +1,25 @@
+---
+title: Job 24
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Job
+chapter: 24
+book/chapter: "[[Job.24|Job 24]]"
+chronological_order: 35
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+pericopes:
+- "[[Job.24.1 Job：Judgment for the Wicked|Job：Judgment for the Wicked]]"
+---
+
 (KJV) **Job 24**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.23|<< Job 23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.25|Job 25 >>]]</td></tr></table>
 
 <big><big>[[Job.24.1 Job：Judgment for the Wicked|⥃]]</big></big>***Job: Judgment for the Wicked***

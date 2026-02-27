@@ -1,3 +1,28 @@
+---
+title: John 12
+type: Chapter
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+pericopes:
+- "[[John.12.1 Mary Anoints Jesus|Mary Anoints Jesus]]"
+- "[[John.12.9 The Plot to Kill Lazarus|The Plot to Kill Lazarus]]"
+- "[[John.12.12 The Triumphal Entry|The Triumphal Entry]]"
+- "[[John.12.20 Jesus Predicts His Death|Jesus Predicts His Death]]"
+- "[[John.12.37 Belief and Unbelief|Belief and Unbelief]]"
+---
+
 (KJV) **John 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11|<< John 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13|John 13 >>]]</td></tr></table>
 
 <big><big>[[John.12.1 Mary Anoints Jesus|⥃]]</big></big>***Mary Anoints Jesus***&emsp;<small><sup>\[ [[Matt.26|Matthew 26:6–13]] <big>†</big> [[Mark.14|Mark 14:3–9]] <big>†</big> [[Luke.7|Luke 7:36–50]] ]</sup></small>

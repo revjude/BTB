@@ -1,3 +1,28 @@
+---
+title: Luke 24
+type: Chapter
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+pericopes:
+- "[[Luke.24.1 The Resurrection|The Resurrection]]"
+- "[[Luke.24.13 The Road to Emmaus|The Road to Emmaus]]"
+- "[[Luke.24.36 Jesus Appears to the Disciples|Jesus Appears to the Disciples]]"
+- "[[Luke.24.50 The Ascension|The Ascension]]"
+---
+
 (KJV) **Luke 24**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23|<< Luke 23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1|John 1 >>]]</td></tr></table>
 
 <big><big>[[Luke.24.1 The Resurrection|⥃]]</big></big>***The Resurrection***&emsp;<small><sup>\[ [[Matt.28|Matthew 28:1–10]] <big>†</big> [[Mark.16|Mark 16:1–8]] <big>†</big> [[John.20|John 20:1–9]] ]</sup></small>

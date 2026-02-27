@@ -1,3 +1,24 @@
+---
+title: Lamentations 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Lamentations
+chapter: 2
+book/chapter: "[[Lam.2|Lamentations 2]]"
+chronological_order: 777
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+pericopes:
+- "[[Lam.2.1 God’s Anger over Jerusalem|God’s Anger over Jerusalem]]"
+---
+
 (KJV) **Lamentations 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1|<< Lamentations 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3|Lamentations 3 >>]]</td></tr></table>
 
 <big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥃]]</big></big>***God’s Anger over Jerusalem***

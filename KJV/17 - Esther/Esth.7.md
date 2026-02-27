@@ -1,3 +1,25 @@
+---
+title: Esther 7
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Esther
+chapter: 7
+book/chapter: "[[Esth.7|Esther 7]]"
+chronological_order: 905
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+pericopes:
+- "[[Esth.7.1 Esther Pleads for Her People|Esther Pleads for Her People]]"
+- "[[Esth.7.7 The Hanging of Haman|The Hanging of Haman]]"
+---
+
 (KJV) **Esther 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.6|<< Esther 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.8|Esther 8 >>]]</td></tr></table>
 
 <big><big>[[Esth.7.1 Esther Pleads for Her People|⥃]]</big></big>***Esther Pleads for Her People***

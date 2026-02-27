@@ -1,3 +1,28 @@
+---
+title: Genesis 44
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Genesis
+chapter: 44
+book/chapter: "[[Gen.44|Genesis 44]]"
+chronological_order: 86
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.44.1 Benjamin and the Silver Cup|Benjamin and the Silver Cup]]"
+- "[[Gen.44.18 Judah Pleads for Benjamin|Judah Pleads for Benjamin]]"
+---
+
 (KJV) **Genesis 44**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43|<< Genesis 43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45|Genesis 45 >>]]</td></tr></table>
 
 <big><big>[[Gen.44.1 Benjamin and the Silver Cup|⥃]]</big></big>***Benjamin and the Silver Cup***

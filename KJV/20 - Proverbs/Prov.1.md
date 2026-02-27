@@ -1,3 +1,26 @@
+---
+title: Proverbs 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Proverbs
+chapter: 1
+book/chapter: "[[Prov.1|Proverbs 1]]"
+chronological_order: 456
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+pericopes:
+- "[[Prov.1.1 The Beginning of Knowledge|The Beginning of Knowledge]]"
+- "[[Prov.1.8 The Enticement of Sin|The Enticement of Sin]]"
+- "[[Prov.1.20 Wisdom Calls Aloud|Wisdom Calls Aloud]]"
+---
+
 (KJV) **Proverbs 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.150|<< Psalm 150]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.2|Proverbs 2 >>]]</td></tr></table>
 
 <big><big>[[Prov.1.1 The Beginning of Knowledge|⥃]]</big></big>***The Beginning of Knowledge***&emsp;<small><sup>\[ [[Prov.9|Proverbs 9:1–12]] ]</sup></small>

@@ -1,3 +1,28 @@
+---
+title: Ezekiel 6
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 6
+book/chapter: "[[Ezek.6|Ezekiel 6]]"
+chronological_order: 797
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.6.1 Judgment against Idolatry|Judgment against Idolatry]]"
+- "[[Ezek.6.8 A Remnant to Be Blessed|A Remnant to Be Blessed]]"
+---
+
 (KJV) **Ezekiel 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.5|<< Ezekiel 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7|Ezekiel 7 >>]]</td></tr></table>
 
 <big><big>[[Ezek.6.1 Judgment against Idolatry|⥃]]</big></big>***Judgment against Idolatry***&emsp;<small><sup>\[ [[Deut.4|Deuteronomy 4:15–31]] <big>†</big> [[Deut.12|Deuteronomy 12:29–32]] ]</sup></small>

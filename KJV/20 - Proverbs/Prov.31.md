@@ -1,3 +1,25 @@
+---
+title: Proverbs 31
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Proverbs
+chapter: 31
+book/chapter: "[[Prov.31|Proverbs 31]]"
+chronological_order: 486
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+pericopes:
+- "[[Prov.31.1 The Sayings for King Lemuel|The Sayings for King Lemuel]]"
+- "[[Prov.31.10 The Virtues of a Noble Woman|The Virtues of a Noble Woman]]"
+---
+
 (KJV) **Proverbs 31**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30|<< Proverbs 30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.1|Ecclesiastes 1 >>]]</td></tr></table>
 
 <big><big>[[Prov.31.1 The Sayings for King Lemuel|⥃]]</big></big>***The Sayings for King Lemuel***

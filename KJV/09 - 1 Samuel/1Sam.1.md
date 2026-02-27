@@ -1,3 +1,26 @@
+---
+title: 1 Samuel 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Samuel
+chapter: 1
+book/chapter: "[[1Sam.1|1 Samuel 1]]"
+chronological_order: 280
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[1Sam.1.1 Elkanah and His Wives|Elkanah and His Wives]]"
+- "[[1Sam.1.9 Hannah Prays for a Son|Hannah Prays for a Son]]"
+- "[[1Sam.1.19 The Birth of Samuel|The Birth of Samuel]]"
+---
+
 (KJV) **1 Samuel 1**<small><small>[^1]</small></small><small><small>[^2]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4|<< Ruth 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2|1 Samuel 2 >>]]</td></tr></table>
 
 <big><big>[[1Sam.1.1 Elkanah and His Wives|⥃]]</big></big>***Elkanah and His Wives***&emsp;<small><sup>\[ [[Ps.113|Psalms 113:1–9]] ]</sup></small>

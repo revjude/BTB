@@ -1,3 +1,27 @@
+---
+title: Psalm 32
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 32
+book/chapter: "[[Ps.32|Psalm 32]]"
+chronological_order: 422
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.32.1 The Joy of Forgiveness|The Joy of Forgiveness]]"
+---
+
 (KJV) **Psalm 32**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31|<< Psalm 31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.33|Psalm 33 >>]]</td></tr></table>
 
 <big><big>[[Ps.32.1 The Joy of Forgiveness|⥃]]</big></big>***The Joy of Forgiveness***&emsp;<small><sup>\[ [[Rom.4|Romans 4:1–12]] ]</sup></small>

@@ -1,3 +1,33 @@
+---
+title: Deuteronomy 21
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Deuteronomy
+chapter: 21
+book/chapter: "[[Deut.21|Deuteronomy 21]]"
+chronological_order: 217
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+pericopes:
+- "[[Deut.21.1 Atonement for an Unsolved Murder|Atonement for an Unsolved Murder]]"
+- "[[Deut.21.10 Marrying a Captive Woman|Marrying a Captive Woman]]"
+- "[[Deut.21.15 Inheritance Rights of the Firstborn|Inheritance Rights of the Firstborn]]"
+- "[[Deut.21.18 A Rebellious Son|A Rebellious Son]]"
+- "[[Deut.21.22 Cursed Is Anyone Hung on a Tree|Cursed Is Anyone Hung on a Tree]]"
+---
+
 (KJV) **Deuteronomy 21**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.20|<< Deuteronomy 20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22|Deuteronomy 22 >>]]</td></tr></table>
 
 <big><big>[[Deut.21.1 Atonement for an Unsolved Murder|⥃]]</big></big>***Atonement for an Unsolved Murder***

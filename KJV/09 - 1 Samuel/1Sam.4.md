@@ -1,3 +1,25 @@
+---
+title: 1 Samuel 4
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Samuel
+chapter: 4
+book/chapter: "[[1Sam.4|1 Samuel 4]]"
+chronological_order: 283
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+pericopes:
+- "[[1Sam.4.1 The Philistines Capture the Ark|The Philistines Capture the Ark]]"
+- "[[1Sam.4.12 The Death of Eli|The Death of Eli]]"
+---
+
 (KJV) **1 Samuel 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.3|<< 1 Samuel 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.5|1 Samuel 5 >>]]</td></tr></table>
 
 <big><big>[[1Sam.4.1 The Philistines Capture the Ark|⥃]]</big></big>***The Philistines Capture the Ark***

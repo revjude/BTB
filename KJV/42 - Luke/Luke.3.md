@@ -1,3 +1,27 @@
+---
+title: Luke 3
+type: Chapter
+original_language: Greek
+testament: New
+book: Luke
+chapter: 3
+book/chapter: "[[Luke.3|Luke 3]]"
+chronological_order: 937
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+pericopes:
+- "[[Luke.3.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
+- "[[Luke.3.21 The Baptism of Jesus|The Baptism of Jesus]]"
+- "[[Luke.3.23 The Genealogy of Jesus|The Genealogy of Jesus]]"
+---
+
 (KJV) **Luke 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2|<< Luke 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4|Luke 4 >>]]</td></tr></table>
 
 <big><big>[[Luke.3.1 The Mission of John the Baptist|⥃]]</big></big>***The Mission of John the Baptist***&emsp;<small><sup>\[ [[Isa.40|Isaiah 40:1–5]] <big>†</big> [[Matt.3|Matthew 3:1–12]] <big>†</big> [[Mark.1|Mark 1:1–8]] <big>†</big> [[John.1|John 1:19–28]] ]</sup></small>

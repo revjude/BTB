@@ -1,3 +1,28 @@
+---
+title: Joel 2
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Joel
+chapter: 2
+book/chapter: "[[Joel.2|Joel 2]]"
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Joel.2.1 The Army of Locusts|The Army of Locusts]]"
+- "[[Joel.2.12 Return with All Your Heart|Return with All Your Heart]]"
+- "[[Joel.2.18 Restoration Promised|Restoration Promised]]"
+- "[[Joel.2.28 I Will Pour Out My Spirit|I Will Pour Out My Spirit]]"
+---
+
 (KJV) **Joel 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1|<< Joel 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3|Joel 3 >>]]</td></tr></table>
 
 <big><big>[[Joel.2.1 The Army of Locusts|⥃]]</big></big>***The Army of Locusts***&emsp;<small><sup>\[ [[Amos.7|Amos 7:1–9]] ]</sup></small>

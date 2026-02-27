@@ -1,3 +1,25 @@
+---
+title: Zephaniah 1
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Zephaniah
+chapter: 1
+book/chapter: "[[Zeph.1|Zephaniah 1]]"
+chronological_order: 715
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+pericopes:
+- "[[Zeph.1.1 Zephaniah Prophesies Judgment on Judah|Zephaniah Prophesies Judgment on Judah]]"
+- "[[Zeph.1.7 The Day of the LORD|The Day of the LORD]]"
+---
+
 (KJV) **Zephaniah 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3|<< Habakkuk 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.2|Zephaniah 2 >>]]</td></tr></table>
 
 <big><big>[[Zeph.1.1 Zephaniah Prophesies Judgment on Judah|⥃]]</big></big>***Zephaniah Prophesies Judgment on Judah***&emsp;<small><sup>\[ [[Matt.13|Matthew 13:36–43]] ]</sup></small>

@@ -1,3 +1,26 @@
+---
+title: Acts 18
+type: Chapter
+original_language: Greek
+testament: New
+book: Acts
+chapter: 18
+book/chapter: "[[Acts.18|Acts 18]]"
+chronological_order: 1047
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+pericopes:
+- "[[Acts.18.1 Paul Ministers in Corinth|Paul Ministers in Corinth]]"
+- "[[Acts.18.12 Paul before Gallio|Paul before Gallio]]"
+- "[[Acts.18.18 Paul Returns to Antioch|Paul Returns to Antioch]]"
+- "[[Acts.18.23 Paul’s Third Missionary Journey Begins|Paul’s Third Missionary Journey Begins]]"
+---
+
 (KJV) **Acts 18**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17|<< Acts 17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19|Acts 19 >>]]</td></tr></table>
 
 <big><big>[[Acts.18.1 Paul Ministers in Corinth|⥃]]</big></big>***Paul Ministers in Corinth***&emsp;<small><sup>\[ [[1Cor.1|1 Corinthians 1:1–3]] <big>†</big> [[2Cor.1|2 Corinthians 1:1–2]] ]</sup></small>

@@ -1,3 +1,26 @@
+---
+title: Isaiah 50
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 50
+book/chapter: "[[Isa.50|Isaiah 50]]"
+chronological_order: 689
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.50.1 Israel’s Sin|Israel’s Sin]]"
+- "[[Isa.50.4 The Servant’s Obedience|The Servant’s Obedience]]"
+---
+
 (KJV) **Isaiah 50**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49|<< Isaiah 49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.51|Isaiah 51 >>]]</td></tr></table>
 
 <big><big>[[Isa.50.1 Israel’s Sin|⥃]]</big></big>***Israel’s Sin***

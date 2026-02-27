@@ -1,3 +1,26 @@
+---
+title: 1 Peter 2
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 2
+book/chapter: "[[1Pet.2|1 Peter 2]]"
+chronological_order: 1136
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+pericopes:
+- "[[1Pet.2.1 The Living Stone and Chosen People|The Living Stone and Chosen People]]"
+- "[[1Pet.2.13 Submission to Authorities|Submission to Authorities]]"
+- "[[1Pet.2.21 Christ’s Example of Suffering|Christ’s Example of Suffering]]"
+---
+
 (KJV) **1 Peter 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1|<< 1 Peter 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3|1 Peter 3 >>]]</td></tr></table>
 
 <big><big>[[1Pet.2.1 The Living Stone and Chosen People|⥃]]</big></big>***The Living Stone and Chosen People***&emsp;<small><sup>\[ [[Isa.28|Isaiah 28:14–22]] <big>†</big> [[1Cor.3|1 Corinthians 3:10–15]] <big>†</big> [[Eph.2|Ephesians 2:19–22]] ]</sup></small>

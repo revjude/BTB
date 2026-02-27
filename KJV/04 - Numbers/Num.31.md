@@ -1,3 +1,30 @@
+---
+title: Numbers 31
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Numbers
+chapter: 31
+book/chapter: "[[Num.31|Numbers 31]]"
+chronological_order: 191
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+pericopes:
+- "[[Num.31.1 Vengeance on Midian|Vengeance on Midian]]"
+- "[[Num.31.25 Division of the Spoils|Division of the Spoils]]"
+- "[[Num.31.48 The Voluntary Offering|The Voluntary Offering]]"
+---
+
 (KJV) **Numbers 31**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.30|<< Numbers 30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32|Numbers 32 >>]]</td></tr></table>
 
 <big><big>[[Num.31.1 Vengeance on Midian|⥃]]</big></big>***Vengeance on Midian***

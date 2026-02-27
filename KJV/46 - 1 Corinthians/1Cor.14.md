@@ -1,3 +1,24 @@
+---
+title: 1 Corinthians 14
+type: Chapter
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 14
+book/chapter: "[[1Cor.14|1 Corinthians 14]]"
+chronological_order: 1071
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+pericopes:
+- "[[1Cor.14.1 Prophecy and Tongues|Prophecy and Tongues]]"
+- "[[1Cor.14.26 Orderly Worship|Orderly Worship]]"
+---
+
 (KJV) **1 Corinthians 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.13|<< 1 Corinthians 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15|1 Corinthians 15 >>]]</td></tr></table>
 
 <big><big>[[1Cor.14.1 Prophecy and Tongues|⥃]]</big></big>***Prophecy and Tongues***

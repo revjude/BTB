@@ -1,3 +1,29 @@
+---
+title: Hebrews 11
+type: Chapter
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 11
+book/chapter: "[[Heb.11|Hebrews 11]]"
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+pericopes:
+- "[[Heb.11.1 Faith and Assurance|Faith and Assurance]]"
+- "[[Heb.11.4 The Faith of Abel, Enoch, Noah|The Faith of Abel, Enoch, Noah]]"
+- "[[Heb.11.8 The Faith of Abraham and Sarah|The Faith of Abraham and Sarah]]"
+- "[[Heb.11.20 The Faith of Isaac, Jacob, and Joseph|The Faith of Isaac, Jacob, and Joseph]]"
+- "[[Heb.11.23 The Faith of Moses|The Faith of Moses]]"
+- "[[Heb.11.30 (Joshua–Malachi)|(Joshua–Malachi)]]"
+---
+
 (KJV) **Hebrews 11**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10|<< Hebrews 10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12|Hebrews 12 >>]]</td></tr></table>
 
 <big><big>[[Heb.11.1 Faith and Assurance|⥃]]</big></big>***Faith and Assurance***&emsp;<small><sup>\[ [[Gen.1|Genesis 1:1–2]] <big>†</big> [[John.1|John 1:1–5]] ]</sup></small>

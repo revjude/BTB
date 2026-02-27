@@ -1,3 +1,27 @@
+---
+title: Psalm 21
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 21
+book/chapter: "[[Ps.21|Psalm 21]]"
+chronological_order: 354
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.21.1 After the Battle|After the Battle]]"
+---
+
 (KJV) **Psalm 21**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.20|<< Psalm 20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.22|Psalm 22 >>]]</td></tr></table>
 
 <big><big>[[Ps.21.1 After the Battle|⥃]]</big></big>***After the Battle***&emsp;<small><sup>\[ [[Prov.21|Proverbs 21:1–31]] ]</sup></small>

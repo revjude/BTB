@@ -1,3 +1,25 @@
+---
+title: Isaiah 54
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Isaiah
+chapter: 54
+book/chapter: "[[Isa.54|Isaiah 54]]"
+chronological_order: 693
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+pericopes:
+- "[[Isa.54.1 Future Blessings for Zion|Future Blessings for Zion]]"
+---
+
 (KJV) **Isaiah 54**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.53|<< Isaiah 53]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.55|Isaiah 55 >>]]</td></tr></table>
 
 <big><big>[[Isa.54.1 Future Blessings for Zion|⥃]]</big></big>***Future Blessings for Zion***

@@ -1,3 +1,31 @@
+---
+title: 1 Kings 15
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: 1 Kings
+chapter: 15
+book/chapter: "[[1Kgs.15|1 Kings 15]]"
+chronological_order: 554
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+pericopes:
+- "[[1Kgs.15.1 Abijam Reigns in Judah|Abijam Reigns in Judah]]"
+- "[[1Kgs.15.9 Asa Reigns in Judah|Asa Reigns in Judah]]"
+- "[[1Kgs.15.16 War between Asa and Baasha|War between Asa and Baasha]]"
+- "[[1Kgs.15.23 Jehoshaphat Succeeds Asa|Jehoshaphat Succeeds Asa]]"
+- "[[1Kgs.15.25 Nadab Reigns in Israel|Nadab Reigns in Israel]]"
+- "[[1Kgs.15.33 Baasha Reigns in Israel|Baasha Reigns in Israel]]"
+---
+
 (KJV) **1 Kings 15**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14|<< 1 Kings 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16|1 Kings 16 >>]]</td></tr></table>
 
 <big><big>[[1Kgs.15.1 Abijam Reigns in Judah|⥃]]</big></big>***Abijam Reigns in Judah***&emsp;<small><sup>\[ [[2Chr.13|2 Chronicles 13:1–3]] ]</sup></small>

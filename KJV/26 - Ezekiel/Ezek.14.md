@@ -1,3 +1,28 @@
+---
+title: Ezekiel 14
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezekiel
+chapter: 14
+book/chapter: "[[Ezek.14|Ezekiel 14]]"
+chronological_order: 805
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+pericopes:
+- "[[Ezek.14.1 Idolatrous Elders Condemned|Idolatrous Elders Condemned]]"
+- "[[Ezek.14.12 Four Dire Judgments|Four Dire Judgments]]"
+---
+
 (KJV) **Ezekiel 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.13|<< Ezekiel 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.15|Ezekiel 15 >>]]</td></tr></table>
 
 <big><big>[[Ezek.14.1 Idolatrous Elders Condemned|⥃]]</big></big>***Idolatrous Elders Condemned***&emsp;<small><sup>\[ [[Rom.14|Romans 14:13–23]] <big>†</big> [[1Cor.8|1 Corinthians 8:1–13]] ]</sup></small>

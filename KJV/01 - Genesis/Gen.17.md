@@ -1,3 +1,28 @@
+---
+title: Genesis 17
+type: Chapter
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 17
+book/chapter: "[[Gen.17|Genesis 17]]"
+chronological_order: 59
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+pericopes:
+- "[[Gen.17.1 Abraham to Father Many Nations|Abraham to Father Many Nations]]"
+- "[[Gen.17.9 The Covenant of Circumcision|The Covenant of Circumcision]]"
+---
+
 (KJV) **Genesis 17**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.16|<< Genesis 16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18|Genesis 18 >>]]</td></tr></table>
 
 <big><big>[[Gen.17.1 Abraham to Father Many Nations|⥃]]</big></big>***Abraham to Father Many Nations***

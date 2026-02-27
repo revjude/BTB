@@ -1,3 +1,31 @@
+---
+title: Exodus 9
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Exodus
+chapter: 9
+book/chapter: "[[Exod.9|Exodus 9]]"
+chronological_order: 101
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+pericopes:
+- "[[Exod.9.1 The Fifth Plague：Livestock|The Fifth Plague：Livestock]]"
+- "[[Exod.9.8 The Sixth Plague：Boils|The Sixth Plague：Boils]]"
+- "[[Exod.9.13 The Seventh Plague：Hail|The Seventh Plague：Hail]]"
+---
+
 (KJV) **Exodus 9**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8|<< Exodus 8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10|Exodus 10 >>]]</td></tr></table>
 
 <big><big>[[Exod.9.1 The Fifth Plague：Livestock|⥃]]</big></big>***The Fifth Plague: Livestock***

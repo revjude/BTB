@@ -1,3 +1,27 @@
+---
+title: Matthew 20
+type: Chapter
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 20
+book/chapter: "[[Matt.20|Matthew 20]]"
+chronological_order: 987
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+pericopes:
+- "[[Matt.20.1 The Parable of the Workers|The Parable of the Workers]]"
+- "[[Matt.20.17 The Third Prediction of the Passion|The Third Prediction of the Passion]]"
+- "[[Matt.20.20 A Mother’s Request|A Mother’s Request]]"
+- "[[Matt.20.29 The Blind Men by the Road|The Blind Men by the Road]]"
+---
+
 (KJV) **Matthew 20**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19|<< Matthew 19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21|Matthew 21 >>]]</td></tr></table>
 
 <big><big>[[Matt.20.1 The Parable of the Workers|⥃]]</big></big>***The Parable of the Workers***

@@ -1,3 +1,25 @@
+---
+title: Judges 4
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Judges
+chapter: 4
+book/chapter: "[[Judg.4|Judges 4]]"
+chronological_order: 258
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+pericopes:
+- "[[Judg.4.1 Deborah and Barak|Deborah and Barak]]"
+- "[[Judg.4.17 Jael Kills Sisera|Jael Kills Sisera]]"
+---
+
 (KJV) **Judges 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3|<< Judges 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5|Judges 5 >>]]</td></tr></table>
 
 <big><big>[[Judg.4.1 Deborah and Barak|⥃]]</big></big>***Deborah and Barak***

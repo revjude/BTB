@@ -1,3 +1,27 @@
+---
+title: Psalm 24
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Psalm
+chapter: 24
+book/chapter: "[[Ps.24|Psalm 24]]"
+chronological_order: 399
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+pericopes:
+- "[[Ps.24.1 The Earth Is the LORD’s|The Earth Is the LORD’s]]"
+---
+
 (KJV) **Psalm 24**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.23|<< Psalm 23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.25|Psalm 25 >>]]</td></tr></table>
 
 <big><big>[[Ps.24.1 The Earth Is the LORD’s|⥃]]</big></big>***The Earth Is the LORD’s***

@@ -1,3 +1,28 @@
+---
+title: Ezra 8
+type: Chapter
+original_language: Hebrew/Aramaic
+testament: Old
+book: Ezra
+chapter: 8
+book/chapter: "[[Ezra.8|Ezra 8]]"
+chronological_order: 910
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+pericopes:
+- "[[Ezra.8.1 The Exiles Who Returned with Ezra|The Exiles Who Returned with Ezra]]"
+- "[[Ezra.8.15 Ezra Sends for the Levites|Ezra Sends for the Levites]]"
+- "[[Ezra.8.21 Fasting for Protection|Fasting for Protection]]"
+- "[[Ezra.8.24 Priests to Guard the Offerings|Priests to Guard the Offerings]]"
+- "[[Ezra.8.32 Arrival in Jerusalem|Arrival in Jerusalem]]"
+---
+
 (KJV) **Ezra 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7|<< Ezra 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.9|Ezra 9 >>]]</td></tr></table>
 
 <big><big>[[Ezra.8.1 The Exiles Who Returned with Ezra|⥃]]</big></big>***The Exiles Who Returned with Ezra***

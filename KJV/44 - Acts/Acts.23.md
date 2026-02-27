@@ -1,3 +1,25 @@
+---
+title: Acts 23
+type: Chapter
+original_language: Greek
+testament: New
+book: Acts
+chapter: 23
+book/chapter: "[[Acts.23|Acts 23]]"
+chronological_order: 1105
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+pericopes:
+- "[[Acts.23.1 Paul before the Sanhedrin|Paul before the Sanhedrin]]"
+- "[[Acts.23.12 The Plot to Kill Paul|The Plot to Kill Paul]]"
+- "[[Acts.23.23 Paul Sent to Felix|Paul Sent to Felix]]"
+---
+
 (KJV) **Acts 23**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22|<< Acts 22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24|Acts 24 >>]]</td></tr></table>
 
 <big><big>[[Acts.23.1 Paul before the Sanhedrin|⥃]]</big></big>***Paul before the Sanhedrin***
