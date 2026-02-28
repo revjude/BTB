@@ -11,6 +11,8 @@ This work builds on the efforts of many scholars, theologians, and scribes whose
 
 **Important:** Initial setup requires patience. After cloning the repository or downloading the archive of almost 150,000 individual "notes", it takes Obsidian up to an hour to build a database and index all the connections. Once complete, navigation is quick.  In spite of the wait, it's still faster than same-day Prime, and it's free.
 
+![Animated Intro](/lexicon/views/BTB.gif)
+
 #### Interlinear Verses with Translation Notes
 
 ![Verse View](/lexicon/views/TranslatorsNotes.PNG)
@@ -18,10 +20,6 @@ This work builds on the efforts of many scholars, theologians, and scribes whose
 #### Study By Translating the Original Scripture
 
 ![Chapter View](/lexicon/views/Pericopes.PNG)
-
-#### Easily Manage Translations and Notes via Obsidian Bases
-
-![Chapter View](/lexicon/views/Bases.PNG)
 
 #### Comprehensive Hebrew/Aramaic & Greek Lexicons
 
@@ -31,23 +29,15 @@ This work builds on the efforts of many scholars, theologians, and scribes whose
 
 ![Chapter View](/lexicon/views/Maps.PNG)
 
-#### Scripture Quoting Scripture
-
-![Chapter View](/lexicon/views/SQS.PNG)
-
 #### Topical Concordance
 Search over 20,000 topics and sub-topics
 ![Chapter View](/lexicon/views/Concordance1.PNG)
 More than 100,000 cross-references
 ![Chapter View](/lexicon/views/Concordance2.PNG)
 
-#### Chapters with Extensive Footnotes
+#### Powerful Bible and Lexicon Search Capabilities
 
-![Chapter View](/lexicon/views/ChapterView.png)
-
-#### Red Letters and Cross-References
-
-![Chapter View](/lexicon/views/RedLetters.PNG)
+![Bible Search](/lexicon/views/Search.gif)
 
 ## Features
 

@@ -15,17 +15,36 @@ views:
       - original_language
       - kjv
       - topics
-      - texts
       - pericope
+      - texts
     sort:
       - property: file.path
         direction: ASC
     columnSize:
+      note.book/chapter: 101
+      file.name: 72
       note.original_language: 66
-      note.kjv: 438
-      note.topics: 520
-      note.texts: 111
-      note.pericope: 232
+      note.kjv: 501
+      note.topics: 568
+      note.pericope: 164
+      note.texts: 183
+  - type: table
+    name: Jesus Said
+    filters:
+      and:
+        - and:
+            - file.folder.startsWith("interlinear")
+        - "!jesus_said.isEmpty()"
+    order:
+      - book/chapter
+      - file.name
+      - jesus_said
+    sort:
+      - property: file.path
+        direction: ASC
+    columnSize:
+      note.book/chapter: 116
+      file.name: 129
   - type: table
     name: Verses - KJV
     filters:
@@ -75,6 +94,7 @@ views:
     filters:
       and:
         - file.path.startsWith("KJV")
+        - testament == "New"
     order:
       - book/chapter
       - era
@@ -136,20 +156,3 @@ views:
     columnSize:
       note.pronunciation: 232
       note.gloss: 181
-  - type: table
-    name: Jesus Said
-    filters:
-      and:
-        - or:
-            - file.folder.startsWith("interlinear")
-        - "!jesus_said.isEmpty()"
-    order:
-      - book/chapter
-      - file.name
-      - jesus_said
-    sort:
-      - property: file.path
-        direction: ASC
-    columnSize:
-      note.book/chapter: 116
-      file.name: 129
