@@ -7,14 +7,10 @@ views:
     order:
       - book/chapter
       - pericope
-      - verse_count
-      - difficulty
-      - needs_review
-      - status
-      - priority
-      - translation_date
-      - verses
-      - genre
+      - translation_status
+      - translation_difficulty
+      - translation_priority
+      - translation_needs_review
     sort:
       - property: status
         direction: ASC

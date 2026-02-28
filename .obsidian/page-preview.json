@@ -1,5 +1,6 @@
 {
   "bases": false,
   "editor": false,
-  "properties": false
+  "properties": false,
+  "outline": false
 }

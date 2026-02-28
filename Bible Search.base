@@ -1,0 +1,155 @@
+properties:
+  file.name:
+    displayName: verse
+views:
+  - type: table
+    name: Verses
+    filters:
+      and:
+        - or:
+            - file.folder.startsWith("interlinear")
+            - file.folder.startsWith("LXX")
+    order:
+      - book/chapter
+      - file.name
+      - original_language
+      - kjv
+      - topics
+      - texts
+      - pericope
+    sort:
+      - property: file.path
+        direction: ASC
+    columnSize:
+      note.original_language: 66
+      note.kjv: 438
+      note.topics: 520
+      note.texts: 111
+      note.pericope: 232
+  - type: table
+    name: Verses - KJV
+    filters:
+      and:
+        - or:
+            - file.folder.startsWith("interlinear")
+    order:
+      - book/chapter
+      - file.name
+      - original_language
+      - kjv
+      - topics
+      - texts
+      - pericope
+    sort:
+      - property: file.path
+        direction: ASC
+    columnSize:
+      note.book/chapter: 116
+      note.original_language: 66
+      note.kjv: 558
+      note.topics: 520
+      note.texts: 111
+      note.pericope: 232
+  - type: table
+    name: Verses - LXX
+    filters:
+      and:
+        - or:
+            - file.folder.startsWith("LXX")
+    order:
+      - book/chapter
+      - file.name
+      - original_language
+      - lxx
+      - topics
+    sort:
+      - property: file.path
+        direction: ASC
+    columnSize:
+      note.book/chapter: 116
+      note.original_language: 66
+      note.lxx: 794
+      note.topics: 520
+  - type: table
+    name: Chapters
+    filters:
+      and:
+        - file.path.startsWith("KJV")
+    order:
+      - book/chapter
+      - era
+      - period
+      - date
+      - book_genre
+      - pericopes
+      - chronological_order
+    sort:
+      - property: file.path
+        direction: ASC
+    columnSize:
+      note.book/chapter: 116
+      note.era: 123
+      note.period: 161
+      note.date: 115
+      note.book_genre: 390
+      note.pericopes: 641
+      note.chronological_order: 67
+    rowHeight: medium
+  - type: table
+    name: Pericopes
+    filters:
+      and:
+        - file.path.startsWith("pericope")
+    order:
+      - book/chapter
+      - pericope
+      - translation_status
+      - verse_count
+      - original_language
+      - era
+      - period
+      - date
+      - book_genre
+    sort:
+      - property: file.path
+        direction: ASC
+    columnSize:
+      note.original_language: 63
+      note.era: 123
+      note.period: 241
+      note.date: 146
+      note.book_genre: 361
+  - type: table
+    name: Lexicon
+    filters:
+      and:
+        - file.folder == "lexicon/lemma"
+    order:
+      - lemma
+      - pronunciation
+      - gloss
+      - entries
+      - usage
+      - definition
+      - english
+    sort: []
+    columnSize:
+      note.pronunciation: 232
+      note.gloss: 181
+  - type: table
+    name: Jesus Said
+    filters:
+      and:
+        - or:
+            - file.folder.startsWith("interlinear")
+        - "!jesus_said.isEmpty()"
+    order:
+      - book/chapter
+      - file.name
+      - jesus_said
+    sort:
+      - property: file.path
+        direction: ASC
+    columnSize:
+      note.book/chapter: 116
+      file.name: 129
