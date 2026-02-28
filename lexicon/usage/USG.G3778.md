@@ -1,0 +1,708 @@
+| Form | Translated&nbsp;As&emsp;&emsp;&emsp;&emsp; | In Verse(s) |
+|-  |-  |-  |
+| **<span class="asgreek">όυτοσ</span>** | this | [[LXX.Jonah.1.12]]  |
+|   | this house | [[LXX.Hag.1.4]]  |
+| **<span class="asgreek">όυτοι</span>** | these | [[LXX.Jonah.4.2]]  |
+| **<span class="asgreek">τοῦτό</span>** | this | [[Matt.26.26]] • [[Mark.14.22]] • [[Mark.14.24]] • [[Luke.22.19]] • [[John.6.29]] • [[John.10.17]] • [[Acts.2.16]] • [[Acts.3.6]] • [[Acts.24.14]] • [[1Cor.11.24]] • [[Phil.1.19]] • [[Phil.1.22]] • [[1John.4.3]] • [[Rev.7.15]]  |
+| **<span class="asgreek">τοῦτον</span>** | Him | [[Matt.27.32]] • [[Luke.9.26]] • [[Luke.12.5]] • [[Luke.20.12]] • [[Luke.20.13]] • [[John.5.6]] • [[John.6.27]] • [[John.21.21]] • [[Acts.2.23]] • [[Acts.5.31]] • [[Acts.7.35]] • [[Acts.13.27]] • [[Acts.15.38]] • [[1Cor.2.2]] • [[1Cor.3.17]] • [[Phil.2.23]]  |
+|   | of this | [[2Thess.3.14]]  |
+|   | this | [[Matt.19.11]] • [[Matt.19.22]] • [[Matt.21.44]] • [[Mark.7.29]] • [[Mark.14.58]] • [[Mark.14.71]] • [[Luke.9.13]] • [[Luke.12.56]] • [[Luke.16.28]] • [[Luke.19.14]] • [[Luke.23.2]] • [[Luke.23.14]] • [[Luke.23.18]] • [[John.2.19]] • [[John.6.34]] • [[John.6.58]] • [[John.7.27]] • [[John.9.29]] • [[John.9.39]] • [[John.19.8]] • [[John.19.12]] • [[John.19.20]] • [[Acts.2.32]] • [[Acts.2.36]] • [[Acts.3.16]] • [[Acts.6.14]] • [[Acts.7.35]] • [[Acts.21.28]] • [[Acts.23.17]] • [[Acts.23.18]] • [[Acts.23.25]] • [[Acts.23.27]] • [[Acts.24.5]] • [[Acts.28.26]] • [[Rom.9.9]] • [[Rom.15.28]] • [[1Cor.3.12]] • [[1Cor.11.26]] • [[1Cor.11.27]] • [[2Cor.4.7]]  |
+|   | this man | [[Acts.5.37]]  |
+|   | this one | [[John.18.40]] • [[Acts.10.40]] • [[Acts.16.3]] • [[Acts.25.24]] • [[Heb.8.3]]  |
+| **<span class="asgreek">τοῦτ</span>** | That | [[Matt.27.46]] • [[Mark.7.2]] • [[Acts.1.19]] • [[Acts.19.4]] • [[Rom.7.18]] • [[Rom.9.8]] • [[Rom.10.6]] • [[Rom.10.7]] • [[Rom.10.8]] • [[Heb.2.14]] • [[Heb.7.5]] • [[Heb.9.11]] • [[Heb.10.20]] • [[Heb.11.16]] • [[Heb.13.15]] • [[1Pet.3.20]]  |
+|   | who | [[Phlm.1.12]]  |
+| **<span class="asgreek">τούτῳ</span>** | Him | [[Acts.4.10]] • [[Acts.13.39]] • [[1John.2.4]] • [[1John.2.5]]  |
+|   | by that | [[2Pet.2.19]]  |
+|   | by this | [[Luke.1.61]] • [[Gal.6.16]]  |
+|   | in Him | [[John.5.38]]  |
+|   | that | [[1Cor.7.24]]  |
+|   | this | [[Matt.12.32]] • [[Matt.21.21]] • [[Mark.10.30]] • [[Mark.11.23]] • [[Luke.4.3]] • [[Luke.10.5]] • [[Luke.10.20]] • [[Luke.18.30]] • [[Luke.19.9]] • [[Luke.21.23]] • [[Luke.23.4]] • [[Luke.23.14]] • [[John.4.20]] • [[John.4.21]] • [[John.4.27]] • [[John.4.37]] • [[John.9.30]] • [[John.12.25]] • [[John.13.35]] • [[John.15.8]] • [[John.16.30]] • [[John.20.30]] • [[Acts.1.6]] • [[Acts.3.12]] • [[Acts.4.17]] • [[Acts.5.28]] • [[Acts.7.29]] • [[Acts.8.21]] • [[Acts.8.29]] • [[Acts.23.9]] • [[Acts.24.2]] • [[Acts.24.10]] • [[Acts.24.16]] • [[Rom.12.2]] • [[Rom.13.9]] • [[1Cor.3.18]] • [[1Cor.4.4]] • [[1Cor.7.31]] • [[1Cor.11.22]] • [[1Cor.14.21]] • [[2Cor.3.10]] • [[2Cor.5.2]] • [[2Cor.8.10]] • [[2Cor.9.3]] • [[Eph.1.21]] • [[Phil.1.18]] • [[Heb.4.5]] • [[1Pet.4.16]] • [[2Pet.1.13]] • [[1John.2.3]] • [[1John.2.5]] • [[1John.3.10]] • [[1John.3.16]] • [[1John.3.19]] • [[1John.3.24]] • [[1John.4.2]] • [[1John.4.9]] • [[1John.4.10]] • [[1John.4.13]] • [[1John.4.17]] • [[1John.4.17]] • [[1John.5.2]] • [[Rev.22.18]] • [[Rev.22.19]]  |
+|   | this thing | [[Rom.14.18]]  |
+|   | this’ | [[Acts.7.7]]  |
+|   | to Him | [[Mark.6.2]] • [[John.10.3]] • [[John.13.24]] • [[Acts.10.43]]  |
+|   | to this | [[Matt.8.9]] • [[Matt.13.54]] • [[Matt.13.56]] • [[Matt.17.20]] • [[Matt.20.14]] • [[Mark.6.2]] • [[Luke.7.8]]  |
+|   | to this one | [[Luke.14.9]] • [[Luke.19.19]]  |
+|   | with this | [[Acts.15.15]] • [[Acts.21.9]]  |
+| **<span class="asgreek">τούτόν</span>** | this | [[LXX.Exod.33.17]]  |
+| **<span class="asgreek">τούτό</span>** | Is this | [[LXX.Gen.44.5]] • [[LXX.Exod.4.2]] • [[LXX.Dan.2.28]]  |
+|   | This | [[LXX.Gen.42.14]] • [[LXX.Gen.50.11]] • [[LXX.Exod.3.12]] • [[LXX.Exod.3.15]] • [[LXX.Exod.30.13]] • [[LXX.Lev.8.5]] • [[LXX.Lev.10.3]] • [[LXX.Lev.11.12]] • [[LXX.Num.8.24]] • [[LXX.Num.27.14]] • [[LXX.Josh.15.4]] • [[LXX.Judg.18.24]] • [[LXX.2Kgs.19.29]] • [[LXX.2Kgs.20.9]] • [[LXX.Job.13.16]] • [[LXX.Job.31.28]] • [[LXX.Eccl.1.17]] • [[LXX.Isa.27.9]] • [[LXX.Isa.42.8]] • [[LXX.Isa.54.9]] • [[LXX.Jer.33.16]] • [[LXX.Jer.41.9]] • [[LXX.Dan.2.36]]  |
+|   | this not | [[LXX.Jer.22.16]]  |
+| **<span class="asgreek">τούτων</span>** | As these | [[Matt.11.7]]  |
+|   | When these things | [[2Pet.3.11]]  |
+|   | about these things | [[Acts.18.17]]  |
+|   | for these | [[LXX.Jer.5.7]]  |
+|   | of them | [[Matt.6.32]]  |
+|   | of these | [[LXX.Gen.41.35]] • [[LXX.Lev.5.4]] • [[LXX.Lev.5.13]] • [[LXX.Num.16.26]] • [[LXX.Deut.1.35]] • [[LXX.Josh.5.7]] • [[LXX.1Sam.4.8]] • [[LXX.1Sam.17.36]] • [[LXX.1Kgs.22.13]] • [[LXX.2Kgs.6.20]] • [[LXX.2Chr.25.9]] • [[LXX.Isa.33.8]] • [[LXX.Isa.47.10]] • [[LXX.Jer.23.10]] • [[LXX.Jer.42.2]] • [[LXX.Ezek.16.5]] • [[LXX.Ezek.48.10]] • [[LXX.Dan.11.4]] • [[LXX.Hag.2.13]] • [[Matt.5.19]] • [[Matt.5.37]] • [[Matt.6.29]] • [[Matt.10.42]] • [[Matt.18.6]] • [[Matt.18.10]] • [[Matt.18.14]] • [[Matt.25.40]] • [[Matt.25.45]] • [[Luke.10.36]] • [[Luke.12.27]] • [[Luke.12.30]] • [[Luke.17.2]] • [[Acts.1.22]] • [[1Cor.9.15]] • [[1Cor.13.13]] • [[Heb.10.18]]  |
+|   | of these cherubim | [[LXX.2Chr.3.13]]  |
+|   | of these cities | [[LXX.Deut.4.42]] • [[LXX.Deut.19.5]] • [[LXX.Deut.19.11]] • [[LXX.Josh.20.4]]  |
+|   | of these inner chambers | [[LXX.Ezek.42.9]]  |
+|   | of these kingdoms | [[LXX.Josh.11.12]]  |
+|   | of these last | [[LXX.Dan.12.8]]  |
+|   | of these men | [[LXX.Exod.5.9]] • [[LXX.1Chr.11.19]] • [[LXX.Jer.38.16]]  |
+|   | of these nations | [[LXX.Deut.9.4]] • [[LXX.Deut.9.5]] • [[LXX.Deut.20.15]] • [[LXX.Deut.20.16]] • [[LXX.2Chr.32.14]]  |
+|   | of these pieces | [[LXX.Gen.15.17]]  |
+|   | of these rulers | [[LXX.Ps.87.6]]  |
+|   | of these sinners | [[LXX.Num.16.38]]  |
+|   | of these smoking | [[LXX.Isa.7.4]]  |
+|   | of these standing | [[LXX.Zech.3.7]]  |
+|   | of these things | [[Luke.18.34]] • [[Luke.21.28]] • [[Luke.24.48]] • [[Acts.18.15]] • [[Acts.26.26]] • [[Rev.18.15]]  |
+|   | of these uncircumcised | [[LXX.1Sam.14.6]]  |
+|   | of these wells | [[LXX.Gen.37.22]]  |
+|   | of those | [[Heb.13.11]]  |
+|   | than these | [[LXX.Num.22.15]] • [[Mark.12.31]] • [[John.1.50]] • [[John.5.20]] • [[John.14.12]] • [[John.21.15]]  |
+|   | than these things | [[John.7.31]] • [[3John.1.4]]  |
+|   | these | [[LXX.Gen.9.19]] • [[LXX.Gen.10.5]] • [[LXX.Gen.10.32]] • [[LXX.Gen.21.29]] • [[LXX.Exod.28.33]] • [[LXX.Exod.30.36]] • [[LXX.Lev.2.8]] • [[LXX.Lev.11.4]] • [[LXX.Lev.22.25]] • [[LXX.Lev.25.45]] • [[LXX.Lev.27.9]] • [[LXX.Josh.21.16]] • [[LXX.1Sam.30.24]] • [[LXX.2Sam.7.18]] • [[LXX.1Kgs.22.23]] • [[LXX.2Kgs.1.13]] • [[LXX.1Chr.2.53]] • [[LXX.1Chr.9.25]] • [[LXX.1Chr.23.4]] • [[LXX.2Chr.18.22]] • [[LXX.2Chr.32.20]] • [[LXX.Neh.5.16]] • [[LXX.Job.24.13]] • [[LXX.Job.36.21]] • [[LXX.Prov.4.23]] • [[LXX.Ezek.5.4]] • [[LXX.Ezek.8.15]] • [[LXX.Ezek.37.22]] • [[LXX.Dan.7.16]] • [[LXX.Dan.10.21]] • [[Matt.3.9]] • [[Mark.9.42]] • [[Luke.3.8]] • [[John.7.40]] • [[John.17.20]] • [[John.19.13]] • [[Acts.1.24]] • [[Acts.5.32]] • [[Acts.5.36]] • [[Acts.5.38]] • [[Acts.14.15]] • [[Acts.15.28]] • [[Acts.21.38]] • [[Acts.25.20]] • [[Acts.26.29]] • [[2Tim.2.21]] • [[Heb.1.2]] • [[2Pet.1.4]] • [[Rev.9.18]] • [[Rev.20.6]]  |
+|   | these abominations | [[LXX.Lev.18.26]] • [[LXX.Lev.18.29]] • [[LXX.Deut.18.12]]  |
+|   | these being left | [[LXX.Isa.37.4]]  |
+|   | these cities | [[LXX.Josh.21.42]] • [[LXX.1Chr.4.33]]  |
+|   | these flocks | [[LXX.Gen.32.19]]  |
+|   | these kingdoms | [[LXX.Josh.11.10]] • [[LXX.Amos.6.2]]  |
+|   | these nations | [[LXX.Isa.36.20]]  |
+|   | these stones | [[LXX.Jer.43.10]]  |
+|   | these things | [[Luke.7.18]] • [[Luke.21.12]] • [[Luke.24.14]] • [[John.21.24]] • [[Acts.19.36]] • [[Acts.24.8]] • [[Acts.25.9]] • [[Acts.25.20]] • [[Acts.26.21]] • [[Acts.26.26]] • [[1Thess.4.6]] • [[Titus.3.8]] • [[Heb.9.6]] • [[2Pet.1.12]] • [[2Pet.1.15]] • [[2Pet.3.16]]  |
+|   | these words | [[LXX.Exod.24.8]] • [[LXX.Exod.34.27]] • [[LXX.Jer.26.10]] • [[LXX.Jer.38.24]]  |
+|   | this sort | [[2Tim.3.6]]  |
+|   | those | [[LXX.1Kgs.20.29]]  |
+|   | through their | [[Rom.11.30]]  |
+|   | with these | [[LXX.Eccl.7.14]]  |
+| **<span class="asgreek">τούτω</span>** | For in this | [[LXX.Prov.9.11]]  |
+|   | in this | [[LXX.Josh.2.17]] • [[LXX.Josh.2.19]] • [[LXX.Josh.2.20]] • [[LXX.Jer.28.16]]  |
+|   | of this people | [[LXX.Num.14.19]]  |
+|   | this | [[LXX.Gen.24.14]] • [[LXX.Gen.24.44]] • [[LXX.Gen.34.15]] • [[LXX.Gen.34.22]] • [[LXX.Gen.34.23]] • [[LXX.Gen.42.15]] • [[LXX.Gen.42.33]] • [[LXX.Exod.7.17]] • [[LXX.Exod.7.23]] • [[LXX.Num.16.28]] • [[LXX.Josh.3.10]] • [[LXX.1Sam.11.2]] • [[LXX.2Sam.14.19]] • [[LXX.1Chr.27.24]] • [[LXX.2Chr.16.9]] • [[LXX.2Chr.16.10]] • [[LXX.2Chr.28.17]] • [[LXX.Ezra.9.15]] • [[LXX.Ezra.10.2]] • [[LXX.Neh.13.6]] • [[LXX.Esth.4.14]] • [[LXX.Job.6.3]] • [[LXX.Job.23.15]] • [[LXX.Ps.41.11]] • [[LXX.Eccl.5.2]] • [[LXX.Eccl.7.18]] • [[LXX.Jer.9.24]] • [[LXX.Amos.7.3]] • [[LXX.Amos.7.5]] • [[LXX.Mal.3.10]]  |
+|   | this empty | [[LXX.Num.21.5]]  |
+|   | this horn | [[LXX.Dan.7.8]]  |
+|   | this house | [[LXX.1Kgs.8.31]] • [[LXX.1Kgs.8.33]] • [[LXX.1Kgs.9.8]] • [[LXX.2Kgs.21.7]] • [[LXX.2Chr.6.22]] • [[LXX.2Chr.6.24]] • [[LXX.2Chr.7.21]] • [[LXX.2Chr.20.9]] • [[LXX.2Chr.33.7]] • [[LXX.Jer.7.14]]  |
+|   | this man | [[LXX.Jer.26.16]]  |
+|   | this matter | [[LXX.1Sam.28.10]] • [[LXX.2Sam.24.3]] • [[LXX.Ezra.10.13]]  |
+|   | this month | [[LXX.Exod.13.5]]  |
+|   | this mountain | [[LXX.Exod.3.12]] • [[LXX.Deut.1.6]] • [[LXX.Isa.25.7]]  |
+|   | this one | [[LXX.1Sam.16.9]] • [[LXX.Eccl.6.5]]  |
+|   | this papyrus paper | [[LXX.Jer.36.6]]  |
+|   | this people | [[LXX.Exod.3.21]] • [[LXX.Num.11.13]] • [[LXX.Num.14.14]] • [[LXX.1Kgs.12.6]] • [[LXX.2Chr.10.7]] • [[LXX.2Chr.10.9]] • [[LXX.Jer.14.10]] • [[LXX.Jer.15.20]] • [[LXX.Jer.16.10]] • [[LXX.Jer.27.16]] • [[LXX.Jer.38.4]]  |
+|   | this place | [[LXX.Gen.20.11]] • [[LXX.Gen.28.16]] • [[LXX.1Sam.12.8]] • [[LXX.1Kgs.13.8]] • [[LXX.1Kgs.13.16]] • [[LXX.1Kgs.13.22]] • [[LXX.2Kgs.6.9]] • [[LXX.2Kgs.22.17]] • [[LXX.2Chr.7.12]] • [[LXX.2Chr.34.25]] • [[LXX.Jer.7.3]] • [[LXX.Jer.7.6]] • [[LXX.Jer.14.13]] • [[LXX.Jer.16.2]] • [[LXX.Jer.16.3]] • [[LXX.Jer.19.6]] • [[LXX.Jer.19.7]] • [[LXX.Jer.22.3]] • [[LXX.Jer.33.10]] • [[LXX.Jer.44.29]] • [[LXX.Ezek.21.30]] • [[LXX.Hag.2.9]]  |
+|   | this saying | [[LXX.Gen.19.21]]  |
+|   | this scroll | [[LXX.Deut.28.58]] • [[LXX.2Kgs.23.3]] • [[LXX.2Chr.34.21]] • [[LXX.2Chr.34.31]] • [[LXX.Ezra.7.17]] • [[LXX.Jer.25.13]]  |
+|   | this seventh | [[LXX.Lev.25.20]]  |
+|   | this thing | [[LXX.2Sam.12.14]]  |
+|   | this time | [[LXX.Jer.16.21]]  |
+|   | this tomb | [[LXX.1Kgs.13.31]]  |
+|   | this word | [[LXX.Deut.1.32]] • [[LXX.Isa.30.12]]  |
+|   | to this man | [[LXX.Deut.19.6]] • [[LXX.Deut.22.16]] • [[LXX.Judg.19.24]] • [[LXX.1Sam.25.2]] • [[LXX.Esth.2.7]] • [[LXX.Jer.26.11]]  |
+|   | to this one | [[LXX.Deut.1.36]] • [[LXX.Deut.21.17]] • [[LXX.Deut.28.44]] • [[LXX.1Sam.1.2]] • [[LXX.1Sam.9.2]] • [[LXX.1Sam.21.11]] • [[LXX.1Kgs.4.13]] • [[LXX.1Chr.11.24]]  |
+|   | to this people | [[LXX.Josh.1.6]] • [[LXX.Judg.8.5]] • [[LXX.1Kgs.12.7]] • [[LXX.1Kgs.12.9]] • [[LXX.1Kgs.12.10]] • [[LXX.2Chr.10.6]] • [[LXX.Neh.5.19]] • [[LXX.Isa.6.9]] • [[LXX.Isa.28.11]] • [[LXX.Jer.4.11]]  |
+|   | to this place | [[LXX.Jer.19.12]]  |
+|   | with this one | [[LXX.Ps.101.5]]  |
+|   | with this people | [[LXX.Exod.17.4]]  |
+| **<span class="asgreek">τούτουσ</span>** | But these | [[LXX.Isa.49.21]]  |
+|   | of these | [[LXX.2Kgs.10.9]]  |
+|   | of these words | [[LXX.2Chr.15.8]]  |
+|   | these | [[LXX.Gen.46.18]] • [[LXX.Gen.46.25]] • [[LXX.Num.4.22]] • [[LXX.Num.26.59]] • [[LXX.Josh.2.20]] • [[LXX.Josh.4.3]] • [[LXX.Josh.4.20]] • [[LXX.Josh.10.22]] • [[LXX.1Sam.17.17]] • [[LXX.2Sam.24.3]] • [[LXX.2Kgs.3.10]] • [[LXX.2Kgs.3.13]] • [[LXX.1Chr.9.22]] • [[LXX.1Chr.24.5]] • [[LXX.1Chr.24.5]] • [[LXX.Isa.49.21]] • [[LXX.Isa.57.13]] • [[LXX.Zech.14.18]] • [[Matt.7.24]] • [[Matt.7.26]] • [[Matt.7.28]] • [[Matt.10.5]] • [[Matt.19.1]] • [[Matt.26.1]] • [[Mark.8.4]] • [[Luke.9.28]] • [[Luke.9.44]] • [[Luke.19.15]] • [[Luke.19.27]] • [[Luke.20.16]] • [[John.10.19]] • [[John.18.8]] • [[Acts.2.22]] • [[Acts.5.5]] • [[Acts.5.24]] • [[Acts.10.47]] • [[Acts.16.36]] • [[Acts.19.37]] • [[Acts.21.24]] • [[Rom.8.30]] • [[Rom.8.30]] • [[Rom.8.30]] • [[1Cor.16.3]] • [[2Tim.3.5]]  |
+|   | these Philistines | [[LXX.1Sam.23.2]]  |
+|   | these dead | [[LXX.Ezek.37.9]]  |
+|   | these kings | [[LXX.Josh.10.42]] • [[LXX.Josh.11.18]]  |
+|   | these matters | [[LXX.Gen.29.13]] • [[LXX.Esth.2.1]]  |
+|   | these men | [[LXX.Gen.19.8]] • [[LXX.Num.1.17]]  |
+|   | these stones | [[LXX.Deut.27.4]]  |
+|   | these two | [[LXX.Eccl.4.3]]  |
+|   | these words | [[LXX.Exod.19.7]] • [[LXX.Exod.20.1]] • [[LXX.Num.16.31]] • [[LXX.Deut.31.1]] • [[LXX.Deut.31.28]] • [[LXX.Deut.32.45]] • [[LXX.Deut.32.46]] • [[LXX.Judg.2.4]] • [[LXX.Judg.9.3]] • [[LXX.1Sam.11.4]] • [[LXX.2Sam.7.17]] • [[LXX.2Sam.13.21]] • [[LXX.2Sam.14.19]] • [[LXX.2Kgs.1.7]] • [[LXX.2Kgs.18.27]] • [[LXX.2Kgs.23.16]] • [[LXX.2Kgs.23.17]] • [[LXX.1Chr.17.15]] • [[LXX.2Chr.32.1]] • [[LXX.Neh.1.4]] • [[LXX.Neh.5.6]] • [[LXX.Esth.4.9]] • [[LXX.Esth.9.20]] • [[LXX.Isa.36.12]] • [[LXX.Jer.3.12]] • [[LXX.Jer.11.6]] • [[LXX.Jer.20.1]] • [[LXX.Jer.22.5]] • [[LXX.Jer.25.30]] • [[LXX.Jer.26.7]] • [[LXX.Jer.26.15]] • [[LXX.Jer.27.12]] • [[LXX.Jer.34.6]] • [[LXX.Jer.36.16]] • [[LXX.Jer.36.17]] • [[LXX.Jer.36.18]] • [[LXX.Jer.36.24]] • [[LXX.Jer.38.4]] • [[LXX.Jer.38.27]] • [[LXX.Jer.43.1]] • [[LXX.Jer.45.1]] • [[LXX.Jer.51.60]] • [[LXX.Jer.51.61]] • [[LXX.Dan.10.15]] • [[LXX.Zech.8.9]]  |
+|   | these your | [[LXX.1Sam.2.34]]  |
+|   | those | [[1Cor.6.4]] • [[Heb.2.15]]  |
+| **<span class="asgreek">τούτου</span>** |  | [[LXX.Ezek.48.21]]  |
+|   | an account of this one | [[LXX.Job.14.3]]  |
+|   | for this | [[LXX.Prov.17.17]]  |
+|   | in this | [[LXX.Lev.26.18]]  |
+|   | of this | [[LXX.Exod.18.11]] • [[LXX.Exod.30.23]] • [[LXX.Num.8.8]] • [[LXX.Num.23.10]] • [[LXX.Num.29.12]] • [[LXX.Judg.6.26]] • [[LXX.2Chr.20.15]] • [[LXX.2Chr.29.10]] • [[LXX.Ezra.6.17]] • [[LXX.Eccl.3.19]] • [[LXX.Eccl.3.19]] • [[LXX.Isa.29.11]] • [[LXX.Ezek.34.9]] • [[Matt.27.24]] • [[John.12.31]] • [[John.14.30]] • [[Acts.13.23]] • [[Acts.28.9]] • [[1Cor.2.6]] • [[1Cor.2.6]] • [[1Cor.2.8]] • [[1Cor.5.10]] • [[Eph.2.2]] • [[Eph.3.1]] • [[Eph.3.14]] • [[Titus.1.5]]  |
+|   | of this altar | [[LXX.Isa.36.7]]  |
+|   | of this boy | [[LXX.1Kgs.17.21]]  |
+|   | of this flock | [[LXX.1Sam.15.14]]  |
+|   | of this honey | [[LXX.1Sam.14.29]]  |
+|   | of this house | [[LXX.Jer.22.4]] • [[LXX.Hag.2.9]]  |
+|   | of this law | [[LXX.Deut.27.3]] • [[LXX.Deut.27.26]] • [[LXX.Deut.28.58]] • [[LXX.Deut.29.29]] • [[LXX.Deut.30.10]] • [[LXX.Deut.31.9]] • [[LXX.Deut.31.12]] • [[LXX.Deut.31.24]] • [[LXX.Deut.31.26]] • [[LXX.Deut.32.44]] • [[LXX.Deut.32.46]] • [[LXX.Josh.8.34]]  |
+|   | of this man | [[LXX.Jonah.1.14]]  |
+|   | of this matter | [[LXX.2Sam.14.20]]  |
+|   | of this month | [[LXX.Exod.12.3]] • [[LXX.Exod.12.6]] • [[LXX.Lev.23.6]] • [[LXX.Num.29.7]] • [[LXX.Neh.9.1]]  |
+|   | of this mountain | [[LXX.1Sam.23.26]] • [[LXX.1Sam.23.26]]  |
+|   | of this oil | [[LXX.2Kgs.9.1]]  |
+|   | of this one | [[LXX.1Kgs.4.13]] • [[Acts.25.25]] • [[Jas.1.26]]  |
+|   | of this people | [[LXX.Exod.32.22]] • [[LXX.Num.11.11]] • [[LXX.Deut.3.28]] • [[LXX.Deut.5.28]] • [[LXX.Deut.9.27]] • [[LXX.Deut.31.7]] • [[LXX.1Kgs.18.37]] • [[LXX.2Chr.7.15]] • [[LXX.Isa.3.7]] • [[LXX.Isa.6.10]] • [[LXX.Isa.8.11]] • [[LXX.Isa.28.14]] • [[LXX.Jer.7.33]] • [[LXX.Mic.2.11]] • [[LXX.Zech.8.6]] • [[LXX.Zech.8.11]]  |
+|   | of this place | [[LXX.2Chr.6.40]]  |
+|   | of this scroll | [[LXX.2Kgs.22.13]] • [[LXX.2Kgs.22.13]]  |
+|   | of this seventh | [[LXX.Lev.23.27]] • [[LXX.Lev.23.39]]  |
+|   | of this sound | [[LXX.1Sam.4.16]]  |
+|   | of this toasted grain | [[LXX.1Sam.17.17]]  |
+|   | of this uncircumcised | [[LXX.1Sam.17.37]]  |
+|   | of this undiluted | [[LXX.Jer.25.15]]  |
+|   | speaking this | [[LXX.Job.1.16]] • [[LXX.Job.1.17]]  |
+|   | that | [[LXX.Exod.26.13]] • [[John.6.66]]  |
+|   | this | [[LXX.Gen.2.24]] • [[LXX.Gen.3.11]] • [[LXX.Gen.3.17]] • [[LXX.Gen.16.14]] • [[LXX.Gen.20.6]] • [[LXX.Gen.32.32]] • [[LXX.Gen.33.10]] • [[LXX.Gen.42.21]] • [[LXX.Exod.7.16]] • [[LXX.Exod.9.16]] • [[LXX.Exod.26.13]] • [[LXX.Lev.23.34]] • [[LXX.Num.28.17]] • [[LXX.Num.35.5]] • [[LXX.Deut.28.61]] • [[LXX.Deut.29.20]] • [[LXX.Deut.29.21]] • [[LXX.Deut.29.27]] • [[LXX.Josh.1.8]] • [[LXX.1Sam.6.20]] • [[LXX.2Sam.19.21]] • [[LXX.Ezra.4.22]] • [[LXX.Ezra.5.5]] • [[LXX.Ezra.5.11]] • [[LXX.Ezra.5.17]] • [[LXX.Ezra.8.23]] • [[LXX.Neh.13.4]] • [[LXX.Esth.1.13]] • [[LXX.Job.38.11]] • [[LXX.Ps.75.8]] • [[LXX.Prov.7.15]] • [[LXX.Eccl.7.10]] • [[LXX.Eccl.7.18]] • [[LXX.Song.7.7]] • [[LXX.Jer.30.7]] • [[LXX.Jer.48.47]] • [[LXX.Jer.51.64]] • [[LXX.Lam.5.17]] • [[LXX.Lam.5.17]] • [[LXX.Ezek.7.20]] • [[LXX.Ezek.8.5]] • [[LXX.Ezek.20.27]] • [[LXX.Ezek.28.7]] • [[LXX.Ezek.31.5]] • [[LXX.Ezek.44.12]] • [[LXX.Ezek.45.2]] • [[LXX.Ezek.45.7]] • [[LXX.Ezek.45.7]] • [[LXX.Ezek.48.21]] • [[LXX.Dan.7.7]] • [[LXX.Dan.10.17]] • [[LXX.Hos.13.6]] • [[LXX.Mic.1.8]] • [[LXX.Hab.1.4]] • [[LXX.Hab.1.15]] • [[LXX.Hab.1.16]] • [[LXX.Zech.5.3]] • [[LXX.Zech.5.3]] • [[Matt.13.15]] • [[Matt.13.22]] • [[Matt.13.40]] • [[Matt.19.5]] • [[Matt.26.29]] • [[Mark.4.19]] • [[Mark.10.7]] • [[Mark.10.10]] • [[Luke.2.17]] • [[Luke.9.45]] • [[Luke.13.16]] • [[Luke.16.8]] • [[Luke.20.34]] • [[Luke.22.51]] • [[Luke.24.4]] • [[John.4.13]] • [[John.6.51]] • [[John.6.61]] • [[John.8.23]] • [[John.8.23]] • [[John.10.41]] • [[John.11.9]] • [[John.12.31]] • [[John.13.1]] • [[John.16.11]] • [[John.16.19]] • [[John.18.17]] • [[John.18.29]] • [[John.18.36]] • [[John.18.36]] • [[John.19.12]] • [[Acts.5.28]] • [[Acts.6.13]] • [[Acts.9.13]] • [[Acts.13.17]] • [[Acts.15.2]] • [[Acts.15.6]] • [[Acts.17.32]] • [[Acts.21.28]] • [[Acts.22.22]] • [[Acts.28.27]] • [[Rom.7.24]] • [[1Cor.1.20]] • [[1Cor.1.20]] • [[1Cor.3.19]] • [[1Cor.7.31]] • [[2Cor.4.4]] • [[2Cor.12.8]] • [[Eph.5.31]] • [[Eph.6.12]] • [[Col.1.27]] • [[Jas.2.5]] • [[1John.4.6]] • [[Rev.22.7]] • [[Rev.22.9]] • [[Rev.22.10]] • [[Rev.22.18]]  |
+|   | this Philistine | [[LXX.1Sam.17.32]]  |
+|   | this Syrian | [[LXX.2Kgs.5.20]]  |
+|   | this accursing | [[LXX.Num.5.19]]  |
+|   | this altar | [[LXX.2Kgs.18.22]] • [[LXX.2Chr.32.12]]  |
+|   | this boy | [[LXX.1Sam.1.27]]  |
+|   | this dream | [[LXX.Gen.37.6]]  |
+|   | this fortress | [[LXX.Gen.40.14]]  |
+|   | this house | [[LXX.2Chr.20.9]]  |
+|   | this man | [[LXX.Gen.24.58]] • [[LXX.Gen.26.11]] • [[LXX.Neh.1.11]]  |
+|   | this matter | [[LXX.2Sam.19.42]] • [[LXX.2Kgs.5.18]] • [[LXX.Ezra.10.14]] • [[LXX.Dan.3.16]]  |
+|   | this mystery | [[LXX.Dan.2.18]]  |
+|   | this oath | [[LXX.Gen.24.8]]  |
+|   | this one | [[LXX.Job.1.18]] • [[LXX.Ps.144.13]] • [[LXX.Isa.65.8]] • [[LXX.Dan.2.43]] • [[Acts.13.38]]  |
+|   | this one's | [[LXX.Gen.44.30]]  |
+|   | this people | [[LXX.Exod.17.5]] • [[LXX.Deut.10.11]] • [[LXX.2Chr.1.10]] • [[LXX.Jer.7.16]] • [[LXX.Jer.11.14]] • [[LXX.Jer.14.11]] • [[LXX.Jer.16.5]]  |
+|   | this place | [[LXX.Gen.19.12]] • [[LXX.Gen.19.14]] • [[LXX.Deut.29.7]] • [[LXX.Jer.16.9]] • [[LXX.Jer.22.11]] • [[LXX.Jer.24.5]] • [[LXX.Zeph.1.4]]  |
+|   | this sacrifice | [[LXX.Num.15.24]]  |
+|   | this saying | [[LXX.Gen.24.9]]  |
+|   | this side | [[LXX.Exod.25.19]] • [[LXX.Exod.37.8]]  |
+|   | this spicy | [[LXX.Gen.25.30]]  |
+|   | this stone | [[LXX.1Sam.14.34]]  |
+|   | this sun | [[LXX.2Sam.12.11]] • [[LXX.2Sam.12.12]]  |
+|   | this thing | [[LXX.1Chr.21.7]]  |
+|   | this time | [[LXX.Exod.8.32]]  |
+|   | this troop | [[LXX.1Sam.30.8]]  |
+|   | this word | [[LXX.Deut.32.47]] • [[LXX.1Sam.18.8]] • [[LXX.2Sam.3.8]] • [[LXX.1Kgs.11.10]] • [[LXX.2Kgs.6.11]]  |
+|   | this work | [[LXX.Neh.6.9]]  |
+|   | to him | [[John.9.31]]  |
+| **<span class="asgreek">τούτον</span>** | This | [[LXX.Gen.37.32]] • [[LXX.Gen.44.29]] • [[LXX.Exod.15.13]] • [[LXX.Num.10.29]] • [[LXX.Num.14.13]] • [[LXX.Josh.5.2]] • [[LXX.2Sam.12.10]] • [[LXX.2Sam.14.21]] • [[LXX.1Kgs.5.7]] • [[LXX.1Kgs.20.13]] • [[LXX.1Kgs.20.39]] • [[LXX.2Kgs.19.29]] • [[LXX.2Chr.1.10]] • [[LXX.2Chr.18.26]] • [[LXX.Ezra.3.12]] • [[LXX.Ezra.5.13]] • [[LXX.Ezra.7.17]] • [[LXX.Prov.24.12]] • [[LXX.Isa.9.16]] • [[LXX.Isa.37.30]] • [[LXX.Jer.7.27]] • [[LXX.Jer.9.1]]  |
+|   | for this people | [[LXX.Jer.23.32]]  |
+|   | in this | [[LXX.Neh.13.26]]  |
+|   | made this one | [[LXX.Job.14.3]]  |
+|   | of this house | [[LXX.Zech.4.9]]  |
+|   | on this matter | [[LXX.Deut.3.26]]  |
+|   | this Jordan | [[LXX.Gen.32.10]] • [[LXX.Deut.3.27]] • [[LXX.Deut.4.21]] • [[LXX.Deut.4.22]] • [[LXX.Deut.31.2]] • [[LXX.Josh.1.11]] • [[LXX.Josh.4.22]]  |
+|   | this Philistine | [[LXX.1Sam.17.33]]  |
+|   | this bad | [[LXX.Num.20.5]]  |
+|   | this hill | [[LXX.Gen.31.52]]  |
+|   | this house | [[LXX.1Kgs.8.29]] • [[LXX.1Kgs.8.38]] • [[LXX.1Kgs.8.43]] • [[LXX.1Kgs.9.3]] • [[LXX.1Kgs.9.7]] • [[LXX.2Chr.6.20]] • [[LXX.2Chr.6.29]] • [[LXX.2Chr.6.33]] • [[LXX.2Chr.7.16]] • [[LXX.2Chr.7.20]] • [[LXX.Ezra.5.3]] • [[LXX.Ezra.5.9]] • [[LXX.Ezra.5.12]] • [[LXX.Ezra.6.15]] • [[LXX.Jer.26.6]] • [[LXX.Jer.26.12]] • [[LXX.Hag.2.3]] • [[LXX.Hag.2.7]]  |
+|   | this kid | [[LXX.Gen.38.23]]  |
+|   | this lamentation | [[LXX.2Sam.1.17]] • [[LXX.Lam.1.1]]  |
+|   | this law | [[LXX.Exod.13.10]] • [[LXX.Num.5.30]] • [[LXX.Deut.1.5]] • [[LXX.Deut.4.8]] • [[LXX.Deut.27.8]] • [[LXX.Deut.31.11]]  |
+|   | this man | [[LXX.Judg.19.23]] • [[LXX.Jer.22.18]] • [[LXX.Jer.22.30]]  |
+|   | this occasion | [[LXX.Esth.4.14]]  |
+|   | this one | [[LXX.Gen.29.33]] • [[LXX.Gen.38.10]] • [[LXX.1Sam.16.8]] • [[LXX.Ps.75.7]] • [[LXX.Ps.75.7]] • [[LXX.Ps.101.5]] • [[LXX.Eccl.6.5]]  |
+|   | this one ascending | [[LXX.1Sam.17.25]]  |
+|   | this people | [[LXX.Exod.5.22]] • [[LXX.Exod.5.23]] • [[LXX.Exod.32.34]] • [[LXX.Exod.33.12]] • [[LXX.Num.11.12]] • [[LXX.Num.11.14]] • [[LXX.Num.14.15]] • [[LXX.Num.14.16]] • [[LXX.Num.21.2]] • [[LXX.Num.22.6]] • [[LXX.Num.22.17]] • [[LXX.Deut.9.13]] • [[LXX.Josh.7.7]] • [[LXX.Judg.9.29]] • [[LXX.1Kgs.14.2]] • [[LXX.Neh.5.18]] • [[LXX.Isa.6.8]] • [[LXX.Isa.8.6]] • [[LXX.Isa.29.14]] • [[LXX.Jer.4.10]] • [[LXX.Jer.5.14]] • [[LXX.Jer.6.19]] • [[LXX.Jer.6.21]] • [[LXX.Jer.15.1]] • [[LXX.Jer.19.11]] • [[LXX.Jer.21.8]] • [[LXX.Jer.28.15]] • [[LXX.Jer.32.42]] • [[LXX.Jer.36.7]] • [[LXX.Jer.37.18]]  |
+|   | this pestilent | [[LXX.1Sam.25.25]]  |
+|   | this pit | [[LXX.Gen.40.15]]  |
+|   | this place | [[LXX.Gen.19.13]] • [[LXX.Deut.1.31]] • [[LXX.Deut.9.7]] • [[LXX.Deut.11.5]] • [[LXX.1Kgs.8.29]] • [[LXX.1Kgs.8.29]] • [[LXX.1Kgs.8.30]] • [[LXX.1Kgs.8.35]] • [[LXX.1Kgs.8.42]] • [[LXX.2Kgs.18.25]] • [[LXX.2Kgs.22.16]] • [[LXX.2Kgs.22.19]] • [[LXX.2Kgs.22.20]] • [[LXX.2Chr.6.20]] • [[LXX.2Chr.6.20]] • [[LXX.2Chr.6.21]] • [[LXX.2Chr.6.26]] • [[LXX.2Chr.6.32]] • [[LXX.2Chr.34.24]] • [[LXX.2Chr.34.27]] • [[LXX.2Chr.34.28]] • [[LXX.Jer.7.20]] • [[LXX.Jer.19.3]] • [[LXX.Jer.19.4]] • [[LXX.Jer.19.4]] • [[LXX.Jer.27.22]] • [[LXX.Jer.28.3]] • [[LXX.Jer.28.6]] • [[LXX.Jer.29.10]] • [[LXX.Jer.32.37]] • [[LXX.Jer.40.2]] • [[LXX.Jer.42.18]] • [[LXX.Jer.51.62]]  |
+|   | this plague | [[LXX.Exod.10.17]]  |
+|   | this road | [[LXX.Isa.30.11]]  |
+|   | this shrine | [[LXX.Josh.22.26]]  |
+|   | this stream | [[LXX.2Kgs.3.16]]  |
+|   | this temple | [[LXX.Hag.2.9]]  |
+|   | this thing | [[LXX.2Sam.14.20]]  |
+|   | this time | [[LXX.Gen.17.21]] • [[LXX.Gen.18.10]] • [[LXX.Gen.18.14]] • [[LXX.2Kgs.4.16]] • [[LXX.2Kgs.4.17]]  |
+|   | this tower | [[LXX.Judg.8.9]]  |
+|   | this wailing | [[LXX.Isa.14.4]]  |
+|   | this weighty | [[LXX.1Kgs.3.9]]  |
+|   | this word | [[LXX.Judg.8.3]] • [[LXX.2Sam.14.15]] • [[LXX.1Kgs.2.23]] • [[LXX.1Kgs.20.12]] • [[LXX.Ezra.9.3]] • [[LXX.Neh.5.13]] • [[LXX.Neh.6.4]] • [[LXX.Neh.6.5]] • [[LXX.Jer.13.12]] • [[LXX.Jer.14.17]] • [[LXX.Jer.22.1]] • [[LXX.Jer.22.4]] • [[LXX.Jer.23.38]] • [[LXX.Jer.28.7]] • [[LXX.Jer.31.23]] • [[LXX.Dan.10.11]] • [[LXX.Amos.3.1]] • [[LXX.Amos.4.1]]  |
+| **<span class="asgreek">τούτοισ</span>** | Among these | [[LXX.1Chr.26.12]]  |
+|   | all these | [[LXX.Job.1.22]] • [[LXX.Job.37.5]] • [[LXX.Isa.9.21]]  |
+|   | as these | [[Gal.5.21]]  |
+|   | by these | [[LXX.Jer.11.15]]  |
+|   | he said to these | [[LXX.Ezek.9.5]]  |
+|   | in these | [[2Pet.2.20]]  |
+|   | of these | [[LXX.Lev.18.24]] • [[LXX.1Sam.22.15]]  |
+|   | them | [[Col.3.7]] • [[1Tim.4.15]]  |
+|   | these | [[LXX.Exod.4.9]] • [[LXX.Lev.6.3]] • [[LXX.Lev.11.24]] • [[LXX.Lev.11.43]] • [[LXX.Lev.11.43]] • [[LXX.Lev.18.24]] • [[LXX.Lev.21.3]] • [[LXX.Lev.26.23]] • [[LXX.Num.26.64]] • [[LXX.Josh.10.23]] • [[LXX.1Sam.16.10]] • [[LXX.1Sam.17.39]] • [[LXX.1Kgs.22.11]] • [[LXX.2Chr.18.10]] • [[LXX.2Chr.25.8]] • [[LXX.Neh.5.18]] • [[LXX.Neh.6.7]] • [[LXX.Neh.9.38]] • [[LXX.Job.2.10]] • [[LXX.Job.12.9]] • [[LXX.Job.17.8]] • [[LXX.Job.37.22]] • [[LXX.Ps.78.32]] • [[LXX.Eccl.7.28]] • [[LXX.Eccl.11.9]] • [[LXX.Isa.5.25]] • [[LXX.Isa.9.12]] • [[LXX.Isa.9.17]] • [[LXX.Isa.10.4]] • [[LXX.Isa.57.6]] • [[LXX.Isa.64.12]] • [[LXX.Jer.3.10]] • [[LXX.Jer.4.8]] • [[LXX.Jer.4.28]] • [[LXX.Jer.5.9]] • [[LXX.Jer.5.29]] • [[LXX.Jer.9.9]] • [[LXX.Jer.9.24]] • [[LXX.Ezek.16.29]] • [[LXX.Ezek.16.43]] • [[LXX.Ezek.21.24]] • [[LXX.Ezek.23.43]] • [[LXX.Hos.7.10]] • [[LXX.Amos.8.8]] • [[LXX.Mic.2.6]] • [[Acts.4.16]] • [[Acts.5.35]] • [[Rom.15.23]] • [[1Cor.12.23]] • [[Col.3.14]] • [[1Thess.4.18]] • [[3John.1.10]]  |
+|   | these bones | [[LXX.Ezek.37.5]]  |
+|   | these houses | [[LXX.Judg.18.14]]  |
+|   | these men | [[LXX.Gen.6.3]]  |
+|   | these nations | [[LXX.Josh.23.12]]  |
+|   | these places | [[LXX.1Sam.7.16]]  |
+|   | these things | [[LXX.Lam.1.16]] • [[Luke.16.26]] • [[Luke.24.21]] • [[Rom.8.37]] • [[Jude.1.10]]  |
+|   | these wheels | [[LXX.Ezek.10.13]]  |
+|   | these winds | [[LXX.Jer.49.36]]  |
+|   | these years | [[LXX.2Chr.14.6]]  |
+|   | this | [[LXX.Lev.26.27]]  |
+|   | to these | [[LXX.Num.14.23]] • [[LXX.Num.26.53]] • [[LXX.Deut.1.39]] • [[LXX.Deut.3.21]] • [[LXX.Josh.21.10]] • [[LXX.1Kgs.7.8]] • [[LXX.1Kgs.22.17]] • [[LXX.Isa.57.6]] • [[Jude.1.14]]  |
+|   | to these Ishmaelites | [[LXX.Gen.37.27]]  |
+|   | to these words | [[LXX.Isa.30.12]]  |
+|   | with them | [[Jude.1.7]]  |
+|   | with these | [[1Tim.6.8]] • [[Heb.9.23]]  |
+| **<span class="asgreek">τούτο</span>** | And this | [[LXX.Deut.19.4]] • [[LXX.Isa.37.30]] • [[LXX.Isa.38.7]]  |
+|   | For this | [[LXX.Gen.45.6]] • [[LXX.Exod.10.11]] • [[LXX.Ezek.36.37]]  |
+|   | Is this not | [[LXX.Josh.10.13]]  |
+|   | On account of this | [[LXX.1Kgs.22.19]] • [[LXX.Ps.45.17]]  |
+|   | Therefore | [[LXX.Judg.2.5]] • [[LXX.1Kgs.21.19]] • [[LXX.2Kgs.19.32]] • [[LXX.Isa.37.33]] • [[LXX.Ezek.18.30]]  |
+|   | This is | [[LXX.Exod.8.19]] • [[LXX.Num.20.13]] • [[LXX.Num.21.16]] • [[LXX.Num.36.6]] • [[LXX.Ps.109.20]]  |
+|   | This one | [[LXX.Exod.2.6]] • [[LXX.Lev.11.4]] • [[LXX.Lev.11.5]] • [[LXX.Lev.11.6]] • [[LXX.Lev.11.7]] • [[LXX.Lev.11.39]] • [[LXX.Num.14.12]] • [[LXX.Deut.9.14]] • [[LXX.Deut.14.8]]  |
+|   | This water | [[LXX.Ezek.47.8]]  |
+|   | You do this | [[LXX.Gen.42.18]]  |
+|   | by this | [[LXX.1Kgs.3.6]] • [[LXX.Eccl.8.11]]  |
+|   | do this | [[LXX.Num.4.19]]  |
+|   | do you do this | [[LXX.Eccl.2.2]]  |
+|   | is this | [[LXX.Gen.25.22]] • [[LXX.Gen.27.20]] • [[LXX.Exod.14.5]] • [[LXX.Exod.14.11]] • [[LXX.Exod.18.14]] • [[LXX.Num.20.5]] • [[LXX.1Sam.26.18]] • [[LXX.2Sam.3.24]] • [[LXX.2Sam.16.17]] • [[LXX.Jonah.1.10]]  |
+|   | let this | [[LXX.Num.18.9]]  |
+|   | let this be made known | [[LXX.Isa.48.20]]  |
+|   | of this | [[LXX.Gen.19.22]] • [[LXX.Gen.33.17]] • [[LXX.Gen.47.22]] • [[LXX.2Chr.20.26]] • [[LXX.Ezek.36.6]]  |
+|   | of this possession | [[LXX.Jer.32.14]]  |
+|   | one | [[LXX.Eccl.7.14]]  |
+|   | sow this | [[LXX.Num.16.37]]  |
+|   | that | [[LXX.1Kgs.14.5]]  |
+|   | that one | [[LXX.Ps.144.13]]  |
+|   | this | [[LXX.Gen.2.19]] • [[LXX.Gen.2.23]] • [[LXX.Gen.3.13]] • [[LXX.Gen.3.14]] • [[LXX.Gen.9.12]] • [[LXX.Gen.9.17]] • [[LXX.Gen.10.9]] • [[LXX.Gen.11.6]] • [[LXX.Gen.11.9]] • [[LXX.Gen.12.18]] • [[LXX.Gen.14.17]] • [[LXX.Gen.18.5]] • [[LXX.Gen.20.5]] • [[LXX.Gen.20.6]] • [[LXX.Gen.20.9]] • [[LXX.Gen.20.10]] • [[LXX.Gen.21.31]] • [[LXX.Gen.24.55]] • [[LXX.Gen.25.26]] • [[LXX.Gen.25.30]] • [[LXX.Gen.26.10]] • [[LXX.Gen.26.33]] • [[LXX.Gen.28.17]] • [[LXX.Gen.29.25]] • [[LXX.Gen.29.34]] • [[LXX.Gen.29.35]] • [[LXX.Gen.29.35]] • [[LXX.Gen.30.6]] • [[LXX.Gen.30.6]] • [[LXX.Gen.30.21]] • [[LXX.Gen.31.48]] • [[LXX.Gen.32.20]] • [[LXX.Gen.32.29]] • [[LXX.Gen.33.15]] • [[LXX.Gen.38.10]] • [[LXX.Gen.38.30]] • [[LXX.Gen.40.12]] • [[LXX.Gen.42.28]] • [[LXX.Gen.42.28]] • [[LXX.Gen.43.11]] • [[LXX.Gen.44.15]] • [[LXX.Gen.45.17]] • [[LXX.Gen.50.11]] • [[LXX.Exod.5.8]] • [[LXX.Exod.5.17]] • [[LXX.Exod.8.23]] • [[LXX.Exod.12.16]] • [[LXX.Exod.12.27]] • [[LXX.Exod.13.8]] • [[LXX.Exod.13.14]] • [[LXX.Exod.13.15]] • [[LXX.Exod.15.23]] • [[LXX.Exod.16.15]] • [[LXX.Exod.16.16]] • [[LXX.Exod.16.23]] • [[LXX.Exod.16.29]] • [[LXX.Exod.16.32]] • [[LXX.Exod.17.3]] • [[LXX.Exod.17.14]] • [[LXX.Exod.20.11]] • [[LXX.Exod.22.27]] • [[LXX.Exod.29.28]] • [[LXX.Exod.35.4]] • [[LXX.Lev.5.3]] • [[LXX.Lev.6.20]] • [[LXX.Lev.9.6]] • [[LXX.Lev.10.13]] • [[LXX.Lev.10.17]] • [[LXX.Lev.11.7]] • [[LXX.Lev.11.41]] • [[LXX.Lev.14.19]] • [[LXX.Lev.17.2]] • [[LXX.Lev.17.12]] • [[LXX.Lev.24.9]] • [[LXX.Lev.25.34]] • [[LXX.Num.5.18]] • [[LXX.Num.7.17]] • [[LXX.Num.7.23]] • [[LXX.Num.7.29]] • [[LXX.Num.7.35]] • [[LXX.Num.7.41]] • [[LXX.Num.7.47]] • [[LXX.Num.7.53]] • [[LXX.Num.7.59]] • [[LXX.Num.7.65]] • [[LXX.Num.7.71]] • [[LXX.Num.7.77]] • [[LXX.Num.7.83]] • [[LXX.Num.14.22]] • [[LXX.Num.16.6]] • [[LXX.Num.16.9]] • [[LXX.Num.18.11]] • [[LXX.Num.18.24]] • [[LXX.Num.20.12]] • [[LXX.Num.21.14]] • [[LXX.Num.21.27]] • [[LXX.Num.22.20]] • [[LXX.Num.22.28]] • [[LXX.Num.22.32]] • [[LXX.Num.22.35]] • [[LXX.Num.22.38]] • [[LXX.Num.23.12]] • [[LXX.Num.23.26]] • [[LXX.Num.27.12]] • [[LXX.Num.28.14]] • [[LXX.Num.30.1]] • [[LXX.Num.31.21]] • [[LXX.Num.34.6]] • [[LXX.Num.34.7]] • [[LXX.Num.34.9]] • [[LXX.Deut.3.25]] • [[LXX.Deut.5.15]] • [[LXX.Deut.7.16]] • [[LXX.Deut.7.17]] • [[LXX.Deut.7.26]] • [[LXX.Deut.8.2]] • [[LXX.Deut.10.9]] • [[LXX.Deut.12.32]] • [[LXX.Deut.13.14]] • [[LXX.Deut.14.8]] • [[LXX.Deut.15.11]] • [[LXX.Deut.15.15]] • [[LXX.Deut.18.16]] • [[LXX.Deut.18.22]] • [[LXX.Deut.19.7]] • [[LXX.Deut.20.20]] • [[LXX.Deut.24.18]] • [[LXX.Deut.24.22]] • [[LXX.Deut.30.20]] • [[LXX.Deut.32.49]] • [[LXX.Josh.7.10]] • [[LXX.Josh.7.26]] • [[LXX.Josh.9.20]] • [[LXX.Josh.9.24]] • [[LXX.Josh.10.26]] • [[LXX.Josh.14.10]] • [[LXX.Josh.14.14]] • [[LXX.Josh.18.14]] • [[LXX.Josh.22.24]] • [[LXX.Judg.1.26]] • [[LXX.Judg.5.5]] • [[LXX.Judg.10.13]] • [[LXX.Judg.13.18]] • [[LXX.Judg.15.19]] • [[LXX.Judg.16.4]] • [[LXX.Judg.16.15]] • [[LXX.Judg.18.12]] • [[LXX.Judg.18.24]] • [[LXX.Judg.19.5]] • [[LXX.Judg.20.9]] • [[LXX.Ruth.4.7]] • [[LXX.Ruth.4.7]] • [[LXX.1Sam.2.30]] • [[LXX.1Sam.2.34]] • [[LXX.1Sam.5.5]] • [[LXX.1Sam.6.9]] • [[LXX.1Sam.8.11]] • [[LXX.1Sam.10.11]] • [[LXX.1Sam.10.12]] • [[LXX.1Sam.14.10]] • [[LXX.1Sam.14.35]] • [[LXX.1Sam.17.28]] • [[LXX.1Sam.19.24]] • [[LXX.1Sam.20.2]] • [[LXX.1Sam.20.3]] • [[LXX.1Sam.20.29]] • [[LXX.1Sam.23.28]] • [[LXX.1Sam.25.31]] • [[LXX.1Sam.26.16]] • [[LXX.1Sam.27.6]] • [[LXX.1Sam.29.3]] • [[LXX.2Sam.5.8]] • [[LXX.2Sam.5.20]] • [[LXX.2Sam.7.27]] • [[LXX.2Sam.12.5]] • [[LXX.2Sam.12.7]] • [[LXX.2Sam.12.23]] • [[LXX.2Sam.18.14]] • [[LXX.2Sam.19.7]] • [[LXX.2Sam.19.7]] • [[LXX.2Sam.19.36]] • [[LXX.2Sam.19.42]] • [[LXX.2Sam.22.50]] • [[LXX.2Sam.23.17]] • [[LXX.1Kgs.5.11]] • [[LXX.1Kgs.7.28]] • [[LXX.1Kgs.9.9]] • [[LXX.1Kgs.11.27]] • [[LXX.1Kgs.13.3]] • [[LXX.1Kgs.14.5]] • [[LXX.1Kgs.14.6]] • [[LXX.1Kgs.14.10]] • [[LXX.1Kgs.20.23]] • [[LXX.2Kgs.1.4]] • [[LXX.2Kgs.1.6]] • [[LXX.2Kgs.1.16]] • [[LXX.2Kgs.4.43]] • [[LXX.2Kgs.5.6]] • [[LXX.2Kgs.10.2]] • [[LXX.2Kgs.11.5]] • [[LXX.2Kgs.19.31]] • [[LXX.1Chr.2.21]] • [[LXX.1Chr.11.7]] • [[LXX.1Chr.14.11]] • [[LXX.1Chr.17.25]] • [[LXX.1Chr.21.3]] • [[LXX.1Chr.22.1]] • [[LXX.2Chr.2.4]] • [[LXX.2Chr.7.22]] • [[LXX.2Chr.16.7]] • [[LXX.2Chr.19.2]] • [[LXX.2Chr.25.16]] • [[LXX.2Chr.26.18]] • [[LXX.2Chr.35.14]] • [[LXX.Ezra.3.5]] • [[LXX.Ezra.4.13]] • [[LXX.Ezra.4.14]] • [[LXX.Ezra.4.15]] • [[LXX.Ezra.6.2]] • [[LXX.Ezra.7.8]] • [[LXX.Ezra.7.11]] • [[LXX.Ezra.7.24]] • [[LXX.Ezra.9.10]] • [[LXX.Neh.2.2]] • [[LXX.Neh.2.4]] • [[LXX.Neh.6.6]] • [[LXX.Neh.6.16]] • [[LXX.Esth.9.19]] • [[LXX.Esth.9.26]] • [[LXX.Job.3.1]] • [[LXX.Job.9.29]] • [[LXX.Job.17.4]] • [[LXX.Job.20.21]] • [[LXX.Job.23.14]] • [[LXX.Job.35.2]] • [[LXX.Ps.1.5]] • [[LXX.Ps.7.3]] • [[LXX.Ps.16.9]] • [[LXX.Ps.18.49]] • [[LXX.Ps.25.8]] • [[LXX.Ps.31.22]] • [[LXX.Ps.42.6]] • [[LXX.Ps.45.2]] • [[LXX.Ps.45.7]] • [[LXX.Ps.46.2]] • [[LXX.Ps.52.5]] • [[LXX.Ps.66.19]] • [[LXX.Ps.68.28]] • [[LXX.Ps.73.6]] • [[LXX.Ps.73.10]] • [[LXX.Ps.73.16]] • [[LXX.Ps.74.2]] • [[LXX.Ps.75.8]] • [[LXX.Ps.78.21]] • [[LXX.Ps.110.7]] • [[LXX.Ps.119.67]] • [[LXX.Ps.119.104]] • [[LXX.Ps.119.119]] • [[LXX.Ps.119.127]] • [[LXX.Ps.119.128]] • [[LXX.Ps.119.129]] • [[LXX.Prov.6.15]] • [[LXX.Prov.25.22]] • [[LXX.Eccl.1.10]] • [[LXX.Eccl.2.1]] • [[LXX.Eccl.2.10]] • [[LXX.Eccl.2.15]] • [[LXX.Eccl.2.19]] • [[LXX.Eccl.2.21]] • [[LXX.Eccl.2.23]] • [[LXX.Eccl.2.24]] • [[LXX.Eccl.2.26]] • [[LXX.Eccl.4.4]] • [[LXX.Eccl.4.8]] • [[LXX.Eccl.4.16]] • [[LXX.Eccl.5.10]] • [[LXX.Eccl.5.16]] • [[LXX.Eccl.5.19]] • [[LXX.Eccl.6.2]] • [[LXX.Eccl.6.9]] • [[LXX.Eccl.7.2]] • [[LXX.Eccl.7.6]] • [[LXX.Eccl.7.27]] • [[LXX.Eccl.7.29]] • [[LXX.Eccl.8.9]] • [[LXX.Eccl.8.10]] • [[LXX.Eccl.8.14]] • [[LXX.Eccl.8.17]] • [[LXX.Eccl.8.17]] • [[LXX.Eccl.9.3]] • [[LXX.Eccl.9.13]] • [[LXX.Eccl.11.6]] • [[LXX.Eccl.11.6]] • [[LXX.Eccl.12.13]] • [[LXX.Song.1.3]] • [[LXX.Isa.1.24]] • [[LXX.Isa.5.24]] • [[LXX.Isa.7.14]] • [[LXX.Isa.8.6]] • [[LXX.Isa.8.15]] • [[LXX.Isa.9.1]] • [[LXX.Isa.9.17]] • [[LXX.Isa.10.24]] • [[LXX.Isa.13.7]] • [[LXX.Isa.15.4]] • [[LXX.Isa.16.9]] • [[LXX.Isa.16.11]] • [[LXX.Isa.16.13]] • [[LXX.Isa.17.10]] • [[LXX.Isa.21.3]] • [[LXX.Isa.22.4]] • [[LXX.Isa.24.6]] • [[LXX.Isa.24.6]] • [[LXX.Isa.24.15]] • [[LXX.Isa.25.3]] • [[LXX.Isa.26.14]] • [[LXX.Isa.27.4]] • [[LXX.Isa.27.9]] • [[LXX.Isa.27.11]] • [[LXX.Isa.28.12]] • [[LXX.Isa.28.12]] • [[LXX.Isa.28.14]] • [[LXX.Isa.28.16]] • [[LXX.Isa.29.12]] • [[LXX.Isa.29.12]] • [[LXX.Isa.29.14]] • [[LXX.Isa.29.22]] • [[LXX.Isa.30.12]] • [[LXX.Isa.30.13]] • [[LXX.Isa.30.16]] • [[LXX.Isa.30.16]] • [[LXX.Isa.30.18]] • [[LXX.Isa.49.4]] • [[LXX.Isa.50.1]] • [[LXX.Isa.50.7]] • [[LXX.Isa.51.21]] • [[LXX.Isa.52.6]] • [[LXX.Isa.52.6]] • [[LXX.Isa.53.12]] • [[LXX.Isa.57.10]] • [[LXX.Isa.59.9]] • [[LXX.Isa.64.5]] • [[LXX.Isa.65.13]] • [[LXX.Jer.2.9]] • [[LXX.Jer.2.12]] • [[LXX.Jer.5.2]] • [[LXX.Jer.5.6]] • [[LXX.Jer.5.14]] • [[LXX.Jer.5.27]] • [[LXX.Jer.6.15]] • [[LXX.Jer.6.18]] • [[LXX.Jer.6.21]] • [[LXX.Jer.7.20]] • [[LXX.Jer.7.28]] • [[LXX.Jer.7.32]] • [[LXX.Jer.8.10]] • [[LXX.Jer.9.7]] • [[LXX.Jer.9.12]] • [[LXX.Jer.9.15]] • [[LXX.Jer.10.19]] • [[LXX.Jer.10.21]] • [[LXX.Jer.11.11]] • [[LXX.Jer.11.21]] • [[LXX.Jer.11.22]] • [[LXX.Jer.12.8]] • [[LXX.Jer.14.15]] • [[LXX.Jer.15.19]] • [[LXX.Jer.16.14]] • [[LXX.Jer.16.21]] • [[LXX.Jer.18.13]] • [[LXX.Jer.18.21]] • [[LXX.Jer.19.6]] • [[LXX.Jer.20.11]] • [[LXX.Jer.20.18]] • [[LXX.Jer.22.18]] • [[LXX.Jer.23.2]] • [[LXX.Jer.23.6]] • [[LXX.Jer.23.7]] • [[LXX.Jer.23.12]] • [[LXX.Jer.23.15]] • [[LXX.Jer.23.38]] • [[LXX.Jer.23.39]] • [[LXX.Jer.25.8]] • [[LXX.Jer.28.16]] • [[LXX.Jer.29.28]] • [[LXX.Jer.29.32]] • [[LXX.Jer.30.16]] • [[LXX.Jer.31.3]] • [[LXX.Jer.31.20]] • [[LXX.Jer.31.26]] • [[LXX.Jer.32.28]] • [[LXX.Jer.34.17]] • [[LXX.Jer.35.17]] • [[LXX.Jer.35.18]] • [[LXX.Jer.36.30]] • [[LXX.Jer.41.9]] • [[LXX.Jer.42.15]] • [[LXX.Jer.44.11]] • [[LXX.Jer.44.26]] • [[LXX.Jer.44.29]] • [[LXX.Jer.48.11]] • [[LXX.Jer.48.12]] • [[LXX.Jer.48.31]] • [[LXX.Jer.48.36]] • [[LXX.Jer.48.36]] • [[LXX.Jer.49.2]] • [[LXX.Jer.49.20]] • [[LXX.Jer.49.26]] • [[LXX.Jer.50.18]] • [[LXX.Jer.50.30]] • [[LXX.Jer.50.39]] • [[LXX.Jer.50.45]] • [[LXX.Jer.51.7]] • [[LXX.Jer.51.36]] • [[LXX.Jer.51.47]] • [[LXX.Jer.51.52]] • [[LXX.Lam.1.8]] • [[LXX.Lam.3.21]] • [[LXX.Lam.3.24]] • [[LXX.Ezek.1.2]] • [[LXX.Ezek.4.3]] • [[LXX.Ezek.5.7]] • [[LXX.Ezek.5.8]] • [[LXX.Ezek.5.10]] • [[LXX.Ezek.5.11]] • [[LXX.Ezek.10.15]] • [[LXX.Ezek.10.20]] • [[LXX.Ezek.11.4]] • [[LXX.Ezek.11.7]] • [[LXX.Ezek.11.16]] • [[LXX.Ezek.11.17]] • [[LXX.Ezek.12.23]] • [[LXX.Ezek.12.28]] • [[LXX.Ezek.13.8]] • [[LXX.Ezek.13.8]] • [[LXX.Ezek.13.13]] • [[LXX.Ezek.13.20]] • [[LXX.Ezek.13.23]] • [[LXX.Ezek.14.4]] • [[LXX.Ezek.14.6]] • [[LXX.Ezek.15.6]] • [[LXX.Ezek.16.22]] • [[LXX.Ezek.16.35]] • [[LXX.Ezek.16.37]] • [[LXX.Ezek.16.49]] • [[LXX.Ezek.16.49]] • [[LXX.Ezek.17.9]] • [[LXX.Ezek.17.19]] • [[LXX.Ezek.20.27]] • [[LXX.Ezek.20.30]] • [[LXX.Ezek.20.31]] • [[LXX.Ezek.20.33]] • [[LXX.Ezek.21.2]] • [[LXX.Ezek.21.12]] • [[LXX.Ezek.21.24]] • [[LXX.Ezek.22.4]] • [[LXX.Ezek.22.19]] • [[LXX.Ezek.22.19]] • [[LXX.Ezek.23.9]] • [[LXX.Ezek.23.22]] • [[LXX.Ezek.23.35]] • [[LXX.Ezek.24.6]] • [[LXX.Ezek.24.9]] • [[LXX.Ezek.25.4]] • [[LXX.Ezek.25.7]] • [[LXX.Ezek.25.9]] • [[LXX.Ezek.25.13]] • [[LXX.Ezek.25.15]] • [[LXX.Ezek.25.16]] • [[LXX.Ezek.26.3]] • [[LXX.Ezek.28.6]] • [[LXX.Ezek.28.18]] • [[LXX.Ezek.29.8]] • [[LXX.Ezek.29.10]] • [[LXX.Ezek.29.19]] • [[LXX.Ezek.30.22]] • [[LXX.Ezek.31.10]] • [[LXX.Ezek.33.25]] • [[LXX.Ezek.34.7]] • [[LXX.Ezek.34.20]] • [[LXX.Ezek.35.6]] • [[LXX.Ezek.35.11]] • [[LXX.Ezek.36.3]] • [[LXX.Ezek.36.4]] • [[LXX.Ezek.36.5]] • [[LXX.Ezek.36.7]] • [[LXX.Ezek.36.14]] • [[LXX.Ezek.36.22]] • [[LXX.Ezek.37.1]] • [[LXX.Ezek.37.12]] • [[LXX.Ezek.38.14]] • [[LXX.Ezek.39.25]] • [[LXX.Ezek.41.4]] • [[LXX.Ezek.42.6]] • [[LXX.Ezek.43.13]] • [[LXX.Ezek.44.9]] • [[LXX.Ezek.46.16]] • [[LXX.Ezek.47.9]] • [[LXX.Ezek.47.19]] • [[LXX.Ezek.47.20]] • [[LXX.Dan.4.18]] • [[LXX.Dan.4.24]] • [[LXX.Dan.4.27]] • [[LXX.Dan.5.24]] • [[LXX.Dan.5.26]] • [[LXX.Hos.2.6]] • [[LXX.Hos.2.9]] • [[LXX.Hos.2.14]] • [[LXX.Hos.4.3]] • [[LXX.Hos.4.13]] • [[LXX.Hos.6.5]] • [[LXX.Hos.8.10]] • [[LXX.Hos.9.6]] • [[LXX.Hos.13.3]] • [[LXX.Amos.2.13]] • [[LXX.Amos.3.2]] • [[LXX.Amos.3.11]] • [[LXX.Amos.4.12]] • [[LXX.Amos.5.11]] • [[LXX.Amos.5.13]] • [[LXX.Amos.5.16]] • [[LXX.Amos.6.7]] • [[LXX.Amos.7.3]] • [[LXX.Amos.7.6]] • [[LXX.Amos.7.17]] • [[LXX.Jonah.4.2]] • [[LXX.Mic.1.14]] • [[LXX.Mic.2.3]] • [[LXX.Mic.2.5]] • [[LXX.Mic.3.6]] • [[LXX.Mic.3.12]] • [[LXX.Mic.5.3]] • [[LXX.Hab.1.4]] • [[LXX.Hab.1.17]] • [[LXX.Zeph.2.9]] • [[LXX.Zeph.3.8]] • [[LXX.Hag.1.9]] • [[LXX.Hag.1.10]] • [[LXX.Zech.1.12]] • [[LXX.Zech.1.16]] • [[LXX.Zech.5.6]] • [[LXX.Zech.9.4]] • [[LXX.Zech.10.2]] • [[LXX.Zech.11.6]]  |
+|   | this a small | [[LXX.Num.16.13]]  |
+|   | this abomination | [[LXX.Deut.17.4]] • [[LXX.Jer.32.35]]  |
+|   | this abundance | [[LXX.1Chr.29.16]]  |
+|   | this accursing | [[LXX.Num.5.22]]  |
+|   | this alone | [[LXX.Exod.22.27]]  |
+|   | this blood | [[LXX.Num.35.33]] • [[LXX.Deut.21.7]] • [[LXX.2Kgs.3.23]]  |
+|   | this columned porch | [[LXX.1Kgs.7.8]]  |
+|   | this desolate | [[LXX.Jer.33.12]]  |
+|   | this dream | [[LXX.Gen.37.10]]  |
+|   | this going forth | [[LXX.Zech.5.5]]  |
+|   | this good | [[LXX.2Sam.2.6]]  |
+|   | this great | [[LXX.Exod.3.3]] • [[LXX.Deut.4.6]] • [[LXX.Deut.4.32]] • [[LXX.Deut.5.25]] • [[LXX.1Sam.12.16]] • [[LXX.2Kgs.8.13]]  |
+|   | this happened | [[LXX.2Chr.1.11]]  |
+|   | this heaven | [[LXX.Jer.10.11]]  |
+|   | this loincloth | [[LXX.Jer.13.10]]  |
+|   | this male child | [[LXX.Exod.2.9]]  |
+|   | this matter | [[LXX.Gen.34.14]] • [[LXX.Num.11.14]] • [[LXX.Deut.15.10]] • [[LXX.Josh.8.8]] • [[LXX.2Sam.2.6]] • [[LXX.2Sam.11.25]] • [[LXX.2Kgs.5.18]]  |
+|   | this mercy | [[LXX.2Sam.2.5]]  |
+|   | this mountain | [[LXX.Deut.2.3]] • [[LXX.Josh.14.12]] • [[LXX.Ps.78.54]] • [[LXX.Isa.25.6]] • [[LXX.Isa.25.10]]  |
+|   | this multitude | [[LXX.2Chr.31.10]]  |
+|   | this mystery | [[LXX.Dan.2.30]] • [[LXX.Dan.2.47]]  |
+|   | this nation | [[LXX.Exod.33.13]] • [[LXX.Judg.2.20]] • [[LXX.2Kgs.6.18]] • [[LXX.Hag.2.14]]  |
+|   | this not | [[LXX.Exod.14.12]]  |
+|   | this oath | [[LXX.Ezek.16.59]]  |
+|   | this once | [[LXX.Judg.16.18]] • [[LXX.Judg.16.28]]  |
+|   | this one time | [[LXX.2Sam.17.7]]  |
+|   | this one unclean | [[LXX.Lev.11.5]] • [[LXX.Lev.11.6]] • [[LXX.Lev.11.7]]  |
+|   | this ordinance | [[LXX.Exod.21.31]] • [[LXX.1Kgs.3.28]]  |
+|   | this passover | [[LXX.2Kgs.23.22]] • [[LXX.2Kgs.23.23]] • [[LXX.2Chr.35.19]]  |
+|   | this practice | [[LXX.Josh.6.15]]  |
+|   | this saying | [[LXX.Gen.18.25]] • [[LXX.Gen.22.16]] • [[LXX.Gen.32.19]] • [[LXX.1Kgs.13.33]] • [[LXX.Neh.5.12]] • [[LXX.Neh.6.4]] • [[LXX.Isa.8.20]] • [[LXX.Isa.14.28]] • [[LXX.Jer.7.23]]  |
+|   | this scarlet | [[LXX.Josh.2.18]]  |
+|   | this scroll | [[LXX.Jer.36.29]] • [[LXX.Jer.51.63]]  |
+|   | this second | [[LXX.Gen.27.36]]  |
+|   | this second book of the law | [[LXX.Deut.17.18]]  |
+|   | this severe | [[LXX.Exod.33.4]]  |
+|   | this shall be | [[LXX.Lev.16.29]]  |
+|   | this song | [[LXX.Num.21.17]] • [[LXX.Isa.26.1]]  |
+|   | this testimony | [[LXX.Josh.22.27]]  |
+|   | this thing | [[LXX.Gen.24.50]] • [[LXX.Gen.44.17]] • [[LXX.Exod.1.18]] • [[LXX.Exod.2.14]] • [[LXX.Exod.2.15]] • [[LXX.Exod.9.5]] • [[LXX.Exod.9.6]] • [[LXX.Exod.12.24]] • [[LXX.Exod.18.17]] • [[LXX.Exod.18.18]] • [[LXX.Exod.18.23]] • [[LXX.Num.32.20]] • [[LXX.Deut.15.11]] • [[LXX.Deut.15.15]] • [[LXX.Deut.19.7]] • [[LXX.Deut.22.26]] • [[LXX.Deut.24.18]] • [[LXX.Deut.24.22]] • [[LXX.Judg.6.29]] • [[LXX.Judg.6.29]] • [[LXX.Judg.8.1]] • [[LXX.Judg.11.37]] • [[LXX.1Sam.9.21]] • [[LXX.1Sam.20.2]] • [[LXX.1Sam.24.6]] • [[LXX.1Sam.28.18]] • [[LXX.2Sam.11.11]] • [[LXX.2Sam.12.6]] • [[LXX.2Sam.12.12]] • [[LXX.2Sam.12.21]] • [[LXX.2Sam.14.3]] • [[LXX.2Sam.15.6]] • [[LXX.2Sam.17.6]] • [[LXX.2Sam.24.10]] • [[LXX.1Kgs.1.27]] • [[LXX.1Kgs.3.10]] • [[LXX.1Kgs.3.11]] • [[LXX.1Kgs.12.24]] • [[LXX.1Kgs.13.34]] • [[LXX.1Kgs.20.9]] • [[LXX.1Kgs.20.24]] • [[LXX.2Kgs.7.2]] • [[LXX.2Kgs.7.19]] • [[LXX.2Kgs.17.12]] • [[LXX.1Chr.11.19]] • [[LXX.1Chr.21.8]] • [[LXX.2Chr.11.4]] • [[LXX.Neh.2.19]] • [[LXX.Neh.5.13]] • [[LXX.Esth.7.5]] • [[LXX.Isa.38.7]]  |
+|   | this third | [[LXX.Num.22.33]] • [[LXX.Num.24.10]]  |
+|   | this to me | [[LXX.Job.30.24]]  |
+|   | this touched | [[LXX.Isa.6.7]]  |
+|   | this troop | [[LXX.1Sam.30.15]] • [[LXX.1Sam.30.15]]  |
+|   | this unclean | [[LXX.Lev.11.4]] • [[LXX.Deut.14.8]]  |
+|   | this vast | [[LXX.2Chr.14.11]] • [[LXX.2Chr.20.12]]  |
+|   | this well | [[LXX.Gen.21.30]]  |
+|   | this wicked | [[LXX.Gen.39.9]] • [[LXX.Deut.13.11]] • [[LXX.Deut.17.5]] • [[LXX.Deut.19.20]]  |
+|   | this will be | [[LXX.Exod.30.31]] • [[LXX.Lev.16.34]] • [[LXX.Num.27.11]]  |
+|   | this wonderful | [[LXX.Deut.28.58]]  |
+|   | this word | [[LXX.Gen.30.31]] • [[LXX.Gen.34.19]] • [[LXX.Gen.44.7]] • [[LXX.Josh.14.10]] • [[LXX.Josh.14.12]] • [[LXX.1Sam.17.27]] • [[LXX.2Sam.14.13]] • [[LXX.Ezra.6.11]] • [[LXX.Ezra.10.5]] • [[LXX.Jer.5.14]] • [[LXX.Jer.27.1]]  |
+|   | this work | [[LXX.1Kgs.7.8]]  |
+|   | this your | [[LXX.1Kgs.21.2]]  |
+|   | was this taken place | [[LXX.Judg.21.3]]  |
+|   | will this be | [[LXX.Exod.10.7]]  |
+|   | you should do this | [[LXX.Prov.24.34]]  |
+| **<span class="asgreek">τούτα</span>** | these | [[LXX.Gen.10.18]]  |
+| **<span class="asgreek">τουτουσ</span>** | these words | [[LXX.Jer.36.20]]  |
+| **<span class="asgreek">τουτον</span>** | this place | [[LXX.Deut.26.9]]  |
+| **<span class="asgreek">τουτοισ</span>** | these nations | [[LXX.Josh.23.3]]  |
+| **<span class="asgreek">τουτο</span>** | may this be | [[LXX.Gen.23.15]]  |
+|   | this concern | [[LXX.2Kgs.9.25]]  |
+|   | this matter | [[LXX.Gen.21.26]]  |
+|   | this thing | [[LXX.Jer.40.16]]  |
+| **<span class="asgreek">ταῦτά</span>** | These | [[Matt.15.20]]  |
+|   | These things | [[Matt.4.9]] • [[1Tim.3.14]] • [[Titus.3.8]]  |
+|   | such | [[1Cor.6.11]]  |
+| **<span class="asgreek">ταύτῃ</span>** | On this | [[Luke.12.20]]  |
+|   | in that | [[Luke.17.34]]  |
+|   | one | [[Matt.10.23]]  |
+|   | that | [[Luke.13.32]] • [[Heb.3.10]]  |
+|   | this | [[Matt.12.45]] • [[Matt.16.18]] • [[Matt.26.31]] • [[Matt.26.34]] • [[Mark.8.12]] • [[Mark.8.38]] • [[Mark.14.27]] • [[Mark.14.30]] • [[Luke.11.30]] • [[Luke.13.7]] • [[Luke.16.24]] • [[Luke.17.6]] • [[Luke.19.42]] • [[Acts.4.27]] • [[Acts.16.12]] • [[Acts.18.10]] • [[Acts.22.3]] • [[Acts.27.23]] • [[1Cor.7.20]] • [[1Cor.9.12]] • [[1Cor.15.19]] • [[2Cor.8.7]] • [[2Cor.8.19]] • [[2Cor.8.20]] • [[2Cor.9.4]] • [[2Cor.11.17]] • [[Heb.11.2]]  |
+|   | with this | [[2Cor.1.15]]  |
+| **<span class="asgreek">ταύτησ</span>** | of this | [[LXX.1Kgs.14.15]] • [[Heb.9.11]]  |
+|   | of this city | [[LXX.2Chr.6.34]] • [[LXX.Jer.17.24]] • [[LXX.Jer.17.25]] • [[LXX.Jer.20.5]] • [[LXX.Jer.21.4]]  |
+|   | of this congregation | [[LXX.Num.16.21]] • [[LXX.Num.16.45]]  |
+|   | of this covenant | [[LXX.Deut.29.9]] • [[LXX.Deut.29.20]] • [[LXX.2Kgs.23.3]] • [[LXX.2Kgs.23.21]] • [[LXX.Jer.11.2]] • [[LXX.Jer.11.6]] • [[LXX.Jer.11.7]]  |
+|   | of this folly | [[LXX.Judg.19.24]]  |
+|   | of this imprecation | [[LXX.Num.5.21]] • [[LXX.Deut.29.19]]  |
+|   | of this land | [[LXX.Gen.27.46]]  |
+|   | of this letter | [[LXX.Esth.9.26]]  |
+|   | of this maidservant | [[LXX.Gen.21.13]]  |
+|   | of this ode | [[LXX.Deut.31.19]] • [[LXX.Deut.31.30]] • [[LXX.2Sam.22.1]]  |
+|   | of this woman | [[LXX.1Kgs.3.19]]  |
+|   | than this | [[John.15.13]]  |
+|   | these sevenths | [[LXX.Gen.29.27]] • [[LXX.Gen.29.28]]  |
+|   | this | [[LXX.Exod.10.6]] • [[LXX.1Sam.4.14]] • [[LXX.2Kgs.1.2]] • [[LXX.2Kgs.8.8]] • [[LXX.2Kgs.8.9]] • [[LXX.Job.37.1]] • [[LXX.Ps.7.7]] • [[LXX.Ps.32.6]] • [[LXX.Ps.74.18]] • [[LXX.Prov.5.19]] • [[LXX.Ezek.45.3]] • [[Matt.12.41]] • [[Matt.12.42]] • [[Luke.7.31]] • [[Luke.11.31]] • [[Luke.11.32]] • [[Luke.11.50]] • [[Luke.11.51]] • [[Luke.17.25]] • [[John.10.16]] • [[Acts.1.17]] • [[Acts.1.25]] • [[Acts.2.6]] • [[Acts.2.29]] • [[Acts.2.40]] • [[Acts.5.20]] • [[Acts.6.3]] • [[Acts.8.22]] • [[Acts.8.35]] • [[Acts.10.30]] • [[Acts.13.26]] • [[Acts.19.25]] • [[Acts.19.40]] • [[Acts.23.1]] • [[Acts.24.21]] • [[Acts.26.22]] • [[Acts.28.22]] • [[2Cor.9.12]] • [[2Cor.9.13]] • [[Heb.13.2]] • [[Rev.22.19]]  |
+|   | this city | [[LXX.2Kgs.19.34]] • [[LXX.2Kgs.20.6]] • [[LXX.Isa.37.35]] • [[LXX.Isa.38.6]] • [[LXX.Jer.22.8]] • [[LXX.Jer.26.11]] • [[LXX.Jer.26.20]] • [[LXX.Jer.33.5]]  |
+|   | this congregation | [[LXX.Num.27.16]]  |
+|   | this contamination | [[LXX.Jer.44.4]]  |
+|   | this day | [[LXX.Gen.32.32]] • [[LXX.Gen.35.20]] • [[LXX.Gen.47.26]] • [[LXX.Gen.48.15]] • [[LXX.Exod.9.18]] • [[LXX.Deut.2.21]] • [[LXX.Deut.2.22]] • [[LXX.Deut.3.14]] • [[LXX.Deut.10.8]] • [[LXX.Deut.29.4]] • [[LXX.Deut.34.6]] • [[LXX.Josh.5.9]] • [[LXX.Josh.7.26]] • [[LXX.Josh.7.26]] • [[LXX.Josh.8.28]] • [[LXX.Josh.8.29]] • [[LXX.Josh.13.13]] • [[LXX.Josh.15.63]] • [[LXX.Josh.16.10]] • [[LXX.Josh.22.17]] • [[LXX.Josh.23.8]] • [[LXX.Josh.23.9]] • [[LXX.Judg.1.21]] • [[LXX.Judg.1.26]] • [[LXX.Judg.6.24]] • [[LXX.Judg.10.4]] • [[LXX.Judg.15.19]] • [[LXX.Judg.18.12]] • [[LXX.Judg.19.30]] • [[LXX.1Sam.5.5]] • [[LXX.1Sam.6.18]] • [[LXX.1Sam.8.8]] • [[LXX.1Sam.12.2]] • [[LXX.1Sam.27.6]] • [[LXX.1Sam.29.3]] • [[LXX.1Sam.29.6]] • [[LXX.1Sam.29.8]] • [[LXX.1Sam.30.25]] • [[LXX.2Sam.4.3]] • [[LXX.2Sam.6.8]] • [[LXX.2Sam.7.6]] • [[LXX.2Sam.18.18]] • [[LXX.1Kgs.8.8]] • [[LXX.1Kgs.9.13]] • [[LXX.1Kgs.9.21]] • [[LXX.1Kgs.10.12]] • [[LXX.1Kgs.12.19]] • [[LXX.2Kgs.2.22]] • [[LXX.2Kgs.8.22]] • [[LXX.2Kgs.10.27]] • [[LXX.2Kgs.14.7]] • [[LXX.2Kgs.16.6]] • [[LXX.2Kgs.17.23]] • [[LXX.2Kgs.17.34]] • [[LXX.2Kgs.17.41]] • [[LXX.2Kgs.20.17]] • [[LXX.2Kgs.21.15]] • [[LXX.1Chr.4.41]] • [[LXX.1Chr.4.43]] • [[LXX.1Chr.5.26]] • [[LXX.1Chr.13.11]] • [[LXX.1Chr.17.5]] • [[LXX.2Chr.5.9]] • [[LXX.2Chr.8.8]] • [[LXX.2Chr.10.19]] • [[LXX.2Chr.20.26]] • [[LXX.2Chr.21.10]] • [[LXX.Ezra.9.7]] • [[LXX.Neh.9.32]] • [[LXX.Isa.39.6]] • [[LXX.Jer.3.25]] • [[LXX.Jer.7.25]] • [[LXX.Jer.11.7]] • [[LXX.Jer.25.3]] • [[LXX.Jer.32.20]] • [[LXX.Jer.32.31]] • [[LXX.Jer.35.14]] • [[LXX.Jer.36.2]] • [[LXX.Jer.44.10]] • [[LXX.Ezek.24.2]] • [[LXX.Ezek.39.22]] • [[LXX.Hag.2.15]] • [[LXX.Hag.2.19]]  |
+|   | this generation | [[LXX.Ps.12.7]]  |
+|   | this good | [[LXX.Josh.23.13]] • [[LXX.Josh.23.15]]  |
+|   | this land | [[LXX.Gen.31.13]] • [[LXX.Num.14.14]] • [[LXX.Jer.14.15]] • [[LXX.Jer.16.13]] • [[LXX.Jer.26.20]]  |
+|   | this maidservant | [[LXX.Ruth.4.12]]  |
+|   | this one's son | [[LXX.1Kgs.3.23]] • [[LXX.1Kgs.3.23]]  |
+|   | this rock | [[LXX.Num.20.10]]  |
+|   | this roll | [[LXX.Ezek.3.3]]  |
+|   | this way | [[LXX.Isa.30.11]]  |
+|   | this woman | [[LXX.1Sam.2.20]]  |
+|   | this’ | [[John.12.27]]  |
+|   | which these | [[LXX.Ps.31.4]]  |
+| **<span class="asgreek">ταύτην</span>** | Take this one | [[LXX.Judg.14.3]]  |
+|   | This | [[LXX.Gen.20.13]] • [[LXX.Gen.47.22]] • [[LXX.Exod.9.18]] • [[LXX.Exod.10.4]] • [[LXX.Exod.10.14]] • [[LXX.Exod.16.29]] • [[LXX.Lev.23.14]] • [[LXX.Lev.23.21]] • [[LXX.Num.32.15]] • [[LXX.Deut.1.35]] • [[LXX.Deut.22.14]] • [[LXX.Deut.22.16]] • [[LXX.Josh.9.24]] • [[LXX.Judg.15.18]] • [[LXX.Judg.19.11]] • [[LXX.1Sam.6.9]] • [[LXX.1Sam.14.45]] • [[LXX.1Sam.21.9]] • [[LXX.2Sam.13.17]] • [[LXX.1Kgs.7.37]] • [[LXX.1Kgs.19.2]] • [[LXX.1Kgs.20.6]] • [[LXX.1Kgs.20.28]] • [[LXX.2Kgs.18.21]] • [[LXX.Esth.8.13]] • [[LXX.Ps.27.4]] • [[LXX.Isa.28.8]] • [[LXX.Isa.33.21]] • [[LXX.Isa.58.5]] • [[LXX.Jer.37.15]] • [[LXX.Lam.3.21]] • [[Matt.11.16]] • [[Matt.15.15]] • [[Matt.21.23]] • [[Matt.23.36]] • [[Mark.4.13]] • [[Mark.10.5]] • [[Mark.11.28]] • [[Mark.12.10]] • [[Luke.4.6]] • [[Luke.4.23]] • [[Luke.7.44]] • [[Luke.12.41]] • [[Luke.13.6]] • [[Luke.13.16]] • [[Luke.15.3]] • [[Luke.18.5]] • [[Luke.18.9]] • [[Luke.20.2]] • [[Luke.20.9]] • [[Luke.20.19]] • [[Luke.23.48]] • [[Luke.24.21]] • [[John.2.11]] • [[John.7.8]] • [[John.7.8]] • [[John.10.6]] • [[John.10.18]] • [[John.12.27]] • [[Acts.1.16]] • [[Acts.3.16]] • [[Acts.7.4]] • [[Acts.7.60]] • [[Acts.8.19]] • [[Acts.13.33]] • [[Acts.22.4]] • [[Acts.22.28]] • [[Acts.23.13]] • [[Acts.27.21]] • [[Acts.28.20]] • [[Acts.28.20]] • [[Rom.5.2]] • [[1Cor.6.13]] • [[2Cor.4.1]] • [[2Cor.8.6]] • [[2Cor.9.5]] • [[2Cor.12.13]] • [[1Tim.1.18]] • [[2Tim.2.19]] • [[1Pet.5.12]] • [[2Pet.1.18]] • [[2Pet.3.1]] • [[1John.3.3]] • [[1John.4.21]] • [[2John.1.10]] • [[Rev.2.24]]  |
+|   | at this hour | [[LXX.Josh.11.6]]  |
+|   | bestowing of this expense | [[LXX.Ezra.5.9]]  |
+|   | that day | [[LXX.Esth.3.14]]  |
+|   | this Shunammite | [[LXX.2Kgs.4.12]] • [[LXX.2Kgs.4.36]]  |
+|   | this blessing | [[LXX.1Sam.25.27]]  |
+|   | this child | [[LXX.Gen.34.12]]  |
+|   | this city | [[LXX.2Kgs.19.32]] • [[LXX.2Kgs.19.33]] • [[LXX.2Kgs.20.6]] • [[LXX.2Kgs.23.27]] • [[LXX.Ezra.5.4]] • [[LXX.Neh.13.18]] • [[LXX.Isa.37.33]] • [[LXX.Isa.37.34]] • [[LXX.Isa.38.6]] • [[LXX.Jer.19.8]] • [[LXX.Jer.19.11]] • [[LXX.Jer.19.12]] • [[LXX.Jer.19.15]] • [[LXX.Jer.21.10]] • [[LXX.Jer.26.12]] • [[LXX.Jer.26.15]] • [[LXX.Jer.32.3]] • [[LXX.Jer.32.29]] • [[LXX.Jer.32.29]] • [[LXX.Jer.32.36]] • [[LXX.Jer.34.22]] • [[LXX.Jer.37.8]] • [[LXX.Jer.37.10]] • [[LXX.Jer.39.16]]  |
+|   | this commandment | [[LXX.Exod.12.17]] • [[LXX.Mal.2.4]]  |
+|   | this composition | [[LXX.Exod.30.32]] • [[LXX.Exod.30.37]]  |
+|   | this congregation | [[LXX.Exod.16.3]] • [[LXX.Num.20.12]]  |
+|   | this covenant | [[LXX.Deut.5.3]] • [[LXX.Deut.29.14]]  |
+|   | this cursed one | [[LXX.2Kgs.9.34]]  |
+|   | this day | [[LXX.Exod.12.17]] • [[LXX.Exod.13.3]] • [[LXX.Deut.10.15]]  |
+|   | this downfall | [[LXX.Zech.14.15]]  |
+|   | this evil | [[LXX.1Sam.12.20]] • [[LXX.1Kgs.9.9]] • [[LXX.2Chr.7.22]]  |
+|   | this exaction | [[LXX.Neh.5.10]]  |
+|   | this expectation | [[LXX.Isa.66.9]]  |
+|   | this expense | [[LXX.Ezra.5.3]]  |
+|   | this folly | [[LXX.Judg.19.23]] • [[LXX.2Sam.13.12]]  |
+|   | this fractured | [[LXX.Isa.36.6]]  |
+|   | this glory | [[LXX.Gen.31.1]]  |
+|   | this good | [[LXX.Deut.3.25]] • [[LXX.Deut.4.22]] • [[LXX.Deut.9.4]] • [[LXX.Deut.9.6]]  |
+|   | this grapevine | [[LXX.Ps.80.14]]  |
+|   | this great | [[LXX.Deut.8.17]] • [[LXX.Jer.13.10]] • [[LXX.Dan.10.8]]  |
+|   | this greatness | [[LXX.2Sam.7.21]] • [[LXX.1Chr.17.19]]  |
+|   | this land | [[LXX.Gen.12.7]] • [[LXX.Gen.15.7]] • [[LXX.Gen.15.18]] • [[LXX.Gen.24.5]] • [[LXX.Gen.24.7]] • [[LXX.Gen.24.8]] • [[LXX.Gen.26.3]] • [[LXX.Gen.26.4]] • [[LXX.Gen.28.15]] • [[LXX.Gen.35.12]] • [[LXX.Gen.48.4]] • [[LXX.Exod.32.13]] • [[LXX.Num.14.3]] • [[LXX.Num.14.8]] • [[LXX.Deut.3.18]] • [[LXX.Deut.6.23]] • [[LXX.Deut.26.9]] • [[LXX.Josh.1.13]] • [[LXX.Josh.13.7]] • [[LXX.Judg.2.2]] • [[LXX.2Kgs.18.25]] • [[LXX.2Chr.20.7]] • [[LXX.2Chr.30.9]] • [[LXX.Isa.36.10]] • [[LXX.Jer.6.12]] • [[LXX.Jer.10.18]] • [[LXX.Jer.13.13]] • [[LXX.Jer.22.12]] • [[LXX.Jer.24.6]] • [[LXX.Jer.25.9]] • [[LXX.Jer.32.22]] • [[LXX.Jer.36.29]] • [[LXX.Jer.37.19]] • [[LXX.Ezek.47.21]]  |
+|   | this life | [[LXX.Jer.38.16]]  |
+|   | this maidservant | [[LXX.Gen.21.10]] • [[LXX.Gen.34.4]]  |
+|   | this monument | [[LXX.Gen.31.52]]  |
+|   | this night | [[LXX.Gen.30.15]] • [[LXX.Num.22.19]] • [[LXX.1Sam.19.11]] • [[LXX.2Sam.19.7]]  |
+|   | this oath | [[LXX.Deut.29.14]]  |
+|   | this ode | [[LXX.Exod.15.1]] • [[LXX.Deut.31.22]] • [[LXX.Deut.32.44]]  |
+|   | this one | [[LXX.Gen.24.14]]  |
+|   | this parable | [[LXX.Ezek.12.23]] • [[LXX.Ezek.12.23]]  |
+|   | this place | [[LXX.Isa.36.10]]  |
+|   | this prayer | [[LXX.2Sam.7.27]]  |
+|   | this questioning | [[LXX.Gen.43.7]]  |
+|   | this rod | [[LXX.Exod.4.17]]  |
+|   | this roll | [[LXX.Ezek.3.1]] • [[LXX.Ezek.3.2]]  |
+|   | this service | [[LXX.Exod.12.25]] • [[LXX.Exod.13.5]]  |
+|   | this supplication | [[LXX.1Kgs.8.54]]  |
+|   | this trespass | [[LXX.Josh.22.31]]  |
+|   | this tribe | [[LXX.Mic.2.3]]  |
+|   | this truth | [[LXX.2Chr.32.1]]  |
+|   | this vision | [[LXX.2Sam.7.17]] • [[LXX.1Chr.17.15]]  |
+|   | this wicked | [[LXX.Num.14.27]]  |
+|   | this wickedness | [[LXX.Neh.2.17]] • [[LXX.Neh.13.27]]  |
+|   | this wilderness | [[LXX.Exod.16.3]] • [[LXX.Num.20.4]]  |
+|   | this woman | [[LXX.Gen.29.27]]  |
+|   | this writing | [[LXX.Dan.5.7]] • [[LXX.Dan.5.15]] • [[LXX.Dan.5.16]] • [[LXX.Dan.5.24]]  |
+|   | with this change of state | [[LXX.2Kgs.4.13]]  |
+| **<span class="asgreek">ταύτη</span>** | in this | [[LXX.Num.13.17]]  |
+|   | in this night | [[LXX.Exod.12.8]]  |
+|   | on this day | [[LXX.Exod.19.1]]  |
+|   | this | [[LXX.Gen.32.10]] • [[LXX.Judg.6.14]] • [[LXX.Ruth.3.2]] • [[LXX.1Sam.12.5]] • [[LXX.1Sam.17.46]] • [[LXX.1Sam.25.32]] • [[LXX.1Sam.25.33]] • [[LXX.1Sam.26.24]] • [[LXX.1Kgs.14.14]] • [[LXX.2Chr.20.17]] • [[LXX.Neh.13.14]] • [[LXX.Ps.27.3]] • [[LXX.Isa.20.6]] • [[LXX.Jer.22.8]]  |
+|   | this breach-of-contract | [[LXX.Ezra.9.2]]  |
+|   | this city | [[LXX.1Sam.9.6]] • [[LXX.Jer.21.6]] • [[LXX.Jer.21.7]] • [[LXX.Jer.21.9]] • [[LXX.Jer.27.19]] • [[LXX.Jer.29.16]] • [[LXX.Jer.38.2]] • [[LXX.Jer.38.4]] • [[LXX.Ezek.11.2]] • [[LXX.Ezek.11.6]]  |
+|   | this day | [[LXX.Gen.7.11]] • [[LXX.Gen.7.13]] • [[LXX.Exod.12.17]] • [[LXX.Lev.8.34]] • [[LXX.Lev.16.30]] • [[LXX.Lev.23.28]] • [[LXX.Lev.23.29]] • [[LXX.Lev.23.30]] • [[LXX.Deut.2.25]] • [[LXX.Deut.2.30]] • [[LXX.Deut.4.20]] • [[LXX.Deut.5.1]] • [[LXX.Deut.5.24]] • [[LXX.Deut.26.16]] • [[LXX.Deut.27.9]] • [[LXX.Deut.32.48]] • [[LXX.Josh.3.7]] • [[LXX.Josh.5.12]] • [[LXX.Josh.22.22]] • [[LXX.Judg.9.19]] • [[LXX.Judg.10.15]] • [[LXX.Judg.12.3]] • [[LXX.1Sam.11.13]] • [[LXX.1Sam.14.45]] • [[LXX.1Sam.17.10]] • [[LXX.1Sam.24.10]] • [[LXX.1Sam.28.18]] • [[LXX.2Sam.3.9]] • [[LXX.2Sam.3.38]] • [[LXX.2Sam.16.12]] • [[LXX.2Sam.18.20]] • [[LXX.2Sam.18.20]] • [[LXX.1Kgs.1.30]] • [[LXX.1Kgs.2.26]] • [[LXX.1Kgs.12.7]]  |
+|   | this generation | [[LXX.Gen.7.1]]  |
+|   | this house | [[LXX.Gen.39.9]]  |
+|   | this island | [[LXX.Isa.23.6]]  |
+|   | this journey | [[LXX.Gen.28.20]]  |
+|   | this land | [[LXX.Gen.26.3]] • [[LXX.Deut.4.22]] • [[LXX.Josh.17.12]] • [[LXX.Judg.1.27]] • [[LXX.1Kgs.9.8]] • [[LXX.2Chr.7.21]] • [[LXX.Jer.16.3]] • [[LXX.Jer.16.6]] • [[LXX.Jer.24.8]] • [[LXX.Jer.32.15]] • [[LXX.Jer.32.41]] • [[LXX.Jer.42.10]] • [[LXX.Jer.42.13]]  |
+|   | this night | [[LXX.Gen.19.34]] • [[LXX.Exod.12.12]]  |
+|   | this portion | [[LXX.2Kgs.9.26]]  |
+|   | this snare | [[LXX.Ps.9.15]]  |
+|   | this way | [[LXX.Deut.17.16]] • [[LXX.Ps.32.8]] • [[LXX.Ps.142.3]]  |
+|   | this wilderness | [[LXX.Exod.14.12]] • [[LXX.Num.14.2]] • [[LXX.Num.14.22]] • [[LXX.Num.14.29]] • [[LXX.Num.14.32]] • [[LXX.Num.14.35]] • [[LXX.Deut.1.31]]  |
+|   | to this land | [[LXX.Deut.29.24]]  |
+|   | to this one | [[LXX.1Kgs.3.25]] • [[LXX.1Kgs.3.25]]  |
+|   | to this wicked | [[LXX.Num.14.35]]  |
+| **<span class="asgreek">ταύτασ</span>** | these | [[LXX.Gen.21.30]] • [[LXX.Gen.41.3]] • [[LXX.Lev.21.14]] • [[LXX.Num.35.7]] • [[LXX.Deut.25.3]] • [[LXX.Josh.22.3]] • [[LXX.1Sam.17.18]] • [[LXX.Isa.10.10]] • [[Matt.13.53]] • [[Mark.13.2]] • [[Luke.1.24]] • [[Acts.1.5]] • [[Acts.3.24]] • [[Acts.21.15]] • [[2Cor.7.1]] • [[Heb.9.23]] • [[Rev.16.9]]  |
+|   | these cities | [[LXX.Gen.19.25]] • [[LXX.Num.21.25]] • [[LXX.Josh.17.12]] • [[LXX.Josh.21.3]] • [[LXX.Josh.21.8]] • [[LXX.Josh.21.9]] • [[LXX.1Chr.6.65]] • [[LXX.2Chr.14.7]]  |
+|   | these commandments | [[LXX.Num.15.22]] • [[LXX.Deut.11.22]] • [[LXX.Deut.15.5]] • [[LXX.Deut.16.12]] • [[LXX.Deut.17.19]] • [[LXX.Deut.19.9]]  |
+|   | these curses | [[LXX.Deut.30.7]]  |
+|   | these days | [[LXX.Esth.9.21]]  |
+|   | these imprecations | [[LXX.Num.5.23]]  |
+|   | these judgments | [[LXX.Deut.11.32]]  |
+|   | these lawless deeds | [[LXX.Ezek.18.13]]  |
+|   | these three | [[LXX.Deut.19.9]]  |
+| **<span class="asgreek">ταύταισ</span>** | by these gates | [[LXX.Jer.22.2]]  |
+|   | these | [[LXX.1Chr.7.29]] • [[LXX.Esth.9.22]] • [[LXX.Ezek.42.8]] • [[Matt.22.40]] • [[Luke.1.39]] • [[Luke.24.18]] • [[John.5.3]] • [[Acts.1.15]] • [[Acts.6.1]] • [[Acts.11.27]] • [[1Thess.3.3]] • [[Rev.9.20]]  |
+|   | these cities | [[LXX.Josh.21.42]]  |
+|   | these days | [[LXX.Zech.8.9]] • [[LXX.Zech.8.15]]  |
+|   | these gates | [[LXX.Jer.17.20]]  |
+|   | those | [[LXX.Esth.1.2]] • [[Luke.6.12]] • [[Luke.23.7]]  |
+|   | to these | [[LXX.Num.35.6]]  |
+|   | with these | [[LXX.Gen.31.43]]  |
+| **<span class="asgreek">ταύτα</span>** | And these | [[LXX.Gen.25.7]] • [[LXX.Gen.46.8]] • [[LXX.Prov.30.24]]  |
+|   | But these | [[LXX.Prov.24.23]]  |
+|   | Having these | [[LXX.Job.10.13]]  |
+|   | These are | [[LXX.Gen.36.40]] • [[LXX.Num.27.1]] • [[LXX.Num.34.19]] • [[LXX.Deut.4.45]] • [[LXX.Deut.5.22]] • [[LXX.Deut.6.3]] • [[LXX.Deut.12.1]] • [[LXX.Deut.22.17]] • [[LXX.2Sam.23.8]] • [[LXX.1Chr.8.38]] • [[LXX.Ezra.8.13]] • [[LXX.Job.26.14]] • [[LXX.Isa.42.16]] • [[LXX.Ezek.17.12]] • [[LXX.Ezek.24.19]] • [[LXX.Zech.1.9]] • [[LXX.Zech.1.21]] • [[LXX.Zech.4.5]] • [[LXX.Zech.4.13]]  |
+|   | all these | [[LXX.Lev.20.23]] • [[LXX.Deut.32.27]] • [[LXX.1Chr.29.17]] • [[LXX.2Chr.21.18]] • [[LXX.Job.27.17]] • [[LXX.Job.33.29]] • [[LXX.Ps.44.17]] • [[LXX.Isa.24.13]] • [[LXX.Isa.25.7]] • [[LXX.Isa.40.26]] • [[LXX.Jer.3.7]] • [[LXX.Dan.4.28]] • [[LXX.Zech.8.17]]  |
+|   | all these things | [[LXX.2Chr.35.20]]  |
+|   | all things | [[LXX.1Kgs.18.36]]  |
+|   | are not these | [[LXX.2Kgs.14.15]]  |
+|   | are these | [[LXX.Deut.11.30]]  |
+|   | by these | [[LXX.Job.19.26]]  |
+|   | for these | [[LXX.Prov.23.3]]  |
+|   | have these not | [[LXX.2Kgs.13.12]]  |
+|   | heard these | [[LXX.Isa.37.26]]  |
+|   | in these | [[LXX.Job.20.2]]  |
+|   | let them appreciate | [[LXX.Deut.32.29]]  |
+|   | of these nations | [[LXX.Deut.9.4]]  |
+|   | planned these | [[LXX.Isa.23.8]]  |
+|   | these | [[LXX.Gen.15.10]] • [[LXX.Gen.15.14]] • [[LXX.Gen.20.16]] • [[LXX.Gen.23.19]] • [[LXX.Gen.25.13]] • [[LXX.Gen.25.16]] • [[LXX.Gen.25.17]] • [[LXX.Gen.25.32]] • [[LXX.Gen.32.17]] • [[LXX.Gen.36.10]] • [[LXX.Gen.41.30]] • [[LXX.Gen.41.31]] • [[LXX.Gen.41.39]] • [[LXX.Gen.42.36]] • [[LXX.Gen.45.15]] • [[LXX.Gen.45.19]] • [[LXX.Gen.48.6]] • [[LXX.Gen.49.28]] • [[LXX.Exod.1.1]] • [[LXX.Exod.5.1]] • [[LXX.Exod.5.9]] • [[LXX.Exod.6.16]] • [[LXX.Exod.11.8]] • [[LXX.Exod.13.14]] • [[LXX.Exod.19.6]] • [[LXX.Exod.21.1]] • [[LXX.Exod.34.32]] • [[LXX.Lev.11.2]] • [[LXX.Lev.11.3]] • [[LXX.Lev.11.9]] • [[LXX.Lev.11.9]] • [[LXX.Lev.11.13]] • [[LXX.Lev.11.21]] • [[LXX.Lev.11.28]] • [[LXX.Lev.11.29]] • [[LXX.Lev.11.31]] • [[LXX.Lev.14.8]] • [[LXX.Lev.14.11]] • [[LXX.Lev.14.36]] • [[LXX.Lev.16.26]] • [[LXX.Lev.22.22]] • [[LXX.Lev.22.25]] • [[LXX.Lev.25.51]] • [[LXX.Lev.25.54]] • [[LXX.Lev.26.14]] • [[LXX.Lev.26.21]] • [[LXX.Lev.26.46]] • [[LXX.Num.1.5]] • [[LXX.Num.3.2]] • [[LXX.Num.3.3]] • [[LXX.Num.3.18]] • [[LXX.Num.4.4]] • [[LXX.Num.4.15]] • [[LXX.Num.4.15]] • [[LXX.Num.4.31]] • [[LXX.Num.5.26]] • [[LXX.Num.8.15]] • [[LXX.Num.12.16]] • [[LXX.Num.13.4]] • [[LXX.Num.13.16]] • [[LXX.Num.19.7]] • [[LXX.Num.24.13]] • [[LXX.Num.24.23]] • [[LXX.Num.26.33]] • [[LXX.Num.28.3]] • [[LXX.Num.28.24]] • [[LXX.Num.28.24]] • [[LXX.Num.29.39]] • [[LXX.Num.30.16]] • [[LXX.Num.32.22]] • [[LXX.Num.34.17]] • [[LXX.Deut.10.21]] • [[LXX.Deut.14.4]] • [[LXX.Deut.14.6]] • [[LXX.Deut.14.7]] • [[LXX.Deut.14.9]] • [[LXX.Deut.14.10]] • [[LXX.Deut.14.12]] • [[LXX.Deut.14.19]] • [[LXX.Deut.18.12]] • [[LXX.Deut.22.5]] • [[LXX.Deut.25.16]] • [[LXX.Deut.32.6]] • [[LXX.Deut.32.34]] • [[LXX.Josh.6.13]] • [[LXX.Josh.7.21]] • [[LXX.Josh.7.22]] • [[LXX.Josh.8.34]] • [[LXX.Josh.9.13]] • [[LXX.Josh.15.12]] • [[LXX.Josh.17.3]] • [[LXX.Josh.18.19]] • [[LXX.Josh.23.4]] • [[LXX.Josh.23.7]] • [[LXX.Josh.24.6]] • [[LXX.Judg.1.9]] • [[LXX.Judg.2.2]] • [[LXX.Judg.3.1]] • [[LXX.Judg.7.11]] • [[LXX.Judg.8.8]] • [[LXX.Judg.13.23]] • [[LXX.Judg.13.23]] • [[LXX.Judg.15.6]] • [[LXX.Judg.15.11]] • [[LXX.Ruth.3.17]] • [[LXX.1Sam.8.2]] • [[LXX.1Sam.9.13]] • [[LXX.1Sam.10.5]] • [[LXX.1Sam.17.11]] • [[LXX.1Sam.24.5]] • [[LXX.1Sam.30.20]] • [[LXX.2Sam.2.1]] • [[LXX.2Sam.3.28]] • [[LXX.2Sam.5.14]] • [[LXX.2Sam.8.1]] • [[LXX.2Sam.8.11]] • [[LXX.2Sam.10.1]] • [[LXX.2Sam.13.1]] • [[LXX.2Sam.15.1]] • [[LXX.2Sam.21.14]] • [[LXX.2Sam.21.18]] • [[LXX.2Sam.23.17]] • [[LXX.2Sam.23.22]] • [[LXX.2Sam.23.23]] • [[LXX.1Kgs.4.8]] • [[LXX.1Kgs.4.22]] • [[LXX.1Kgs.7.9]] • [[LXX.1Kgs.11.39]] • [[LXX.1Kgs.11.41]] • [[LXX.1Kgs.14.29]] • [[LXX.1Kgs.15.7]] • [[LXX.1Kgs.15.23]] • [[LXX.1Kgs.15.31]] • [[LXX.1Kgs.16.5]] • [[LXX.1Kgs.16.14]] • [[LXX.1Kgs.16.20]] • [[LXX.1Kgs.16.27]] • [[LXX.1Kgs.17.17]] • [[LXX.1Kgs.20.15]] • [[LXX.1Kgs.22.14]] • [[LXX.1Kgs.22.39]] • [[LXX.1Kgs.22.45]] • [[LXX.2Kgs.1.18]] • [[LXX.2Kgs.6.24]] • [[LXX.2Kgs.8.23]] • [[LXX.2Kgs.10.34]] • [[LXX.2Kgs.12.19]] • [[LXX.2Kgs.13.8]] • [[LXX.2Kgs.14.18]] • [[LXX.2Kgs.14.28]] • [[LXX.2Kgs.15.6]] • [[LXX.2Kgs.15.11]] • [[LXX.2Kgs.15.21]] • [[LXX.2Kgs.15.26]] • [[LXX.2Kgs.15.31]] • [[LXX.2Kgs.15.36]] • [[LXX.2Kgs.16.19]] • [[LXX.2Kgs.17.15]] • [[LXX.2Kgs.17.41]] • [[LXX.2Kgs.20.20]] • [[LXX.2Kgs.21.11]] • [[LXX.2Kgs.21.17]] • [[LXX.2Kgs.21.25]] • [[LXX.2Kgs.24.5]] • [[LXX.2Kgs.25.17]] • [[LXX.1Chr.6.17]] • [[LXX.1Chr.9.21]] • [[LXX.1Chr.9.44]] • [[LXX.1Chr.11.19]] • [[LXX.1Chr.11.24]] • [[LXX.1Chr.12.23]] • [[LXX.1Chr.14.4]] • [[LXX.1Chr.18.1]] • [[LXX.1Chr.18.11]] • [[LXX.1Chr.19.1]] • [[LXX.1Chr.20.4]] • [[LXX.1Chr.21.17]] • [[LXX.1Chr.22.14]] • [[LXX.2Chr.3.3]] • [[LXX.2Chr.11.20]] • [[LXX.2Chr.20.1]] • [[LXX.2Chr.20.35]] • [[LXX.2Chr.24.4]] • [[LXX.2Chr.27.5]] • [[LXX.2Chr.29.32]] • [[LXX.2Chr.31.1]] • [[LXX.2Chr.32.9]] • [[LXX.2Chr.32.15]] • [[LXX.2Chr.32.23]] • [[LXX.2Chr.33.14]] • [[LXX.2Chr.34.22]] • [[LXX.2Chr.35.7]] • [[LXX.2Chr.36.8]] • [[LXX.Ezra.4.16]] • [[LXX.Ezra.5.15]] • [[LXX.Neh.6.14]] • [[LXX.Neh.13.22]] • [[LXX.Esth.1.4]] • [[LXX.Esth.1.13]] • [[LXX.Esth.3.1]] • [[LXX.Job.5.27]] • [[LXX.Job.5.27]] • [[LXX.Job.8.2]] • [[LXX.Job.10.8]] • [[LXX.Job.12.9]] • [[LXX.Job.13.1]] • [[LXX.Job.20.4]] • [[LXX.Job.33.5]] • [[LXX.Job.34.16]] • [[LXX.Job.34.34]] • [[LXX.Job.37.13]] • [[LXX.Job.40.4]] • [[LXX.Ps.15.5]] • [[LXX.Ps.16.4]] • [[LXX.Ps.42.4]] • [[LXX.Ps.44.21]] • [[LXX.Ps.49.1]] • [[LXX.Ps.49.13]] • [[LXX.Ps.50.21]] • [[LXX.Ps.50.22]] • [[LXX.Ps.92.6]] • [[LXX.Ps.107.43]] • [[LXX.Ps.132.12]] • [[LXX.Eccl.7.23]] • [[LXX.Isa.1.12]] • [[LXX.Isa.1.20]] • [[LXX.Isa.1.26]] • [[LXX.Isa.5.9]] • [[LXX.Isa.6.12]] • [[LXX.Isa.9.7]] • [[LXX.Isa.12.5]] • [[LXX.Isa.24.3]] • [[LXX.Isa.28.29]] • [[LXX.Isa.29.11]] • [[LXX.Isa.29.11]] • [[LXX.Isa.30.8]] • [[LXX.Isa.30.8]] • [[LXX.Isa.37.32]] • [[LXX.Isa.41.4]] • [[LXX.Isa.41.20]] • [[LXX.Isa.42.23]] • [[LXX.Isa.43.9]] • [[LXX.Isa.44.6]] • [[LXX.Isa.44.21]] • [[LXX.Isa.45.7]] • [[LXX.Isa.45.21]] • [[LXX.Isa.46.8]] • [[LXX.Isa.47.7]] • [[LXX.Isa.47.8]] • [[LXX.Isa.48.1]] • [[LXX.Isa.48.14]] • [[LXX.Isa.48.16]] • [[LXX.Isa.49.15]] • [[LXX.Isa.50.11]] • [[LXX.Isa.51.6]] • [[LXX.Isa.51.19]] • [[LXX.Isa.56.2]] • [[LXX.Isa.57.10]] • [[LXX.Isa.58.14]] • [[LXX.Isa.66.2]] • [[LXX.Isa.66.2]] • [[LXX.Jer.2.17]] • [[LXX.Jer.5.12]] • [[LXX.Jer.5.19]] • [[LXX.Jer.5.20]] • [[LXX.Jer.5.25]] • [[LXX.Jer.5.31]] • [[LXX.Jer.7.29]] • [[LXX.Jer.13.22]] • [[LXX.Jer.14.22]] • [[LXX.Jer.16.16]] • [[LXX.Jer.21.7]] • [[LXX.Jer.29.11]] • [[LXX.Jer.30.15]] • [[LXX.Jer.32.42]] • [[LXX.Jer.34.11]] • [[LXX.Jer.38.12]] • [[LXX.Jer.46.26]] • [[LXX.Jer.48.44]] • [[LXX.Jer.49.6]] • [[LXX.Jer.52.22]] • [[LXX.Ezek.4.6]] • [[LXX.Ezek.10.22]] • [[LXX.Ezek.16.30]] • [[LXX.Ezek.16.44]] • [[LXX.Ezek.17.18]] • [[LXX.Ezek.18.14]] • [[LXX.Ezek.20.39]] • [[LXX.Ezek.23.30]] • [[LXX.Ezek.37.3]] • [[LXX.Ezek.37.3]] • [[LXX.Ezek.43.13]] • [[LXX.Ezek.43.18]] • [[LXX.Ezek.47.12]] • [[LXX.Ezek.47.13]] • [[LXX.Ezek.47.15]] • [[LXX.Ezek.47.17]] • [[LXX.Ezek.47.18]] • [[LXX.Ezek.47.19]] • [[LXX.Ezek.48.1]] • [[LXX.Ezek.48.16]] • [[LXX.Dan.1.5]] • [[LXX.Dan.2.29]] • [[LXX.Dan.2.45]] • [[LXX.Dan.5.22]] • [[LXX.Dan.7.17]] • [[LXX.Hos.2.12]] • [[LXX.Hos.3.5]] • [[LXX.Hos.5.1]] • [[LXX.Hos.14.9]] • [[LXX.Joel.1.2]] • [[LXX.Joel.2.28]] • [[LXX.Joel.3.9]] • [[LXX.Amos.2.11]] • [[LXX.Amos.4.5]] • [[LXX.Amos.8.4]] • [[LXX.Amos.9.12]] • [[LXX.Mic.1.5]] • [[LXX.Mic.2.7]] • [[LXX.Mic.3.9]] • [[LXX.Mic.4.4]] • [[LXX.Hab.2.6]] • [[LXX.Zech.1.19]] • [[LXX.Zech.1.19]] • [[LXX.Zech.4.4]] • [[LXX.Zech.6.4]] • [[LXX.Zech.8.12]] • [[LXX.Mal.2.12]] • [[LXX.Mal.2.13]] • [[LXX.Mal.3.16]]  |
+|   | these abominations | [[LXX.Lev.18.27]] • [[LXX.Jer.7.10]]  |
+|   | these bad | [[LXX.Judg.6.13]] • [[LXX.Jer.32.23]]  |
+|   | these better | [[LXX.Jer.24.5]]  |
+|   | these bones | [[LXX.Ezek.37.4]] • [[LXX.Ezek.37.11]]  |
+|   | these boys | [[LXX.Gen.48.16]]  |
+|   | these cases | [[LXX.Num.35.24]]  |
+|   | these discourses | [[LXX.Deut.6.6]]  |
+|   | these evils | [[LXX.Deut.31.17]] • [[LXX.Neh.13.18]] • [[LXX.Jer.3.5]] • [[LXX.Jer.16.10]] • [[LXX.Jer.40.2]] • [[LXX.Ezek.6.10]] • [[LXX.Dan.9.13]]  |
+|   | these gifts | [[LXX.Gen.43.15]]  |
+|   | these good | [[LXX.2Sam.7.28]] • [[LXX.1Chr.17.26]]  |
+|   | these great | [[LXX.Josh.24.17]]  |
+|   | these happened | [[LXX.1Kgs.11.11]]  |
+|   | these have taken place | [[LXX.Mal.1.9]]  |
+|   | these items | [[LXX.Exod.25.39]] • [[LXX.2Chr.4.18]]  |
+|   | these judgments | [[LXX.Deut.7.11]]  |
+|   | these matters | [[LXX.Jer.16.10]]  |
+|   | these measures | [[LXX.Ezek.40.24]] • [[LXX.Ezek.40.28]] • [[LXX.Ezek.40.30]] • [[LXX.Ezek.40.32]] • [[LXX.Ezek.40.33]] • [[LXX.Ezek.40.35]]  |
+|   | these miracles | [[LXX.Exod.11.10]]  |
+|   | these nations | [[LXX.Deut.7.22]] • [[LXX.Deut.11.23]] • [[LXX.Deut.12.30]] • [[LXX.Deut.18.14]] • [[LXX.Deut.31.3]] • [[LXX.Josh.23.13]] • [[LXX.Judg.2.23]] • [[LXX.Jer.25.11]]  |
+|   | these not | [[LXX.2Kgs.23.28]]  |
+|   | these ordinances | [[LXX.Deut.4.6]] • [[LXX.Deut.6.24]] • [[LXX.Deut.7.12]] • [[LXX.Deut.17.19]] • [[LXX.Deut.26.16]]  |
+|   | these should come | [[LXX.Ezek.24.24]]  |
+|   | these signs | [[LXX.Exod.10.1]] • [[LXX.1Sam.10.7]] • [[LXX.1Sam.10.9]]  |
+|   | these things | [[LXX.Gen.39.7]] • [[LXX.Gen.39.17]] • [[LXX.Gen.40.1]] • [[LXX.Gen.48.1]] • [[LXX.Exod.3.20]] • [[LXX.Lev.16.28]] • [[LXX.Deut.30.1]] • [[LXX.Josh.24.26]] • [[LXX.1Sam.2.23]] • [[LXX.1Sam.18.23]] • [[LXX.1Sam.18.26]] • [[LXX.1Sam.19.7]] • [[LXX.1Sam.24.16]] • [[LXX.1Sam.25.9]] • [[LXX.1Sam.25.37]] • [[LXX.Ezra.7.1]] • [[LXX.Dan.12.7]]  |
+|   | these three | [[LXX.Exod.21.11]]  |
+|   | these two | [[LXX.Ps.62.11]] • [[LXX.Isa.47.9]]  |
+|   | these unclean | [[LXX.Lev.11.8]] • [[LXX.Deut.14.7]]  |
+|   | these vessels | [[LXX.2Kgs.4.4]]  |
+|   | these waters | [[LXX.2Kgs.2.21]]  |
+|   | these were diminished | [[LXX.1Chr.17.17]]  |
+|   | these were finished | [[LXX.Ezra.9.1]]  |
+|   | these will be | [[LXX.Num.35.29]]  |
+|   | these words | [[LXX.Gen.15.1]] • [[LXX.Gen.20.8]] • [[LXX.Gen.22.1]] • [[LXX.Gen.22.20]] • [[LXX.Gen.24.28]] • [[LXX.Gen.29.12]] • [[LXX.Gen.44.6]] • [[LXX.Gen.44.7]] • [[LXX.Exod.34.27]] • [[LXX.Exod.34.28]] • [[LXX.Num.14.39]] • [[LXX.Deut.11.18]] • [[LXX.1Sam.11.6]] • [[LXX.1Sam.17.23]] • [[LXX.1Sam.18.24]] • [[LXX.1Sam.21.12]] • [[LXX.1Sam.25.12]] • [[LXX.1Kgs.21.1]] • [[LXX.1Kgs.21.27]] • [[LXX.Job.42.7]]  |
+|   | these works | [[LXX.Num.16.28]] • [[LXX.Jer.7.13]]  |
+|   | these years | [[LXX.1Kgs.17.1]]  |
+|   | they | [[LXX.Ezra.5.4]]  |
+|   | they did these | [[LXX.Ezek.23.38]]  |
+|   | this | [[LXX.Gen.33.7]] • [[LXX.Exod.11.1]] • [[LXX.Lev.15.28]] • [[LXX.Num.6.20]] • [[LXX.Num.8.22]] • [[LXX.Num.9.17]] • [[LXX.Num.12.14]] • [[LXX.Num.31.24]] • [[LXX.Deut.21.13]] • [[LXX.Josh.2.16]]  |
+|   | those | [[LXX.2Sam.12.8]]  |
+|   | to these | [[LXX.Job.37.14]] • [[LXX.Jer.5.21]]  |
+|   | you shall eat these | [[LXX.Lev.11.22]]  |
+| **<span class="asgreek">ταύτά</span>** | These | [[LXX.Gen.31.38]] • [[LXX.Gen.31.41]] • [[LXX.Gen.33.5]] • [[LXX.Gen.33.8]] • [[LXX.Gen.38.25]] • [[LXX.Exod.29.1]] • [[LXX.Exod.29.38]] • [[LXX.Lev.11.35]] • [[LXX.2Sam.16.2]] • [[LXX.Esth.5.13]] • [[LXX.Job.19.26]] • [[LXX.Ps.144.15]] • [[LXX.Jer.4.18]] • [[LXX.Ezek.47.20]] • [[LXX.Zech.6.5]]  |
+|   | these are | [[LXX.Isa.22.14]] • [[LXX.Ezek.37.18]]  |
+|   | these not | [[LXX.Hab.2.13]]  |
+| **<span class="asgreek">ταυτασ</span>** | these | [[LXX.Eccl.7.10]]  |
+| **<span class="asgreek">ταυτα</span>** | these | [[LXX.2Kgs.15.15]]  |
+| **<span class="asgreek">πόλιν</span>** | this city | [[LXX.Jer.26.6]]  |
+| **<span class="asgreek">οὗτόσ</span>** | For this | [[Matt.11.10]]  |
+|   | This | [[Matt.3.17]] • [[Matt.12.23]] • [[Matt.13.19]] • [[Matt.13.20]] • [[Matt.13.22]] • [[Matt.13.23]] • [[Matt.13.55]] • [[Matt.14.2]] • [[Matt.17.5]] • [[Matt.21.11]] • [[Matt.21.38]] • [[Matt.27.37]] • [[Mark.4.41]] • [[Mark.6.3]] • [[Mark.9.7]] • [[Mark.12.7]] • [[Luke.7.27]] • [[Luke.7.49]] • [[Luke.8.25]] • [[Luke.9.35]] • [[Luke.20.14]] • [[Luke.23.35]] • [[John.1.34]] • [[John.4.29]] • [[John.4.42]] • [[John.6.14]] • [[John.6.42]] • [[John.6.50]] • [[John.6.58]] • [[John.7.25]] • [[John.7.26]] • [[John.7.40]] • [[John.7.41]] • [[John.9.8]] • [[John.9.19]] • [[John.9.20]] • [[John.21.24]] • [[Acts.4.11]] • [[Acts.7.37]] • [[Acts.7.38]] • [[Acts.8.10]] • [[Acts.9.21]] • [[Acts.9.22]] • [[Acts.17.3]] • [[Acts.21.28]] • [[2Pet.1.17]] • [[1John.2.22]] • [[1John.5.6]] • [[2John.1.7]]  |
+|   | he | [[Matt.18.4]] • [[Matt.26.23]] • [[Luke.9.48]] • [[John.1.30]] • [[John.1.33]] • [[John.9.9]] • [[Acts.9.20]] • [[Acts.10.36]] • [[Acts.10.42]] • [[Acts.18.26]] • [[1John.5.20]]  |
+| **<span class="asgreek">οὗτοσ</span>** | This | [[Matt.3.3]] • [[Matt.5.19]] • [[Matt.7.12]] • [[Matt.8.27]] • [[Matt.9.3]] • [[Matt.12.24]] • [[Matt.15.8]] • [[Matt.21.10]] • [[Matt.21.42]] • [[Matt.26.61]] • [[Matt.26.71]] • [[Matt.27.47]] • [[Matt.27.54]] • [[Matt.28.15]] • [[Mark.2.7]] • [[Mark.7.6]] • [[Mark.8.35]] • [[Mark.12.10]] • [[Mark.14.69]] • [[Mark.15.39]] • [[Luke.1.29]] • [[Luke.1.36]] • [[Luke.2.25]] • [[Luke.2.34]] • [[Luke.4.22]] • [[Luke.4.36]] • [[Luke.5.21]] • [[Luke.7.17]] • [[Luke.7.39]] • [[Luke.9.9]] • [[Luke.14.30]] • [[Luke.15.2]] • [[Luke.15.24]] • [[Luke.15.30]] • [[Luke.15.32]] • [[Luke.17.18]] • [[Luke.18.11]] • [[Luke.20.17]] • [[Luke.23.22]] • [[Luke.23.38]] • [[Luke.23.47]] • [[John.1.15]] • [[John.2.20]] • [[John.6.42]] • [[John.6.52]] • [[John.6.60]] • [[John.7.31]] • [[John.7.36]] • [[John.7.46]] • [[John.7.49]] • [[John.9.2]] • [[John.9.3]] • [[John.9.16]] • [[John.9.24]] • [[John.9.33]] • [[John.11.37]] • [[John.11.47]] • [[John.12.34]] • [[John.21.23]] • [[Acts.1.11]] • [[Acts.1.18]] • [[Acts.4.10]] • [[Acts.6.13]] • [[Acts.6.14]] • [[Acts.7.40]] • [[Acts.9.15]] • [[Acts.10.6]] • [[Acts.14.9]] • [[Acts.17.18]] • [[Acts.18.13]] • [[Acts.19.26]] • [[Acts.22.26]] • [[Acts.26.31]] • [[Acts.26.32]] • [[Acts.28.4]] • [[Rom.4.9]] • [[Rom.9.9]] • [[Heb.7.1]] • [[Heb.10.12]] • [[Jas.1.25]] • [[1Pet.2.7]] • [[2John.1.9]] • [[Rev.20.14]]  |
+|   | he | [[Matt.10.22]] • [[Matt.24.13]] • [[Matt.27.58]] • [[Mark.3.35]] • [[Mark.6.16]] • [[Mark.13.13]] • [[Luke.1.32]] • [[Luke.8.41]] • [[Luke.9.24]] • [[Luke.16.1]] • [[Luke.20.28]] • [[Luke.23.51]] • [[Luke.23.52]] • [[John.1.2]] • [[John.1.7]] • [[John.1.41]] • [[John.3.2]] • [[John.3.26]] • [[John.4.47]] • [[John.6.46]] • [[John.6.71]] • [[John.7.18]] • [[John.7.35]] • [[John.15.5]] • [[John.18.30]] • [[Acts.4.9]] • [[Acts.7.19]] • [[Acts.10.6]] • [[Acts.10.32]] • [[Acts.13.7]] • [[Acts.17.24]] • [[Acts.18.25]] • [[Rom.8.9]] • [[1Cor.7.13]] • [[1Cor.8.3]] • [[Heb.3.3]]  |
+|   | man | [[Luke.23.41]]  |
+|   | this man | [[John.21.21]]  |
+|   | this one | [[Luke.18.14]] • [[Luke.22.56]] • [[Luke.22.59]] • [[John.7.15]] • [[John.11.37]] • [[Acts.7.36]] • [[Heb.7.4]] • [[Jas.1.23]] • [[Jas.1.25]] • [[Jas.3.2]]  |
+| **<span class="asgreek">οὗτοι</span>** | it | [[Acts.24.20]]  |
+|   | themselves | [[Acts.24.15]]  |
+|   | these | [[Matt.4.3]] • [[Matt.20.12]] • [[Matt.20.21]] • [[Matt.21.16]] • [[Matt.25.46]] • [[Mark.4.15]] • [[Mark.12.40]] • [[Luke.8.13]] • [[Luke.13.2]] • [[Luke.19.40]] • [[Luke.20.47]] • [[Luke.21.4]] • [[Luke.24.17]] • [[Luke.24.44]] • [[John.6.5]] • [[John.12.21]] • [[John.17.25]] • [[Acts.1.14]] • [[Acts.2.15]] • [[Acts.11.12]] • [[Acts.16.17]] • [[Acts.16.20]] • [[Acts.17.6]] • [[Acts.17.7]] • [[Acts.17.11]] • [[Acts.20.5]] • [[Acts.27.31]] • [[Rom.2.14]] • [[Rom.8.14]] • [[Rom.9.6]] • [[Rom.11.24]] • [[Rom.11.31]] • [[1Cor.16.17]] • [[Gal.3.7]] • [[Gal.6.12]] • [[Col.4.11]] • [[1Tim.3.10]] • [[2Tim.3.8]] • [[Heb.11.13]] • [[Heb.11.39]] • [[2Pet.2.12]] • [[1John.5.7]] • [[Jude.1.8]] • [[Jude.1.10]] • [[Rev.7.13]] • [[Rev.11.6]] • [[Rev.11.10]] • [[Rev.14.4]] • [[Rev.14.4]] • [[Rev.17.13]] • [[Rev.17.14]] • [[Rev.17.16]] • [[Rev.19.9]] • [[Rev.21.5]] • [[Rev.22.6]]  |
+|   | they | [[John.18.21]] • [[Acts.25.11]]  |
+| **<span class="asgreek">οὗτοί</span>** | these | [[Matt.13.38]] • [[Matt.26.62]] • [[Mark.4.16]] • [[Mark.4.18]] • [[Mark.14.60]] • [[Luke.8.14]] • [[Luke.8.15]] • [[Acts.2.7]] • [[2Pet.2.17]] • [[Jude.1.12]] • [[Jude.1.16]] • [[Jude.1.19]] • [[Rev.7.14]] • [[Rev.11.4]] • [[Rev.14.4]]  |
+|   | those | [[Luke.8.21]]  |
+| **<span class="asgreek">οὑτὸσ</span>** | this | [[Luke.20.30]]  |
+| **<span class="asgreek">ούτόσ</span>** | Is this | [[LXX.Judg.9.38]]  |
+|   | this | [[LXX.Gen.35.17]] • [[LXX.Exod.15.2]] • [[LXX.Deut.32.6]] • [[LXX.1Sam.16.12]] • [[LXX.1Sam.21.11]] • [[LXX.1Sam.24.6]] • [[LXX.Jer.52.28]] • [[LXX.Ezek.43.12]]  |
+|   | this is | [[LXX.Isa.57.6]]  |
+|   | this one | [[LXX.Deut.21.17]] • [[LXX.1Sam.24.10]] • [[LXX.Ps.101.6]] • [[LXX.Ezek.18.9]]  |
+| **<span class="asgreek">ούτωσ</span>** | Thus | [[LXX.1Sam.28.2]] • [[LXX.2Sam.5.25]] • [[LXX.2Kgs.19.6]]  |
+| **<span class="asgreek">ούτοσ</span>** | And this | [[LXX.2Sam.7.19]] • [[LXX.Job.18.21]]  |
+|   | For this | [[LXX.Esth.2.12]]  |
+|   | I | [[LXX.Deut.29.6]]  |
+|   | Is this not | [[LXX.Zech.3.2]]  |
+|   | This | [[LXX.Gen.2.11]] • [[LXX.Gen.2.13]] • [[LXX.Gen.2.14]] • [[LXX.Gen.4.20]] • [[LXX.Gen.4.21]] • [[LXX.Gen.5.29]] • [[LXX.Gen.10.8]] • [[LXX.Gen.15.2]] • [[LXX.Gen.15.4]] • [[LXX.Gen.19.37]] • [[LXX.Gen.24.65]] • [[LXX.Gen.36.24]] • [[LXX.Gen.36.43]] • [[LXX.Gen.38.11]] • [[LXX.Gen.38.28]] • [[LXX.Gen.43.29]] • [[LXX.Exod.6.26]] • [[LXX.Exod.12.43]] • [[LXX.Exod.15.16]] • [[LXX.Exod.16.15]] • [[LXX.Exod.32.1]] • [[LXX.Exod.32.23]] • [[LXX.Lev.6.9]] • [[LXX.Lev.6.14]] • [[LXX.Lev.6.25]] • [[LXX.Lev.7.11]] • [[LXX.Lev.11.46]] • [[LXX.Lev.13.59]] • [[LXX.Lev.14.54]] • [[LXX.Lev.14.57]] • [[LXX.Lev.15.3]] • [[LXX.Lev.15.32]] • [[LXX.Num.5.29]] • [[LXX.Num.7.84]] • [[LXX.Num.13.27]] • [[LXX.Num.18.31]] • [[LXX.Num.19.14]] • [[LXX.Num.22.5]] • [[LXX.Deut.4.44]] • [[LXX.Deut.31.16]] • [[LXX.Deut.31.16]] • [[LXX.Deut.32.47]] • [[LXX.Josh.5.4]] • [[LXX.Josh.13.14]] • [[LXX.Josh.22.20]] • [[LXX.Josh.24.27]] • [[LXX.Judg.13.21]] • [[LXX.Judg.21.11]] • [[LXX.1Sam.4.7]] • [[LXX.1Sam.10.27]] • [[LXX.1Sam.17.36]] • [[LXX.1Sam.28.14]] • [[LXX.1Sam.29.3]] • [[LXX.2Sam.1.4]] • [[LXX.2Sam.16.9]] • [[LXX.1Kgs.3.23]] • [[LXX.1Kgs.6.38]] • [[LXX.1Kgs.8.19]] • [[LXX.1Kgs.9.8]] • [[LXX.1Kgs.12.30]] • [[LXX.1Kgs.13.26]] • [[LXX.1Kgs.18.24]] • [[LXX.1Kgs.20.40]] • [[LXX.1Kgs.22.20]] • [[LXX.1Kgs.22.32]] • [[LXX.1Kgs.22.33]] • [[LXX.2Kgs.1.8]] • [[LXX.2Kgs.6.32]] • [[LXX.2Kgs.8.5]] • [[LXX.2Kgs.9.11]] • [[LXX.2Kgs.15.12]] • [[LXX.2Kgs.19.21]] • [[LXX.1Chr.11.11]] • [[LXX.1Chr.22.1]] • [[LXX.2Chr.5.3]] • [[LXX.2Chr.17.14]] • [[LXX.2Chr.23.4]] • [[LXX.2Chr.31.17]] • [[LXX.2Chr.32.12]] • [[LXX.Ezra.1.9]] • [[LXX.Ezra.10.9]] • [[LXX.Neh.13.17]] • [[LXX.Esth.1.1]] • [[LXX.Esth.7.5]] • [[LXX.Job.17.3]] • [[LXX.Job.38.2]] • [[LXX.Ps.24.8]] • [[LXX.Ps.24.10]] • [[LXX.Ps.34.6]] • [[LXX.Ps.48.14]] • [[LXX.Song.5.16]] • [[LXX.Song.5.16]] • [[LXX.Isa.9.15]] • [[LXX.Isa.14.16]] • [[LXX.Isa.25.9]] • [[LXX.Isa.37.22]] • [[LXX.Isa.45.18]] • [[LXX.Isa.63.1]] • [[LXX.Isa.65.5]] • [[LXX.Jer.30.21]] • [[LXX.Jer.32.1]] • [[LXX.Jer.38.21]] • [[LXX.Jer.46.7]] • [[LXX.Jer.49.19]] • [[LXX.Jer.50.44]] • [[LXX.Ezek.12.27]] • [[LXX.Ezek.38.8]] • [[LXX.Ezek.46.20]] • [[LXX.Hos.13.15]] • [[LXX.Zech.1.7]] • [[LXX.Zech.4.6]] • [[LXX.Zech.13.9]]  |
+|   | This house | [[LXX.1Kgs.6.12]] • [[LXX.1Kgs.8.27]] • [[LXX.2Chr.6.18]] • [[LXX.2Chr.7.21]] • [[LXX.Jer.22.5]] • [[LXX.Jer.26.9]]  |
+|   | This man | [[LXX.Prov.5.23]] • [[LXX.Prov.16.30]] • [[LXX.Jer.38.4]]  |
+|   | This month | [[LXX.Exod.12.2]]  |
+|   | and this one | [[LXX.Gen.48.14]]  |
+|   | for this one | [[LXX.Gen.48.18]] • [[LXX.Josh.24.18]] • [[LXX.Prov.23.28]]  |
+|   | he | [[LXX.Gen.42.6]] • [[LXX.Lev.24.10]] • [[LXX.Deut.4.39]] • [[LXX.Deut.9.3]] • [[LXX.Deut.9.3]] • [[LXX.Deut.9.3]] • [[LXX.Deut.10.17]] • [[LXX.Josh.23.5]] • [[LXX.Josh.23.10]] • [[LXX.1Kgs.4.15]] • [[LXX.1Chr.5.1]] • [[LXX.1Chr.11.25]] • [[LXX.Song.2.9]] • [[LXX.Hos.13.13]]  |
+|   | he be reconciled | [[LXX.1Sam.29.4]]  |
+|   | this Israel | [[LXX.1Kgs.8.41]]  |
+|   | this a holy | [[LXX.2Kgs.4.9]]  |
+|   | this banquet | [[LXX.Esth.1.8]]  |
+|   | this calf | [[LXX.Exod.32.24]]  |
+|   | this dragon | [[LXX.Ps.104.26]]  |
+|   | this great | [[LXX.Deut.29.24]]  |
+|   | this hill | [[LXX.Gen.31.48]] • [[LXX.Gen.31.51]] • [[LXX.Gen.31.52]]  |
+|   | this is | [[LXX.Lev.7.1]] • [[LXX.Lev.7.37]] • [[LXX.Lev.12.7]] • [[LXX.Lev.14.2]] • [[LXX.Lev.14.32]] • [[LXX.Num.6.13]] • [[LXX.Num.6.21]] • [[LXX.2Sam.18.27]] • [[LXX.Hos.7.16]]  |
+|   | this is near | [[LXX.1Kgs.21.2]]  |
+|   | this not | [[LXX.1Sam.29.5]]  |
+|   | this one | [[LXX.Gen.4.26]] • [[LXX.Gen.10.9]] • [[LXX.Gen.15.4]] • [[LXX.Gen.16.12]] • [[LXX.Gen.17.18]] • [[LXX.Gen.19.38]] • [[LXX.Gen.48.19]] • [[LXX.Gen.48.19]] • [[LXX.Lev.5.4]] • [[LXX.Lev.21.8]] • [[LXX.Lev.21.13]] • [[LXX.Lev.22.4]] • [[LXX.Num.15.30]] • [[LXX.Num.16.7]] • [[LXX.Num.19.12]] • [[LXX.Num.21.26]] • [[LXX.Num.33.40]] • [[LXX.Num.35.19]] • [[LXX.Num.35.19]] • [[LXX.Deut.1.36]] • [[LXX.Deut.1.38]] • [[LXX.Deut.3.28]] • [[LXX.Deut.4.42]] • [[LXX.Deut.7.9]] • [[LXX.Deut.19.4]] • [[LXX.Deut.19.5]] • [[LXX.Deut.21.20]] • [[LXX.Deut.24.6]] • [[LXX.Deut.28.44]] • [[LXX.Deut.28.44]] • [[LXX.Josh.13.12]] • [[LXX.Josh.17.1]] • [[LXX.Josh.22.20]] • [[LXX.Josh.24.19]] • [[LXX.Judg.7.4]] • [[LXX.Ruth.4.17]] • [[LXX.1Sam.9.13]] • [[LXX.1Sam.9.17]] • [[LXX.1Sam.17.12]] • [[LXX.1Sam.21.15]] • [[LXX.2Sam.4.4]] • [[LXX.2Sam.9.4]] • [[LXX.2Sam.18.26]] • [[LXX.2Sam.23.8]] • [[LXX.2Sam.23.8]] • [[LXX.2Sam.23.9]] • [[LXX.2Sam.23.20]] • [[LXX.1Kgs.2.22]] • [[LXX.1Kgs.5.5]] • [[LXX.1Kgs.7.14]] • [[LXX.1Kgs.20.7]] • [[LXX.1Kgs.20.41]] • [[LXX.1Kgs.22.18]] • [[LXX.2Kgs.5.7]] • [[LXX.2Kgs.6.13]] • [[LXX.1Chr.1.10]] • [[LXX.1Chr.4.11]] • [[LXX.1Chr.9.31]] • [[LXX.1Chr.11.11]] • [[LXX.1Chr.11.12]] • [[LXX.1Chr.11.13]] • [[LXX.1Chr.11.20]] • [[LXX.1Chr.11.20]] • [[LXX.1Chr.11.20]] • [[LXX.1Chr.11.22]] • [[LXX.1Chr.11.23]] • [[LXX.1Chr.20.6]] • [[LXX.1Chr.22.9]] • [[LXX.1Chr.22.10]] • [[LXX.1Chr.22.10]] • [[LXX.2Chr.18.19]] • [[LXX.Esth.4.11]] • [[LXX.Job.21.23]] • [[LXX.Ps.24.5]] • [[LXX.Ps.118.22]] • [[LXX.Prov.11.28]] • [[LXX.Prov.13.13]] • [[LXX.Prov.28.24]] • [[LXX.Isa.33.16]] • [[LXX.Isa.44.5]] • [[LXX.Isa.44.5]] • [[LXX.Isa.53.4]] • [[LXX.Jer.20.1]] • [[LXX.Jer.50.3]] • [[LXX.Jer.50.17]] • [[LXX.Ezek.12.27]] • [[LXX.Ezek.13.10]] • [[LXX.Ezek.18.13]] • [[LXX.Ezek.18.27]] • [[LXX.Ezek.26.8]] • [[LXX.Ezek.33.5]] • [[LXX.Ezek.33.9]] • [[LXX.Ezek.33.13]] • [[LXX.Ezek.44.3]] • [[LXX.Dan.2.43]] • [[LXX.Zech.1.8]]  |
+|   | this one makes an excuse | [[LXX.2Kgs.5.7]]  |
+|   | this one said | [[LXX.1Kgs.22.20]]  |
+|   | this one spoke | [[LXX.2Chr.18.19]]  |
+|   | this people | [[LXX.Exod.18.18]] • [[LXX.Exod.18.23]] • [[LXX.Exod.32.21]] • [[LXX.Exod.32.31]] • [[LXX.Num.14.11]] • [[LXX.Num.24.14]] • [[LXX.Josh.1.2]] • [[LXX.2Sam.16.18]] • [[LXX.1Kgs.12.27]] • [[LXX.1Kgs.18.36]] • [[LXX.1Kgs.18.37]] • [[LXX.Isa.8.12]] • [[LXX.Isa.29.13]] • [[LXX.Isa.65.3]] • [[LXX.Jer.8.5]] • [[LXX.Jer.23.33]] • [[LXX.Jer.33.24]] • [[LXX.Jer.35.16]] • [[LXX.Hag.1.2]] • [[LXX.Hag.2.14]]  |
+|   | this place | [[LXX.Gen.28.17]]  |
+|   | this potter | [[LXX.Jer.18.6]]  |
+|   | this stone | [[LXX.Gen.28.22]] • [[LXX.Josh.24.27]]  |
+|   | this stream | [[LXX.2Kgs.3.17]]  |
+|   | this time | [[LXX.1Sam.9.16]]  |
+|   | this uncircumcised | [[LXX.1Sam.17.26]]  |
+|   | this wicked | [[LXX.Esth.7.6]]  |
+|   | this word | [[LXX.Deut.22.20]] • [[LXX.Jer.26.1]] • [[LXX.Jer.40.3]]  |
+|   | this young man | [[LXX.1Sam.17.56]]  |
+|   | this your king | [[LXX.Hos.13.10]]  |
+|   | thus | [[LXX.1Sam.4.8]]  |
+|   | who | [[LXX.1Chr.8.12]]  |
+|   | witness this | [[LXX.Lev.5.1]]  |
+| **<span class="asgreek">ούτοι</span>** | And these | [[LXX.Gen.36.13]] • [[LXX.Gen.36.14]] • [[LXX.Gen.36.18]] • [[LXX.Gen.36.20]] • [[LXX.Gen.36.23]] • [[LXX.Gen.36.25]] • [[LXX.Gen.36.27]] • [[LXX.Gen.36.28]] • [[LXX.Gen.36.29]]  |
+|   | And these were | [[LXX.Gen.36.26]]  |
+|   | For these | [[LXX.Isa.28.7]]  |
+|   | These | [[LXX.Gen.10.20]] • [[LXX.Gen.10.29]] • [[LXX.Gen.10.31]] • [[LXX.Gen.14.3]] • [[LXX.Gen.14.24]] • [[LXX.Gen.25.4]] • [[LXX.Gen.35.26]] • [[LXX.Gen.36.5]] • [[LXX.Gen.36.12]] • [[LXX.Gen.36.13]] • [[LXX.Gen.36.15]] • [[LXX.Gen.36.16]] • [[LXX.Gen.36.17]] • [[LXX.Gen.36.17]] • [[LXX.Gen.36.17]] • [[LXX.Gen.36.18]] • [[LXX.Gen.36.19]] • [[LXX.Gen.36.19]] • [[LXX.Gen.36.21]] • [[LXX.Gen.36.24]] • [[LXX.Gen.36.30]] • [[LXX.Gen.36.31]] • [[LXX.Gen.36.43]] • [[LXX.Gen.46.15]] • [[LXX.Gen.46.18]] • [[LXX.Gen.46.22]] • [[LXX.Gen.46.25]] • [[LXX.Gen.49.28]] • [[LXX.Exod.6.14]] • [[LXX.Exod.6.17]] • [[LXX.Exod.6.19]] • [[LXX.Exod.23.33]] • [[LXX.Exod.32.4]] • [[LXX.Exod.32.8]] • [[LXX.Exod.35.1]] • [[LXX.Num.1.16]] • [[LXX.Num.3.21]] • [[LXX.Num.7.2]] • [[LXX.Num.7.2]] • [[LXX.Num.11.26]] • [[LXX.Num.13.3]] • [[LXX.Num.13.19]] • [[LXX.Num.13.19]] • [[LXX.Num.18.3]] • [[LXX.Num.26.7]] • [[LXX.Num.26.9]] • [[LXX.Num.26.14]] • [[LXX.Num.26.18]] • [[LXX.Num.26.22]] • [[LXX.Num.26.25]] • [[LXX.Num.26.27]] • [[LXX.Num.26.30]] • [[LXX.Num.26.34]] • [[LXX.Num.26.35]] • [[LXX.Num.26.36]] • [[LXX.Num.26.37]] • [[LXX.Num.26.37]] • [[LXX.Num.26.41]] • [[LXX.Num.26.42]] • [[LXX.Num.26.47]] • [[LXX.Num.26.50]] • [[LXX.Num.33.2]] • [[LXX.Num.34.29]] • [[LXX.Deut.2.11]] • [[LXX.Deut.9.29]] • [[LXX.Deut.18.14]] • [[LXX.Deut.27.12]] • [[LXX.Deut.27.13]] • [[LXX.Deut.29.1]] • [[LXX.Deut.33.3]] • [[LXX.Josh.4.6]] • [[LXX.Josh.8.22]] • [[LXX.Josh.8.22]] • [[LXX.Josh.8.22]] • [[LXX.Josh.9.12]] • [[LXX.Josh.10.16]] • [[LXX.Josh.12.1]] • [[LXX.Josh.12.7]] • [[LXX.Josh.12.24]] • [[LXX.Josh.13.32]] • [[LXX.Josh.14.1]] • [[LXX.Josh.17.2]] • [[LXX.Judg.18.18]] • [[LXX.Judg.20.16]] • [[LXX.Judg.20.16]] • [[LXX.Judg.20.17]] • [[LXX.Judg.20.25]] • [[LXX.Judg.20.35]] • [[LXX.Judg.20.44]] • [[LXX.Judg.20.46]] • [[LXX.1Sam.17.2]] • [[LXX.1Sam.17.2]] • [[LXX.1Sam.30.16]] • [[LXX.2Sam.2.13]] • [[LXX.2Sam.3.5]] • [[LXX.1Kgs.4.2]] • [[LXX.1Kgs.10.8]] • [[LXX.2Kgs.20.14]] • [[LXX.1Chr.1.23]] • [[LXX.1Chr.1.31]] • [[LXX.1Chr.1.33]] • [[LXX.1Chr.1.43]] • [[LXX.1Chr.1.54]] • [[LXX.1Chr.2.1]] • [[LXX.1Chr.2.4]] • [[LXX.1Chr.2.6]] • [[LXX.1Chr.2.18]] • [[LXX.1Chr.2.23]] • [[LXX.1Chr.2.33]] • [[LXX.1Chr.2.50]] • [[LXX.1Chr.2.55]] • [[LXX.1Chr.3.1]] • [[LXX.1Chr.3.5]] • [[LXX.1Chr.3.9]] • [[LXX.1Chr.4.3]] • [[LXX.1Chr.4.4]] • [[LXX.1Chr.4.6]] • [[LXX.1Chr.4.12]] • [[LXX.1Chr.4.18]] • [[LXX.1Chr.4.23]] • [[LXX.1Chr.4.38]] • [[LXX.1Chr.4.41]] • [[LXX.1Chr.5.14]] • [[LXX.1Chr.5.24]] • [[LXX.1Chr.6.31]] • [[LXX.1Chr.6.33]] • [[LXX.1Chr.6.50]] • [[LXX.1Chr.7.8]] • [[LXX.1Chr.7.11]] • [[LXX.1Chr.7.17]] • [[LXX.1Chr.7.33]] • [[LXX.1Chr.7.40]] • [[LXX.1Chr.8.6]] • [[LXX.1Chr.8.6]] • [[LXX.1Chr.8.10]] • [[LXX.1Chr.8.13]] • [[LXX.1Chr.8.13]] • [[LXX.1Chr.8.28]] • [[LXX.1Chr.8.28]] • [[LXX.1Chr.8.32]] • [[LXX.1Chr.8.38]] • [[LXX.1Chr.8.40]] • [[LXX.1Chr.9.18]] • [[LXX.1Chr.9.22]] • [[LXX.1Chr.9.22]] • [[LXX.1Chr.9.23]] • [[LXX.1Chr.9.33]] • [[LXX.1Chr.9.34]] • [[LXX.1Chr.9.38]] • [[LXX.1Chr.9.44]] • [[LXX.1Chr.10.4]] • [[LXX.1Chr.11.10]] • [[LXX.1Chr.12.1]] • [[LXX.1Chr.12.14]] • [[LXX.1Chr.12.15]] • [[LXX.1Chr.12.38]] • [[LXX.1Chr.20.8]] • [[LXX.1Chr.23.9]] • [[LXX.1Chr.23.10]] • [[LXX.1Chr.23.24]] • [[LXX.1Chr.24.30]] • [[LXX.1Chr.25.5]] • [[LXX.1Chr.25.6]] • [[LXX.1Chr.26.8]] • [[LXX.1Chr.26.11]] • [[LXX.1Chr.27.22]] • [[LXX.1Chr.27.31]] • [[LXX.2Chr.8.10]] • [[LXX.2Chr.9.7]] • [[LXX.2Chr.9.29]] • [[LXX.2Chr.14.8]] • [[LXX.2Chr.17.19]] • [[LXX.2Chr.18.16]] • [[LXX.2Chr.21.2]] • [[LXX.Ezra.2.1]] • [[LXX.Ezra.2.59]] • [[LXX.Ezra.2.62]] • [[LXX.Ezra.2.65]] • [[LXX.Ezra.8.1]] • [[LXX.Ezra.8.20]] • [[LXX.Ezra.10.44]] • [[LXX.Neh.7.6]] • [[LXX.Neh.7.61]] • [[LXX.Neh.7.64]] • [[LXX.Neh.7.67]] • [[LXX.Neh.9.18]] • [[LXX.Neh.10.8]] • [[LXX.Neh.11.3]] • [[LXX.Neh.11.7]] • [[LXX.Neh.12.1]] • [[LXX.Neh.12.7]] • [[LXX.Neh.12.26]] • [[LXX.Job.18.21]] • [[LXX.Job.29.23]] • [[LXX.Ps.20.7]] • [[LXX.Ps.20.7]] • [[LXX.Ps.73.12]] • [[LXX.Ps.87.4]] • [[LXX.Isa.24.14]] • [[LXX.Isa.33.6]] • [[LXX.Isa.33.7]] • [[LXX.Isa.47.15]] • [[LXX.Isa.49.12]] • [[LXX.Isa.49.12]] • [[LXX.Jer.2.11]] • [[LXX.Jer.16.20]] • [[LXX.Jer.29.1]] • [[LXX.Jer.30.4]] • [[LXX.Jer.31.36]] • [[LXX.Jer.36.32]] • [[LXX.Jer.37.10]] • [[LXX.Ezek.3.6]] • [[LXX.Ezek.8.6]] • [[LXX.Ezek.8.9]] • [[LXX.Ezek.8.13]] • [[LXX.Ezek.8.16]] • [[LXX.Ezek.10.16]] • [[LXX.Ezek.11.2]] • [[LXX.Ezek.11.7]] • [[LXX.Ezek.14.14]] • [[LXX.Ezek.14.16]] • [[LXX.Ezek.14.18]] • [[LXX.Ezek.27.8]] • [[LXX.Ezek.27.9]] • [[LXX.Ezek.27.10]] • [[LXX.Ezek.27.11]] • [[LXX.Ezek.27.13]] • [[LXX.Ezek.27.17]] • [[LXX.Ezek.27.21]] • [[LXX.Ezek.27.23]] • [[LXX.Ezek.32.29]] • [[LXX.Ezek.32.30]] • [[LXX.Ezek.36.7]] • [[LXX.Ezek.36.20]] • [[LXX.Ezek.44.11]] • [[LXX.Ezek.44.11]] • [[LXX.Ezek.44.15]] • [[LXX.Ezek.44.16]] • [[LXX.Ezek.44.16]] • [[LXX.Ezek.44.24]] • [[LXX.Ezek.44.29]] • [[LXX.Ezek.46.24]] • [[LXX.Ezek.48.29]] • [[LXX.Dan.11.41]] • [[LXX.Dan.12.2]] • [[LXX.Dan.12.2]] • [[LXX.Zech.1.9]] • [[LXX.Zech.1.21]] • [[LXX.Zech.7.7]] • [[LXX.Zech.9.7]] • [[LXX.Zech.14.17]]  |
+|   | These  eight | [[LXX.Gen.22.23]]  |
+|   | These four | [[LXX.2Sam.21.22]]  |
+|   | These men | [[LXX.Gen.34.21]] • [[LXX.Num.16.30]] • [[LXX.Num.22.9]] • [[LXX.Num.22.20]] • [[LXX.Num.32.11]] • [[LXX.2Sam.3.39]] • [[LXX.Isa.39.3]] • [[LXX.Ezek.14.3]]  |
+|   | These three | [[LXX.1Chr.2.3]] • [[LXX.1Chr.2.16]] • [[LXX.Dan.3.23]]  |
+|   | These wander | [[LXX.Exod.14.3]]  |
+|   | but these | [[LXX.Prov.26.22]] • [[LXX.Isa.49.21]]  |
+|   | these Judahmen | [[LXX.Neh.4.2]]  |
+|   | these accursed | [[LXX.1Sam.26.19]]  |
+|   | these also | [[LXX.Exod.1.10]]  |
+|   | these are | [[LXX.Lev.25.42]] • [[LXX.Num.26.58]] • [[LXX.Num.33.1]] • [[LXX.Deut.1.1]] • [[LXX.Josh.9.13]] • [[LXX.Josh.9.13]] • [[LXX.2Sam.23.1]] • [[LXX.2Sam.24.17]] • [[LXX.2Chr.26.13]]  |
+|   | these are come forth | [[LXX.Zech.1.21]]  |
+|   | these camped | [[LXX.1Kgs.20.29]]  |
+|   | these lepers | [[LXX.2Kgs.7.8]]  |
+|   | these rulers | [[LXX.1Chr.9.34]]  |
+|   | these sat | [[LXX.2Sam.2.13]]  |
+|   | these seven | [[LXX.Zech.4.10]]  |
+|   | these shall die | [[LXX.Num.16.29]]  |
+|   | these stones | [[LXX.Josh.4.6]] • [[LXX.Josh.4.7]] • [[LXX.Josh.4.21]]  |
+|   | these to you | [[LXX.Gen.48.8]]  |
+|   | these uncircumcised | [[LXX.1Sam.31.4]]  |
+|   | these were | [[LXX.Num.3.17]]  |
+|   | these words | [[LXX.Deut.4.30]] • [[LXX.1Kgs.8.59]] • [[LXX.Neh.6.7]] • [[LXX.Neh.6.8]]  |
+|   | these your servants | [[LXX.Exod.11.8]]  |
+|   | this one | [[LXX.Deut.1.39]]  |
+|   | to this | [[LXX.Josh.1.15]]  |
+| **<span class="asgreek">ούτοί</span>** | These | [[LXX.Gen.25.16]] • [[LXX.Gen.36.19]] • [[LXX.Exod.6.27]] • [[LXX.Lev.25.55]] • [[LXX.Num.3.9]] • [[LXX.Num.3.20]] • [[LXX.Num.3.27]] • [[LXX.Num.3.33]] • [[LXX.Num.11.16]] • [[LXX.Num.26.9]] • [[LXX.1Sam.4.8]] • [[LXX.Isa.61.9]] • [[LXX.Zech.1.10]] • [[LXX.Zech.4.14]] • [[LXX.Zech.8.16]]  |
+|   | These three | [[LXX.Gen.9.19]]  |
+|   | shall these not | [[LXX.Job.8.10]]  |
+|   | these are being given back | [[LXX.Num.8.16]]  |
+| **<span class="asgreek">ουτοι</span>** | and these | [[LXX.Gen.36.16]]  |
+| **<span class="asgreek">ου</span>** | which | [[LXX.Num.35.18]]  |
+| **<span class="asgreek">οσ</span>** | This one | [[LXX.2Sam.17.25]]  |
+|   | who | [[LXX.1Kgs.11.23]]  |
+| **<span class="asgreek">ο</span>** | what | [[LXX.2Sam.19.38]]  |
+|   | which | [[LXX.Lev.17.2]]  |
+| **<span class="asgreek">αὗται</span>** | these | [[Acts.20.34]] • [[Gal.4.24]]  |
+| **<span class="asgreek">αὗταί</span>** | these | [[Luke.21.22]]  |
+| **<span class="asgreek">αὕτη</span>** | she | [[Mark.12.44]] • [[Luke.2.36]] • [[Luke.21.4]] • [[Acts.9.36]] • [[Acts.16.17]] • [[1Cor.7.12]]  |
+|   | she herself | [[Luke.7.45]] • [[Luke.7.46]]  |
+|   | this | [[Matt.9.26]] • [[Matt.13.54]] • [[Matt.21.42]] • [[Matt.22.20]] • [[Matt.22.38]] • [[Matt.24.34]] • [[Matt.26.8]] • [[Matt.26.12]] • [[Matt.26.13]] • [[Mark.1.27]] • [[Mark.8.12]] • [[Mark.12.11]] • [[Mark.12.16]] • [[Mark.12.30]] • [[Mark.12.31]] • [[Mark.12.43]] • [[Mark.13.30]] • [[Mark.14.4]] • [[Mark.14.8]] • [[Mark.14.9]] • [[Luke.2.2]] • [[Luke.2.38]] • [[Luke.4.21]] • [[Luke.8.9]] • [[Luke.8.11]] • [[Luke.11.29]] • [[Luke.21.3]] • [[Luke.21.32]] • [[Luke.22.53]] • [[John.1.19]] • [[John.3.19]] • [[John.3.29]] • [[John.8.4]] • [[John.11.4]] • [[John.12.30]] • [[John.15.12]] • [[John.17.3]] • [[Acts.5.38]] • [[Acts.8.26]] • [[Acts.8.32]] • [[Acts.17.19]] • [[Acts.21.11]] • [[Rom.7.10]] • [[Rom.11.27]] • [[1Cor.8.9]] • [[1Cor.9.3]] • [[2Cor.1.12]] • [[2Cor.2.6]] • [[2Cor.11.10]] • [[Eph.3.8]] • [[Titus.1.13]] • [[Heb.8.10]] • [[Heb.10.16]] • [[Jas.1.27]] • [[Jas.3.15]] • [[1John.1.5]] • [[1John.2.25]] • [[1John.3.11]] • [[1John.3.23]] • [[1John.5.3]] • [[1John.5.4]] • [[1John.5.9]] • [[1John.5.11]] • [[1John.5.11]] • [[1John.5.14]] • [[2John.1.6]] • [[2John.1.6]] • [[Rev.20.5]]  |
+|   | with her | [[Luke.7.44]]  |
+| **<span class="asgreek">αύτη</span>** |  | [[LXX.2Chr.5.2]]  |
+|   | And she | [[LXX.Gen.38.5]] • [[LXX.Ezek.11.7]]  |
+|   | Is this | [[LXX.Ruth.1.19]] • [[LXX.1Sam.26.17]]  |
+|   | Let this be written | [[LXX.Ps.102.18]]  |
+|   | This gate | [[LXX.Ezek.44.2]]  |
+|   | This glory | [[LXX.Ps.149.9]]  |
+|   | This happened | [[LXX.Ps.118.23]]  |
+|   | This indication | [[LXX.Lev.25.11]]  |
+|   | This inner chamber | [[LXX.Ezek.40.45]]  |
+|   | This is | [[LXX.Lev.7.35]] • [[LXX.Num.8.4]] • [[LXX.Josh.13.2]] • [[LXX.Josh.19.23]] • [[LXX.Judg.7.14]] • [[LXX.1Sam.24.4]] • [[LXX.Job.27.13]]  |
+|   | This not | [[LXX.2Kgs.6.19]] • [[LXX.2Kgs.6.19]]  |
+|   | for she | [[LXX.Gen.20.3]]  |
+|   | for this | [[LXX.Isa.28.8]]  |
+|   | in this day | [[LXX.Ezra.9.15]]  |
+|   | it | [[LXX.Gen.41.48]] • [[LXX.Lev.13.10]]  |
+|   | its | [[LXX.Lev.25.10]]  |
+|   | night itself | [[LXX.Exod.12.42]]  |
+|   | of this parable | [[LXX.Ezek.18.3]]  |
+|   | she | [[LXX.Lev.20.17]] • [[LXX.Lev.20.18]] • [[LXX.Judg.13.9]] • [[LXX.Judg.14.3]] • [[LXX.2Sam.14.27]] • [[LXX.1Kgs.3.26]] • [[LXX.1Chr.2.26]] • [[LXX.2Chr.34.22]] • [[LXX.Song.3.6]] • [[LXX.Song.6.10]] • [[LXX.Lam.2.15]] • [[LXX.Ezek.11.11]] • [[LXX.Ezek.17.8]] • [[LXX.Zech.9.4]]  |
+|   | she rose up | [[LXX.Ruth.1.6]]  |
+|   | the same | [[LXX.Dan.5.5]]  |
+|   | this | [[LXX.Gen.14.7]] • [[LXX.Gen.14.8]] • [[LXX.Gen.17.10]] • [[LXX.Gen.23.2]] • [[LXX.Gen.23.19]] • [[LXX.Gen.28.17]] • [[LXX.Gen.40.5]] • [[LXX.Gen.40.18]] • [[LXX.Gen.48.7]] • [[LXX.Exod.6.14]] • [[LXX.Exod.25.3]] • [[LXX.Exod.29.22]] • [[LXX.Exod.38.21]] • [[LXX.Lev.23.28]] • [[LXX.Lev.25.33]] • [[LXX.Num.1.44]] • [[LXX.Num.2.32]] • [[LXX.Num.4.24]] • [[LXX.Num.4.28]] • [[LXX.Num.4.33]] • [[LXX.Num.4.37]] • [[LXX.Num.4.41]] • [[LXX.Num.4.45]] • [[LXX.Num.7.88]] • [[LXX.Num.19.2]] • [[LXX.Num.26.51]] • [[LXX.Num.26.63]] • [[LXX.Num.34.2]] • [[LXX.Num.34.12]] • [[LXX.Num.34.13]] • [[LXX.Deut.3.11]] • [[LXX.Deut.4.6]] • [[LXX.Deut.18.3]] • [[LXX.Deut.31.19]] • [[LXX.Deut.31.21]] • [[LXX.Deut.32.47]] • [[LXX.Deut.33.1]] • [[LXX.Deut.34.4]] • [[LXX.Josh.13.23]] • [[LXX.Josh.13.28]] • [[LXX.Josh.14.15]] • [[LXX.Josh.15.8]] • [[LXX.Josh.15.9]] • [[LXX.Josh.15.10]] • [[LXX.Josh.15.13]] • [[LXX.Josh.15.20]] • [[LXX.Josh.15.25]] • [[LXX.Josh.15.49]] • [[LXX.Josh.15.54]] • [[LXX.Josh.15.60]] • [[LXX.Josh.16.8]] • [[LXX.Josh.18.13]] • [[LXX.Josh.18.14]] • [[LXX.Josh.18.20]] • [[LXX.Josh.18.28]] • [[LXX.Josh.18.28]] • [[LXX.Josh.19.16]] • [[LXX.Josh.19.31]] • [[LXX.Josh.19.39]] • [[LXX.Josh.19.48]] • [[LXX.Josh.20.7]] • [[LXX.Josh.21.11]] • [[LXX.Judg.4.14]] • [[LXX.Judg.19.10]] • [[LXX.Judg.20.3]] • [[LXX.Ruth.2.5]] • [[LXX.2Sam.5.7]] • [[LXX.2Sam.11.3]] • [[LXX.2Sam.17.7]] • [[LXX.1Kgs.1.45]] • [[LXX.1Kgs.8.1]] • [[LXX.1Kgs.11.25]] • [[LXX.2Kgs.6.33]] • [[LXX.2Kgs.8.5]] • [[LXX.2Kgs.9.37]] • [[LXX.1Chr.4.33]] • [[LXX.1Chr.11.4]] • [[LXX.1Chr.11.5]] • [[LXX.1Chr.24.19]] • [[LXX.2Chr.20.2]] • [[LXX.Neh.8.10]] • [[LXX.Job.20.29]] • [[LXX.Job.21.2]] • [[LXX.Ps.24.6]] • [[LXX.Ps.49.13]] • [[LXX.Ps.77.10]] • [[LXX.Ps.104.25]] • [[LXX.Ps.109.27]] • [[LXX.Ps.118.20]] • [[LXX.Ps.118.24]] • [[LXX.Ps.119.50]] • [[LXX.Ps.119.56]] • [[LXX.Ps.132.14]] • [[LXX.Prov.10.22]] • [[LXX.Song.8.5]] • [[LXX.Isa.9.15]] • [[LXX.Isa.14.26]] • [[LXX.Isa.14.26]] • [[LXX.Isa.17.14]] • [[LXX.Isa.22.14]] • [[LXX.Isa.23.7]] • [[LXX.Isa.23.13]] • [[LXX.Isa.30.7]] • [[LXX.Isa.30.21]] • [[LXX.Isa.32.8]] • [[LXX.Isa.59.21]] • [[LXX.Jer.4.18]] • [[LXX.Jer.22.21]] • [[LXX.Jer.31.33]] • [[LXX.Lam.2.16]] • [[LXX.Ezek.1.5]] • [[LXX.Ezek.1.28]] • [[LXX.Ezek.5.5]] • [[LXX.Ezek.11.3]] • [[LXX.Ezek.20.49]] • [[LXX.Ezek.21.26]] • [[LXX.Ezek.33.6]] • [[LXX.Ezek.33.17]] • [[LXX.Ezek.39.8]] • [[LXX.Ezek.40.13]] • [[LXX.Ezek.41.22]] • [[LXX.Ezek.44.1]] • [[LXX.Ezek.45.13]] • [[LXX.Ezek.47.14]] • [[LXX.Ezek.48.29]] • [[LXX.Dan.2.44]] • [[LXX.Dan.4.30]] • [[LXX.Dan.5.25]] • [[LXX.Amos.5.18]] • [[LXX.Mic.5.5]] • [[LXX.Zeph.2.10]] • [[LXX.Zech.5.3]] • [[LXX.Zech.5.6]] • [[LXX.Zech.5.8]] • [[LXX.Zech.14.12]] • [[LXX.Zech.14.15]] • [[LXX.Zech.14.19]]  |
+|   | this affliction | [[LXX.Gen.42.21]]  |
+|   | this assembly | [[LXX.1Sam.17.47]]  |
+|   | this city | [[LXX.Gen.19.20]] • [[LXX.2Kgs.18.30]] • [[LXX.Ezra.4.15]] • [[LXX.Isa.36.15]] • [[LXX.Jer.17.25]] • [[LXX.Jer.26.9]] • [[LXX.Jer.32.28]] • [[LXX.Jer.32.31]] • [[LXX.Jer.34.2]] • [[LXX.Jer.38.3]] • [[LXX.Jer.38.17]] • [[LXX.Jer.38.18]] • [[LXX.Jer.38.23]]  |
+|   | this commandment | [[LXX.Deut.30.11]]  |
+|   | this congregation | [[LXX.Num.22.4]]  |
+|   | this counsel | [[LXX.Isa.7.7]]  |
+|   | this day | [[LXX.Exod.12.14]] • [[LXX.1Sam.22.8]] • [[LXX.1Sam.22.13]] • [[LXX.2Sam.4.8]] • [[LXX.1Kgs.3.6]] • [[LXX.1Kgs.8.24]] • [[LXX.1Kgs.8.61]] • [[LXX.2Kgs.19.3]] • [[LXX.1Chr.28.7]] • [[LXX.2Chr.6.15]] • [[LXX.Ezra.9.7]] • [[LXX.Neh.9.10]] • [[LXX.Job.1.6]] • [[LXX.Job.1.13]] • [[LXX.Job.2.1]] • [[LXX.Jer.11.5]] • [[LXX.Jer.32.20]] • [[LXX.Jer.44.6]] • [[LXX.Jer.44.23]] • [[LXX.Dan.9.7]] • [[LXX.Dan.9.15]]  |
+|   | this evil | [[LXX.Judg.20.12]] • [[LXX.1Sam.20.33]] • [[LXX.Jonah.1.7]]  |
+|   | this for Judah | [[LXX.Deut.33.7]]  |
+|   | this great one | [[LXX.1Sam.4.6]]  |
+|   | this hour | [[LXX.2Kgs.4.16]] • [[LXX.2Kgs.10.6]]  |
+|   | this land | [[LXX.Num.32.5]] • [[LXX.Num.32.22]]  |
+|   | this one | [[LXX.Ezek.18.4]]  |
+|   | this parable | [[LXX.Ezek.12.22]]  |
+|   | this plan | [[LXX.Isa.25.7]]  |
+|   | this reliance | [[LXX.2Kgs.18.19]]  |
+|   | this same hour | [[LXX.2Kgs.7.1]]  |
+|   | this service | [[LXX.Exod.12.26]]  |
+|   | this sin | [[LXX.1Sam.14.38]] • [[LXX.Isa.30.13]]  |
+|   | this trespass | [[LXX.Josh.22.16]]  |
+|   | this was called | [[LXX.2Sam.5.9]]  |
+|   | this woman | [[LXX.1Kgs.3.17]] • [[LXX.1Kgs.3.18]] • [[LXX.2Kgs.6.28]]  |
+|   | this your | [[LXX.1Sam.24.16]]  |
+| **<span class="asgreek">αύται</span>** | And these | [[LXX.Gen.6.9]] • [[LXX.Gen.10.1]] • [[LXX.Gen.11.27]] • [[LXX.Gen.36.1]] • [[LXX.Gen.36.9]]  |
+|   | And these are | [[LXX.Gen.25.12]]  |
+|   | For these | [[LXX.Num.31.16]]  |
+|   | These | [[LXX.Gen.10.32]] • [[LXX.Gen.11.10]] • [[LXX.Gen.25.19]] • [[LXX.Gen.37.2]] • [[LXX.Exod.6.15]] • [[LXX.Exod.6.24]] • [[LXX.Exod.6.25]] • [[LXX.Exod.28.4]] • [[LXX.Lev.23.4]] • [[LXX.Lev.23.37]] • [[LXX.Num.3.1]] • [[LXX.Num.10.28]] • [[LXX.Num.36.13]] • [[LXX.Deut.6.1]] • [[LXX.Deut.33.17]] • [[LXX.Josh.19.51]] • [[LXX.Josh.20.9]] • [[LXX.1Sam.6.17]] • [[LXX.1Chr.1.29]] • [[LXX.1Chr.4.2]] • [[LXX.1Chr.4.31]] • [[LXX.1Chr.6.19]] • [[LXX.1Chr.6.54]] • [[LXX.1Chr.26.19]] • [[LXX.Esth.4.11]] • [[LXX.Prov.1.19]] • [[LXX.Prov.25.1]] • [[LXX.Jer.34.7]] • [[LXX.Jer.38.22]] • [[LXX.Ezek.42.8]] • [[LXX.Ezek.42.13]] • [[LXX.Ezek.48.30]] • [[LXX.Zech.4.11]] • [[LXX.Zech.5.9]] • [[LXX.Zech.5.10]]  |
+|   | these are | [[LXX.Deut.33.17]] • [[LXX.Ruth.4.18]]  |
+|   | these blessings | [[LXX.Deut.28.2]]  |
+|   | these cities | [[LXX.Num.35.15]] • [[LXX.1Kgs.9.13]]  |
+|   | these curses | [[LXX.Deut.28.15]] • [[LXX.Deut.28.45]]  |
+|   | these days | [[LXX.Esth.9.26]] • [[LXX.Esth.9.27]] • [[LXX.Esth.9.28]]  |
+|   | these three | [[LXX.Prov.30.15]]  |
+|   | these wounds | [[LXX.Zech.13.6]]  |
+| **<span class="asgreek">αύταί</span>** | these | [[LXX.Lev.23.2]] • [[LXX.Lev.27.34]]  |
+| **<span class="asgreek">αυτών</span>** | their words | [[LXX.Gen.24.52]]  |
+| **<span class="asgreek">αυτόσ</span>** | he | [[LXX.1Sam.25.17]] • [[LXX.1Chr.5.6]] • [[LXX.2Chr.20.35]] • [[LXX.Hos.5.13]]  |
+|   | it | [[LXX.1Chr.12.15]]  |
+| **<span class="asgreek">αυτοίσ</span>** | with them | [[LXX.Ezra.2.65]]  |
+| **<span class="asgreek">αυτοί</span>** | They flee | [[LXX.Josh.8.6]]  |
+|   | they | [[LXX.1Chr.12.1]]  |
+| **<span class="asgreek">αυτη</span>** | This day | [[LXX.2Kgs.7.9]]  |
+|   | this parable | [[LXX.Ezek.18.2]]  |
+| **<span class="asgreek">αυτή</span>** | This | [[LXX.Gen.2.4]] • [[LXX.Gen.5.1]] • [[LXX.Gen.10.12]] • [[LXX.Gen.14.2]] • [[LXX.Gen.14.3]] • [[LXX.Gen.24.44]] • [[LXX.Gen.32.2]] • [[LXX.Gen.35.19]] • [[LXX.Gen.35.20]] • [[LXX.Gen.35.27]]  |
+|   | her grapevine | [[LXX.Ezek.17.7]]  |
+|   | it a light | [[LXX.2Kgs.3.18]]  |
+|   | it shall be | [[LXX.Lev.16.31]]  |
+|   | she | [[LXX.Gen.2.23]] • [[LXX.Gen.3.12]]  |
+|   | these | [[LXX.Gen.38.25]]  |
+|   | this one | [[LXX.Gen.12.12]]  |
+| **<span class="asgreek">αλλόφυλοσ αλλόφυλοσ</span>** | Philistine | [[LXX.1Sam.17.36]]  |
+| **<span class="asgreek">αλλοφύλουσ αλλοφύλουσ</span>** | Philistines | [[LXX.1Sam.23.2]]  |
+| **<span class="asgreek">ήλθοσαν ήλθοσαν</span>** | came | [[LXX.1Chr.4.41]]  |
+| **<span class="asgreek">Τοῦτο</span>** | But this | [[2Cor.13.9]]  |
+|   | By this | [[Heb.9.8]]  |
+|   | Him | [[Acts.17.23]]  |
+|   | In this | [[1Cor.11.17]]  |
+|   | This | [[Matt.1.22]] • [[Matt.6.25]] • [[Matt.8.9]] • [[Matt.9.28]] • [[Matt.12.27]] • [[Matt.12.31]] • [[Matt.13.13]] • [[Matt.13.28]] • [[Matt.13.52]] • [[Matt.14.2]] • [[Matt.15.11]] • [[Matt.16.22]] • [[Matt.17.21]] • [[Matt.18.4]] • [[Matt.18.23]] • [[Matt.19.26]] • [[Matt.20.23]] • [[Matt.21.4]] • [[Matt.21.43]] • [[Matt.23.14]] • [[Matt.23.34]] • [[Matt.24.14]] • [[Matt.24.44]] • [[Matt.26.9]] • [[Matt.26.12]] • [[Matt.26.13]] • [[Matt.26.28]] • [[Matt.26.39]] • [[Matt.26.42]] • [[Matt.26.56]] • [[Matt.28.14]] • [[Mark.1.27]] • [[Mark.1.38]] • [[Mark.5.32]] • [[Mark.5.43]] • [[Mark.6.14]] • [[Mark.9.21]] • [[Mark.9.29]] • [[Mark.11.24]] • [[Mark.12.24]] • [[Mark.14.5]] • [[Mark.14.9]] • [[Mark.14.36]] • [[Luke.1.18]] • [[Luke.1.34]] • [[Luke.1.43]] • [[Luke.1.66]] • [[Luke.2.12]] • [[Luke.2.15]] • [[Luke.3.20]] • [[Luke.4.43]] • [[Luke.5.6]] • [[Luke.6.3]] • [[Luke.7.4]] • [[Luke.7.8]] • [[Luke.9.21]] • [[Luke.9.45]] • [[Luke.9.48]] • [[Luke.10.11]] • [[Luke.10.28]] • [[Luke.11.19]] • [[Luke.11.49]] • [[Luke.12.18]] • [[Luke.12.22]] • [[Luke.12.39]] • [[Luke.13.8]] • [[Luke.14.20]] • [[Luke.16.2]] • [[Luke.18.34]] • [[Luke.18.36]] • [[Luke.20.17]] • [[Luke.22.15]] • [[Luke.22.17]] • [[Luke.22.19]] • [[Luke.22.20]] • [[Luke.22.23]] • [[Luke.22.37]] • [[Luke.22.42]] • [[Luke.23.46]] • [[Luke.24.40]] • [[John.1.31]] • [[John.2.12]] • [[John.2.22]] • [[John.3.32]] • [[John.4.15]] • [[John.4.18]] • [[John.4.54]] • [[John.5.16]] • [[John.5.18]] • [[John.6.6]] • [[John.6.39]] • [[John.6.40]] • [[John.6.61]] • [[John.6.65]] • [[John.7.22]] • [[John.7.39]] • [[John.8.6]] • [[John.8.40]] • [[John.8.47]] • [[John.9.23]] • [[John.11.7]] • [[John.11.11]] • [[John.11.26]] • [[John.11.51]] • [[John.12.5]] • [[John.12.6]] • [[John.12.18]] • [[John.12.18]] • [[John.12.27]] • [[John.12.33]] • [[John.12.39]] • [[John.13.11]] • [[John.13.28]] • [[John.14.13]] • [[John.15.19]] • [[John.16.15]] • [[John.16.17]] • [[John.16.18]] • [[John.18.34]] • [[John.18.37]] • [[John.18.37]] • [[John.18.38]] • [[John.19.11]] • [[John.19.28]] • [[John.20.20]] • [[John.20.22]] • [[John.21.14]] • [[John.21.19]] • [[John.21.19]] • [[Acts.2.12]] • [[Acts.2.14]] • [[Acts.2.26]] • [[Acts.2.33]] • [[Acts.4.7]] • [[Acts.4.22]] • [[Acts.5.4]] • [[Acts.5.24]] • [[Acts.5.38]] • [[Acts.7.60]] • [[Acts.8.34]] • [[Acts.9.21]] • [[Acts.9.21]] • [[Acts.10.16]] • [[Acts.11.10]] • [[Acts.16.18]] • [[Acts.19.10]] • [[Acts.19.14]] • [[Acts.19.17]] • [[Acts.19.27]] • [[Acts.20.29]] • [[Acts.21.23]] • [[Acts.23.7]] • [[Acts.26.16]] • [[Acts.27.34]] • [[Acts.28.28]] • [[Rom.1.26]] • [[Rom.2.3]] • [[Rom.5.12]] • [[Rom.6.6]] • [[Rom.7.15]] • [[Rom.7.15]] • [[Rom.7.16]] • [[Rom.7.19]] • [[Rom.7.20]] • [[Rom.11.7]] • [[Rom.11.25]] • [[Rom.12.20]] • [[Rom.13.6]] • [[Rom.13.11]] • [[Rom.14.9]] • [[Rom.14.13]] • [[Rom.15.9]] • [[Rom.15.28]] • [[1Cor.1.12]] • [[1Cor.4.17]] • [[1Cor.5.2]] • [[1Cor.5.3]] • [[1Cor.6.6]] • [[1Cor.6.8]] • [[1Cor.7.6]] • [[1Cor.7.26]] • [[1Cor.7.29]] • [[1Cor.7.35]] • [[1Cor.7.37]] • [[1Cor.9.17]] • [[1Cor.10.28]] • [[1Cor.11.10]] • [[1Cor.11.24]] • [[1Cor.11.25]] • [[1Cor.11.25]] • [[1Cor.11.26]] • [[1Cor.11.30]] • [[1Cor.12.15]] • [[1Cor.12.16]] • [[1Cor.15.50]] • [[1Cor.15.53]] • [[1Cor.15.53]] • [[1Cor.15.54]] • [[1Cor.15.54]] • [[2Cor.2.1]] • [[2Cor.2.3]] • [[2Cor.2.9]] • [[2Cor.4.1]] • [[2Cor.5.5]] • [[2Cor.5.14]] • [[2Cor.7.13]] • [[2Cor.8.10]] • [[2Cor.8.20]] • [[2Cor.9.6]] • [[2Cor.10.7]] • [[2Cor.10.11]] • [[2Cor.12.14]] • [[2Cor.13.1]] • [[Gal.3.2]] • [[Gal.3.17]] • [[Eph.1.15]] • [[Eph.2.8]] • [[Eph.4.17]] • [[Eph.5.5]] • [[Eph.5.17]] • [[Eph.5.32]] • [[Eph.6.1]] • [[Eph.6.8]] • [[Eph.6.13]] • [[Eph.6.18]] • [[Phil.1.6]] • [[Phil.1.7]] • [[Phil.1.9]] • [[Phil.1.25]] • [[Phil.1.28]] • [[Phil.2.5]] • [[Phil.3.15]] • [[Phil.3.15]] • [[Col.1.9]] • [[Col.2.4]] • [[Col.3.20]] • [[1Thess.2.13]] • [[1Thess.3.3]] • [[1Thess.3.5]] • [[1Thess.3.7]] • [[1Thess.4.3]] • [[1Thess.4.15]] • [[1Thess.5.18]] • [[2Thess.2.11]] • [[2Thess.3.10]] • [[1Tim.1.9]] • [[1Tim.1.16]] • [[1Tim.2.3]] • [[1Tim.4.10]] • [[1Tim.4.16]] • [[1Tim.5.4]] • [[2Tim.1.15]] • [[2Tim.2.10]] • [[2Tim.3.1]] • [[Phlm.1.15]] • [[Phlm.1.18]] • [[Heb.1.9]] • [[Heb.2.1]] • [[Heb.6.3]] • [[Heb.7.27]] • [[Heb.9.15]] • [[Heb.9.20]] • [[Heb.9.27]] • [[Heb.10.33]] • [[Heb.10.33]] • [[Heb.13.17]] • [[Heb.13.17]] • [[Heb.13.19]] • [[Jas.4.15]] • [[1Pet.1.25]] • [[1Pet.2.19]] • [[1Pet.2.20]] • [[1Pet.3.9]] • [[1Pet.4.6]] • [[2Pet.1.20]] • [[2Pet.3.3]] • [[2Pet.3.5]] • [[1John.3.1]] • [[1John.3.8]] • [[1John.4.5]] • [[3John.1.10]] • [[Jude.1.4]] • [[Rev.2.6]] • [[Rev.12.12]] • [[Rev.18.8]]  |
+|   | Thus | [[2Cor.1.17]]  |
+|   | at this | [[John.5.28]]  |
+|   | for this | [[2Pet.1.5]]  |
+|   | hereunto | [[1Pet.2.21]]  |
+|   | it | [[Matt.12.11]] • [[Rom.4.16]]  |
+|   | of these things | [[Acts.26.26]]  |
+|   | purpose | [[Eph.6.22]] • [[Col.4.8]]  |
+|   | same | [[2Cor.7.11]]  |
+|   | that | [[Mark.13.11]] • [[Rom.1.12]] • [[Gal.6.7]] • [[3John.1.5]]  |
+|   | therefore | [[Rom.9.17]] • [[2Cor.13.10]]  |
+|   | these things | [[John.11.28]]  |
+|   | thing | [[Rom.13.6]] • [[Gal.2.10]] • [[2Pet.3.8]]  |
+|   | this thing | [[Rev.7.1]]  |
+|   | this’ | [[Mark.11.3]]  |
+| **<span class="asgreek">Ταῦτα</span>** | These things | [[Matt.1.20]] • [[Matt.6.32]] • [[Matt.6.33]] • [[Matt.9.18]] • [[Matt.11.25]] • [[Matt.13.34]] • [[Matt.13.51]] • [[Matt.13.56]] • [[Matt.21.23]] • [[Matt.21.24]] • [[Matt.21.27]] • [[Matt.23.36]] • [[Matt.24.2]] • [[Matt.24.3]] • [[Matt.24.33]] • [[Matt.24.34]] • [[Mark.2.8]] • [[Mark.6.2]] • [[Mark.11.28]] • [[Mark.11.28]] • [[Mark.11.29]] • [[Mark.11.33]] • [[Mark.13.4]] • [[Mark.13.4]] • [[Mark.13.29]] • [[Mark.13.30]] • [[Mark.16.12]] • [[Luke.1.20]] • [[Luke.4.28]] • [[Luke.5.27]] • [[Luke.7.9]] • [[Luke.8.8]] • [[Luke.9.34]] • [[Luke.10.1]] • [[Luke.10.21]] • [[Luke.11.27]] • [[Luke.11.42]] • [[Luke.11.45]] • [[Luke.11.53]] • [[Luke.12.4]] • [[Luke.12.30]] • [[Luke.12.31]] • [[Luke.13.2]] • [[Luke.13.17]] • [[Luke.14.6]] • [[Luke.14.15]] • [[Luke.14.21]] • [[Luke.15.26]] • [[Luke.16.14]] • [[Luke.17.8]] • [[Luke.18.11]] • [[Luke.18.22]] • [[Luke.18.23]] • [[Luke.19.11]] • [[Luke.19.28]] • [[Luke.20.2]] • [[Luke.20.8]] • [[Luke.21.6]] • [[Luke.21.7]] • [[Luke.21.7]] • [[Luke.21.9]] • [[Luke.21.31]] • [[Luke.21.36]] • [[Luke.23.31]] • [[Luke.23.49]] • [[Luke.24.9]] • [[Luke.24.10]] • [[Luke.24.21]] • [[Luke.24.26]] • [[Luke.24.36]] • [[John.1.28]] • [[John.2.16]] • [[John.2.18]] • [[John.3.9]] • [[John.3.10]] • [[John.3.22]] • [[John.5.1]] • [[John.5.14]] • [[John.5.16]] • [[John.5.19]] • [[John.5.34]] • [[John.6.1]] • [[John.6.59]] • [[John.7.1]] • [[John.7.4]] • [[John.7.9]] • [[John.7.32]] • [[John.8.26]] • [[John.8.28]] • [[John.8.30]] • [[John.9.6]] • [[John.9.22]] • [[John.9.40]] • [[John.11.11]] • [[John.11.43]] • [[John.12.16]] • [[John.12.16]] • [[John.12.16]] • [[John.12.36]] • [[John.12.41]] • [[John.13.7]] • [[John.13.17]] • [[John.13.21]] • [[John.14.25]] • [[John.15.11]] • [[John.15.17]] • [[John.15.21]] • [[John.16.1]] • [[John.16.3]] • [[John.16.4]] • [[John.16.4]] • [[John.16.6]] • [[John.16.25]] • [[John.16.33]] • [[John.17.1]] • [[John.17.13]] • [[John.18.1]] • [[John.18.22]] • [[John.19.24]] • [[John.19.36]] • [[John.19.38]] • [[John.20.14]] • [[John.20.18]] • [[John.21.1]] • [[John.21.24]] • [[Acts.1.9]] • [[Acts.5.5]] • [[Acts.5.11]] • [[Acts.7.1]] • [[Acts.7.7]] • [[Acts.7.50]] • [[Acts.7.54]] • [[Acts.11.18]] • [[Acts.12.17]] • [[Acts.13.20]] • [[Acts.14.15]] • [[Acts.14.18]] • [[Acts.15.16]] • [[Acts.15.17]] • [[Acts.17.8]] • [[Acts.17.11]] • [[Acts.17.20]] • [[Acts.18.1]] • [[Acts.19.21]] • [[Acts.19.41]] • [[Acts.20.36]] • [[Acts.21.12]] • [[Acts.23.22]] • [[Acts.24.9]] • [[Acts.24.22]] • [[Acts.26.24]] • [[Acts.26.30]] • [[Acts.27.35]] • [[Acts.28.29]] • [[Rom.8.31]] • [[1Cor.4.6]] • [[1Cor.4.14]] • [[1Cor.9.8]] • [[1Cor.9.8]] • [[1Cor.9.15]] • [[1Cor.10.6]] • [[1Cor.10.11]] • [[1Cor.12.11]] • [[2Cor.2.16]] • [[2Cor.13.10]] • [[Gal.2.18]] • [[Eph.5.6]] • [[Phil.4.8]] • [[Phil.4.9]] • [[2Thess.2.5]] • [[1Tim.4.6]] • [[1Tim.4.11]] • [[1Tim.4.15]] • [[1Tim.5.7]] • [[1Tim.5.21]] • [[1Tim.6.2]] • [[1Tim.6.11]] • [[2Tim.1.12]] • [[2Tim.2.14]] • [[Titus.2.15]] • [[Heb.7.13]] • [[Jas.3.10]] • [[2Pet.1.8]] • [[2Pet.1.9]] • [[2Pet.1.10]] • [[2Pet.3.14]] • [[1John.1.4]] • [[1John.2.1]] • [[1John.2.26]] • [[1John.5.13]] • [[Rev.4.1]] • [[Rev.4.1]] • [[Rev.7.9]] • [[Rev.9.12]] • [[Rev.15.5]] • [[Rev.16.5]] • [[Rev.18.1]] • [[Rev.19.1]] • [[Rev.22.8]] • [[Rev.22.8]] • [[Rev.22.16]] • [[Rev.22.20]]  |
+|   | he | [[Luke.18.4]] • [[Heb.11.12]]  |
+|   | of them | [[Luke.24.11]]  |
+|   | these | [[Matt.10.2]] • [[Matt.19.20]] • [[Matt.23.23]] • [[Matt.24.8]] • [[Mark.7.23]] • [[Mark.8.7]] • [[Mark.10.20]] • [[Mark.13.8]] • [[Mark.16.8]] • [[Mark.16.17]] • [[Luke.1.19]] • [[Luke.1.65]] • [[Luke.2.19]] • [[Luke.2.51]] • [[Luke.18.21]] • [[John.3.2]] • [[John.6.9]] • [[John.8.20]] • [[John.10.21]] • [[John.10.25]] • [[John.20.31]] • [[Acts.10.44]] • [[Acts.13.42]] • [[Acts.16.38]] • [[Rom.9.8]] • [[1Cor.6.13]] • [[1Cor.13.13]] • [[Gal.5.17]] • [[Phil.3.7]] • [[2Tim.2.2]] • [[1Pet.1.11]] • [[Rev.1.19]] • [[Rev.21.7]]  |
+|   | things | [[Rev.20.3]]  |
+|   | this | [[Heb.4.8]]  |
+|   | those things | [[Gal.5.17]]  |
+| **<span class="asgreek">Ηού</span>** | Jehu | [[LXX.1Chr.4.35]]  |

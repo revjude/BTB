@@ -1,0 +1,411 @@
+| Form | Translated&nbsp;As&emsp;&emsp;&emsp;&emsp; | In Verse(s) |
+|-  |-  |-  |
+| **<span class="asgreek">ἦλθον</span>** | I came | [[Matt.9.13]] • [[Matt.10.34]] • [[Matt.10.34]] • [[Matt.10.35]] • [[Mark.2.17]] • [[Luke.12.49]] • [[John.8.14]] • [[John.12.27]] • [[John.12.47]] • [[Acts.10.29]] • [[Acts.22.11]]  |
+|   | I come | [[John.15.22]]  |
+|   | I have come | [[Matt.5.17]] • [[Matt.5.17]]  |
+|   | I went | [[Gal.1.21]]  |
+|   | Went | [[Acts.11.12]]  |
+|   | came | [[Matt.7.25]] • [[Matt.7.27]] • [[Matt.21.1]] • [[Mark.3.8]] • [[Mark.6.29]] • [[Mark.14.16]] • [[Luke.3.12]] • [[Luke.6.18]] • [[John.1.31]] • [[John.4.40]] • [[John.6.24]] • [[John.7.45]] • [[John.9.39]] • [[John.10.8]] • [[John.10.10]] • [[John.10.41]] • [[John.19.32]] • [[John.21.8]] • [[Acts.13.13]] • [[Acts.28.23]] • [[1Cor.2.1]]  |
+|   | have I come | [[2Cor.1.23]]  |
+|   | have they come | [[Rev.7.13]]  |
+|   | they came | [[Matt.14.34]] • [[Mark.1.29]] • [[Mark.5.1]] • [[Mark.6.53]] • [[Mark.9.33]] • [[Luke.1.59]] • [[Luke.4.42]] • [[Luke.5.7]] • [[Luke.8.35]] • [[Luke.23.33]] • [[Luke.24.1]] • [[Luke.24.23]] • [[John.3.26]] • [[John.12.9]] • [[Acts.4.23]] • [[Acts.8.36]] • [[Acts.14.24]] • [[Acts.17.1]] • [[Acts.17.13]] • [[Gal.2.12]]  |
+|   | they had gone | [[John.4.45]]  |
+|   | they went | [[Luke.2.44]] • [[Acts.13.51]]  |
+|   | they went out | [[Mark.5.14]]  |
+| **<span class="asgreek">ἦλθεσ</span>** | Are You come | [[Matt.8.29]] • [[Luke.4.34]]  |
+|   | Did You come | [[Mark.1.24]]  |
+| **<span class="asgreek">ἦλθεν</span>** | He was going | [[Mark.1.39]]  |
+|   | He went | [[Matt.12.9]] • [[Matt.13.36]] • [[Mark.11.13]] • [[Luke.3.3]] • [[Luke.15.20]]  |
+|   | came | [[Matt.9.1]] • [[Matt.11.18]] • [[Matt.11.19]] • [[Matt.13.25]] • [[Matt.14.29]] • [[Matt.15.39]] • [[Matt.18.11]] • [[Matt.19.1]] • [[Matt.20.28]] • [[Matt.21.32]] • [[Matt.24.39]] • [[Matt.25.10]] • [[Matt.26.47]] • [[Matt.27.57]] • [[Matt.28.1]] • [[Mark.1.9]] • [[Mark.1.14]] • [[Mark.4.4]] • [[Mark.5.33]] • [[Mark.10.45]] • [[Mark.14.3]] • [[Luke.8.41]] • [[Luke.9.56]] • [[Luke.10.33]] • [[Luke.15.30]] • [[Luke.17.27]] • [[Luke.19.10]] • [[Luke.19.18]] • [[Luke.19.20]] • [[Luke.22.7]] • [[John.1.7]] • [[John.3.2]] • [[John.3.22]] • [[John.6.23]] • [[John.9.7]] • [[John.12.1]] • [[John.12.28]] • [[John.13.1]] • [[John.19.39]] • [[John.20.4]] • [[John.20.19]] • [[John.20.24]] • [[Acts.7.11]] • [[Acts.19.6]] • [[Gal.2.11]] • [[1Tim.1.15]] • [[Rev.8.3]] • [[Rev.11.18]] • [[Rev.17.1]] • [[Rev.21.9]]  |
+|   | had come | [[Gal.4.4]]  |
+|   | has come | [[Mark.14.41]] • [[John.16.21]] • [[Jude.1.14]] • [[Rev.6.17]] • [[Rev.14.7]] • [[Rev.14.15]] • [[Rev.17.10]] • [[Rev.18.10]] • [[Rev.19.7]]  |
+|   | he came | [[Matt.14.25]] • [[Matt.21.19]] • [[Mark.7.31]] • [[Mark.8.10]] • [[Mark.10.50]] • [[Luke.2.27]] • [[Luke.2.51]] • [[Luke.4.16]] • [[Luke.13.6]] • [[Luke.19.5]] • [[John.1.11]] • [[John.4.45]] • [[John.4.46]] • [[John.19.38]] • [[Acts.12.12]] • [[Acts.18.1]] • [[Acts.20.2]] • [[Rev.5.7]]  |
+|   | is come | [[Matt.17.12]]  |
+|   | it came down | [[Acts.11.5]]  |
+|   | she came | [[Matt.12.42]] • [[Luke.8.47]] • [[Luke.11.31]] • [[John.11.32]]  |
+|   | went | [[Matt.15.29]]  |
+| **<span class="asgreek">ἦλθαν</span>** | They went | [[John.1.39]]  |
+|   | came | [[John.4.27]]  |
+|   | they came | [[Luke.2.16]] • [[Acts.12.10]]  |
+|   | they came out | [[Acts.28.15]]  |
+| **<span class="asgreek">ἤρχου</span>** | you were coming | [[Acts.9.17]]  |
+| **<span class="asgreek">ἤρχοντο</span>** | they were coming | [[Mark.1.45]]  |
+|   | they were coming up | [[John.19.3]]  |
+|   | they were going | [[John.6.17]]  |
+|   | were coming | [[John.4.30]] • [[John.20.3]] • [[Acts.19.18]]  |
+| **<span class="asgreek">ἤρχετο</span>** | she was coming | [[Luke.18.3]]  |
+|   | was coming | [[Mark.2.13]] • [[John.11.29]]  |
+|   | were coming | [[John.8.2]]  |
+| **<span class="asgreek">ἤλθομεν</span>** | are come | [[Matt.2.2]]  |
+|   | came | [[Matt.25.39]]  |
+|   | we came | [[Acts.20.6]] • [[Acts.20.14]] • [[Acts.20.15]] • [[Acts.21.1]] • [[Acts.21.8]] • [[Acts.27.8]] • [[Acts.28.13]]  |
+| **<span class="asgreek">ἤλθατε</span>** | you came | [[Matt.25.36]]  |
+| **<span class="asgreek">ἤλθαμεν</span>** | we came | [[Acts.28.14]]  |
+| **<span class="asgreek">ἔρχῃ</span>** | come | [[Matt.3.14]]  |
+| **<span class="asgreek">ἔρχου</span>** | Come | [[Rev.6.1]] • [[Rev.6.7]] • [[Rev.22.17]] • [[Rev.22.17]]  |
+|   | do come | [[Matt.8.9]] • [[Luke.7.8]] • [[John.1.46]] • [[John.11.34]] • [[Rev.6.3]] • [[Rev.6.5]] • [[Rev.22.20]]  |
+| **<span class="asgreek">ἔρχονται</span>** | are coming | [[Luke.23.29]] • [[John.3.26]] • [[Heb.8.8]]  |
+|   | come | [[Matt.7.15]] • [[Matt.25.11]] • [[Mark.12.18]]  |
+|   | do they come | [[1Cor.15.35]]  |
+|   | they come | [[Mark.2.3]] • [[Mark.2.18]] • [[Mark.5.15]] • [[Mark.5.35]] • [[Mark.5.38]] • [[Mark.8.22]] • [[Mark.10.46]] • [[Mark.11.15]] • [[Mark.11.27]] • [[Mark.11.27]] • [[Mark.14.32]] • [[Mark.16.2]]  |
+| **<span class="asgreek">ἔρχομαι</span>** | I am coming | [[John.14.3]] • [[John.14.18]] • [[John.14.28]] • [[John.17.13]] • [[2Cor.13.1]] • [[Rev.3.11]] • [[Rev.16.15]] • [[Rev.22.7]] • [[Rev.22.12]] • [[Rev.22.20]]  |
+|   | I come | [[Luke.13.7]] • [[John.8.14]] • [[John.21.22]] • [[John.21.23]] • [[1Tim.4.13]]  |
+|   | I come back | [[Luke.19.13]]  |
+|   | am coming | [[John.17.11]]  |
+|   | am going | [[John.5.7]]  |
+| **<span class="asgreek">ἔρχομαί</span>** | I am coming | [[Rev.2.5]] • [[Rev.2.16]]  |
+| **<span class="asgreek">ἔρχηται</span>** | He may come | [[John.7.27]]  |
+|   | he shall come | [[Heb.13.23]]  |
+| **<span class="asgreek">ἔρχεται</span>** | He is coming | [[Rev.1.7]]  |
+|   | are coming | [[Rev.9.12]]  |
+|   | came | [[Mark.6.1]]  |
+|   | come | [[John.12.22]]  |
+|   | comes | [[Matt.13.19]] • [[Matt.17.11]] • [[Matt.18.7]] • [[Matt.24.42]] • [[Matt.24.43]] • [[Matt.24.44]] • [[Matt.25.6]] • [[Matt.25.13]] • [[Matt.25.19]] • [[Matt.26.36]] • [[Matt.27.49]] • [[Mark.1.40]] • [[Mark.4.15]] • [[Mark.5.22]] • [[Mark.13.35]] • [[Mark.14.66]] • [[Mark.15.36]] • [[Luke.3.16]] • [[Luke.8.12]] • [[Luke.12.40]] • [[Luke.14.26]] • [[Luke.14.27]] • [[Luke.17.20]] • [[John.1.30]] • [[John.3.20]] • [[John.3.21]] • [[John.4.7]] • [[John.4.35]] • [[John.5.24]] • [[John.7.41]] • [[John.7.42]] • [[John.10.10]] • [[John.12.15]] • [[John.12.22]] • [[John.14.6]] • [[John.14.30]] • [[John.18.3]] • [[John.20.1]] • [[John.20.6]] • [[John.20.18]] • [[John.20.26]] • [[John.21.13]] • [[Eph.5.6]] • [[1Thess.5.2]] • [[2John.1.10]]  |
+|   | he comes | [[Matt.8.9]] • [[Matt.26.40]] • [[Matt.26.45]] • [[Mark.1.7]] • [[Mark.3.20]] • [[Mark.3.31]] • [[Mark.6.48]] • [[Mark.10.1]] • [[Mark.14.17]] • [[Mark.14.37]] • [[Mark.14.41]] • [[Luke.7.8]] • [[John.4.5]] • [[John.6.45]] • [[John.11.38]] • [[John.13.6]] • [[Acts.13.25]]  |
+|   | he is going | [[Heb.11.8]]  |
+|   | is brought in | [[Mark.4.21]]  |
+|   | is coming | [[Luke.12.39]] • [[Luke.12.54]] • [[Luke.17.20]] • [[John.4.21]] • [[John.4.23]] • [[John.4.25]] • [[John.5.25]] • [[John.5.28]] • [[John.6.5]] • [[John.9.4]] • [[John.11.20]] • [[John.12.12]] • [[John.16.2]] • [[John.16.25]] • [[John.16.32]] • [[Col.3.6]] • [[1John.2.18]] • [[1John.4.3]] • [[Rev.11.14]]  |
+|   | it comes | [[John.3.8]]  |
+|   | she comes | [[John.20.2]]  |
+|   | they come | [[Luke.17.1]]  |
+| **<span class="asgreek">ἔρχεταί</span>** | comes | [[Matt.21.5]] • [[Luke.8.49]]  |
+| **<span class="asgreek">ἔρχεσθε</span>** | do come | [[Luke.14.17]] • [[John.1.39]]  |
+| **<span class="asgreek">ἔρχεσθαι</span>** | to come | [[Matt.11.14]] • [[Matt.16.27]] • [[Mark.10.14]] • [[Luke.9.23]] • [[Luke.12.45]] • [[Luke.18.16]] • [[John.6.15]] • [[Acts.24.8]] • [[Rev.3.10]]  |
+|   | to go | [[Luke.10.1]]  |
+| **<span class="asgreek">ἔλθῃσ</span>** | You may come | [[Luke.23.42]]  |
+| **<span class="asgreek">ἔλθῃ</span>** | He may come | [[Mark.8.38]] • [[Luke.9.26]] • [[Luke.12.38]] • [[Luke.12.38]] • [[John.7.31]] • [[John.11.56]] • [[1Cor.11.26]] • [[1Cor.16.11]] • [[1Cor.16.12]] • [[2Thess.1.10]]  |
+|   | come | [[Luke.8.17]]  |
+|   | he may go | [[1Cor.16.12]]  |
+|   | he may have come | [[Rev.17.10]]  |
+|   | he shall come | [[Col.4.10]]  |
+|   | it shall come | [[Mark.4.22]]  |
+|   | may come | [[Matt.10.23]] • [[Matt.21.40]] • [[Matt.23.35]] • [[Matt.25.31]] • [[Luke.1.43]] • [[Luke.14.10]] • [[Luke.22.18]] • [[John.4.25]] • [[John.15.26]] • [[John.16.13]] • [[Rom.3.8]] • [[1Cor.13.10]] • [[1Cor.16.10]]  |
+|   | may have come | [[John.16.4]] • [[1Cor.4.5]] • [[Gal.3.19]]  |
+|   | shall come | [[John.5.43]]  |
+|   | shall have come | [[2Thess.2.3]]  |
+| **<span class="asgreek">ἔλθωσιν</span>** | may come | [[Mark.7.4]] • [[Luke.16.28]] • [[Acts.3.20]]  |
+|   | shall come | [[2Cor.9.4]]  |
+|   | they may come | [[Acts.17.15]]  |
+| **<span class="asgreek">ἔλθω</span>** | I may come | [[1Cor.4.21]] • [[1Cor.11.34]] • [[1Cor.16.2]] • [[2Cor.13.2]]  |
+|   | I shall come | [[1Cor.14.6]] • [[3John.1.10]]  |
+| **<span class="asgreek">ἔλθητε</span>** | you may enter | [[Mark.14.38]]  |
+| **<span class="asgreek">ἐρχόμενοσ</span>** | coming | [[Matt.11.3]] • [[Matt.21.9]] • [[Matt.23.39]] • [[Mark.11.9]] • [[Luke.7.19]] • [[Luke.7.20]] • [[Luke.13.35]] • [[Luke.15.25]] • [[Luke.19.38]] • [[John.1.15]] • [[John.1.27]] • [[John.3.31]] • [[John.3.31]] • [[John.6.35]] • [[John.11.27]] • [[John.12.13]] • [[Rom.15.29]] • [[2Cor.11.4]] • [[2Tim.4.13]]  |
+|   | is coming | [[Matt.3.11]] • [[Luke.6.47]] • [[John.6.14]] • [[Heb.10.37]] • [[Rev.1.4]] • [[Rev.1.8]] • [[Rev.4.8]] • [[Rev.11.17]]  |
+| **<span class="asgreek">ἐρχόμενον</span>** | alighting | [[Matt.3.16]]  |
+|   | coming | [[Matt.16.28]] • [[Matt.24.30]] • [[Matt.26.64]] • [[Mark.13.26]] • [[Mark.14.62]] • [[Mark.15.21]] • [[Luke.21.27]] • [[John.1.9]] • [[John.1.29]] • [[John.1.47]] • [[John.6.37]] • [[John.10.12]] • [[Acts.19.4]] • [[Heb.6.7]] • [[2John.1.7]]  |
+|   | is coming | [[Luke.23.26]]  |
+| **<span class="asgreek">ἐρχόμενοι</span>** | coming | [[Mark.6.31]] • [[Luke.13.14]] • [[Luke.16.21]] • [[Rev.7.14]]  |
+| **<span class="asgreek">ἐρχόμενα</span>** | are coming | [[John.18.4]]  |
+|   | coming | [[John.16.13]]  |
+| **<span class="asgreek">ἐρχόμεθα</span>** | Come | [[John.21.3]]  |
+| **<span class="asgreek">ἐρχομένῳ</span>** | coming | [[Luke.14.31]] • [[Acts.13.44]]  |
+|   | is coming | [[Mark.10.30]] • [[Luke.18.30]]  |
+| **<span class="asgreek">ἐρχομένων</span>** | when were coming | [[3John.1.3]]  |
+| **<span class="asgreek">ἐρχομένουσ</span>** | coming | [[Matt.3.7]]  |
+| **<span class="asgreek">ἐρχομένου</span>** | coming | [[1Cor.4.18]]  |
+|   | when is coming | [[Acts.5.15]]  |
+| **<span class="asgreek">ἐρχομένησ</span>** | is coming | [[1Thess.1.10]]  |
+| **<span class="asgreek">ἐρχομένην</span>** | is coming | [[Acts.18.21]]  |
+| **<span class="asgreek">ἐρχομένη</span>** | coming | [[Mark.11.10]] • [[Luke.18.5]]  |
+| **<span class="asgreek">ἐρχέσθω</span>** | he should come | [[John.7.37]] • [[Rev.22.17]]  |
+| **<span class="asgreek">ἐλθὼν</span>** | coming | [[Mark.15.43]]  |
+|   | having arrived | [[Matt.2.9]] • [[Mark.14.45]]  |
+|   | having come | [[Matt.2.8]] • [[Matt.2.23]] • [[Matt.4.13]] • [[Matt.5.24]] • [[Matt.8.7]] • [[Matt.8.14]] • [[Matt.9.18]] • [[Matt.9.18]] • [[Matt.9.23]] • [[Matt.13.54]] • [[Matt.16.13]] • [[Matt.24.46]] • [[Matt.25.27]] • [[Matt.26.43]] • [[Mark.5.23]] • [[Mark.9.12]] • [[Mark.11.13]] • [[Mark.13.36]] • [[Mark.14.40]] • [[Luke.7.3]] • [[Luke.10.32]] • [[Luke.12.37]] • [[Luke.12.43]] • [[Luke.14.9]] • [[Luke.15.6]] • [[Luke.15.17]] • [[Luke.18.8]] • [[Luke.19.23]] • [[Luke.22.45]] • [[John.4.54]] • [[John.7.50]] • [[John.11.17]] • [[John.12.12]] • [[John.16.8]] • [[John.19.39]] • [[John.20.8]] • [[Acts.21.11]] • [[Acts.22.13]] • [[Rom.15.32]] • [[1Cor.2.1]] • [[2Cor.2.3]] • [[2Cor.2.12]] • [[2Cor.12.20]] • [[Eph.2.17]] • [[Phil.1.27]] • [[1John.5.6]]  |
+|   | having entered | [[Luke.8.51]]  |
+| **<span class="asgreek">ἐλθὸν</span>** | having come | [[Matt.12.44]] • [[Luke.11.25]]  |
+| **<span class="asgreek">ἐλθὲ</span>** | do come | [[John.4.16]]  |
+| **<span class="asgreek">ἐλθόντων</span>** | When are coming | [[Matt.17.24]]  |
+|   | when were coming | [[Matt.17.14]] • [[2Cor.7.5]]  |
+| **<span class="asgreek">ἐλθόντοσ</span>** | having come | [[Luke.12.36]]  |
+|   | when was coming | [[Matt.8.28]] • [[Matt.21.23]] • [[Acts.25.23]] • [[2Cor.12.21]] • [[1Thess.3.6]]  |
+| **<span class="asgreek">ἐλθόντι</span>** | Having come | [[Matt.9.28]]  |
+| **<span class="asgreek">ἐλθόντεσ</span>** | having come | [[Matt.2.11]] • [[Matt.9.10]] • [[Matt.14.12]] • [[Matt.14.33]] • [[Matt.16.5]] • [[Matt.20.9]] • [[Matt.20.10]] • [[Matt.27.33]] • [[Matt.27.64]] • [[Matt.28.13]] • [[Mark.7.1]] • [[Mark.9.14]] • [[Mark.12.14]] • [[John.11.45]] • [[John.19.33]] • [[Acts.11.20]] • [[Acts.16.7]] • [[Acts.16.37]] • [[Acts.16.39]] • [[2Cor.11.9]]  |
+|   | having gone | [[Matt.18.31]] • [[Matt.28.11]]  |
+| **<span class="asgreek">ἐλθόντασ</span>** | having come | [[Luke.5.7]]  |
+| **<span class="asgreek">ἐλθόντα</span>** | having come | [[Matt.13.4]]  |
+|   | he having entered | [[Matt.17.25]]  |
+| **<span class="asgreek">ἐλθοῦσαι</span>** | having come | [[Mark.16.1]]  |
+| **<span class="asgreek">ἐλθοῦσα</span>** | having come | [[Matt.15.25]] • [[Mark.5.26]] • [[Mark.7.25]] • [[Mark.12.42]]  |
+|   | having come up | [[Mark.5.27]]  |
+| **<span class="asgreek">ἐλθούσησ</span>** | when was coming | [[Rom.7.9]] • [[Gal.3.25]]  |
+| **<span class="asgreek">ἐλθεῖν</span>** | coming | [[Acts.2.20]] • [[Acts.8.40]] • [[Gal.3.23]]  |
+|   | going | [[Luke.14.1]]  |
+|   | to come | [[Matt.13.32]] • [[Matt.14.28]] • [[Matt.16.24]] • [[Matt.17.10]] • [[Matt.18.7]] • [[Matt.19.14]] • [[Matt.22.3]] • [[Matt.24.48]] • [[Mark.9.11]] • [[Luke.7.7]] • [[Luke.14.20]] • [[Luke.17.1]] • [[John.5.40]] • [[John.6.44]] • [[John.6.65]] • [[John.7.34]] • [[John.7.36]] • [[John.8.21]] • [[John.13.33]] • [[Acts.19.27]] • [[Rom.1.10]] • [[Rom.1.13]] • [[Rom.15.22]] • [[Rom.15.23]] • [[2Cor.1.15]] • [[2Cor.1.16]] • [[2Cor.2.1]] • [[2Cor.12.14]] • [[Gal.2.12]] • [[1Thess.2.18]] • [[1Tim.2.4]] • [[1Tim.3.14]] • [[2Tim.3.7]] • [[2Tim.4.9]] • [[2Tim.4.21]] • [[Titus.3.12]]  |
+|   | to come’ | [[John.8.22]]  |
+| **<span class="asgreek">ἐλθέτω</span>** | should come | [[Matt.6.10]] • [[Luke.11.2]]  |
+| **<span class="asgreek">ἐλθέ</span>** | do come | [[Matt.14.29]]  |
+| **<span class="asgreek">ἐλθάτω</span>** | should come | [[Matt.10.13]]  |
+| **<span class="asgreek">ἐληλύθεισαν</span>** | had come | [[John.11.19]]  |
+| **<span class="asgreek">ἐληλύθει</span>** | had come | [[John.6.17]] • [[John.7.30]] • [[John.8.20]] • [[John.11.30]] • [[Acts.8.27]]  |
+|   | he had come | [[Acts.9.21]]  |
+| **<span class="asgreek">ἐληλυθότεσ</span>** | already coming | [[Luke.5.17]]  |
+| **<span class="asgreek">ἐληλυθότα</span>** | having come | [[Acts.18.2]] • [[1John.4.2]] • [[1John.4.3]]  |
+| **<span class="asgreek">ἐληλυθυῖαν</span>** | having come | [[Mark.9.1]]  |
+| **<span class="asgreek">ἐλεύσονται</span>** | Will come | [[Matt.9.15]] • [[Matt.24.5]] • [[Mark.2.20]] • [[Mark.13.6]] • [[Luke.5.35]] • [[Luke.17.22]] • [[Luke.21.6]] • [[Luke.21.8]] • [[John.11.48]]  |
+|   | they will come | [[2Pet.3.3]]  |
+| **<span class="asgreek">ἐλεύσομαι</span>** | I will come | [[Rom.9.9]] • [[Rom.15.24]] • [[Rom.15.29]] • [[1Cor.4.19]] • [[1Cor.16.5]] • [[Phil.2.24]]  |
+|   | I will go on | [[2Cor.12.1]]  |
+| **<span class="asgreek">ἐλεύσεται</span>** | he will come | [[Mark.12.9]] • [[Luke.20.16]] • [[1Cor.16.12]]  |
+|   | will come | [[John.16.7]] • [[Acts.1.11]]  |
+| **<span class="asgreek">ἐλευσόμεθα</span>** | we will come | [[John.14.23]]  |
+| **<span class="asgreek">ἐλήλυθεν</span>** | has come | [[Mark.9.13]] • [[Luke.7.33]] • [[Luke.7.34]] • [[John.3.19]] • [[John.12.23]] • [[John.16.32]] • [[John.17.1]]  |
+|   | have turned out | [[Phil.1.12]]  |
+| **<span class="asgreek">ἐλήλυθασ</span>** | You have come | [[John.3.2]] • [[Acts.21.22]]  |
+| **<span class="asgreek">ἐλήλυθα</span>** | I have come | [[Luke.5.32]] • [[John.7.28]] • [[John.18.37]]  |
+|   | have I come | [[John.8.42]]  |
+|   | have come | [[John.5.43]] • [[John.12.46]] • [[John.16.28]]  |
+| **<span class="asgreek">ηρχόμην</span>** | I came | [[LXX.Gen.48.7]]  |
+| **<span class="asgreek">ερχόμενοσ</span>** | coming | [[LXX.Gen.33.1]] • [[LXX.2Sam.2.23]] • [[LXX.2Sam.15.32]]  |
+|   | in coming | [[LXX.Hab.2.3]]  |
+|   | one coming | [[LXX.Ps.118.26]] • [[LXX.Dan.11.10]]  |
+|   | was coming | [[LXX.Dan.7.13]]  |
+| **<span class="asgreek">ερχόμενον</span>** | coming | [[LXX.Ezra.8.15]] • [[LXX.Ezra.9.13]] • [[LXX.Eccl.11.8]]  |
+| **<span class="asgreek">ερχόμενοι</span>** | but the ones coming | [[LXX.Ps.126.6]]  |
+|   | coming | [[LXX.Judg.20.11]] • [[LXX.Ezra.3.8]] • [[LXX.Neh.5.17]] • [[LXX.Isa.27.6]] • [[LXX.Amos.6.3]]  |
+|   | ones coming | [[LXX.Neh.13.22]]  |
+| **<span class="asgreek">ερχόμεναι</span>** | coming | [[LXX.Isa.27.11]]  |
+| **<span class="asgreek">ερχόμενα</span>** | coming | [[LXX.Zech.12.9]]  |
+| **<span class="asgreek">ερχομεναίσ</span>** | coming | [[LXX.Eccl.2.16]]  |
+| **<span class="asgreek">ερχομένων</span>** | coming | [[LXX.Gen.41.35]] • [[LXX.Gen.42.5]] • [[LXX.2Chr.28.9]] • [[LXX.Job.5.21]] • [[LXX.Jer.27.3]] • [[LXX.Jer.36.6]]  |
+| **<span class="asgreek">ερχομένω</span>** | coming | [[LXX.Dan.9.26]]  |
+|   | was going | [[LXX.1Sam.14.5]] • [[LXX.1Sam.14.5]]  |
+| **<span class="asgreek">ερχομένουσ</span>** | coming | [[LXX.2Chr.28.12]] • [[LXX.Jer.13.20]]  |
+|   | ones coming | [[LXX.Num.31.21]] • [[LXX.Lam.1.4]]  |
+| **<span class="asgreek">ερχομένοσ</span>** | coming | [[LXX.2Sam.20.12]]  |
+| **<span class="asgreek">ερχομένοισ</span>** | coming | [[LXX.Exod.5.20]] • [[LXX.Num.31.14]] • [[LXX.1Sam.2.14]] • [[LXX.1Sam.11.9]] • [[LXX.Neh.9.33]] • [[LXX.Jer.26.2]]  |
+|   | having come | [[LXX.Ezek.23.40]]  |
+| **<span class="asgreek">ερχομένην</span>** | coming | [[LXX.Gen.18.21]] • [[LXX.Ezek.33.3]] • [[LXX.Ezek.33.6]]  |
+| **<span class="asgreek">ερχομένη</span>** | comes | [[LXX.Song.7.1]]  |
+|   | coming | [[LXX.Ps.22.30]] • [[LXX.Ps.71.18]] • [[LXX.Isa.21.1]] • [[LXX.Amos.7.1]] • [[LXX.Mal.4.1]]  |
+|   | coming one | [[LXX.Jer.47.4]]  |
+| **<span class="asgreek">ερχομένασ</span>** | coming | [[LXX.Gen.24.63]]  |
+| **<span class="asgreek">ερχέσθωσαν</span>** | come | [[LXX.Isa.41.25]]  |
+| **<span class="asgreek">ερχέσθω</span>** | let him come | [[LXX.1Sam.29.4]]  |
+| **<span class="asgreek">εξήλθε</span>** | came | [[LXX.2Kgs.18.18]]  |
+| **<span class="asgreek">ελθών</span>** | And coming | [[LXX.Exod.2.15]]  |
+|   | Going | [[LXX.Exod.3.16]]  |
+|   | came | [[LXX.Gen.13.18]] • [[LXX.Gen.47.1]]  |
+|   | coming | [[LXX.Gen.24.42]] • [[LXX.Gen.27.35]] • [[LXX.Gen.32.11]] • [[LXX.Num.25.6]] • [[LXX.Judg.13.10]] • [[LXX.1Kgs.13.12]] • [[LXX.Prov.23.35]] • [[LXX.Mal.4.6]]  |
+|   | in coming | [[LXX.Exod.35.10]]  |
+| **<span class="asgreek">ελθόντων</span>** | coming | [[LXX.1Sam.9.5]] • [[LXX.1Chr.12.23]] • [[LXX.Zech.14.16]]  |
+|   | of those having come | [[LXX.Gen.30.38]]  |
+| **<span class="asgreek">ελθόντοσ</span>** | at coming | [[LXX.2Kgs.13.20]]  |
+|   | coming | [[LXX.2Chr.12.3]] • [[LXX.Jer.28.9]]  |
+| **<span class="asgreek">ελθόντι</span>** | coming | [[LXX.2Sam.12.4]]  |
+|   | that came | [[LXX.Job.31.32]]  |
+| **<span class="asgreek">ελθόντεσ</span>** | In going | [[LXX.Exod.8.25]]  |
+|   | coming | [[LXX.Gen.42.6]] • [[LXX.Gen.50.18]] • [[LXX.Josh.9.4]] • [[LXX.1Sam.19.20]] • [[LXX.2Chr.30.25]] • [[LXX.2Chr.30.25]] • [[LXX.Neh.7.7]]  |
+|   | in having come | [[LXX.Gen.37.10]]  |
+|   | ones coming | [[LXX.1Chr.2.55]] • [[LXX.1Chr.12.1]] • [[LXX.1Chr.19.9]] • [[LXX.Ezra.8.35]]  |
+| **<span class="asgreek">ελθόν</span>** | coming | [[LXX.2Chr.20.12]]  |
+| **<span class="asgreek">ελθούσαν</span>** | coming | [[LXX.2Chr.19.10]] • [[LXX.2Chr.25.10]]  |
+| **<span class="asgreek">ελθούσα</span>** | coming | [[LXX.Ezek.33.6]]  |
+|   | having arrived | [[LXX.Ruth.2.3]]  |
+| **<span class="asgreek">ελθοντί</span>** | coming | [[LXX.2Sam.12.4]]  |
+| **<span class="asgreek">ελθη</span>** | come | [[LXX.Gen.43.3]]  |
+| **<span class="asgreek">ελθειν</span>** | his coming | [[LXX.2Chr.22.7]]  |
+| **<span class="asgreek">ελθείν</span>** | arriving | [[LXX.Exod.10.26]]  |
+|   | came | [[LXX.Gen.43.25]] • [[LXX.1Sam.9.15]] • [[LXX.Ps.105.19]]  |
+|   | come | [[LXX.1Sam.25.26]] • [[LXX.1Sam.25.33]] • [[LXX.Job.33.28]]  |
+|   | comes | [[LXX.Hos.10.12]]  |
+|   | coming | [[LXX.Gen.10.19]] • [[LXX.Gen.10.19]] • [[LXX.Gen.10.30]] • [[LXX.Gen.13.10]] • [[LXX.Gen.25.18]] • [[LXX.Gen.41.50]] • [[LXX.Gen.48.5]] • [[LXX.Exod.17.6]] • [[LXX.Judg.6.4]] • [[LXX.Judg.6.18]] • [[LXX.Judg.11.33]] • [[LXX.2Sam.4.4]] • [[LXX.2Sam.15.28]] • [[LXX.2Kgs.6.32]] • [[LXX.1Chr.12.19]] • [[LXX.2Chr.25.14]] • [[LXX.Isa.44.7]] • [[LXX.Jer.22.23]] • [[LXX.Jer.27.7]] • [[LXX.Jer.46.13]] • [[LXX.Joel.2.31]] • [[LXX.Mal.4.5]]  |
+|   | coming into | [[LXX.Gen.48.7]]  |
+|   | coming of | [[LXX.2Kgs.16.11]] • [[LXX.Isa.66.7]]  |
+|   | he came | [[LXX.Ezek.33.22]]  |
+|   | he comes | [[LXX.1Sam.16.11]]  |
+|   | his coming | [[LXX.1Sam.19.23]] • [[LXX.2Sam.5.13]] • [[LXX.2Chr.22.7]] • [[LXX.Dan.8.17]]  |
+|   | it came | [[LXX.Isa.48.5]]  |
+|   | my coming | [[LXX.Gen.33.14]] • [[LXX.1Sam.10.8]]  |
+|   | of their coming | [[LXX.Ezra.3.8]]  |
+|   | should come | [[LXX.Ezek.22.3]]  |
+|   | their coming | [[LXX.Ruth.1.19]]  |
+|   | they came | [[LXX.Gen.34.5]]  |
+|   | to come | [[LXX.Gen.35.16]] • [[LXX.Num.22.16]] • [[LXX.1Sam.20.9]] • [[LXX.1Sam.23.10]] • [[LXX.2Sam.14.29]] • [[LXX.2Kgs.6.23]] • [[LXX.2Kgs.7.6]] • [[LXX.2Chr.13.13]] • [[LXX.2Chr.20.11]] • [[LXX.2Chr.30.1]] • [[LXX.2Chr.30.5]] • [[LXX.2Chr.30.12]] • [[LXX.Ezra.8.31]] • [[LXX.Neh.4.8]] • [[LXX.Esth.1.12]] • [[LXX.Jer.48.16]] • [[LXX.Ezek.36.8]] • [[LXX.Dan.3.2]]  |
+|   | to coming | [[LXX.1Chr.4.39]]  |
+|   | to go | [[LXX.Jer.40.4]]  |
+|   | you go | [[LXX.Gen.19.22]]  |
+|   | your coming | [[LXX.Gen.27.33]]  |
+| **<span class="asgreek">ελθέτωσαν</span>** | let them come | [[LXX.Ezra.10.14]] • [[LXX.Jer.9.17]] • [[LXX.Jer.12.9]]  |
+| **<span class="asgreek">ελθέτωσάν</span>** | come | [[LXX.Ps.119.77]]  |
+| **<span class="asgreek">ελθέτω</span>** | Let it come | [[LXX.Jer.17.15]]  |
+|   | Let there come | [[LXX.Ps.35.8]]  |
+|   | come | [[LXX.2Sam.13.5]] • [[LXX.2Sam.13.6]] • [[LXX.2Kgs.5.8]] • [[LXX.Esth.5.4]] • [[LXX.Esth.5.8]] • [[LXX.Ps.36.11]] • [[LXX.Ps.55.15]] • [[LXX.Ps.102.1]] • [[LXX.Isa.5.19]]  |
+|   | let him come | [[LXX.Judg.13.8]]  |
+| **<span class="asgreek">ελθέ</span>** | come | [[LXX.Judg.18.19]] • [[LXX.Ps.80.2]] • [[LXX.Prov.1.11]] • [[LXX.Prov.7.18]] • [[LXX.Song.2.10]] • [[LXX.Song.2.13]] • [[LXX.Song.2.13]] • [[LXX.Song.7.11]] • [[LXX.Ezek.37.9]]  |
+| **<span class="asgreek">εληλύθει</span>** | There had not come | [[LXX.1Kgs.10.10]] • [[LXX.1Kgs.10.12]]  |
+| **<span class="asgreek">εληλύθασιν</span>** | have come | [[LXX.Jer.50.26]]  |
+| **<span class="asgreek">εληλυθώσ</span>** | arriving | [[LXX.1Sam.17.12]]  |
+| **<span class="asgreek">εληλυθότοσ</span>** | came | [[LXX.1Kgs.10.14]]  |
+|   | coming | [[LXX.2Kgs.23.17]]  |
+| **<span class="asgreek">ελεύσονται</span>** | shall come | [[LXX.Deut.28.15]] • [[LXX.Deut.28.45]]  |
+|   | they shall come | [[LXX.Isa.7.19]]  |
+| **<span class="asgreek">ελεύσομαι</span>** | I shall go | [[LXX.Amos.5.17]]  |
+|   | will go | [[LXX.Exod.3.13]]  |
+| **<span class="asgreek">ελεύση</span>** | And you shall come | [[LXX.Job.5.26]]  |
+|   | shall come | [[LXX.2Kgs.4.24]]  |
+|   | you shall come | [[LXX.Deut.17.9]] • [[LXX.Deut.26.3]] • [[LXX.Job.38.11]] • [[LXX.Song.4.8]]  |
+|   | you shall go | [[LXX.1Kgs.14.3]]  |
+|   | you shall go in | [[LXX.Ruth.3.4]]  |
+| **<span class="asgreek">ελεύσεται</span>** | gone | [[LXX.Judg.4.14]]  |
+|   | he shall come | [[LXX.Lev.13.9]] • [[LXX.Lev.13.16]] • [[LXX.2Sam.18.27]] • [[LXX.Ezek.38.8]]  |
+|   | it shall come | [[LXX.Josh.16.7]]  |
+|   | shall come | [[LXX.Exod.22.9]] • [[LXX.Deut.14.29]] • [[LXX.Josh.20.6]] • [[LXX.2Sam.15.4]] • [[LXX.2Chr.25.18]] • [[LXX.Job.27.13]] • [[LXX.Jer.49.4]]  |
+|   | shall go | [[LXX.Josh.19.27]]  |
+| **<span class="asgreek">ελευσόμεθα</span>** | I will come | [[LXX.Gen.37.10]]  |
+| **<span class="asgreek">ελευσεται</span>** | shall come | [[LXX.Dan.11.10]]  |
+| **<span class="asgreek">ελήλυθε</span>** | has come | [[LXX.Ruth.3.14]]  |
+| **<span class="asgreek">ήρχου</span>** | come | [[LXX.Num.22.37]]  |
+| **<span class="asgreek">ήρχοντο</span>** | came | [[LXX.1Sam.27.9]] • [[LXX.1Kgs.12.1]] • [[LXX.Neh.6.17]]  |
+|   | coming | [[LXX.Ezek.9.2]]  |
+|   | having come | [[LXX.Gen.37.25]]  |
+|   | they came | [[LXX.1Chr.12.22]]  |
+| **<span class="asgreek">ήρχετο</span>** | arrive | [[LXX.1Chr.11.25]]  |
+|   | arrive at | [[LXX.2Sam.23.19]] • [[LXX.2Sam.23.23]]  |
+|   | arrived | [[LXX.2Sam.16.1]]  |
+|   | came | [[LXX.1Sam.2.13]] • [[LXX.1Sam.11.5]] • [[LXX.1Sam.17.34]] • [[LXX.2Sam.15.2]] • [[LXX.1Kgs.10.22]] • [[LXX.2Kgs.3.20]] • [[LXX.2Chr.9.21]] • [[LXX.2Chr.10.1]] • [[LXX.Ezek.1.4]] • [[LXX.Ezek.43.2]] • [[LXX.Dan.8.5]] • [[LXX.Dan.10.20]]  |
+|   | comes | [[LXX.Gen.29.6]] • [[LXX.Gen.29.9]] • [[LXX.Ezek.47.8]]  |
+|   | he arrived not at | [[LXX.1Chr.11.21]]  |
+|   | would come | [[LXX.1Sam.2.15]]  |
+| **<span class="asgreek">ήλθόν</span>** | came | [[LXX.Jer.49.9]]  |
+| **<span class="asgreek">ήλθοσαν ήλθοσαν</span>** | came | [[LXX.1Chr.4.41]]  |
+| **<span class="asgreek">ήλθοσαν</span>** | came | [[LXX.Exod.16.1]] • [[LXX.Num.13.22]] • [[LXX.Josh.2.23]] • [[LXX.2Sam.3.23]] • [[LXX.Isa.41.5]]  |
+|   | come | [[LXX.Ps.79.1]]  |
+|   | there came | [[LXX.Jer.41.5]]  |
+|   | they came | [[LXX.Exod.15.27]] • [[LXX.Exod.19.1]] • [[LXX.Num.13.23]] • [[LXX.Josh.2.22]] • [[LXX.Josh.9.6]] • [[LXX.Josh.22.10]] • [[LXX.Judg.20.26]] • [[LXX.Ruth.1.2]] • [[LXX.Jer.14.3]]  |
+|   | they come | [[LXX.Isa.49.18]]  |
+| **<span class="asgreek">ήλθον</span>** | And they came | [[LXX.Gen.42.29]] • [[LXX.Exod.15.23]]  |
+|   | I came | [[LXX.Judg.20.4]] • [[LXX.2Kgs.19.23]] • [[LXX.2Chr.9.6]] • [[LXX.Neh.2.9]] • [[LXX.Neh.2.11]] • [[LXX.Neh.13.7]] • [[LXX.Job.1.15]] • [[LXX.Job.1.17]] • [[LXX.Job.1.19]] • [[LXX.Ps.69.2]] • [[LXX.Isa.50.2]] • [[LXX.Dan.4.36]] • [[LXX.Dan.10.14]] • [[LXX.Dan.10.20]]  |
+|   | I come | [[LXX.2Sam.14.32]]  |
+|   | I went | [[LXX.Neh.13.6]]  |
+|   | are come | [[LXX.Gen.47.1]]  |
+|   | came | [[LXX.Gen.18.22]] • [[LXX.Gen.19.1]] • [[LXX.Gen.34.7]] • [[LXX.Gen.41.57]] • [[LXX.Gen.42.5]] • [[LXX.Gen.47.15]] • [[LXX.Exod.19.2]] • [[LXX.Num.20.1]] • [[LXX.Num.22.14]] • [[LXX.Deut.1.24]] • [[LXX.Judg.5.19]] • [[LXX.Judg.18.13]] • [[LXX.1Sam.11.9]] • [[LXX.1Sam.25.40]] • [[LXX.2Sam.13.36]] • [[LXX.2Sam.17.20]] • [[LXX.1Kgs.1.47]] • [[LXX.1Kgs.8.2]] • [[LXX.2Kgs.2.7]] • [[LXX.2Kgs.7.8]] • [[LXX.2Kgs.10.21]] • [[LXX.2Kgs.13.20]] • [[LXX.2Kgs.16.6]] • [[LXX.2Kgs.18.17]] • [[LXX.2Kgs.19.3]] • [[LXX.2Kgs.19.5]] • [[LXX.1Chr.7.22]] • [[LXX.1Chr.10.7]] • [[LXX.1Chr.10.8]] • [[LXX.1Chr.11.3]] • [[LXX.1Chr.11.18]] • [[LXX.1Chr.12.16]] • [[LXX.1Chr.14.9]] • [[LXX.1Chr.19.2]] • [[LXX.1Chr.19.3]] • [[LXX.1Chr.19.5]] • [[LXX.2Chr.5.4]] • [[LXX.2Chr.20.1]] • [[LXX.2Chr.25.18]] • [[LXX.Ezra.2.2]] • [[LXX.Ezra.4.12]] • [[LXX.Neh.4.12]] • [[LXX.Job.1.6]] • [[LXX.Job.1.16]] • [[LXX.Job.2.1]] • [[LXX.Job.19.12]] • [[LXX.Job.42.11]] • [[LXX.Isa.37.5]] • [[LXX.Jer.12.12]] • [[LXX.Jer.38.27]] • [[LXX.Jer.40.8]] • [[LXX.Jer.40.13]] • [[LXX.Ezek.23.17]] • [[LXX.Dan.9.23]] • [[LXX.Dan.10.12]]  |
+|   | came not | [[LXX.Num.11.26]]  |
+|   | come | [[LXX.Neh.13.21]]  |
+|   | there came | [[LXX.2Kgs.5.22]] • [[LXX.Ezek.14.1]] • [[LXX.Ezek.20.1]]  |
+|   | they came | [[LXX.Gen.11.31]] • [[LXX.Gen.14.7]] • [[LXX.Gen.22.9]] • [[LXX.Gen.37.35]] • [[LXX.Gen.45.25]] • [[LXX.Gen.47.18]] • [[LXX.Exod.16.35]] • [[LXX.Num.13.26]] • [[LXX.Num.22.7]] • [[LXX.Num.22.16]] • [[LXX.Num.22.39]] • [[LXX.Num.33.9]] • [[LXX.Josh.3.1]] • [[LXX.Josh.8.11]] • [[LXX.Josh.18.4]] • [[LXX.Judg.12.1]] • [[LXX.1Sam.25.12]] • [[LXX.2Sam.20.14]] • [[LXX.2Sam.24.6]] • [[LXX.2Sam.24.7]] • [[LXX.1Kgs.9.28]] • [[LXX.2Kgs.2.2]] • [[LXX.2Kgs.2.4]] • [[LXX.2Kgs.2.15]] • [[LXX.2Kgs.6.4]] • [[LXX.2Kgs.6.14]] • [[LXX.2Kgs.25.23]] • [[LXX.1Chr.10.12]] • [[LXX.1Chr.12.38]] • [[LXX.1Chr.13.9]] • [[LXX.1Chr.19.7]] • [[LXX.1Chr.19.7]] • [[LXX.1Chr.19.15]] • [[LXX.2Chr.11.16]] • [[LXX.2Chr.12.4]] • [[LXX.2Chr.20.2]] • [[LXX.2Chr.20.4]] • [[LXX.2Chr.23.2]] • [[LXX.2Chr.30.11]] • [[LXX.2Chr.34.9]] • [[LXX.Ezra.7.8]] • [[LXX.Ezra.8.18]] • [[LXX.Jer.40.12]] • [[LXX.Dan.2.2]]  |
+|   | they came not | [[LXX.Judg.5.23]]  |
+|   | they went | [[LXX.Judg.18.27]] • [[LXX.1Kgs.22.37]]  |
+| **<span class="asgreek">ήλθομεν</span>** | We came | [[LXX.Gen.32.6]] • [[LXX.Gen.43.21]] • [[LXX.Num.13.27]] • [[LXX.Deut.1.19]] • [[LXX.2Chr.14.11]] • [[LXX.Ezra.8.32]]  |
+|   | came | [[LXX.Gen.42.10]]  |
+| **<span class="asgreek">ήλθετε</span>** | did you come | [[LXX.Gen.26.27]]  |
+|   | you came | [[LXX.Gen.42.12]] • [[LXX.Deut.1.31]] • [[LXX.Deut.9.7]] • [[LXX.Deut.11.5]] • [[LXX.Deut.29.7]] • [[LXX.Jer.7.10]]  |
+| **<span class="asgreek">ήλθεσ</span>** | But did you come | [[LXX.Job.38.22]]  |
+|   | Did you come | [[LXX.Job.38.16]]  |
+|   | you came | [[LXX.Ruth.2.12]] • [[LXX.2Kgs.19.28]] • [[LXX.Isa.37.29]]  |
+| **<span class="asgreek">ήλθεν</span>** | Abimelech came | [[LXX.Judg.9.52]]  |
+|   | Abner came | [[LXX.2Sam.3.20]] • [[LXX.2Sam.3.24]]  |
+|   | Absalom came | [[LXX.2Sam.13.24]]  |
+|   | Ahab went | [[LXX.1Kgs.21.4]]  |
+|   | Elisha came | [[LXX.2Kgs.8.7]]  |
+|   | God came | [[LXX.Num.22.9]] • [[LXX.Num.22.20]]  |
+|   | Israel came | [[LXX.Num.21.1]]  |
+|   | Jacob came | [[LXX.Gen.33.18]]  |
+|   | Jehoshaphat came forth | [[LXX.2Chr.20.25]]  |
+|   | Jehu came | [[LXX.2Kgs.9.30]]  |
+|   | Jephthah came | [[LXX.Judg.11.34]]  |
+|   | Jeremiah came | [[LXX.Jer.19.14]] • [[LXX.Jer.37.16]]  |
+|   | Jeroboam came | [[LXX.1Kgs.12.3]] • [[LXX.2Chr.10.3]] • [[LXX.2Chr.10.12]]  |
+|   | Joab went | [[LXX.1Chr.19.15]]  |
+|   | Joseph came | [[LXX.Gen.37.23]]  |
+|   | Joshua came | [[LXX.Josh.11.7]] • [[LXX.Josh.11.21]]  |
+|   | became | [[LXX.2Kgs.25.2]]  |
+|   | came | [[LXX.Gen.27.30]] • [[LXX.Gen.39.16]] • [[LXX.Judg.6.11]] • [[LXX.Judg.11.16]] • [[LXX.Judg.15.14]] • [[LXX.Judg.19.26]] • [[LXX.Judg.21.8]] • [[LXX.Ruth.2.4]] • [[LXX.Ruth.3.7]] • [[LXX.1Sam.2.27]] • [[LXX.1Sam.4.3]] • [[LXX.1Sam.4.5]] • [[LXX.1Sam.12.12]] • [[LXX.1Sam.30.17]] • [[LXX.2Sam.1.2]] • [[LXX.2Sam.16.5]] • [[LXX.2Sam.19.15]] • [[LXX.1Kgs.2.28]] • [[LXX.1Kgs.10.13]] • [[LXX.2Kgs.1.13]] • [[LXX.2Kgs.4.25]] • [[LXX.2Kgs.4.42]] • [[LXX.2Kgs.9.18]] • [[LXX.2Kgs.10.8]] • [[LXX.2Kgs.15.14]] • [[LXX.2Kgs.16.12]] • [[LXX.2Kgs.24.10]] • [[LXX.2Kgs.25.25]] • [[LXX.1Chr.15.29]] • [[LXX.1Chr.17.16]] • [[LXX.1Chr.19.17]] • [[LXX.2Chr.16.7]] • [[LXX.2Chr.20.24]] • [[LXX.2Chr.24.11]] • [[LXX.2Chr.24.23]] • [[LXX.2Chr.28.20]] • [[LXX.2Chr.30.27]] • [[LXX.2Chr.31.8]] • [[LXX.Ezra.5.3]] • [[LXX.Job.2.1]] • [[LXX.Job.15.19]] • [[LXX.Ps.44.17]] • [[LXX.Ps.55.5]] • [[LXX.Ps.105.40]] • [[LXX.Isa.39.3]] • [[LXX.Jer.41.1]] • [[LXX.Jer.46.20]] • [[LXX.Jer.46.21]] • [[LXX.Jer.51.56]] • [[LXX.Jer.52.5]] • [[LXX.Lam.5.4]] • [[LXX.Ezek.2.2]] • [[LXX.Ezek.3.24]] • [[LXX.Dan.7.22]] • [[LXX.Dan.9.13]]  |
+|   | came forth | [[LXX.Exod.18.5]]  |
+|   | comes | [[LXX.2Sam.24.21]]  |
+|   | he came | [[LXX.Gen.13.3]] • [[LXX.Gen.37.14]] • [[LXX.Gen.44.12]] • [[LXX.Gen.46.1]] • [[LXX.Exod.3.1]] • [[LXX.Num.21.23]] • [[LXX.Judg.3.27]] • [[LXX.Judg.14.5]] • [[LXX.Judg.17.8]] • [[LXX.1Sam.4.12]] • [[LXX.1Sam.16.4]] • [[LXX.1Sam.17.20]] • [[LXX.1Sam.24.3]] • [[LXX.1Kgs.13.10]] • [[LXX.1Kgs.17.10]] • [[LXX.2Kgs.5.24]] • [[LXX.2Kgs.9.20]] • [[LXX.2Kgs.14.13]] • [[LXX.2Kgs.19.33]] • [[LXX.2Chr.14.9]] • [[LXX.2Chr.32.1]] • [[LXX.Ezra.7.9]] • [[LXX.Esth.4.2]] • [[LXX.Isa.37.34]] • [[LXX.Dan.6.19]] • [[LXX.Dan.8.6]]  |
+|   | he returned back | [[LXX.Gen.33.18]]  |
+|   | it came | [[LXX.Judg.7.13]] • [[LXX.Isa.9.8]]  |
+|   | it went | [[LXX.Mic.1.9]]  |
+|   | she came | [[LXX.1Kgs.10.2]]  |
+|   | there came | [[LXX.2Chr.21.12]] • [[LXX.Neh.1.2]] • [[LXX.Job.1.16]] • [[LXX.Job.1.17]]  |
+|   | there came forth | [[LXX.Ps.105.34]]  |
+|   | they came | [[LXX.Gen.22.3]]  |
+|   | went | [[LXX.1Sam.14.24]] • [[LXX.2Sam.16.14]]  |
+|   | went in | [[LXX.Judg.13.6]]  |
+| **<span class="asgreek">ήλθε</span>** | Benaiah came | [[LXX.1Kgs.2.30]]  |
+|   | Caleb came | [[LXX.1Chr.2.24]]  |
+|   | Chedorlaomer came | [[LXX.Gen.14.5]]  |
+|   | Daniel came | [[LXX.Dan.2.24]] • [[LXX.Dan.4.8]]  |
+|   | David came | [[LXX.1Sam.21.10]] • [[LXX.1Sam.30.26]] • [[LXX.2Sam.5.20]] • [[LXX.1Chr.21.21]]  |
+|   | Gad came | [[LXX.2Sam.24.18]] • [[LXX.1Chr.21.11]]  |
+|   | Gad went | [[LXX.2Sam.24.13]]  |
+|   | Gideon came | [[LXX.Judg.7.13]] • [[LXX.Judg.8.4]]  |
+|   | Naaman came | [[LXX.2Kgs.5.9]]  |
+|   | Rehoboam came | [[LXX.2Chr.10.1]] • [[LXX.2Chr.11.1]]  |
+|   | Saul came | [[LXX.1Sam.15.5]]  |
+|   | Solomon came | [[LXX.2Chr.1.13]] • [[LXX.2Chr.8.3]]  |
+|   | Syria came | [[LXX.1Chr.18.5]]  |
+|   | came | [[LXX.Gen.23.2]] • [[LXX.Gen.25.29]] • [[LXX.Gen.31.24]] • [[LXX.Gen.34.20]] • [[LXX.Gen.35.6]] • [[LXX.Gen.35.27]] • [[LXX.Exod.17.8]] • [[LXX.Exod.19.7]] • [[LXX.Num.20.6]] • [[LXX.Judg.9.26]] • [[LXX.Judg.13.6]] • [[LXX.1Sam.9.16]] • [[LXX.1Sam.10.9]] • [[LXX.1Sam.20.37]] • [[LXX.1Sam.22.5]] • [[LXX.1Sam.30.3]] • [[LXX.2Sam.3.35]] • [[LXX.2Sam.12.4]] • [[LXX.2Sam.13.30]] • [[LXX.2Sam.14.31]] • [[LXX.2Sam.16.16]] • [[LXX.2Sam.19.10]] • [[LXX.2Sam.19.11]] • [[LXX.1Kgs.19.4]] • [[LXX.2Kgs.4.1]] • [[LXX.2Kgs.8.14]] • [[LXX.2Kgs.10.7]] • [[LXX.2Kgs.15.29]] • [[LXX.2Kgs.25.1]] • [[LXX.2Kgs.25.8]] • [[LXX.1Chr.20.1]] • [[LXX.2Chr.12.5]] • [[LXX.2Chr.21.19]] • [[LXX.2Chr.25.7]] • [[LXX.2Chr.32.1]] • [[LXX.Ezra.5.16]] • [[LXX.Job.1.6]] • [[LXX.Job.1.14]] • [[LXX.Job.3.26]] • [[LXX.Jer.32.8]] • [[LXX.Jer.37.4]] • [[LXX.Jer.52.4]] • [[LXX.Jer.52.12]] • [[LXX.Dan.1.1]] • [[LXX.Dan.10.13]] • [[LXX.Hos.10.9]]  |
+|   | came in | [[LXX.1Kgs.1.42]]  |
+|   | he came | [[LXX.Gen.24.30]] • [[LXX.Gen.41.14]] • [[LXX.Gen.48.1]] • [[LXX.Judg.13.11]] • [[LXX.1Sam.4.13]] • [[LXX.1Sam.17.22]] • [[LXX.1Kgs.22.15]] • [[LXX.2Kgs.5.15]] • [[LXX.2Kgs.8.9]] • [[LXX.2Kgs.9.19]] • [[LXX.2Chr.18.14]] • [[LXX.2Chr.35.22]] • [[LXX.Eccl.6.4]] • [[LXX.Jer.40.6]] • [[LXX.Ezek.33.22]] • [[LXX.Dan.8.17]]  |
+|   | he went | [[LXX.Ruth.3.7]]  |
+|   | lord came | [[LXX.1Sam.3.10]]  |
+|   | she came | [[LXX.Ruth.2.7]] • [[LXX.1Kgs.10.1]] • [[LXX.2Kgs.4.7]] • [[LXX.2Chr.9.1]] • [[LXX.2Chr.9.1]]  |
+|   | she went | [[LXX.1Kgs.10.2]] • [[LXX.2Kgs.8.3]] • [[LXX.2Kgs.11.13]]  |
+|   | there came | [[LXX.Ps.105.31]] • [[LXX.Isa.38.1]] • [[LXX.Ezek.33.21]]  |
+| **<span class="asgreek">ήλθατε</span>** | You came | [[LXX.Deut.1.20]] • [[LXX.Judg.11.7]]  |
+| **<span class="asgreek">ήλθαν</span>** | came | [[LXX.2Sam.19.15]]  |
+| **<span class="asgreek">ήλθέ</span>** | came | [[LXX.Job.3.25]]  |
+| **<span class="asgreek">έρχου</span>** | come | [[LXX.Song.4.16]]  |
+| **<span class="asgreek">έρχονται</span>** | are come | [[LXX.Jer.4.16]]  |
+|   | came | [[LXX.1Sam.7.1]] • [[LXX.1Sam.11.4]] • [[LXX.1Kgs.11.18]] • [[LXX.1Kgs.13.11]]  |
+|   | come | [[LXX.1Sam.2.31]] • [[LXX.1Sam.19.16]] • [[LXX.1Sam.26.1]] • [[LXX.1Sam.28.4]] • [[LXX.1Sam.31.7]] • [[LXX.1Sam.31.8]] • [[LXX.2Sam.2.4]] • [[LXX.2Sam.5.3]] • [[LXX.2Kgs.20.17]] • [[LXX.Isa.13.3]] • [[LXX.Isa.21.2]] • [[LXX.Isa.39.6]] • [[LXX.Jer.7.32]] • [[LXX.Jer.9.25]] • [[LXX.Jer.16.14]] • [[LXX.Jer.19.6]] • [[LXX.Jer.23.5]] • [[LXX.Jer.23.7]] • [[LXX.Jer.30.3]] • [[LXX.Jer.31.27]] • [[LXX.Jer.31.31]] • [[LXX.Jer.31.38]] • [[LXX.Jer.33.14]] • [[LXX.Jer.48.12]] • [[LXX.Jer.49.2]] • [[LXX.Jer.51.47]] • [[LXX.Jer.51.52]] • [[LXX.Amos.4.2]] • [[LXX.Amos.8.11]] • [[LXX.Amos.9.13]] • [[LXX.Zech.1.21]] • [[LXX.Zech.14.1]]  |
+|   | comes | [[LXX.Jer.51.48]]  |
+|   | do they come | [[LXX.Isa.23.1]]  |
+|   | they are coming | [[LXX.Neh.6.10]]  |
+|   | they came | [[LXX.1Sam.14.20]] • [[LXX.2Sam.2.29]] • [[LXX.1Kgs.11.18]]  |
+|   | they come | [[LXX.1Sam.28.8]] • [[LXX.1Sam.30.9]] • [[LXX.Isa.5.26]] • [[LXX.Ezek.33.31]]  |
+| **<span class="asgreek">έρχομαι</span>** | come | [[LXX.Isa.66.18]] • [[LXX.Zech.2.10]]  |
+| **<span class="asgreek">έρχηται</span>** | comes | [[LXX.Prov.1.26]]  |
+|   | should come upon | [[LXX.Prov.1.27]]  |
+| **<span class="asgreek">έρχησθε</span>** | should you come | [[LXX.Isa.1.12]]  |
+| **<span class="asgreek">έρχη</span>** | come | [[LXX.1Sam.17.45]] • [[LXX.2Sam.11.10]] • [[LXX.Ezek.38.13]]  |
+|   | come you | [[LXX.Judg.17.9]] • [[LXX.Judg.19.17]] • [[LXX.Job.2.2]]  |
+|   | have you come | [[LXX.Jonah.1.8]]  |
+|   | you come | [[LXX.Gen.16.8]]  |
+| **<span class="asgreek">έρχεται</span>** | David comes | [[LXX.1Sam.21.1]]  |
+|   | came | [[LXX.1Kgs.20.43]] • [[LXX.Job.1.18]]  |
+|   | come | [[LXX.1Sam.10.22]] • [[LXX.1Sam.25.9]] • [[LXX.Prov.14.12]] • [[LXX.Isa.23.10]] • [[LXX.Jer.25.32]] • [[LXX.Jer.50.41]]  |
+|   | comes | [[LXX.Gen.37.19]] • [[LXX.Gen.48.2]] • [[LXX.1Sam.10.13]] • [[LXX.1Sam.20.24]] • [[LXX.Prov.6.15]] • [[LXX.Prov.14.13]] • [[LXX.Prov.14.15]] • [[LXX.Prov.21.6]] • [[LXX.Eccl.1.4]] • [[LXX.Isa.13.9]] • [[LXX.Isa.14.31]] • [[LXX.Isa.21.9]] • [[LXX.Isa.30.27]] • [[LXX.Isa.40.10]] • [[LXX.Jer.6.22]] • [[LXX.Jer.32.7]] • [[LXX.Ezek.17.12]] • [[LXX.Mal.4.1]]  |
+|   | he came | [[LXX.1Sam.20.1]] • [[LXX.1Kgs.19.3]]  |
+|   | he comes | [[LXX.1Sam.10.10]] • [[LXX.1Sam.19.22]] • [[LXX.1Sam.22.1]] • [[LXX.Ps.96.13]] • [[LXX.Ps.96.13]] • [[LXX.Ps.98.8]] • [[LXX.Mal.3.1]]  |
+|   | is come | [[LXX.Jer.48.21]]  |
+|   | is coming | [[LXX.Gen.32.6]]  |
+|   | it comes | [[LXX.Isa.14.1]] • [[LXX.Ezek.21.7]] • [[LXX.Ezek.21.7]]  |
+|   | there comes | [[LXX.Gen.41.29]] • [[LXX.Jer.10.22]]  |
+| **<span class="asgreek">έρχεταί</span>** | comes | [[LXX.Zech.9.9]]  |
+| **<span class="asgreek">έρχεσθε</span>** | They come | [[LXX.Isa.13.5]]  |
+|   | come | [[LXX.2Chr.10.5]] • [[LXX.Ezek.20.3]] • [[LXX.Ezek.39.17]]  |
+| **<span class="asgreek">έρχεσθαι</span>** | coming | [[LXX.2Kgs.4.10]]  |
+|   | in their coming | [[LXX.Ezek.23.40]]  |
+|   | to come | [[LXX.Gen.41.54]] • [[LXX.1Chr.9.25]] • [[LXX.Isa.47.13]] • [[LXX.Ezek.16.33]]  |
+| **<span class="asgreek">έλθωσιν</span>** | come | [[LXX.1Chr.10.4]] • [[LXX.Eccl.12.1]]  |
+|   | should come | [[LXX.Deut.30.1]] • [[LXX.Judg.21.22]] • [[LXX.1Sam.31.4]] • [[LXX.Jer.40.10]]  |
+| **<span class="asgreek">έλθωσι</span>** | came | [[LXX.Gen.30.38]]  |
+|   | should come | [[LXX.2Chr.6.32]]  |
+|   | they should come | [[LXX.Exod.18.16]] • [[LXX.Jer.38.25]]  |
+| **<span class="asgreek">έλθωμεν</span>** | we should come | [[LXX.Neh.4.11]] • [[LXX.Job.9.32]]  |
+| **<span class="asgreek">έλθω</span>** | I come | [[LXX.Neh.2.7]]  |
+|   | I should come | [[LXX.1Sam.29.8]] • [[LXX.2Kgs.18.32]] • [[LXX.Isa.36.17]]  |
+| **<span class="asgreek">έλθοισαν</span>** | and may there come | [[LXX.Job.18.9]]  |
+|   | come | [[LXX.Job.18.11]]  |
+|   | may they come | [[LXX.Deut.33.16]]  |
+| **<span class="asgreek">έλθοιμι</span>** | I might come | [[LXX.Job.23.3]]  |
+| **<span class="asgreek">έλθοι</span>** | come | [[LXX.Job.3.4]] • [[LXX.Job.3.7]] • [[LXX.Job.3.9]] • [[LXX.Job.29.13]] • [[LXX.Ps.119.41]] • [[LXX.Jonah.2.7]]  |
+|   | might come | [[LXX.Job.6.8]]  |
+| **<span class="asgreek">έλθησ</span>** | you should come | [[LXX.Jer.51.61]]  |
+|   | you should have come | [[LXX.Gen.24.41]]  |
+| **<span class="asgreek">έλθη</span>** | Esau should come | [[LXX.Gen.32.8]]  |
+|   | come | [[LXX.Gen.42.15]] • [[LXX.Gen.49.6]] • [[LXX.2Chr.32.4]] • [[LXX.Ezra.10.8]] • [[LXX.Jer.17.6]] • [[LXX.Jer.37.19]] • [[LXX.Ezek.24.16]] • [[LXX.Amos.9.10]] • [[LXX.Zech.14.18]]  |
+|   | comes | [[LXX.2Kgs.10.2]] • [[LXX.Jer.17.8]]  |
+|   | he should come | [[LXX.1Kgs.8.31]] • [[LXX.2Chr.6.22]] • [[LXX.2Chr.6.32]]  |
+|   | it come | [[LXX.Isa.32.10]]  |
+|   | it should come | [[LXX.Ezek.33.33]]  |
+|   | it should come to pass | [[LXX.Deut.13.2]]  |
+|   | shall come | [[LXX.Prov.2.10]] • [[LXX.Ezek.21.27]]  |
+|   | should come | [[LXX.Gen.49.10]] • [[LXX.Lev.25.22]] • [[LXX.Lev.25.25]] • [[LXX.Deut.29.22]] • [[LXX.Judg.4.20]] • [[LXX.Judg.13.17]] • [[LXX.1Sam.26.10]] • [[LXX.2Sam.7.14]] • [[LXX.2Kgs.5.6]] • [[LXX.2Kgs.6.32]] • [[LXX.Prov.18.3]] • [[LXX.Isa.32.15]] • [[LXX.Ezek.14.4]] • [[LXX.Ezek.14.7]] • [[LXX.Ezek.38.18]] • [[LXX.Mic.5.5]]  |
+|   | should it come | [[LXX.Isa.28.15]]  |
+|   | there should come | [[LXX.Eccl.9.14]]  |
+|   | these should come | [[LXX.Ezek.24.24]]  |
+| **<span class="asgreek">έλθετε</span>** | Come | [[LXX.Num.21.27]]  |
+| **<span class="asgreek">έλθατε</span>** | Come | [[LXX.Prov.9.5]]  |

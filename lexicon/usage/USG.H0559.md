@@ -1,0 +1,842 @@
+| Form | Translated&nbsp;As&emsp;&emsp;&emsp;&emsp; | In Verse(s) |
+|-  |-  |-  |
+| **<span class="ashebrew">תֹאמַר֮</span>** | you will say | [[Exod.3.15]]  |
+| **<span class="ashebrew">תֹאמַר֙</span>** | do you say | [[Isa.40.27]]  |
+|   | you will say | [[Exod.3.14]] • [[Exod.19.3]] • [[Deut.7.17]]  |
+| **<span class="ashebrew">תֹאמַ֨ר</span>** | it will say | [[Mal.1.4]]  |
+|   | you will say | [[Num.11.12]] • [[Ezek.33.27]]  |
+| **<span class="ashebrew">תֹאמַ֤ר</span>** | you will say | [[2Sam.11.25]]  |
+| **<span class="ashebrew">תֹאמַ֣ר</span>** | will you say | [[2Sam.2.26]]  |
+|   | you will say | [[1Kgs.12.10]] • [[Isa.36.7]]  |
+| **<span class="ashebrew">תֹאמַ֡ר</span>** | you will say | [[2Chr.10.10]]  |
+| **<span class="ashebrew">תֹאמַ֞ר</span>** | you will say | [[2Sam.7.8]] • [[1Chr.17.7]]  |
+| **<span class="ashebrew">תֹאמַ֗ר</span>** | you will say | [[Prov.24.12]]  |
+| **<span class="ashebrew">תֹאמַ֖ר</span>** | you will say | [[Exod.20.22]] • [[Deut.18.21]] • [[Jer.23.37]]  |
+| **<span class="ashebrew">תֹאמַ֔ר</span>** | you will say | [[Gen.14.23]]  |
+| **<span class="ashebrew">תֹאמֵֽר</span>** | she utters | [[Prov.1.21]]  |
+| **<span class="ashebrew">תֹאמְרֻ֖ן</span>** | you will say | [[Jer.21.3]]  |
+| **<span class="ashebrew">תֹאמְרִי֙</span>** | you will say | [[Jer.13.22]]  |
+| **<span class="ashebrew">תֹאמְר֣וּן</span>** | you must say | [[Isa.8.12]]  |
+|   | you will say | [[2Kgs.18.22]]  |
+| **<span class="ashebrew">תֹאמְר֣וּ</span>** | you will say | [[Gen.50.17]] • [[1Sam.18.25]]  |
+| **<span class="ashebrew">תֹאמְר֛וּ</span>** | you will say | [[Jer.23.35]]  |
+| **<span class="ashebrew">תֹאמְר֗וּן</span>** | you will say | [[2Kgs.19.10]] • [[Isa.37.10]]  |
+| **<span class="ashebrew">תֹאמְר֖וּן</span>** | you will say | [[2Kgs.19.6]] • [[Isa.37.6]]  |
+| **<span class="ashebrew">תֹאמְר֖וּ</span>** | you must say | [[Jer.23.38]]  |
+|   | you will say | [[2Kgs.22.18]] • [[2Chr.34.26]]  |
+| **<span class="ashebrew">תֹאמְר֔וּן</span>** | you will say | [[Gen.32.4]]  |
+| **<span class="ashebrew">תֹאמְר֔וּ</span>** | you will say | [[Lev.25.20]] • [[Jer.5.19]]  |
+| **<span class="ashebrew">תֹֽאמְרוּן֙</span>** | you will say | [[1Sam.11.9]]  |
+| **<span class="ashebrew">תֹֽאמְרוּ֙</span>** | will you say | [[Jer.8.8]]  |
+|   | you will say | [[Jer.37.7]]  |
+| **<span class="ashebrew">תֹֽאמְר֗וּ</span>** | you say | [[Job.21.28]]  |
+| **<span class="ashebrew">תֹֽאמְר֖וּ</span>** | you will say | [[Jer.27.4]]  |
+| **<span class="ashebrew">תֹּאמַרְנָה֮</span>** | they will say | [[Ps.35.10]]  |
+| **<span class="ashebrew">תֹּאמַר֙</span>** | will you say | [[Ezek.28.9]]  |
+|   | you say | [[Eccl.5.6]] • [[Eccl.7.10]]  |
+|   | you should say | [[Isa.48.5]]  |
+|   | you will say | [[Deut.28.67]]  |
+| **<span class="ashebrew">תֹּאמַר֒</span>** | you will say | [[Lev.20.2]]  |
+| **<span class="ashebrew">תֹּאמַ֥ר</span>** | it will say | [[1Sam.20.4]]  |
+|   | she says | [[Gen.21.12]]  |
+|   | you say | [[Prov.20.22]]  |
+|   | you will say | [[Num.22.17]] • [[2Kgs.10.5]] • [[Jer.29.24]]  |
+| **<span class="ashebrew">תֹּאמַ֣רְנָה</span>** | they will say | [[Esth.1.18]]  |
+| **<span class="ashebrew">תֹּאמַ֣ר</span>** | will you say | [[Judg.16.15]]  |
+|   | you say | [[Deut.9.4]]  |
+|   | you will say | [[2Chr.10.10]] • [[Jer.45.4]]  |
+| **<span class="ashebrew">תֹּאמַ֜ר</span>** | she said | [[Esth.2.13]]  |
+|   | you will say | [[Num.11.18]]  |
+| **<span class="ashebrew">תֹּאמַ֗ר</span>** | you say | [[Prov.24.29]]  |
+| **<span class="ashebrew">תֹּאמַ֖ר</span>** | it will say | [[Jer.51.35]]  |
+|   | she will say | [[Jer.51.35]]  |
+|   | you say | [[Jer.1.7]]  |
+|   | you should say | [[Isa.48.7]]  |
+|   | you will say | [[Deut.28.67]]  |
+| **<span class="ashebrew">תֹּאמַ֔ר</span>** | you said | [[Judg.9.38]]  |
+|   | you will say | [[Lev.17.8]] • [[Eccl.12.1]] • [[Jer.21.8]] • [[Jer.36.29]]  |
+| **<span class="ashebrew">תֹּאמֵרוּ֒</span>** | you will say | [[Jer.23.38]]  |
+| **<span class="ashebrew">תֹּאמֵ֑ר</span>** | you will say | [[1Kgs.5.6]]  |
+| **<span class="ashebrew">תֹּאמְרִ֞י</span>** | will you say | [[Jer.2.23]]  |
+| **<span class="ashebrew">תֹּאמְרִ֖י</span>** | you are saying | [[Ruth.3.11]]  |
+| **<span class="ashebrew">תֹּאמְר֥וּ</span>** | are you saying | [[Judg.18.24]]  |
+| **<span class="ashebrew">תֹּאמְר֣וּ</span>** | will you say | [[Ps.11.1]] • [[Isa.19.11]]  |
+| **<span class="ashebrew">תֹּאמְר֛וּ</span>** | you will say | [[Gen.34.11]]  |
+| **<span class="ashebrew">תֹּאמְר֖וּ</span>** | you will say | [[Gen.34.12]]  |
+| **<span class="ashebrew">תֹּֽמְר֔וּ</span>** | you will say | [[2Sam.19.13]]  |
+| **<span class="ashebrew">תֹּֽאמְרוּ֙</span>** | you will say | [[Mal.1.5]]  |
+| **<span class="ashebrew">תֹּֽאמְרִי֙</span>** | will you say | [[Jer.13.21]]  |
+| **<span class="ashebrew">תֹּֽאמְר֔וּ</span>** | will you say | [[Jer.48.14]]  |
+| **<span class="ashebrew">תֹּ֥אמַר</span>** | you will say | [[Isa.30.22]]  |
+| **<span class="ashebrew">תֹּ֣֭אמְרוּ</span>** | you should say | [[Job.32.13]]  |
+| **<span class="ashebrew">תֹּ֘אמַ֤ר</span>** | you say | [[Prov.3.28]]  |
+| **<span class="ashebrew">תֹ֭אמַר</span>** | you say | [[Job.35.3]]  |
+|   | you will say | [[Job.35.14]]  |
+| **<span class="ashebrew">תֹ֭אמְרוּ</span>** | you will say | [[Job.19.28]]  |
+| **<span class="ashebrew">שֶׁיֹּאמַ֥ר</span>** | that anyone will say | [[Eccl.1.10]]  |
+| **<span class="ashebrew">שֶׁיֹּֽאמְרוּ֙</span>** | that people said | [[Lam.2.15]]  |
+| **<span class="ashebrew">נֹאמַ֥ר</span>** | will we say | [[2Sam.12.18]]  |
+| **<span class="ashebrew">נֹּאמַר֙</span>** | will we say | [[Gen.44.16]]  |
+| **<span class="ashebrew">נֹּאמַ֥ר</span>** | will we say | [[Ezra.9.10]]  |
+| **<span class="ashebrew">נֹּ֣אמַר</span>** | will we say | [[Job.37.19]]  |
+| **<span class="ashebrew">נֹ֥אמַר</span>** | we will say | [[Hos.14.3]]  |
+| **<span class="ashebrew">נֶאֱמַ֖ר</span>** | it has been told | [[Dan.8.26]]  |
+| **<span class="ashebrew">לֵאמוֹר֒</span>** | saying | [[Gen.48.20]]  |
+| **<span class="ashebrew">לֵאמֽוֹר</span>** | saying | [[Jer.18.5]] • [[Jer.33.19]]  |
+| **<span class="ashebrew">לֵאמֹר֩</span>** | saying | [[1Kgs.21.2]] • [[2Chr.35.21]]  |
+| **<span class="ashebrew">לֵאמֹר֙</span>** | saying | [[Gen.43.3]] • [[Gen.47.15]] • [[Lev.10.3]] • [[Deut.29.19]] • [[Judg.16.18]] • [[2Sam.2.1]] • [[2Sam.3.13]] • [[2Sam.5.6]] • [[1Kgs.18.26]] • [[2Kgs.10.5]] • [[Isa.3.7]] • [[Jer.7.23]]  |
+|   | to say | [[2Sam.2.22]]  |
+| **<span class="ashebrew">לֵאמֹר֒</span>** | saying | [[Gen.44.1]] • [[Exod.36.6]] • [[Lev.4.2]] • [[Num.16.5]] • [[Deut.2.4]] • [[Deut.9.4]] • [[Deut.20.5]] • [[Josh.3.3]] • [[Josh.4.3]] • [[Josh.14.9]] • [[Judg.13.6]] • [[Judg.20.28]] • [[1Sam.7.3]] • [[1Sam.11.7]] • [[1Sam.17.26]] • [[2Sam.6.12]] • [[2Sam.19.11]] • [[1Kgs.1.47]] • [[1Kgs.2.4]] • [[1Kgs.12.10]] • [[2Kgs.5.22]] • [[2Kgs.14.9]] • [[2Kgs.17.26]] • [[2Chr.10.10]] • [[2Chr.25.18]] • [[Ezra.9.11]] • [[Neh.8.15]] • [[Isa.16.14]] • [[Isa.20.2]] • [[Jer.36.14]] • [[Jer.44.25]]  |
+|   | to say | [[Isa.44.19]]  |
+| **<span class="ashebrew">לֵאמֹֽר</span>** | saying | [[Gen.8.15]] • [[Gen.9.8]] • [[Gen.17.3]] • [[Gen.23.3]] • [[Gen.23.10]] • [[Gen.27.6]] • [[Gen.34.20]] • [[Gen.42.29]] • [[Gen.50.4]] • [[Gen.50.16]] • [[Exod.5.6]] • [[Exod.7.8]] • [[Exod.12.1]] • [[Exod.20.1]] • [[Exod.35.4]] • [[Lev.1.1]] • [[Lev.10.8]] • [[Lev.10.16]] • [[Lev.13.1]] • [[Lev.14.33]] • [[Lev.15.1]] • [[Lev.17.2]] • [[Lev.25.1]] • [[Num.1.1]] • [[Num.2.1]] • [[Num.3.14]] • [[Num.4.1]] • [[Num.4.17]] • [[Num.9.1]] • [[Num.14.15]] • [[Num.14.17]] • [[Num.14.26]] • [[Num.16.20]] • [[Num.19.1]] • [[Num.20.23]] • [[Num.21.21]] • [[Num.24.12]] • [[Num.26.1]] • [[Num.26.3]] • [[Num.27.2]] • [[Num.27.15]] • [[Num.32.2]] • [[Num.32.10]] • [[Num.33.50]] • [[Num.35.1]] • [[Deut.1.5]] • [[Deut.1.34]] • [[Deut.2.2]] • [[Deut.2.17]] • [[Deut.2.26]] • [[Deut.3.23]] • [[Deut.5.5]] • [[Deut.13.12]] • [[Deut.27.11]] • [[Deut.31.25]] • [[Deut.32.48]] • [[Josh.1.1]] • [[Josh.1.10]] • [[Josh.1.12]] • [[Josh.4.1]] • [[Josh.4.15]] • [[Josh.10.3]] • [[Josh.20.1]] • [[Josh.22.15]] • [[Judg.5.1]] • [[Judg.9.1]] • [[1Sam.9.15]] • [[1Sam.15.10]] • [[2Sam.7.4]] • [[2Sam.24.11]] • [[1Kgs.2.1]] • [[1Kgs.5.2]] • [[1Kgs.6.11]] • [[1Kgs.8.15]] • [[1Kgs.8.55]] • [[1Kgs.12.3]] • [[1Kgs.12.22]] • [[1Kgs.12.23]] • [[1Kgs.15.18]] • [[1Kgs.16.1]] • [[1Kgs.17.2]] • [[1Kgs.17.8]] • [[1Kgs.21.17]] • [[1Kgs.21.28]] • [[2Kgs.10.1]] • [[2Kgs.19.9]] • [[2Kgs.20.2]] • [[2Kgs.20.4]] • [[2Kgs.21.10]] • [[2Kgs.22.3]] • [[2Kgs.22.12]] • [[1Chr.17.3]] • [[1Chr.21.9]] • [[2Chr.6.4]] • [[2Chr.10.3]] • [[2Chr.11.2]] • [[2Chr.11.3]] • [[2Chr.16.2]] • [[2Chr.20.8]] • [[2Chr.32.6]] • [[2Chr.32.9]] • [[2Chr.34.20]] • [[2Chr.36.22]] • [[Ezra.1.1]] • [[Isa.7.5]] • [[Isa.7.10]] • [[Isa.8.5]] • [[Isa.8.11]] • [[Isa.9.9]] • [[Isa.37.9]] • [[Isa.37.15]] • [[Isa.38.4]] • [[Jer.1.4]] • [[Jer.2.1]] • [[Jer.5.20]] • [[Jer.7.1]] • [[Jer.11.1]] • [[Jer.13.3]] • [[Jer.13.8]] • [[Jer.16.1]] • [[Jer.18.1]] • [[Jer.21.1]] • [[Jer.24.4]] • [[Jer.25.2]] • [[Jer.26.1]] • [[Jer.26.17]] • [[Jer.27.1]] • [[Jer.28.1]] • [[Jer.28.12]] • [[Jer.29.3]] • [[Jer.29.24]] • [[Jer.29.25]] • [[Jer.29.30]] • [[Jer.30.1]] • [[Jer.32.6]] • [[Jer.32.13]] • [[Jer.32.16]] • [[Jer.32.26]] • [[Jer.33.1]] • [[Jer.33.23]] • [[Jer.34.1]] • [[Jer.34.12]] • [[Jer.34.13]] • [[Jer.35.1]] • [[Jer.35.12]] • [[Jer.36.1]] • [[Jer.36.27]] • [[Jer.37.6]] • [[Jer.38.1]] • [[Jer.38.8]] • [[Jer.39.11]] • [[Jer.39.15]] • [[Jer.43.8]] • [[Jer.44.1]] • [[Jer.44.15]] • [[Jer.44.20]] • [[Jer.45.1]] • [[Jer.49.34]] • [[Ezek.3.16]] • [[Ezek.6.1]] • [[Ezek.7.1]] • [[Ezek.11.14]] • [[Ezek.12.1]] • [[Ezek.12.8]] • [[Ezek.12.17]] • [[Ezek.12.21]] • [[Ezek.12.26]] • [[Ezek.13.1]] • [[Ezek.14.2]] • [[Ezek.14.12]] • [[Ezek.15.1]] • [[Ezek.16.1]] • [[Ezek.17.1]] • [[Ezek.17.11]] • [[Ezek.18.1]] • [[Ezek.20.2]] • [[Ezek.20.45]] • [[Ezek.21.1]] • [[Ezek.21.8]] • [[Ezek.21.18]] • [[Ezek.22.1]] • [[Ezek.22.17]] • [[Ezek.22.23]] • [[Ezek.23.1]] • [[Ezek.24.1]] • [[Ezek.24.15]] • [[Ezek.24.20]] • [[Ezek.25.1]] • [[Ezek.26.1]] • [[Ezek.27.1]] • [[Ezek.28.1]] • [[Ezek.28.11]] • [[Ezek.28.20]] • [[Ezek.29.1]] • [[Ezek.29.17]] • [[Ezek.30.1]] • [[Ezek.30.20]] • [[Ezek.31.1]] • [[Ezek.32.1]] • [[Ezek.32.17]] • [[Ezek.33.1]] • [[Ezek.33.23]] • [[Ezek.34.1]] • [[Ezek.35.1]] • [[Ezek.36.16]] • [[Ezek.37.15]] • [[Ezek.38.1]] • [[Amos.3.1]] • [[Jonah.1.1]] • [[Jonah.3.1]] • [[Hag.1.1]] • [[Hag.1.3]] • [[Hag.2.1]] • [[Hag.2.2]] • [[Hag.2.10]] • [[Hag.2.11]] • [[Hag.2.20]] • [[Zech.1.1]] • [[Zech.1.7]] • [[Zech.3.6]] • [[Zech.4.8]] • [[Zech.6.9]] • [[Zech.7.4]] • [[Zech.7.8]] • [[Zech.8.1]] • [[Zech.8.18]]  |
+| **<span class="ashebrew">לֵאמֹ֨ר</span>** | saying | [[Deut.12.30]]  |
+| **<span class="ashebrew">לֵאמֹ֥ר</span>** | saying | [[Gen.23.5]] • [[Gen.23.14]] • [[Lev.11.1]] • [[Ezek.13.10]]  |
+| **<span class="ashebrew">לֵאמֹ֤ר</span>** | saying | [[2Kgs.18.14]]  |
+|   | to say | [[Isa.49.9]]  |
+| **<span class="ashebrew">לֵאמֹ֣ר</span>** | saying | [[Exod.13.14]] • [[1Kgs.13.4]] • [[Neh.8.11]] • [[Ezek.35.12]]  |
+|   | to say | [[Gen.26.7]] • [[1Chr.21.18]]  |
+|   | to speak | [[Esth.6.4]]  |
+| **<span class="ashebrew">לֵאמֹ֡ר</span>** | saying | [[2Sam.14.32]] • [[1Kgs.12.16]] • [[2Chr.10.16]] • [[Jer.3.1]] • [[Jer.35.15]]  |
+| **<span class="ashebrew">לֵאמֹ֜ר</span>** | saying | [[Judg.11.17]] • [[2Sam.4.10]] • [[Jer.26.18]]  |
+| **<span class="ashebrew">לֵאמֹ֛ר</span>** | saying | [[Gen.18.15]] • [[Gen.42.22]] • [[1Sam.28.12]] • [[2Chr.12.7]]  |
+| **<span class="ashebrew">לֵאמֹ֗ר</span>** | saying | [[Gen.18.13]] • [[Gen.31.29]] • [[Gen.42.22]] • [[Gen.43.7]] • [[Gen.45.26]] • [[Gen.50.5]] • [[Exod.11.8]] • [[Exod.16.12]] • [[Exod.32.12]] • [[Num.11.18]] • [[Num.16.26]] • [[Num.22.5]] • [[Deut.1.28]] • [[Deut.15.9]] • [[Deut.22.17]] • [[Josh.6.10]] • [[Josh.8.4]] • [[Josh.9.11]] • [[Josh.9.22]] • [[Josh.18.8]] • [[Josh.22.8]] • [[Judg.6.13]] • [[Judg.7.24]] • [[Judg.8.15]] • [[Judg.15.13]] • [[Judg.16.2]] • [[Judg.21.10]] • [[Ruth.2.15]] • [[Ruth.4.4]] • [[1Sam.5.10]] • [[1Sam.13.4]] • [[1Sam.14.24]] • [[1Sam.15.12]] • [[2Sam.3.12]] • [[2Sam.3.35]] • [[2Sam.13.28]] • [[2Sam.14.32]] • [[2Sam.17.6]] • [[2Sam.17.16]] • [[2Sam.19.8]] • [[2Sam.21.17]] • [[1Kgs.12.7]] • [[1Kgs.12.10]] • [[1Kgs.13.18]] • [[1Kgs.21.19]] • [[1Kgs.21.19]] • [[2Kgs.3.7]] • [[2Kgs.4.1]] • [[2Kgs.6.8]] • [[2Kgs.8.1]] • [[2Kgs.8.6]] • [[2Kgs.10.6]] • [[2Kgs.14.6]] • [[2Kgs.16.15]] • [[2Kgs.17.13]] • [[2Kgs.17.27]] • [[1Chr.4.10]] • [[1Chr.16.18]] • [[1Chr.21.10]] • [[2Chr.10.7]] • [[2Chr.10.10]] • [[2Chr.25.4]] • [[2Chr.32.17]] • [[Ezra.8.22]] • [[Neh.6.7]] • [[Ps.105.11]] • [[Jer.2.2]] • [[Jer.11.4]] • [[Jer.18.11]] • [[Jer.25.5]] • [[Jer.26.9]] • [[Jer.27.16]] • [[Jer.28.11]] • [[Jer.28.13]] • [[Jer.32.3]] • [[Jer.36.29]] • [[Jer.39.16]] • [[Jer.40.15]] • [[Jer.42.14]] • [[Jer.44.25]] • [[Amos.8.5]] • [[Zech.1.4]] • [[Zech.1.17]] • [[Zech.1.21]] • [[Zech.8.21]] • [[Zech.8.23]]  |
+|   | to say | [[Deut.30.12]] • [[Deut.30.13]] • [[Zech.7.3]]  |
+| **<span class="ashebrew">לֵאמֹ֖ר</span>** | saying | [[Gen.26.20]] • [[Gen.37.15]] • [[Gen.39.12]] • [[Gen.41.16]] • [[Gen.42.14]] • [[Judg.21.5]] • [[1Sam.9.24]] • [[1Sam.24.8]] • [[2Sam.3.12]] • [[1Kgs.1.5]] • [[1Kgs.2.29]] • [[2Kgs.6.13]] • [[2Kgs.7.14]] • [[2Kgs.18.36]] • [[Isa.29.11]] • [[Isa.29.12]] • [[Isa.36.21]] • [[Jer.6.14]] • [[Jer.8.6]] • [[Jer.8.11]] • [[Jer.26.8]] • [[Jer.29.28]] • [[Ezek.33.21]]  |
+| **<span class="ashebrew">לֵאמֹ֕ר</span>** | saying | [[1Kgs.2.4]]  |
+| **<span class="ashebrew">לֵאמֹ֔ר</span>** | saying | [[Gen.3.17]] • [[Gen.15.4]] • [[Gen.23.13]] • [[Gen.24.7]] • [[Gen.24.30]] • [[Gen.28.6]] • [[Gen.31.1]] • [[Gen.32.4]] • [[Gen.32.17]] • [[Gen.38.21]] • [[Gen.38.25]] • [[Gen.38.28]] • [[Gen.39.14]] • [[Gen.39.19]] • [[Gen.41.15]] • [[Gen.42.28]] • [[Gen.42.37]] • [[Gen.45.16]] • [[Gen.48.20]] • [[Exod.5.8]] • [[Exod.7.9]] • [[Exod.12.3]] • [[Exod.13.19]] • [[Exod.14.12]] • [[Exod.17.4]] • [[Exod.17.7]] • [[Exod.19.3]] • [[Exod.19.12]] • [[Exod.19.23]] • [[Exod.31.13]] • [[Exod.33.1]] • [[Lev.6.9]] • [[Lev.6.25]] • [[Lev.8.31]] • [[Lev.12.2]] • [[Num.6.23]] • [[Num.11.13]] • [[Num.11.20]] • [[Num.20.3]] • [[Num.23.26]] • [[Num.31.3]] • [[Num.36.6]] • [[Deut.9.23]] • [[Deut.15.11]] • [[Deut.34.4]] • [[Josh.1.11]] • [[Josh.2.1]] • [[Josh.3.6]] • [[Josh.4.6]] • [[Josh.4.21]] • [[Josh.7.2]] • [[Josh.10.6]] • [[Josh.17.4]] • [[Josh.21.2]] • [[Josh.22.24]] • [[Judg.7.2]] • [[Judg.7.3]] • [[Judg.16.2]] • [[Judg.19.22]] • [[Judg.20.23]] • [[Judg.21.18]] • [[Ruth.4.17]] • [[1Sam.4.21]] • [[1Sam.6.2]] • [[1Sam.9.26]] • [[1Sam.10.2]] • [[1Sam.13.3]] • [[1Sam.14.28]] • [[1Sam.14.33]] • [[1Sam.18.22]] • [[1Sam.19.2]] • [[1Sam.19.11]] • [[1Sam.20.42]] • [[1Sam.21.11]] • [[1Sam.23.2]] • [[1Sam.24.1]] • [[1Sam.25.40]] • [[1Sam.26.6]] • [[1Sam.26.14]] • [[1Sam.26.19]] • [[1Sam.27.11]] • [[1Sam.30.8]] • [[2Sam.1.16]] • [[2Sam.2.4]] • [[2Sam.3.18]] • [[2Sam.3.23]] • [[2Sam.5.1]] • [[2Sam.5.6]] • [[2Sam.5.19]] • [[2Sam.7.26]] • [[2Sam.7.27]] • [[2Sam.11.10]] • [[2Sam.13.33]] • [[2Sam.15.31]] • [[2Sam.18.5]] • [[2Sam.18.12]] • [[2Sam.19.2]] • [[2Sam.19.11]] • [[2Sam.20.18]] • [[2Sam.24.1]] • [[1Kgs.1.6]] • [[1Kgs.1.11]] • [[1Kgs.1.13]] • [[1Kgs.1.23]] • [[1Kgs.1.30]] • [[1Kgs.1.51]] • [[1Kgs.1.51]] • [[1Kgs.2.8]] • [[1Kgs.2.30]] • [[1Kgs.2.39]] • [[1Kgs.2.42]] • [[1Kgs.5.5]] • [[1Kgs.5.8]] • [[1Kgs.8.25]] • [[1Kgs.8.47]] • [[1Kgs.9.5]] • [[1Kgs.12.9]] • [[1Kgs.12.12]] • [[1Kgs.12.14]] • [[1Kgs.13.3]] • [[1Kgs.13.9]] • [[1Kgs.13.21]] • [[1Kgs.13.27]] • [[1Kgs.13.31]] • [[1Kgs.16.16]] • [[1Kgs.18.31]] • [[1Kgs.20.5]] • [[1Kgs.20.17]] • [[1Kgs.21.10]] • [[1Kgs.21.13]] • [[1Kgs.22.13]] • [[1Kgs.22.31]] • [[2Kgs.4.31]] • [[2Kgs.5.8]] • [[2Kgs.6.9]] • [[2Kgs.6.26]] • [[2Kgs.7.10]] • [[2Kgs.7.12]] • [[2Kgs.8.7]] • [[2Kgs.8.8]] • [[2Kgs.8.9]] • [[2Kgs.9.12]] • [[2Kgs.9.18]] • [[2Kgs.9.20]] • [[2Kgs.10.8]] • [[2Kgs.11.5]] • [[2Kgs.14.9]] • [[2Kgs.15.12]] • [[2Kgs.16.7]] • [[2Kgs.17.35]] • [[2Kgs.18.30]] • [[2Kgs.18.32]] • [[2Kgs.19.9]] • [[2Kgs.19.10]] • [[2Kgs.22.10]] • [[2Kgs.23.21]] • [[1Chr.4.9]] • [[1Chr.12.19]] • [[1Chr.14.10]] • [[1Chr.17.24]] • [[1Chr.22.8]] • [[2Chr.6.16]] • [[2Chr.6.37]] • [[2Chr.7.18]] • [[2Chr.10.9]] • [[2Chr.10.12]] • [[2Chr.10.14]] • [[2Chr.18.12]] • [[2Chr.18.30]] • [[2Chr.20.2]] • [[2Chr.25.7]] • [[2Chr.25.18]] • [[2Chr.30.18]] • [[2Chr.32.12]] • [[2Chr.34.18]] • [[Ezra.9.1]] • [[Neh.6.2]] • [[Neh.6.3]] • [[Neh.6.8]] • [[Neh.6.9]] • [[Eccl.1.16]] • [[Isa.4.1]] • [[Isa.7.2]] • [[Isa.36.15]] • [[Isa.36.18]] • [[Isa.37.9]] • [[Isa.37.10]] • [[Isa.56.3]] • [[Jer.1.11]] • [[Jer.1.13]] • [[Jer.4.10]] • [[Jer.20.15]] • [[Jer.23.33]] • [[Jer.23.38]] • [[Jer.27.9]] • [[Jer.27.14]] • [[Jer.27.16]] • [[Jer.29.31]] • [[Jer.31.34]] • [[Jer.33.24]] • [[Jer.35.6]] • [[Jer.36.29]] • [[Jer.37.9]] • [[Jer.37.13]] • [[Jer.40.9]] • [[Jer.42.20]] • [[Jer.43.2]] • [[Ezek.9.1]] • [[Ezek.10.6]] • [[Ezek.20.5]] • [[Ezek.33.10]] • [[Ezek.33.24]] • [[Ezek.33.30]] • [[Amos.2.12]] • [[Mic.3.11]] • [[Zech.1.14]] • [[Zech.3.4]] • [[Zech.4.6]] • [[Zech.4.13]] • [[Zech.6.12]]  |
+|   | to say | [[Exod.7.16]]  |
+| **<span class="ashebrew">לֵאמֹ֑ר</span>** | saying | [[Gen.1.22]] • [[Gen.2.16]] • [[Gen.5.29]] • [[Gen.15.1]] • [[Gen.15.18]] • [[Gen.18.12]] • [[Gen.19.15]] • [[Gen.21.22]] • [[Gen.22.20]] • [[Gen.23.8]] • [[Gen.24.37]] • [[Gen.26.11]] • [[Gen.27.6]] • [[Gen.28.20]] • [[Gen.30.24]] • [[Gen.32.6]] • [[Gen.32.17]] • [[Gen.32.19]] • [[Gen.34.4]] • [[Gen.34.8]] • [[Gen.38.13]] • [[Gen.39.17]] • [[Gen.40.7]] • [[Gen.41.9]] • [[Gen.43.3]] • [[Gen.44.19]] • [[Gen.44.32]] • [[Gen.47.5]] • [[Gen.50.4]] • [[Gen.50.16]] • [[Gen.50.25]] • [[Exod.1.22]] • [[Exod.3.16]] • [[Exod.5.10]] • [[Exod.5.13]] • [[Exod.5.14]] • [[Exod.5.15]] • [[Exod.5.19]] • [[Exod.6.12]] • [[Exod.9.5]] • [[Exod.13.8]] • [[Exod.15.1]] • [[Exod.30.31]] • [[Exod.35.4]] • [[Lev.7.23]] • [[Lev.7.29]] • [[Lev.9.3]] • [[Lev.11.2]] • [[Lev.14.35]] • [[Lev.21.17]] • [[Lev.23.24]] • [[Lev.23.34]] • [[Lev.24.15]] • [[Num.9.10]] • [[Num.12.13]] • [[Num.13.32]] • [[Num.14.7]] • [[Num.14.40]] • [[Num.16.24]] • [[Num.16.41]] • [[Num.17.12]] • [[Num.19.2]] • [[Num.27.8]] • [[Num.30.1]] • [[Num.32.25]] • [[Num.32.31]] • [[Num.34.13]] • [[Num.36.5]] • [[Deut.1.6]] • [[Deut.1.9]] • [[Deut.1.16]] • [[Deut.1.37]] • [[Deut.3.18]] • [[Deut.3.21]] • [[Deut.6.20]] • [[Deut.9.13]] • [[Deut.13.2]] • [[Deut.13.6]] • [[Deut.13.13]] • [[Deut.18.16]] • [[Deut.19.7]] • [[Deut.27.1]] • [[Deut.27.9]] • [[Deut.31.10]] • [[Josh.1.13]] • [[Josh.1.16]] • [[Josh.2.2]] • [[Josh.2.3]] • [[Josh.3.8]] • [[Josh.4.17]] • [[Josh.4.21]] • [[Josh.4.22]] • [[Josh.6.26]] • [[Josh.9.22]] • [[Josh.10.17]] • [[Josh.17.14]] • [[Josh.17.17]] • [[Josh.20.2]] • [[Josh.22.11]] • [[Josh.22.24]] • [[Judg.1.1]] • [[Judg.6.32]] • [[Judg.8.9]] • [[Judg.9.31]] • [[Judg.10.10]] • [[Judg.11.12]] • [[Judg.20.8]] • [[Judg.20.12]] • [[Judg.21.1]] • [[Judg.21.20]] • [[1Sam.6.21]] • [[1Sam.16.22]] • [[1Sam.17.27]] • [[1Sam.18.24]] • [[1Sam.19.15]] • [[1Sam.19.19]] • [[1Sam.23.1]] • [[1Sam.23.19]] • [[1Sam.23.27]] • [[1Sam.24.9]] • [[1Sam.25.14]] • [[1Sam.26.1]] • [[1Sam.27.11]] • [[1Sam.27.12]] • [[1Sam.28.10]] • [[1Sam.29.5]] • [[1Sam.30.26]] • [[2Sam.3.14]] • [[2Sam.3.17]] • [[2Sam.7.7]] • [[2Sam.11.15]] • [[2Sam.11.19]] • [[2Sam.13.7]] • [[2Sam.13.30]] • [[2Sam.15.8]] • [[2Sam.15.10]] • [[2Sam.15.13]] • [[2Sam.19.9]] • [[2Sam.20.18]] • [[1Kgs.2.23]] • [[1Kgs.12.6]] • [[1Kgs.18.1]] • [[1Kgs.19.2]] • [[1Kgs.20.5]] • [[1Kgs.21.9]] • [[1Kgs.21.14]] • [[1Kgs.21.23]] • [[1Kgs.22.12]] • [[1Kgs.22.36]] • [[2Kgs.5.4]] • [[2Kgs.5.6]] • [[2Kgs.5.10]] • [[2Kgs.7.18]] • [[2Kgs.8.4]] • [[2Kgs.9.36]] • [[2Kgs.14.8]] • [[2Kgs.19.10]] • [[2Kgs.19.20]] • [[1Chr.11.1]] • [[1Chr.13.12]] • [[1Chr.17.6]] • [[2Chr.2.3]] • [[2Chr.10.6]] • [[2Chr.18.11]] • [[2Chr.19.9]] • [[2Chr.20.37]] • [[2Chr.21.12]] • [[2Chr.25.17]] • [[2Chr.30.6]] • [[2Chr.32.4]] • [[2Chr.32.11]] • [[2Chr.34.16]] • [[Neh.1.8]] • [[Isa.14.24]] • [[Isa.19.25]] • [[Isa.23.4]] • [[Isa.30.21]] • [[Isa.37.10]] • [[Isa.37.21]] • [[Jer.7.4]] • [[Jer.11.6]] • [[Jer.11.7]] • [[Jer.11.21]] • [[Jer.23.25]] • [[Jer.26.11]] • [[Jer.26.12]] • [[Jer.27.4]] • [[Jer.27.12]] • [[Jer.28.2]] • [[Jer.29.22]] • [[Jer.29.25]] • [[Jer.30.2]] • [[Jer.32.3]] • [[Jer.32.7]] • [[Jer.36.5]] • [[Jer.36.17]] • [[Jer.37.3]] • [[Jer.37.19]] • [[Jer.38.10]] • [[Jer.38.16]] • [[Jer.44.4]] • [[Ezek.9.11]] • [[Ezek.12.22]] • [[Ezek.16.44]] • [[Ezek.18.2]] • [[Ezek.37.18]] • [[Amos.7.10]] • [[Jonah.3.7]] • [[Hag.1.2]] • [[Hag.1.13]] • [[Hag.2.21]] • [[Zech.2.4]] • [[Zech.4.4]] • [[Zech.4.6]] • [[Zech.6.8]] • [[Zech.6.12]] • [[Zech.7.3]] • [[Zech.7.5]] • [[Zech.7.9]]  |
+| **<span class="ashebrew">לֵֽאמֹר֙</span>** | saying | [[Gen.38.24]]  |
+| **<span class="ashebrew">לֵּאמֹֽר</span>** | say | [[Num.25.16]]  |
+|   | saying | [[Exod.6.10]] • [[Exod.13.1]] • [[Exod.14.1]] • [[Exod.16.11]] • [[Exod.25.1]] • [[Exod.30.11]] • [[Exod.30.17]] • [[Exod.30.22]] • [[Exod.31.1]] • [[Exod.31.12]] • [[Exod.40.1]] • [[Lev.4.1]] • [[Lev.5.14]] • [[Lev.6.1]] • [[Lev.6.8]] • [[Lev.6.19]] • [[Lev.6.24]] • [[Lev.7.22]] • [[Lev.7.28]] • [[Lev.8.1]] • [[Lev.12.1]] • [[Lev.14.1]] • [[Lev.17.1]] • [[Lev.18.1]] • [[Lev.19.1]] • [[Lev.20.1]] • [[Lev.21.16]] • [[Lev.22.1]] • [[Lev.22.17]] • [[Lev.22.26]] • [[Lev.23.1]] • [[Lev.23.9]] • [[Lev.23.23]] • [[Lev.23.26]] • [[Lev.23.33]] • [[Lev.24.1]] • [[Lev.24.13]] • [[Lev.27.1]] • [[Num.1.48]] • [[Num.3.5]] • [[Num.3.11]] • [[Num.3.44]] • [[Num.4.21]] • [[Num.5.1]] • [[Num.5.5]] • [[Num.5.11]] • [[Num.6.1]] • [[Num.6.22]] • [[Num.7.4]] • [[Num.8.1]] • [[Num.8.5]] • [[Num.8.23]] • [[Num.9.9]] • [[Num.10.1]] • [[Num.13.1]] • [[Num.15.1]] • [[Num.15.17]] • [[Num.15.37]] • [[Num.16.23]] • [[Num.16.36]] • [[Num.16.44]] • [[Num.17.1]] • [[Num.18.25]] • [[Num.20.7]] • [[Num.25.10]] • [[Num.26.52]] • [[Num.27.6]] • [[Num.28.1]] • [[Num.31.1]] • [[Num.31.25]] • [[Num.34.1]] • [[Num.34.16]] • [[Num.35.9]]  |
+| **<span class="ashebrew">לֵּאמֹ֖ר</span>** | saying | [[Exod.6.29]] • [[Exod.15.24]]  |
+| **<span class="ashebrew">לֵּאמֹ֔ר</span>** | saying | [[Exod.36.5]]  |
+| **<span class="ashebrew">לֵ֭אמֹר</span>** | saying | [[Job.24.15]] • [[Ps.71.11]]  |
+| **<span class="ashebrew">לֵ֝אמֹ֗ר</span>** | saying | [[Ps.119.82]]  |
+| **<span class="ashebrew">כֶּאֱמֹ֣ר</span>** | when had said | [[Josh.6.8]]  |
+| **<span class="ashebrew">כְּאָמְרָ֤ם</span>** | just as spoke they | [[Esth.3.4]]  |
+| **<span class="ashebrew">יֹאמַר֙</span>** | anyone will say | [[Exod.22.9]]  |
+|   | he say | [[Isa.56.3]]  |
+|   | he will say | [[Exod.21.5]] • [[Isa.44.5]]  |
+| **<span class="ashebrew">יֹאמַר</span>** | let him say | [[1Sam.16.16]]  |
+| **<span class="ashebrew">יֹאמַ֨ר</span>** | it will say | [[Isa.29.16]]  |
+| **<span class="ashebrew">יֹאמַ֧ר</span>** | he will say | [[1Kgs.22.14]]  |
+| **<span class="ashebrew">יֹאמַ֥ר</span>** | he say | [[2Chr.18.7]]  |
+|   | he says | [[Exod.8.27]] • [[Isa.41.6]]  |
+|   | he speak | [[1Kgs.22.8]]  |
+|   | he will say | [[Gen.41.55]] • [[2Chr.18.13]] • [[Isa.33.24]] • [[Hos.2.23]]  |
+|   | will he say | [[Job.9.12]]  |
+| **<span class="ashebrew">יֹאמַ֤ר</span>** | he say | [[2Sam.13.32]]  |
+|   | he will say | [[Eccl.8.17]]  |
+| **<span class="ashebrew">יֹאמַ֣ר</span>** | he say | [[Isa.56.3]]  |
+|   | he says | [[Ps.12.5]] • [[Prov.20.14]] • [[Isa.1.11]] • [[Isa.1.18]] • [[Isa.33.10]] • [[Isa.41.21]] • [[Isa.66.9]]  |
+|   | he should say | [[Ps.13.4]]  |
+|   | he will say | [[Deut.15.16]]  |
+|   | may he say | [[1Kgs.1.36]]  |
+| **<span class="ashebrew">יֹאמַ֜ר</span>** | he will say | [[Jer.42.20]]  |
+| **<span class="ashebrew">יֹאמַ֛ר</span>** | he said | [[Esth.2.15]]  |
+|   | he will say | [[1Sam.20.7]]  |
+|   | it is saying | [[Isa.8.12]]  |
+| **<span class="ashebrew">יֹאמַ֗ר</span>** | he said | [[Gen.31.8]] • [[Gen.31.8]]  |
+|   | he says | [[Job.37.6]]  |
+|   | it says | [[1Sam.24.13]]  |
+| **<span class="ashebrew">יֹאמַ֖ר</span>** | he says | [[Isa.40.1]] • [[Isa.40.25]] • [[Isa.41.21]]  |
+|   | he will say | [[Deut.5.27]] • [[Jer.23.34]]  |
+|   | it will say | [[Zech.13.9]]  |
+|   | let him say | [[Joel.3.10]]  |
+| **<span class="ashebrew">יֹאמַ֔ר</span>** | he will say | [[Gen.43.7]] • [[2Sam.15.26]] • [[Isa.44.20]] • [[Zech.11.5]]  |
+|   | will he say | [[2Sam.16.10]]  |
+| **<span class="ashebrew">יֹאמַ֑ר</span>** | he said | [[Num.10.36]] • [[Isa.10.8]]  |
+| **<span class="ashebrew">יֹאמֵ֑רוּ</span>** | people say | [[Jer.5.2]]  |
+|   | they will tell | [[Ps.145.6]] • [[Ps.145.11]]  |
+| **<span class="ashebrew">יֹאמְרוּ֮</span>** | they will say | [[Prov.1.11]]  |
+| **<span class="ashebrew">יֹאמְר֨וּ</span>** | they will say | [[Josh.22.24]] • [[Josh.22.27]]  |
+|   | will they say | [[Exod.32.12]]  |
+| **<span class="ashebrew">יֹאמְר֥וּ</span>** | they say | [[Num.21.27]]  |
+|   | they will say | [[Exod.12.26]] • [[Deut.17.11]] • [[Josh.22.28]] • [[Job.20.7]] • [[Jer.15.2]]  |
+| **<span class="ashebrew">יֹאמְר֣וּ</span>** | may they say | [[Ps.40.16]]  |
+|   | people said | [[Ps.126.2]]  |
+|   | people will say | [[Jer.31.29]] • [[Amos.5.16]]  |
+|   | they say | [[Ps.35.25]]  |
+|   | they speak | [[Ps.41.5]]  |
+|   | they will say | [[Isa.8.19]] • [[Isa.49.20]] • [[Ezek.21.7]] • [[Ezek.37.18]] • [[Ezek.38.13]]  |
+|   | will people say | [[Joel.2.17]]  |
+|   | will they say | [[Ps.79.10]] • [[Ps.115.2]]  |
+| **<span class="ashebrew">יֹאמְר֞וּ</span>** | people will say | [[Jer.31.23]]  |
+|   | they said | [[Judg.12.5]]  |
+| **<span class="ashebrew">יֹאמְר֜וּ</span>** | they will say | [[1Sam.14.10]]  |
+| **<span class="ashebrew">יֹאמְר֗וּ</span>** | they should say | [[Deut.9.28]]  |
+| **<span class="ashebrew">יֹאמְר֖וּ</span>** | people will say | [[2Kgs.9.37]]  |
+|   | they will say | [[1Sam.8.7]]  |
+| **<span class="ashebrew">יֹֽאמַר</span>** | let it say | [[Ps.118.2]] • [[Ps.124.1]] • [[Ps.129.1]]  |
+|   | will he say | [[Eccl.8.4]]  |
+| **<span class="ashebrew">יֹֽאמְרוּ֙</span>** | they say | [[Hos.7.2]]  |
+|   | they should say | [[Deut.32.27]]  |
+|   | they will say | [[1Sam.14.9]]  |
+|   | they will speak | [[Isa.8.20]]  |
+| **<span class="ashebrew">יֹֽאמְרוּ</span>** | let them say | [[Ps.118.3]] • [[Ps.118.4]]  |
+| **<span class="ashebrew">יֹֽאמְר֔וּ</span>** | people say | [[1Sam.19.24]] • [[2Sam.5.8]]  |
+|   | they say | [[Lam.2.12]]  |
+|   | they will say | [[Exod.4.1]] • [[Josh.8.6]] • [[Jer.2.27]] • [[Hos.10.3]]  |
+| **<span class="ashebrew">יֹּ֥אמַר</span>** | will he say | [[Job.23.5]]  |
+| **<span class="ashebrew">יֹ֭אמַר</span>** | will he say | [[Prov.20.9]]  |
+| **<span class="ashebrew">יֹ֭אמְרוּ</span>** | let them say | [[Ps.107.2]]  |
+| **<span class="ashebrew">יֹ֭אמְרֻךָ</span>** | they speak of you | [[Ps.139.20]]  |
+| **<span class="ashebrew">יֹ֥אמְרוּ</span>** | people should say | [[Judg.9.54]]  |
+| **<span class="ashebrew">יֹ֤אמְרוּ</span>** | people will say | [[Jer.23.7]]  |
+| **<span class="ashebrew">יֹ֣אמַר</span>** | he says | [[Prov.23.7]]  |
+| **<span class="ashebrew">יֹ֣אמְרוּ</span>** | people will say | [[Jer.3.16]]  |
+|   | they will say | [[Job.34.34]]  |
+|   | will they say | [[Job.8.10]]  |
+| **<span class="ashebrew">יֹ֝אמְר֗וּ</span>** | they say | [[Ps.35.25]]  |
+| **<span class="ashebrew">יֹ֘אמַ֤ר</span>** | it says | [[Job.39.25]]  |
+| **<span class="ashebrew">יֵאָמַ֗ר</span>** | it will be said | [[Ps.87.5]]  |
+| **<span class="ashebrew">יֵאָמֵר֩</span>** | it will be said | [[Isa.62.4]]  |
+| **<span class="ashebrew">יֵאָמֵ֨ר</span>** | it will be said | [[Jer.7.32]]  |
+| **<span class="ashebrew">יֵאָמֵ֥ר</span>** | it will be called | [[Gen.32.28]]  |
+|   | it will be said | [[Isa.62.4]] • [[Jer.16.14]] • [[Hos.1.10]] • [[Zeph.3.16]]  |
+| **<span class="ashebrew">יֵאָמֵ֤ר</span>** | it was said | [[Hos.1.10]]  |
+|   | it will be said | [[Num.23.23]] • [[Jer.4.11]]  |
+| **<span class="ashebrew">יֵאָמֵ֣ר</span>** | it is said | [[Gen.22.14]]  |
+|   | will it be said | [[Ezek.13.12]]  |
+| **<span class="ashebrew">יֵאָמֵ֖ר</span>** | it will be called | [[Isa.19.18]]  |
+|   | it will be said | [[Isa.61.6]]  |
+| **<span class="ashebrew">יֵאָ֣מֶר</span>** | it will be said | [[Isa.4.3]]  |
+| **<span class="ashebrew">יֵֽאָמַ֔ר</span>** | it is said | [[Gen.10.9]] • [[Num.21.14]]  |
+| **<span class="ashebrew">יֵֽאָמֵ֖ר</span>** | it will be said | [[Isa.32.5]]  |
+| **<span class="ashebrew">יִֽ֝תְאַמְּר֗וּ</span>** | they boast | [[Ps.94.4]]  |
+| **<span class="ashebrew">וּבְאָמְרִ֥י</span>** | and when say I | [[Ezek.33.14]]  |
+| **<span class="ashebrew">וָאוֹמַר֮</span>** | and I said | [[Neh.2.7]]  |
+| **<span class="ashebrew">וָאוֹמַ֤ר</span>** | and I said | [[Neh.2.20]]  |
+| **<span class="ashebrew">וָאוֹמַ֣ר</span>** | and I said | [[Neh.2.17]]  |
+| **<span class="ashebrew">וָאוֹמַ֕ר</span>** | and I said | [[Neh.5.9]]  |
+| **<span class="ashebrew">וָאֹמַר֮</span>** | and I said | [[Gen.24.47]]  |
+| **<span class="ashebrew">וָאֹמַר֙</span>** | and I said | [[Lam.3.18]] • [[Ezek.11.13]]  |
+| **<span class="ashebrew">וָאֹמַר֒</span>** | and I said | [[Deut.9.26]]  |
+| **<span class="ashebrew">וָאֹמַ֨ר</span>** | and I said | [[2Kgs.6.29]]  |
+| **<span class="ashebrew">וָאֹמַ֥ר</span>** | and I said | [[Gen.24.45]] • [[Jer.35.5]]  |
+| **<span class="ashebrew">וָאֹמַ֤ר</span>** | and I said | [[Exod.32.24]] • [[Ezek.20.18]]  |
+| **<span class="ashebrew">וָאֹמַ֣ר</span>** | and I have said | [[Lev.20.24]]  |
+|   | and I said | [[Gen.20.13]] • [[Exod.4.23]] • [[Deut.1.9]] • [[2Sam.1.8]] • [[Neh.2.3]] • [[Neh.2.5]] • [[Neh.7.3]] • [[Ezek.20.7]] • [[Ezek.20.29]] • [[Hos.3.3]] • [[Zech.4.11]] • [[Zech.11.12]]  |
+| **<span class="ashebrew">וָאֹמַ֡ר</span>** | and I said | [[Zech.4.2]]  |
+| **<span class="ashebrew">וָאֹמַ֞ר</span>** | and I said | [[Neh.4.14]] • [[Neh.4.19]] • [[Isa.6.5]] • [[Jer.4.10]] • [[Jer.14.13]] • [[Ezek.20.8]] • [[Ezek.20.13]] • [[Ezek.20.21]]  |
+| **<span class="ashebrew">וָאֹמַ֛ר</span>** | and I said | [[Isa.24.16]]  |
+| **<span class="ashebrew">וָאֹמַ֗ר</span>** | and I have said | [[Exod.3.17]]  |
+|   | and I said | [[Gen.24.42]] • [[1Sam.13.12]] • [[1Sam.24.10]] • [[Neh.1.5]] • [[Job.38.11]] • [[Ps.55.6]] • [[Ps.95.10]] • [[Jer.1.6]] • [[Jer.1.13]] • [[Ezek.4.14]] • [[Amos.7.2]] • [[Amos.7.5]] • [[Mic.3.1]] • [[Zech.1.19]] • [[Zech.5.2]]  |
+|   | and I thought | [[Jer.3.7]] • [[Jer.3.19]]  |
+| **<span class="ashebrew">וָאֹמַ֖ר</span>** | and I said | [[Gen.24.39]] • [[Gen.31.11]] • [[Deut.1.20]] • [[Deut.1.29]] • [[2Sam.1.7]] • [[Isa.6.8]] • [[Jer.11.5]] • [[Jer.24.3]] • [[Ezek.24.20]] • [[Amos.7.8]] • [[Amos.8.2]] • [[Zech.1.9]] • [[Zech.4.5]] • [[Zech.4.12]] • [[Zech.4.13]] • [[Zech.5.6]]  |
+| **<span class="ashebrew">וָאֹמַ֕ר</span>** | and I said | [[Gen.44.28]] • [[Judg.2.1]] • [[Isa.6.11]] • [[Jer.1.11]] • [[Ezek.20.49]] • [[Ezek.23.43]] • [[Ezek.37.3]] • [[Zech.1.21]] • [[Zech.2.2]] • [[Zech.3.5]] • [[Zech.5.10]] • [[Zech.11.9]]  |
+| **<span class="ashebrew">וָאֹמְרָ֤ה</span>** | and I said | [[Neh.13.21]]  |
+| **<span class="ashebrew">וָאֹמְרָ֣ה</span>** | and I said | [[Judg.6.10]] • [[Ezra.8.28]] • [[Neh.5.7]] • [[Neh.5.8]] • [[Neh.13.17]] • [[Neh.13.22]]  |
+| **<span class="ashebrew">וָאֹמְרָ֗ה</span>** | and I said | [[Ezra.9.6]] • [[Neh.6.11]]  |
+| **<span class="ashebrew">וָאֹֽמְרָה֙</span>** | and I said | [[Neh.13.19]] • [[Dan.10.16]]  |
+| **<span class="ashebrew">וָאֹֽמְרָ֛ה</span>** | and I said | [[Dan.10.19]]  |
+| **<span class="ashebrew">וָאֹֽמְרָ֗ה</span>** | and I said | [[Dan.9.4]]  |
+| **<span class="ashebrew">וָאֹ֥מַר</span>** | and I said | [[Ezek.16.6]]  |
+| **<span class="ashebrew">וָאֹ֤מַר</span>** | and I said | [[Isa.41.9]] • [[Ezek.16.6]]  |
+| **<span class="ashebrew">וָאֹ֣מַר</span>** | and I said | [[1Kgs.21.6]]  |
+| **<span class="ashebrew">וָאֹ֣מְרָ֔ה</span>** | and I said | [[Neh.13.9]] • [[Neh.13.11]] • [[Neh.13.19]] • [[Dan.12.8]]  |
+| **<span class="ashebrew">וָֽאֹמַר֙</span>** | and I have said | [[Lev.17.14]]  |
+|   | and I said | [[Gen.41.24]] • [[Ezek.9.8]]  |
+| **<span class="ashebrew">וָֽאֹמַ֔ר</span>** | and I said | [[Zech.4.4]] • [[Zech.6.4]]  |
+| **<span class="ashebrew">וָֽאֹמְרָ֡ה</span>** | and I said | [[Neh.5.13]]  |
+| **<span class="ashebrew">וָ֭אֹמַר</span>** | and I said | [[Job.29.18]] • [[Ps.77.10]] • [[Ps.139.11]]  |
+| **<span class="ashebrew">וַתֹּאמַ֥רְנָה</span>** | and they said | [[1Sam.9.12]]  |
+| **<span class="ashebrew">וַתֹּאמַ֤רְנָה</span>** | and they said | [[Ruth.4.14]]  |
+| **<span class="ashebrew">וַתֹּאמַ֤רְןָ</span>** | and they said | [[Exod.1.19]]  |
+| **<span class="ashebrew">וַתֹּאמַ֗ר</span>** | and she said | [[1Sam.1.11]]  |
+| **<span class="ashebrew">וַתֹּאמַ֖רְנָה</span>** | and they said | [[Gen.31.14]] • [[Ruth.1.10]] • [[Ruth.1.19]]  |
+| **<span class="ashebrew">וַתֹּאמַ֕רְןָ</span>** | and they said | [[Exod.2.19]]  |
+| **<span class="ashebrew">וַתֹּאמַ֔ר</span>** | and she said | [[1Sam.2.1]] • [[Esth.7.3]]  |
+| **<span class="ashebrew">וַתֹּאמַ֑רְןָ</span>** | and they said | [[1Sam.18.7]]  |
+| **<span class="ashebrew">וַתֹּאמַ֑ר</span>** | and she said | [[Esth.5.7]]  |
+| **<span class="ashebrew">וַתֹּאמֶר֩</span>** | and she said | [[Judg.4.14]] • [[Ruth.2.2]] • [[Ruth.2.19]] • [[1Sam.28.12]] • [[2Sam.14.11]] • [[1Kgs.3.22]]  |
+| **<span class="ashebrew">וַתֹּאמְרִ֣י</span>** | and you said | [[Isa.47.10]] • [[Jer.2.25]]  |
+| **<span class="ashebrew">וַתֹּאמְרִ֖י</span>** | and you said | [[Jer.2.20]]  |
+| **<span class="ashebrew">וַתֹּאמְר֣וּ</span>** | and you said | [[Deut.1.41]]  |
+| **<span class="ashebrew">וַתֹּאמְר֗וּ</span>** | and you said | [[Deut.1.22]] • [[Deut.5.24]]  |
+| **<span class="ashebrew">וַתֹּֽאמֶר</span>** | and she said | [[Exod.2.8]]  |
+| **<span class="ashebrew">וַתֹּֽאמְרִי֙</span>** | and you said | [[Jer.2.35]]  |
+| **<span class="ashebrew">וַתֹּ֨אמֶר</span>** | and it said | [[Num.22.30]]  |
+|   | and she said | [[Gen.16.2]] • [[Gen.16.5]] • [[Gen.35.17]] • [[Judg.1.15]] • [[Judg.4.6]] • [[Judg.16.13]] • [[Ruth.2.20]] • [[1Sam.28.9]] • [[1Kgs.21.15]]  |
+| **<span class="ashebrew">וַתֹּ֨אמְר֥וּ</span>** | and you said | [[Isa.30.16]]  |
+| **<span class="ashebrew">וַתֹּ֧אמֶר</span>** | and  said | [[Gen.19.31]]  |
+|   | and she said | [[Exod.2.9]] • [[Judg.13.23]] • [[Ruth.2.20]] • [[2Sam.20.17]]  |
+|   | and she spoke | [[Esth.2.22]]  |
+|   | and you said | [[1Kgs.2.42]]  |
+| **<span class="ashebrew">וַתֹּ֥אמֶר</span>** | and it said | [[Isa.49.14]]  |
+|   | and she said | [[Gen.3.2]] • [[Gen.30.11]] • [[Ruth.2.2]] • [[Ruth.2.22]] • [[Ruth.3.1]] • [[1Kgs.2.16]] • [[1Kgs.2.18]] • [[2Kgs.4.24]] • [[Esth.4.15]]  |
+| **<span class="ashebrew">וַתֹּ֤אמֶר</span>** | and it said | [[Num.22.28]] • [[Judg.9.11]] • [[Judg.9.13]]  |
+|   | and she said | [[Gen.19.34]] • [[Gen.27.13]] • [[Gen.27.46]] • [[Gen.30.1]] • [[Gen.30.6]] • [[Gen.30.14]] • [[Gen.39.14]] • [[Josh.2.16]] • [[Judg.16.6]] • [[Judg.16.10]] • [[Judg.16.12]] • [[Ruth.1.8]] • [[Ruth.1.11]] • [[Ruth.1.16]] • [[1Sam.19.17]] • [[1Sam.25.19]] • [[1Sam.28.13]] • [[2Sam.14.15]] • [[2Sam.17.20]] • [[2Sam.20.21]] • [[1Kgs.17.24]] • [[1Kgs.21.7]] • [[2Kgs.4.6]] • [[Esth.4.10]] • [[Esth.9.13]] • [[Job.2.9]]  |
+| **<span class="ashebrew">וַתֹּ֣אמַר</span>** | and she said | [[Prov.7.13]]  |
+| **<span class="ashebrew">וַתֹּ֣אמֶר</span>** | and she said | [[Gen.21.6]] • [[Gen.24.24]] • [[Gen.24.25]] • [[Gen.24.46]] • [[Gen.24.65]] • [[Gen.25.22]] • [[Gen.27.42]] • [[Gen.30.8]] • [[Gen.30.13]] • [[Gen.30.15]] • [[Gen.30.15]] • [[Gen.30.18]] • [[Gen.30.20]] • [[Gen.31.35]] • [[Exod.2.7]] • [[Josh.2.4]] • [[Judg.4.18]] • [[Judg.4.22]] • [[Judg.11.36]] • [[Judg.13.6]] • [[Judg.13.10]] • [[Judg.16.9]] • [[Judg.16.14]] • [[Judg.16.15]] • [[Judg.17.2]] • [[Judg.17.3]] • [[Ruth.1.20]] • [[Ruth.2.10]] • [[1Sam.28.21]] • [[2Sam.13.12]] • [[2Sam.13.16]] • [[2Sam.20.17]] • [[1Kgs.1.17]] • [[1Kgs.3.26]] • [[1Kgs.3.26]] • [[2Kgs.9.31]] • [[2Kgs.22.15]] • [[2Chr.34.23]] • [[Esth.5.4]] • [[Esth.5.14]] • [[Esth.7.6]]  |
+|   | and you said | [[Neh.9.15]] • [[Job.22.29]]  |
+| **<span class="ashebrew">וַתֹּ֣אמְרוּ</span>** | and you have said | [[1Sam.10.19]]  |
+|   | and you said | [[1Sam.12.12]]  |
+| **<span class="ashebrew">וַתֹּ֣אמְרִ֔י</span>** | and you said | [[Isa.47.7]]  |
+| **<span class="ashebrew">וַתֹּ֣אמְר֔וּ</span>** | and you said | [[Deut.1.14]] • [[Deut.1.27]]  |
+| **<span class="ashebrew">וַתֹּ֡אמֶר</span>** | and she said | [[2Sam.14.19]]  |
+| **<span class="ashebrew">וַתֹּ֜אמֶר</span>** | and she said | [[Josh.15.19]] • [[Judg.4.9]] • [[2Sam.14.9]] • [[1Kgs.3.17]]  |
+| **<span class="ashebrew">וַתֹּ֙אמֶר֙</span>** | and she said | [[Gen.3.13]] • [[Gen.21.10]] • [[Gen.29.35]] • [[Gen.30.16]] • [[Gen.38.16]] • [[Gen.38.25]] • [[Josh.2.9]] • [[Josh.2.21]] • [[Judg.11.37]] • [[Judg.14.16]] • [[Ruth.3.18]] • [[1Sam.1.15]] • [[1Sam.1.26]] • [[1Sam.28.11]] • [[2Sam.14.12]] • [[2Sam.14.13]] • [[2Sam.14.17]] • [[2Sam.14.18]] • [[1Kgs.10.6]] • [[1Kgs.17.18]] • [[2Kgs.4.9]] • [[2Kgs.4.30]] • [[2Kgs.5.3]] • [[2Chr.9.5]]  |
+|   | and you have said | [[Ezek.28.2]]  |
+|   | and you said | [[Gen.44.21]] • [[Gen.44.23]]  |
+| **<span class="ashebrew">וַתֹּ֗אמֶר</span>** | and she said | [[Gen.21.7]] • [[Gen.24.19]] • [[Gen.24.47]] • [[Gen.29.33]] • [[Gen.29.34]] • [[Gen.38.18]] • [[Ruth.1.15]] • [[Ruth.2.7]] • [[Ruth.2.19]] • [[Ruth.3.9]] • [[1Sam.25.41]] • [[1Sam.28.14]] • [[2Sam.6.20]] • [[2Sam.14.5]] • [[1Kgs.2.20]] • [[1Kgs.17.12]] • [[2Kgs.4.2]] • [[2Kgs.4.16]] • [[2Kgs.4.22]] • [[2Kgs.6.28]]  |
+|   | and you have said | [[2Kgs.19.23]] • [[Isa.37.24]]  |
+|   | and you said | [[Ps.89.19]]  |
+| **<span class="ashebrew">וַתֹּ֖אמֶר</span>** | and she said | [[Gen.24.18]] • [[Gen.24.58]] • [[Gen.39.7]] • [[Ruth.2.21]] • [[Ruth.3.5]] • [[Ruth.3.16]] • [[1Sam.19.14]] • [[2Sam.11.5]] • [[2Sam.14.4]] • [[2Sam.20.18]] • [[1Kgs.2.13]] • [[1Kgs.2.14]] • [[2Kgs.4.23]] • [[2Kgs.4.26]] • [[2Chr.23.13]]  |
+| **<span class="ashebrew">וַתֹּ֕אמֶר</span>** | and she said | [[Gen.4.1]] • [[Gen.16.8]] • [[Gen.30.3]] • [[Gen.30.23]] • [[Gen.38.17]] • [[Gen.38.29]] • [[Exod.2.6]] • [[Exod.2.10]] • [[Exod.4.25]] • [[Judg.16.20]] • [[Ruth.3.17]] • [[1Sam.1.18]] • [[1Sam.4.22]] • [[1Sam.25.24]] • [[1Kgs.1.31]] • [[1Kgs.2.21]] • [[2Kgs.4.13]] • [[2Kgs.4.28]]  |
+| **<span class="ashebrew">וַנֹּ֥אמֶר</span>** | and we said | [[Gen.42.31]]  |
+| **<span class="ashebrew">וַנֹּ֙אמֶר֙</span>** | and we said | [[Gen.44.20]] • [[Gen.44.22]]  |
+| **<span class="ashebrew">וַנֹּ֗אמֶר</span>** | and we said | [[Gen.26.28]] • [[Jer.35.11]]  |
+| **<span class="ashebrew">וַנֹּ֕אמֶר</span>** | and we said | [[Gen.44.26]] • [[Josh.22.26]] • [[Josh.22.28]]  |
+| **<span class="ashebrew">וַיֹאמַֽר</span>** | and he said | [[Job.8.1]]  |
+| **<span class="ashebrew">וַיֹּאמַר֒</span>** | and he said | [[Gen.28.13]] • [[Deut.33.7]] • [[1Kgs.18.36]] • [[2Kgs.7.2]] • [[2Kgs.7.19]] • [[2Kgs.19.15]] • [[2Chr.14.11]] • [[Job.1.16]] • [[Job.1.17]] • [[Zech.1.12]]  |
+| **<span class="ashebrew">וַיֹּאמַֽר</span>** | and he said | [[Job.3.2]] • [[Job.4.1]] • [[Job.6.1]] • [[Job.9.1]] • [[Job.11.1]] • [[Job.12.1]] • [[Job.15.1]] • [[Job.16.1]] • [[Job.18.1]] • [[Job.19.1]] • [[Job.20.1]] • [[Job.21.1]] • [[Job.22.1]] • [[Job.23.1]] • [[Job.25.1]] • [[Job.26.1]] • [[Job.27.1]] • [[Job.29.1]] • [[Job.34.1]] • [[Job.35.1]] • [[Job.36.1]] • [[Job.38.1]] • [[Job.40.1]] • [[Job.40.3]] • [[Job.40.6]] • [[Job.42.1]]  |
+| **<span class="ashebrew">וַיֹּאמַ֡ר</span>** | and he said | [[Ps.18.1]]  |
+| **<span class="ashebrew">וַיֹּאמַ֗ר</span>** | and he said | [[Gen.16.8]] • [[Deut.33.2]] • [[1Kgs.8.23]] • [[2Chr.6.14]] • [[2Chr.20.6]] • [[Isa.38.3]] • [[Jonah.4.2]]  |
+| **<span class="ashebrew">וַיֹּאמַ֕ר</span>** | and he said | [[Gen.20.4]] • [[Gen.27.36]] • [[Gen.33.5]] • [[Gen.43.29]] • [[Gen.47.30]] • [[Gen.48.9]] • [[Judg.6.18]] • [[Judg.8.19]] • [[1Sam.3.18]] • [[1Sam.7.12]] • [[2Sam.19.26]] • [[2Kgs.1.8]] • [[2Kgs.2.14]] • [[Dan.9.22]]  |
+| **<span class="ashebrew">וַיֹּאמַ֔ר</span>** | and he said | [[Gen.18.29]] • [[Gen.28.17]] • [[Exod.32.5]] • [[Judg.15.18]] • [[1Kgs.17.10]] • [[1Kgs.17.11]] • [[2Kgs.6.17]] • [[2Kgs.6.18]] • [[2Kgs.13.14]] • [[Job.1.7]] • [[Job.2.2]] • [[Dan.8.16]] • [[Jonah.3.4]]  |
+|   | and he thought | [[Exod.2.14]]  |
+| **<span class="ashebrew">וַיֹּאמַ֓ר</span>** | and he said | [[Gen.24.12]] • [[Amos.1.2]]  |
+| **<span class="ashebrew">וַיֹּאמַ֑ר</span>** | and he said | [[Gen.14.19]] • [[Gen.15.8]] • [[Gen.18.3]] • [[Gen.18.23]] • [[Gen.18.27]] • [[Gen.19.7]] • [[Gen.24.34]] • [[Gen.30.28]] • [[Gen.37.30]] • [[Gen.48.15]] • [[Exod.5.22]] • [[Exod.32.31]] • [[Exod.33.14]] • [[Exod.33.18]] • [[Num.11.27]] • [[Num.11.28]] • [[Num.23.7]] • [[Num.23.12]] • [[Num.23.18]] • [[Num.24.3]] • [[Num.24.15]] • [[Num.24.20]] • [[Num.24.21]] • [[Num.24.23]] • [[Josh.7.20]] • [[Judg.11.30]] • [[Judg.13.8]] • [[Judg.16.28]] • [[Judg.20.4]] • [[Ruth.2.6]] • [[1Sam.22.9]] • [[1Sam.22.14]] • [[2Sam.3.33]] • [[2Sam.13.34]] • [[2Sam.15.21]] • [[2Sam.20.20]] • [[2Sam.22.2]] • [[2Sam.23.15]] • [[1Kgs.1.29]] • [[1Kgs.17.20]] • [[1Kgs.17.21]] • [[1Chr.11.17]] • [[Job.1.9]] • [[Job.1.14]] • [[Job.1.18]] • [[Job.2.4]] • [[Zech.1.10]]  |
+|   | and it said | [[Num.21.2]]  |
+| **<span class="ashebrew">וַיֹּאמֶר֮</span>** | and he said | [[Gen.2.23]] • [[Gen.32.9]] • [[Gen.44.18]] • [[Exod.18.10]] • [[Num.11.21]] • [[Num.16.28]] • [[Deut.31.23]] • [[1Sam.17.37]] • [[1Sam.23.10]] • [[1Kgs.1.24]] • [[1Kgs.20.28]] • [[2Kgs.5.17]] • [[2Chr.2.12]] • [[Esth.5.12]] • [[Ezek.37.11]]  |
+| **<span class="ashebrew">וַיֹּאמֶר֩</span>** | and he said | [[Gen.3.14]] • [[Gen.20.6]] • [[Gen.35.11]] • [[Gen.43.23]] • [[Exod.3.15]] • [[Exod.4.6]] • [[Exod.15.26]] • [[Exod.30.34]] • [[Num.22.35]] • [[Josh.5.15]] • [[Judg.2.1]] • [[Judg.11.13]] • [[Judg.13.16]] • [[Judg.17.10]] • [[Judg.19.5]] • [[Ruth.2.8]] • [[Ruth.2.14]] • [[Ruth.4.9]] • [[1Sam.10.14]] • [[1Sam.14.43]] • [[1Sam.22.5]] • [[1Sam.25.13]] • [[1Sam.26.15]] • [[1Sam.26.21]] • [[2Sam.3.31]] • [[2Sam.9.7]] • [[2Sam.17.6]] • [[2Sam.19.5]] • [[2Sam.24.17]] • [[1Kgs.17.1]] • [[1Kgs.18.40]] • [[1Kgs.19.10]] • [[1Kgs.19.14]] • [[1Kgs.22.30]] • [[2Kgs.2.2]] • [[2Kgs.2.4]] • [[2Kgs.2.6]] • [[2Kgs.4.27]] • [[2Kgs.5.11]] • [[1Chr.11.2]] • [[2Chr.18.29]] • [[Ezra.4.3]] • [[Neh.2.2]] • [[Neh.2.6]] • [[Esth.7.2]] • [[Job.1.21]] • [[Dan.8.13]] • [[Amos.9.1]]  |
+| **<span class="ashebrew">וַיֹּאמֶר</span>** | and he said | [[Judg.17.9]]  |
+| **<span class="ashebrew">וַיֹּאמְרוּ֮</span>** | and they said | [[Gen.29.8]] • [[Exod.14.11]] • [[Neh.1.3]]  |
+| **<span class="ashebrew">וַיֹּאמְרוּ֩</span>** | and they said | [[Exod.10.7]] • [[Judg.11.8]] • [[Judg.18.19]] • [[1Sam.24.4]] • [[2Sam.10.3]] • [[2Kgs.7.9]] • [[1Chr.19.3]]  |
+| **<span class="ashebrew">וַיֹּאמְרוּ֙</span>** | and they said | [[Exod.36.5]] • [[Josh.2.24]] • [[1Sam.4.7]]  |
+| **<span class="ashebrew">וַיֹּאמְר֨וּ</span>** | and they said | [[Gen.19.12]] • [[Exod.16.3]] • [[Num.20.19]] • [[Josh.9.6]] • [[Judg.8.1]] • [[Judg.10.15]] • [[Judg.10.18]] • [[Judg.12.1]] • [[1Sam.11.3]] • [[1Sam.12.19]] • [[2Kgs.1.6]] • [[2Kgs.23.17]] • [[Neh.5.13]] • [[Jer.38.4]]  |
+| **<span class="ashebrew">וַיֹּאמְר֧וּ</span>** | and they said | [[Josh.9.21]]  |
+| **<span class="ashebrew">וַיֹּאמְר֥וּ</span>** | and they said | [[Gen.42.10]] • [[Exod.5.10]] • [[Josh.2.17]] • [[Josh.9.8]] • [[Josh.24.24]] • [[Judg.9.8]] • [[Judg.9.10]] • [[Judg.9.12]] • [[Judg.9.14]] • [[Judg.11.10]] • [[Judg.18.8]] • [[1Sam.16.15]] • [[2Sam.15.15]] • [[1Kgs.20.8]] • [[2Kgs.6.1]] • [[1Chr.13.4]] • [[Esth.2.2]] • [[Ezek.24.19]] • [[Jonah.1.10]]  |
+| **<span class="ashebrew">וַיֹּאמְר֤וּ</span>** | and they said | [[Exod.8.19]] • [[Exod.32.1]] • [[Num.32.2]] • [[Josh.9.19]] • [[Judg.8.22]] • [[Judg.14.15]] • [[Judg.18.25]] • [[1Sam.7.8]] • [[1Sam.14.40]] • [[1Sam.28.7]] • [[2Sam.12.21]] • [[1Chr.16.36]] • [[Ezra.4.2]] • [[Jer.26.16]] • [[Jer.36.19]] • [[Jer.41.8]] • [[Jonah.1.11]]  |
+| **<span class="ashebrew">וַיֹּאמְר֣וּ</span>** | and they have said | [[2Chr.35.25]] • [[Job.21.14]]  |
+|   | and they said | [[Gen.18.9]] • [[Gen.19.2]] • [[Gen.19.9]] • [[Gen.24.58]] • [[Gen.29.6]] • [[Gen.34.14]] • [[Gen.40.8]] • [[Gen.44.7]] • [[Gen.47.3]] • [[Gen.47.4]] • [[Exod.5.21]] • [[Exod.10.3]] • [[Num.16.3]] • [[Num.20.3]] • [[Num.21.7]] • [[Josh.7.3]] • [[Josh.9.9]] • [[Josh.9.11]] • [[Judg.11.6]] • [[Judg.15.6]] • [[Judg.15.11]] • [[Judg.18.2]] • [[Judg.18.23]] • [[1Sam.8.5]] • [[1Sam.8.19]] • [[1Sam.9.11]] • [[1Sam.12.10]] • [[1Sam.14.11]] • [[2Sam.5.1]] • [[2Sam.17.21]] • [[2Sam.19.41]] • [[1Kgs.20.31]] • [[1Kgs.22.6]] • [[2Kgs.1.8]] • [[2Kgs.2.3]] • [[2Kgs.2.5]] • [[2Kgs.2.16]] • [[2Kgs.9.12]] • [[2Kgs.19.3]] • [[2Chr.18.5]] • [[2Chr.28.13]] • [[Neh.4.11]] • [[Neh.5.12]] • [[Neh.9.5]] • [[Ps.54.1]] • [[Isa.37.3]] • [[Jer.36.15]] • [[Jer.40.14]] • [[Jonah.1.8]]  |
+| **<span class="ashebrew">וַיֹּאמְר֡וּ</span>** | and they said | [[Gen.43.7]] • [[Judg.21.19]]  |
+| **<span class="ashebrew">וַיֹּאמְר֞וּ</span>** | and they said | [[Gen.11.3]] • [[Gen.11.4]] • [[Gen.42.21]] • [[1Sam.11.9]] • [[2Kgs.7.6]] • [[Jer.42.2]] • [[Jonah.1.7]]  |
+| **<span class="ashebrew">וַיֹּאמְר֗וּ</span>** | and people said | [[2Kgs.17.26]] • [[Jer.18.18]]  |
+|   | and they said | [[Gen.26.28]] • [[Gen.42.13]] • [[Gen.43.18]] • [[Gen.43.28]] • [[Num.12.2]] • [[Num.32.5]] • [[Num.36.2]] • [[Josh.9.24]] • [[Judg.15.6]] • [[Judg.15.10]] • [[Judg.18.9]] • [[Judg.19.22]] • [[1Sam.6.3]] • [[1Sam.6.4]] • [[1Sam.6.4]] • [[1Sam.30.22]] • [[2Kgs.5.13]] • [[2Kgs.10.13]] • [[Neh.2.19]] • [[Jonah.1.14]] • [[Zech.1.6]]  |
+| **<span class="ashebrew">וַיֹּאמְר֖וּ</span>** | and they have said | [[Jer.5.12]]  |
+|   | and they said | [[Gen.24.57]] • [[Gen.29.5]] • [[Gen.37.19]] • [[Gen.37.32]] • [[Gen.43.20]] • [[Gen.47.25]] • [[Exod.5.1]] • [[Exod.15.1]] • [[Num.14.4]] • [[Num.16.12]] • [[Josh.24.22]] • [[Judg.8.25]] • [[1Sam.10.24]] • [[1Kgs.18.24]] • [[2Kgs.9.13]] • [[2Kgs.11.12]] • [[2Chr.12.6]] • [[2Chr.23.11]] • [[Ezra.10.12]] • [[Jer.6.16]] • [[Jer.6.17]] • [[Jer.35.6]] • [[Hag.2.12]] • [[Hag.2.13]] • [[Zech.1.11]]  |
+| **<span class="ashebrew">וַיֹּאמְר֑וּ</span>** | and they said | [[Gen.34.31]]  |
+| **<span class="ashebrew">וַיֹּֽאמרוּ֙</span>** | and they said | [[Exod.14.5]]  |
+| **<span class="ashebrew">וַיֹּֽאמֶר</span>** | and he said | [[Gen.35.10]] • [[Exod.10.28]] • [[Josh.15.18]] • [[Judg.1.14]] • [[1Sam.20.18]] • [[2Sam.9.4]] • [[2Sam.14.5]] • [[2Sam.15.9]] • [[1Kgs.1.53]] • [[1Kgs.2.20]] • [[2Kgs.6.28]]  |
+| **<span class="ashebrew">וַיֹּֽאמְרוּ֙</span>** | and they have said | [[2Sam.14.7]]  |
+|   | and they said | [[Gen.19.9]] • [[Exod.20.19]] • [[Num.14.10]] • [[Num.17.12]] • [[Num.31.49]] • [[Josh.17.16]] • [[Judg.6.29]] • [[Judg.15.10]] • [[Judg.18.14]] • [[Judg.20.3]] • [[Judg.20.18]] • [[Judg.20.32]] • [[Judg.21.5]] • [[1Sam.4.3]] • [[1Sam.5.8]] • [[1Sam.5.11]] • [[1Sam.6.20]] • [[1Sam.14.12]] • [[1Sam.29.3]] • [[2Sam.4.8]] • [[2Sam.17.20]] • [[2Sam.21.5]] • [[1Kgs.1.39]] • [[1Kgs.20.33]] • [[2Kgs.3.23]] • [[2Kgs.4.40]] • [[2Kgs.7.3]] • [[Neh.2.18]] • [[Neh.8.1]] • [[Jer.36.16]] • [[Jer.46.16]]  |
+| **<span class="ashebrew">וַיֹּֽאמְר֨וּ</span>** | and they said | [[Judg.21.16]]  |
+| **<span class="ashebrew">וַיֹּ֫אמַ֥ר</span>** | and he said | [[Job.32.6]]  |
+| **<span class="ashebrew">וַיֹּ֩אמְרוּ֩</span>** | and they said | [[Esth.6.13]]  |
+| **<span class="ashebrew">וַיֹּ֨אמֶר</span>** | and did he say | [[2Chr.32.12]]  |
+|   | and he had said | [[Exod.33.5]]  |
+|   | and he said | [[Gen.1.28]] • [[Gen.3.13]] • [[Gen.4.23]] • [[Gen.6.13]] • [[Gen.8.21]] • [[Gen.13.8]] • [[Gen.16.6]] • [[Gen.20.9]] • [[Gen.21.12]] • [[Gen.22.5]] • [[Gen.22.7]] • [[Gen.25.23]] • [[Gen.25.30]] • [[Gen.27.19]] • [[Gen.27.38]] • [[Gen.27.41]] • [[Gen.29.21]] • [[Gen.31.11]] • [[Gen.31.46]] • [[Gen.34.30]] • [[Gen.37.13]] • [[Gen.37.22]] • [[Gen.40.8]] • [[Gen.41.55]] • [[Gen.42.18]] • [[Gen.43.8]] • [[Gen.43.11]] • [[Gen.45.3]] • [[Gen.45.4]] • [[Gen.46.2]] • [[Gen.46.31]] • [[Exod.3.13]] • [[Exod.4.10]] • [[Exod.4.11]] • [[Exod.4.19]] • [[Exod.7.19]] • [[Exod.8.20]] • [[Exod.9.22]] • [[Exod.10.12]] • [[Exod.10.21]] • [[Exod.11.1]] • [[Exod.13.3]] • [[Exod.14.13]] • [[Exod.16.33]] • [[Exod.17.5]] • [[Exod.17.9]] • [[Exod.17.14]] • [[Exod.19.9]] • [[Exod.19.10]] • [[Exod.19.24]] • [[Exod.20.20]] • [[Exod.24.12]] • [[Exod.33.12]] • [[Lev.8.31]] • [[Lev.9.7]] • [[Lev.10.3]] • [[Lev.16.2]] • [[Num.3.40]] • [[Num.11.11]] • [[Num.11.16]] • [[Num.12.4]] • [[Num.12.14]] • [[Num.16.46]] • [[Num.17.10]] • [[Num.18.20]] • [[Num.21.8]] • [[Num.21.34]] • [[Num.22.34]] • [[Num.22.37]] • [[Num.22.38]] • [[Num.23.3]] • [[Num.23.13]] • [[Num.24.10]] • [[Num.25.4]] • [[Num.27.18]] • [[Num.31.21]] • [[Num.32.29]] • [[Deut.1.42]] • [[Deut.2.9]] • [[Deut.3.2]] • [[Deut.3.26]] • [[Deut.5.28]] • [[Deut.9.12]] • [[Deut.31.7]] • [[Deut.31.14]] • [[Deut.34.4]] • [[Josh.6.16]] • [[Josh.7.7]] • [[Josh.7.19]] • [[Josh.8.1]] • [[Josh.8.18]] • [[Josh.9.8]] • [[Josh.10.8]] • [[Josh.11.6]] • [[Josh.13.1]] • [[Josh.17.15]] • [[Josh.22.8]] • [[Josh.24.2]] • [[Josh.24.19]] • [[Josh.24.22]] • [[Josh.24.27]] • [[Judg.6.8]] • [[Judg.6.13]] • [[Judg.6.20]] • [[Judg.6.23]] • [[Judg.7.4]] • [[Judg.7.5]] • [[Judg.7.7]] • [[Judg.8.24]] • [[Judg.9.38]] • [[Judg.11.9]] • [[Judg.14.3]] • [[Judg.14.3]] • [[Judg.16.26]] • [[Judg.17.9]] • [[Judg.19.11]] • [[Judg.19.17]] • [[Judg.19.20]] • [[1Sam.1.8]] • [[1Sam.2.16]] • [[1Sam.3.9]] • [[1Sam.4.16]] • [[1Sam.8.22]] • [[1Sam.9.3]] • [[1Sam.9.7]] • [[1Sam.9.10]] • [[1Sam.10.24]] • [[1Sam.12.5]] • [[1Sam.12.20]] • [[1Sam.14.1]] • [[1Sam.14.6]] • [[1Sam.14.12]] • [[1Sam.15.15]] • [[1Sam.15.20]] • [[1Sam.15.24]] • [[1Sam.16.1]] • [[1Sam.16.7]] • [[1Sam.16.11]] • [[1Sam.16.11]] • [[1Sam.17.17]] • [[1Sam.17.33]] • [[1Sam.17.37]] • [[1Sam.17.39]] • [[1Sam.18.17]] • [[1Sam.18.18]] • [[1Sam.18.21]] • [[1Sam.18.25]] • [[1Sam.19.17]] • [[1Sam.20.2]] • [[1Sam.20.5]] • [[1Sam.20.12]] • [[1Sam.21.2]] • [[1Sam.22.22]] • [[1Sam.23.2]] • [[1Sam.23.17]] • [[1Sam.24.6]] • [[1Sam.25.5]] • [[1Sam.26.25]] • [[1Sam.27.5]] • [[1Sam.28.7]] • [[1Sam.28.13]] • [[1Sam.29.3]] • [[1Sam.29.8]] • [[1Sam.30.13]] • [[2Sam.1.4]] • [[2Sam.3.16]] • [[2Sam.5.2]] • [[2Sam.5.8]] • [[2Sam.5.19]] • [[2Sam.9.2]] • [[2Sam.10.2]] • [[2Sam.11.10]] • [[2Sam.11.11]] • [[2Sam.11.12]] • [[2Sam.11.25]] • [[2Sam.12.13]] • [[2Sam.12.19]] • [[2Sam.13.6]] • [[2Sam.13.10]] • [[2Sam.13.20]] • [[2Sam.13.25]] • [[2Sam.14.30]] • [[2Sam.16.3]] • [[2Sam.16.9]] • [[2Sam.16.11]] • [[2Sam.24.2]] • [[2Sam.24.3]] • [[2Sam.24.10]] • [[2Sam.24.21]] • [[2Sam.24.24]] • [[1Kgs.1.33]] • [[1Kgs.2.30]] • [[1Kgs.2.38]] • [[1Kgs.2.42]] • [[1Kgs.2.44]] • [[1Kgs.3.11]] • [[1Kgs.9.3]] • [[1Kgs.11.11]] • [[1Kgs.14.2]] • [[1Kgs.17.13]] • [[1Kgs.18.25]] • [[1Kgs.18.30]] • [[1Kgs.20.40]] • [[1Kgs.22.15]] • [[2Kgs.3.13]] • [[2Kgs.4.2]] • [[2Kgs.4.29]] • [[2Kgs.6.15]] • [[2Kgs.6.19]] • [[2Kgs.8.8]] • [[2Kgs.9.1]] • [[2Kgs.10.15]] • [[2Kgs.10.15]] • [[2Kgs.10.30]] • [[2Kgs.12.4]] • [[2Kgs.18.27]] • [[2Kgs.20.1]] • [[2Kgs.20.14]] • [[1Chr.13.2]] • [[1Chr.14.10]] • [[1Chr.17.1]] • [[1Chr.19.2]] • [[1Chr.21.2]] • [[1Chr.21.15]] • [[1Chr.21.22]] • [[1Chr.21.23]] • [[1Chr.21.24]] • [[1Chr.28.20]] • [[1Chr.29.1]] • [[2Chr.2.11]] • [[2Chr.12.5]] • [[2Chr.14.7]] • [[2Chr.18.14]] • [[2Chr.24.20]] • [[2Chr.35.23]] • [[Esth.5.6]] • [[Esth.6.10]] • [[Esth.8.7]] • [[Esth.9.12]] • [[Job.1.12]] • [[Job.2.3]] • [[Job.42.7]] • [[Isa.38.1]] • [[Isa.39.3]] • [[Jer.3.6]] • [[Jer.13.6]] • [[Jer.14.14]] • [[Jer.20.3]] • [[Jer.24.3]] • [[Jer.28.15]] • [[Jer.37.14]] • [[Jer.38.14]] • [[Jer.38.24]] • [[Jer.40.16]] • [[Jer.42.4]] • [[Jer.43.2]] • [[Ezek.9.7]] • [[Ezek.44.2]] • [[Ezek.44.5]] • [[Hos.1.2]] • [[Hos.3.1]] • [[Amos.7.8]] • [[Amos.8.2]] • [[Zech.3.2]] • [[Zech.11.13]]  |
+|   | and it said | [[Num.22.4]] • [[1Sam.10.11]] • [[1Sam.14.45]] • [[2Sam.5.6]] • [[2Sam.18.3]]  |
+| **<span class="ashebrew">וַיֹּ֨אמְרוּ</span>** | and they said | [[Judg.12.5]] • [[Judg.16.5]]  |
+| **<span class="ashebrew">וַיֹּ֨אמְר֜וּ</span>** | and they said | [[Exod.16.15]] • [[Judg.6.30]] • [[Ruth.4.11]] • [[1Sam.11.1]] • [[1Sam.21.11]] • [[1Sam.23.3]] • [[2Kgs.2.19]] • [[1Chr.11.5]] • [[Esth.3.3]] • [[Esth.6.3]] • [[Esth.6.5]] • [[Jer.26.11]]  |
+| **<span class="ashebrew">וַיֹּ֧אמֶר</span>** | and he said | [[Gen.4.15]] • [[Gen.9.1]] • [[Gen.20.2]] • [[Gen.41.44]] • [[Gen.43.3]] • [[Gen.46.30]] • [[Gen.47.3]] • [[Gen.48.18]] • [[Gen.50.19]] • [[Exod.4.2]] • [[Exod.4.18]] • [[Num.20.23]] • [[Josh.3.5]] • [[Josh.7.10]] • [[Judg.4.19]] • [[Judg.6.25]] • [[Judg.13.17]] • [[Judg.13.22]] • [[Judg.18.6]] • [[Judg.19.28]] • [[Ruth.4.8]] • [[1Sam.13.13]] • [[1Sam.14.19]] • [[1Sam.15.13]] • [[1Sam.16.12]] • [[1Sam.20.32]] • [[1Sam.20.42]] • [[1Sam.21.9]] • [[1Sam.26.9]] • [[2Sam.2.1]] • [[2Sam.2.1]] • [[2Sam.2.21]] • [[2Sam.12.7]] • [[2Sam.14.8]] • [[2Sam.15.22]] • [[2Sam.16.2]] • [[2Sam.18.20]] • [[2Sam.19.23]] • [[2Sam.24.14]] • [[1Kgs.2.31]] • [[1Kgs.11.22]] • [[1Kgs.22.22]] • [[2Kgs.9.18]] • [[2Kgs.9.19]] • [[1Chr.21.13]] • [[2Chr.18.20]] • [[Job.1.7]] • [[Job.2.6]] • [[Jer.1.12]] • [[Dan.2.3]]  |
+| **<span class="ashebrew">וַיֹּ֧אמְרוּ</span>** | and they said | [[Josh.2.14]] • [[Judg.15.13]] • [[2Sam.21.4]] • [[1Kgs.1.2]]  |
+| **<span class="ashebrew">וַיֹּ֥אמֶר</span>** | and he has said | [[Deut.33.27]]  |
+|   | and he said | [[Gen.1.3]] • [[Gen.3.4]] • [[Gen.3.9]] • [[Gen.4.6]] • [[Gen.4.8]] • [[Gen.4.13]] • [[Gen.9.17]] • [[Gen.14.21]] • [[Gen.14.22]] • [[Gen.17.18]] • [[Gen.18.13]] • [[Gen.18.15]] • [[Gen.19.18]] • [[Gen.20.10]] • [[Gen.21.17]] • [[Gen.21.29]] • [[Gen.22.1]] • [[Gen.24.6]] • [[Gen.24.65]] • [[Gen.26.16]] • [[Gen.27.1]] • [[Gen.27.26]] • [[Gen.27.32]] • [[Gen.29.6]] • [[Gen.30.34]] • [[Gen.31.51]] • [[Gen.32.27]] • [[Gen.33.9]] • [[Gen.37.13]] • [[Gen.37.26]] • [[Gen.41.38]] • [[Gen.41.41]] • [[Gen.42.14]] • [[Gen.47.8]] • [[Exod.2.20]] • [[Exod.3.4]] • [[Exod.6.2]] • [[Exod.6.30]] • [[Exod.9.27]] • [[Exod.10.29]] • [[Exod.16.19]] • [[Exod.16.28]] • [[Exod.18.15]] • [[Exod.31.12]] • [[Exod.32.9]] • [[Exod.32.33]] • [[Lev.8.5]] • [[Num.7.4]] • [[Num.7.11]] • [[Num.9.8]] • [[Num.10.30]] • [[Num.12.11]] • [[Num.14.13]] • [[Num.15.37]] • [[Num.16.8]] • [[Num.22.10]] • [[Num.24.12]] • [[Num.27.6]] • [[Num.29.40]] • [[Num.31.15]] • [[Num.31.25]] • [[Deut.2.2]] • [[Deut.9.13]] • [[Deut.18.17]] • [[Josh.3.9]] • [[Josh.9.7]] • [[Josh.18.3]] • [[Judg.6.36]] • [[Judg.13.11]] • [[Judg.13.15]] • [[Judg.20.18]] • [[Judg.20.23]] • [[Ruth.2.4]] • [[1Sam.3.4]] • [[1Sam.3.5]] • [[1Sam.12.6]] • [[1Sam.13.11]] • [[1Sam.15.16]] • [[1Sam.16.17]] • [[1Sam.17.44]] • [[1Sam.20.4]] • [[1Sam.20.9]] • [[1Sam.21.14]] • [[1Sam.23.11]] • [[1Sam.23.12]] • [[1Sam.25.32]] • [[2Sam.1.8]] • [[2Sam.1.14]] • [[2Sam.2.1]] • [[2Sam.2.14]] • [[2Sam.3.38]] • [[2Sam.9.2]] • [[2Sam.15.33]] • [[2Sam.16.20]] • [[2Sam.17.1]] • [[2Sam.17.7]] • [[2Sam.18.23]] • [[2Sam.18.26]] • [[2Sam.19.33]] • [[2Sam.19.34]] • [[2Sam.21.6]] • [[1Kgs.1.16]] • [[1Kgs.2.30]] • [[1Kgs.3.24]] • [[1Kgs.12.26]] • [[1Kgs.13.14]] • [[1Kgs.17.19]] • [[1Kgs.18.8]] • [[1Kgs.18.34]] • [[1Kgs.19.5]] • [[1Kgs.20.14]] • [[1Kgs.21.3]] • [[1Kgs.22.5]] • [[1Kgs.22.18]] • [[2Kgs.1.5]] • [[2Kgs.4.19]] • [[2Kgs.5.19]] • [[2Kgs.5.21]] • [[2Kgs.6.6]] • [[2Kgs.9.23]] • [[2Kgs.9.33]] • [[2Kgs.20.16]] • [[1Chr.21.11]] • [[1Chr.22.7]] • [[2Chr.18.4]] • [[2Chr.18.17]] • [[2Chr.29.5]] • [[Esth.4.13]] • [[Esth.6.4]] • [[Esth.6.5]] • [[Esth.6.7]] • [[Esth.7.9]] • [[Ps.52.1]] • [[Prov.4.4]] • [[Isa.38.22]] • [[Isa.39.5]] • [[Isa.49.3]] • [[Jer.1.14]] • [[Jer.11.9]] • [[Jer.14.11]] • [[Jer.21.3]] • [[Jer.38.20]] • [[Jer.44.20]] • [[Jer.51.61]] • [[Ezek.8.15]] • [[Ezek.47.6]] • [[Dan.1.11]] • [[Jonah.1.6]] • [[Jonah.1.9]] • [[Zech.11.15]]  |
+|   | and he spoke | [[Jonah.2.10]]  |
+|   | and it said | [[Josh.24.21]]  |
+| **<span class="ashebrew">וַיֹּ֥אמֶֽר</span>** | and he said | [[Judg.12.5]]  |
+| **<span class="ashebrew">וַיֹּ֥אמְרוּ</span>** | and they said | [[Gen.26.32]] • [[Judg.18.5]] • [[Ruth.2.4]] • [[2Sam.12.19]]  |
+| **<span class="ashebrew">וַיֹּ֤אמֶר</span>** | and he has said | [[2Kgs.18.22]] • [[Isa.36.7]]  |
+|   | and he said | [[Gen.4.9]] • [[Gen.7.1]] • [[Gen.9.8]] • [[Gen.12.1]] • [[Gen.16.9]] • [[Gen.16.10]] • [[Gen.16.11]] • [[Gen.17.1]] • [[Gen.17.9]] • [[Gen.17.15]] • [[Gen.24.5]] • [[Gen.24.55]] • [[Gen.24.56]] • [[Gen.26.9]] • [[Gen.26.27]] • [[Gen.27.1]] • [[Gen.27.20]] • [[Gen.27.21]] • [[Gen.29.4]] • [[Gen.29.14]] • [[Gen.29.15]] • [[Gen.30.25]] • [[Gen.30.27]] • [[Gen.30.31]] • [[Gen.31.3]] • [[Gen.31.26]] • [[Gen.32.2]] • [[Gen.34.11]] • [[Gen.35.1]] • [[Gen.35.2]] • [[Gen.37.17]] • [[Gen.38.8]] • [[Gen.38.23]] • [[Gen.40.12]] • [[Gen.41.15]] • [[Gen.41.25]] • [[Gen.41.39]] • [[Gen.42.1]] • [[Gen.42.7]] • [[Gen.42.9]] • [[Gen.42.28]] • [[Gen.42.36]] • [[Gen.42.37]] • [[Gen.43.2]] • [[Gen.44.15]] • [[Gen.45.17]] • [[Gen.47.9]] • [[Gen.47.16]] • [[Gen.47.23]] • [[Gen.47.29]] • [[Gen.48.3]] • [[Gen.48.9]] • [[Gen.48.11]] • [[Gen.48.21]] • [[Gen.49.29]] • [[Gen.50.24]] • [[Exod.3.11]] • [[Exod.3.14]] • [[Exod.4.4]] • [[Exod.4.18]] • [[Exod.4.27]] • [[Exod.5.4]] • [[Exod.6.1]] • [[Exod.7.1]] • [[Exod.7.14]] • [[Exod.8.1]] • [[Exod.9.1]] • [[Exod.9.13]] • [[Exod.9.29]] • [[Exod.10.1]] • [[Exod.11.9]] • [[Exod.12.1]] • [[Exod.12.43]] • [[Exod.14.15]] • [[Exod.14.26]] • [[Exod.16.4]] • [[Exod.16.6]] • [[Exod.16.9]] • [[Exod.16.15]] • [[Exod.16.25]] • [[Exod.17.2]] • [[Exod.19.21]] • [[Exod.19.23]] • [[Exod.20.22]] • [[Exod.32.2]] • [[Exod.32.21]] • [[Exod.32.30]] • [[Exod.33.17]] • [[Exod.34.1]] • [[Exod.34.27]] • [[Exod.35.30]] • [[Lev.21.1]] • [[Num.11.23]] • [[Num.11.29]] • [[Num.14.11]] • [[Num.15.35]] • [[Num.16.16]] • [[Num.18.1]] • [[Num.22.12]] • [[Num.22.29]] • [[Num.22.32]] • [[Num.23.1]] • [[Num.23.11]] • [[Num.23.17]] • [[Num.23.25]] • [[Num.23.27]] • [[Num.23.29]] • [[Num.26.1]] • [[Num.27.12]] • [[Num.32.20]] • [[Num.32.25]] • [[Deut.2.31]] • [[Deut.10.11]] • [[Deut.31.16]] • [[Deut.32.46]] • [[Josh.1.1]] • [[Josh.3.6]] • [[Josh.3.7]] • [[Josh.4.5]] • [[Josh.5.9]] • [[Josh.6.2]] • [[Josh.7.2]] • [[Josh.7.25]] • [[Josh.10.25]] • [[Josh.17.17]] • [[Judg.3.28]] • [[Judg.4.8]] • [[Judg.6.15]] • [[Judg.6.16]] • [[Judg.6.39]] • [[Judg.7.2]] • [[Judg.7.9]] • [[Judg.8.23]] • [[Judg.9.36]] • [[Judg.9.54]] • [[Judg.11.7]] • [[Judg.12.2]] • [[Judg.13.18]] • [[Judg.14.12]] • [[Judg.15.3]] • [[Judg.15.7]] • [[Judg.15.12]] • [[Judg.16.7]] • [[Judg.16.17]] • [[Judg.18.18]] • [[Judg.19.12]] • [[Judg.20.28]] • [[Ruth.2.5]] • [[1Sam.1.14]] • [[1Sam.3.5]] • [[1Sam.3.10]] • [[1Sam.3.11]] • [[1Sam.8.7]] • [[1Sam.8.22]] • [[1Sam.9.23]] • [[1Sam.10.16]] • [[1Sam.11.14]] • [[1Sam.12.1]] • [[1Sam.14.7]] • [[1Sam.14.18]] • [[1Sam.14.43]] • [[1Sam.15.1]] • [[1Sam.15.16]] • [[1Sam.15.26]] • [[1Sam.15.28]] • [[1Sam.16.2]] • [[1Sam.16.10]] • [[1Sam.17.32]] • [[1Sam.17.34]] • [[1Sam.17.43]] • [[1Sam.17.45]] • [[1Sam.17.58]] • [[1Sam.18.21]] • [[1Sam.20.10]] • [[1Sam.20.11]] • [[1Sam.20.27]] • [[1Sam.21.1]] • [[1Sam.21.8]] • [[1Sam.22.13]] • [[1Sam.22.18]] • [[1Sam.24.9]] • [[1Sam.26.8]] • [[1Sam.26.10]] • [[1Sam.27.1]] • [[1Sam.28.1]] • [[1Sam.28.2]] • [[1Sam.28.2]] • [[1Sam.28.14]] • [[1Sam.28.15]] • [[1Sam.30.8]] • [[1Sam.30.15]] • [[2Sam.1.3]] • [[2Sam.1.16]] • [[2Sam.2.14]] • [[2Sam.7.2]] • [[2Sam.7.3]] • [[2Sam.9.3]] • [[2Sam.9.4]] • [[2Sam.9.6]] • [[2Sam.9.11]] • [[2Sam.10.5]] • [[2Sam.11.8]] • [[2Sam.11.23]] • [[2Sam.12.1]] • [[2Sam.12.13]] • [[2Sam.13.4]] • [[2Sam.13.5]] • [[2Sam.13.26]] • [[2Sam.13.35]] • [[2Sam.14.21]] • [[2Sam.14.24]] • [[2Sam.15.3]] • [[2Sam.15.7]] • [[2Sam.15.19]] • [[2Sam.15.25]] • [[2Sam.15.27]] • [[2Sam.16.4]] • [[2Sam.16.4]] • [[2Sam.16.16]] • [[2Sam.16.17]] • [[2Sam.16.21]] • [[2Sam.17.14]] • [[2Sam.18.2]] • [[2Sam.18.4]] • [[2Sam.18.12]] • [[2Sam.18.21]] • [[2Sam.18.27]] • [[2Sam.18.28]] • [[2Sam.18.32]] • [[2Sam.19.25]] • [[2Sam.19.29]] • [[2Sam.19.30]] • [[2Sam.20.4]] • [[2Sam.20.6]] • [[2Sam.20.9]] • [[2Sam.21.3]] • [[2Sam.24.22]] • [[2Sam.24.23]] • [[1Kgs.1.42]] • [[1Kgs.8.18]] • [[1Kgs.11.21]] • [[1Kgs.13.8]] • [[1Kgs.13.31]] • [[1Kgs.18.5]] • [[1Kgs.18.17]] • [[1Kgs.18.22]] • [[1Kgs.18.34]] • [[1Kgs.18.41]] • [[1Kgs.19.15]] • [[1Kgs.19.20]] • [[1Kgs.20.12]] • [[1Kgs.20.14]] • [[1Kgs.20.22]] • [[1Kgs.21.20]] • [[1Kgs.22.3]] • [[1Kgs.22.4]] • [[1Kgs.22.15]] • [[1Kgs.22.16]] • [[1Kgs.22.17]] • [[2Kgs.1.2]] • [[2Kgs.3.13]] • [[2Kgs.5.5]] • [[2Kgs.5.25]] • [[2Kgs.5.26]] • [[2Kgs.6.21]] • [[2Kgs.8.5]] • [[2Kgs.8.10]] • [[2Kgs.9.5]] • [[2Kgs.9.15]] • [[2Kgs.9.21]] • [[2Kgs.11.15]] • [[2Kgs.13.15]] • [[2Kgs.13.17]] • [[2Kgs.13.18]] • [[2Kgs.18.19]] • [[2Kgs.19.6]] • [[2Kgs.20.8]] • [[2Kgs.20.19]] • [[1Chr.14.14]] • [[1Chr.17.2]] • [[1Chr.19.5]] • [[1Chr.21.8]] • [[1Chr.29.20]] • [[2Chr.1.8]] • [[2Chr.6.8]] • [[2Chr.18.15]] • [[2Chr.18.16]] • [[2Chr.23.14]] • [[2Chr.25.9]] • [[2Chr.25.16]] • [[2Chr.31.4]] • [[Ezra.2.63]] • [[Neh.2.4]] • [[Neh.7.65]] • [[Esth.3.8]] • [[Esth.3.11]] • [[Esth.5.3]] • [[Esth.6.6]] • [[Esth.6.6]] • [[Esth.9.14]] • [[Job.1.8]] • [[Job.2.2]] • [[Job.28.28]] • [[Isa.8.1]] • [[Isa.8.3]] • [[Isa.36.4]] • [[Isa.37.6]] • [[Isa.39.8]] • [[Jer.1.7]] • [[Jer.1.9]] • [[Jer.3.11]] • [[Jer.11.6]] • [[Jer.15.1]] • [[Jer.26.12]] • [[Jer.36.18]] • [[Jer.37.17]] • [[Jer.38.15]] • [[Jer.44.24]] • [[Ezek.9.4]] • [[Ezek.23.36]] • [[Dan.8.17]] • [[Hos.1.4]] • [[Amos.7.12]] • [[Amos.7.15]] • [[Jonah.4.9]] • [[Zech.4.6]] • [[Zech.4.13]]  |
+|   | and he spoke | [[1Chr.21.27]]  |
+|   | and it said | [[Num.20.18]] • [[Judg.9.9]] • [[Judg.11.19]] • [[1Sam.11.12]] • [[1Sam.17.27]] • [[1Kgs.22.20]]  |
+|   | and someone said | [[2Kgs.9.11]]  |
+| **<span class="ashebrew">וַיֹּ֤אמְרוּ</span>** | and they said | [[Gen.37.8]] • [[Gen.47.18]] • [[Judg.11.2]] • [[Judg.15.12]] • [[Judg.18.3]] • [[2Chr.26.18]] • [[Neh.4.12]]  |
+| **<span class="ashebrew">וַיֹּ֣אמֶר</span>** | and he had said | [[1Chr.11.6]]  |
+|   | and he has said | [[Hos.12.8]]  |
+|   | and he said | [[Gen.1.6]] • [[Gen.1.9]] • [[Gen.1.11]] • [[Gen.1.14]] • [[Gen.1.20]] • [[Gen.1.24]] • [[Gen.1.26]] • [[Gen.1.29]] • [[Gen.3.22]] • [[Gen.6.3]] • [[Gen.6.7]] • [[Gen.9.12]] • [[Gen.11.6]] • [[Gen.15.2]] • [[Gen.15.3]] • [[Gen.15.5]] • [[Gen.15.9]] • [[Gen.15.13]] • [[Gen.17.17]] • [[Gen.17.19]] • [[Gen.18.20]] • [[Gen.18.26]] • [[Gen.19.21]] • [[Gen.20.3]] • [[Gen.20.15]] • [[Gen.21.22]] • [[Gen.21.26]] • [[Gen.22.1]] • [[Gen.22.7]] • [[Gen.24.2]] • [[Gen.25.32]] • [[Gen.25.33]] • [[Gen.26.10]] • [[Gen.27.11]] • [[Gen.27.18]] • [[Gen.27.18]] • [[Gen.27.31]] • [[Gen.27.34]] • [[Gen.27.37]] • [[Gen.27.39]] • [[Gen.28.1]] • [[Gen.29.5]] • [[Gen.29.19]] • [[Gen.29.25]] • [[Gen.29.26]] • [[Gen.30.29]] • [[Gen.31.5]] • [[Gen.31.24]] • [[Gen.31.31]] • [[Gen.31.36]] • [[Gen.31.43]] • [[Gen.31.48]] • [[Gen.32.26]] • [[Gen.33.10]] • [[Gen.33.13]] • [[Gen.33.15]] • [[Gen.34.4]] • [[Gen.37.10]] • [[Gen.37.14]] • [[Gen.38.11]] • [[Gen.38.24]] • [[Gen.40.9]] • [[Gen.42.33]] • [[Gen.44.16]] • [[Gen.45.24]] • [[Gen.47.5]] • [[Gen.48.4]] • [[Exod.1.18]] • [[Exod.3.3]] • [[Exod.3.7]] • [[Exod.4.21]] • [[Exod.5.2]] • [[Exod.5.5]] • [[Exod.7.8]] • [[Exod.8.5]] • [[Exod.8.9]] • [[Exod.8.16]] • [[Exod.8.26]] • [[Exod.8.28]] • [[Exod.8.29]] • [[Exod.9.8]] • [[Exod.10.8]] • [[Exod.10.9]] • [[Exod.10.10]] • [[Exod.10.25]] • [[Exod.11.4]] • [[Exod.12.21]] • [[Exod.16.8]] • [[Exod.16.23]] • [[Exod.16.32]] • [[Exod.32.22]] • [[Exod.32.27]] • [[Exod.32.29]] • [[Exod.33.21]] • [[Exod.35.1]] • [[Exod.35.4]] • [[Lev.9.2]] • [[Lev.9.6]] • [[Lev.10.4]] • [[Lev.10.6]] • [[Num.10.29]] • [[Num.10.35]] • [[Num.13.17]] • [[Num.14.20]] • [[Num.14.41]] • [[Num.20.10]] • [[Num.20.12]] • [[Num.22.8]] • [[Num.22.20]] • [[Num.23.4]] • [[Num.25.5]] • [[Num.32.6]] • [[Deut.5.1]] • [[Deut.29.2]] • [[Deut.31.2]] • [[Josh.3.10]] • [[Josh.4.1]] • [[Josh.4.15]] • [[Josh.5.13]] • [[Josh.5.14]] • [[Josh.5.14]] • [[Josh.6.6]] • [[Josh.10.12]] • [[Josh.10.18]] • [[Josh.10.22]] • [[Josh.14.6]] • [[Josh.15.16]] • [[Josh.22.2]] • [[Josh.22.31]] • [[Josh.23.2]] • [[Judg.1.2]] • [[Judg.1.3]] • [[Judg.1.7]] • [[Judg.1.12]] • [[Judg.3.19]] • [[Judg.3.20]] • [[Judg.4.20]] • [[Judg.6.12]] • [[Judg.6.17]] • [[Judg.6.22]] • [[Judg.6.31]] • [[Judg.7.15]] • [[Judg.7.17]] • [[Judg.8.2]] • [[Judg.8.7]] • [[Judg.9.7]] • [[Judg.9.28]] • [[Judg.9.36]] • [[Judg.11.15]] • [[Judg.11.38]] • [[Judg.12.6]] • [[Judg.13.3]] • [[Judg.13.7]] • [[Judg.13.11]] • [[Judg.13.12]] • [[Judg.14.14]] • [[Judg.14.16]] • [[Judg.14.18]] • [[Judg.15.2]] • [[Judg.15.11]] • [[Judg.15.16]] • [[Judg.16.11]] • [[Judg.16.13]] • [[Judg.16.30]] • [[Judg.17.2]] • [[Judg.17.13]] • [[Judg.18.4]] • [[Judg.19.8]] • [[Judg.19.9]] • [[Judg.19.13]] • [[Judg.19.18]] • [[Judg.19.23]] • [[Ruth.2.11]] • [[Ruth.4.2]] • [[Ruth.4.5]] • [[Ruth.4.6]] • [[1Sam.1.23]] • [[1Sam.2.23]] • [[1Sam.2.27]] • [[1Sam.3.6]] • [[1Sam.3.8]] • [[1Sam.7.3]] • [[1Sam.7.5]] • [[1Sam.9.6]] • [[1Sam.10.18]] • [[1Sam.10.22]] • [[1Sam.11.2]] • [[1Sam.11.5]] • [[1Sam.11.13]] • [[1Sam.13.9]] • [[1Sam.13.11]] • [[1Sam.14.17]] • [[1Sam.14.33]] • [[1Sam.14.34]] • [[1Sam.14.36]] • [[1Sam.14.38]] • [[1Sam.14.40]] • [[1Sam.14.41]] • [[1Sam.14.42]] • [[1Sam.14.44]] • [[1Sam.15.6]] • [[1Sam.15.14]] • [[1Sam.15.17]] • [[1Sam.15.22]] • [[1Sam.15.30]] • [[1Sam.15.32]] • [[1Sam.15.32]] • [[1Sam.15.33]] • [[1Sam.16.2]] • [[1Sam.16.5]] • [[1Sam.17.8]] • [[1Sam.17.25]] • [[1Sam.17.26]] • [[1Sam.17.28]] • [[1Sam.17.29]] • [[1Sam.17.55]] • [[1Sam.17.58]] • [[1Sam.18.23]] • [[1Sam.19.4]] • [[1Sam.20.1]] • [[1Sam.20.30]] • [[1Sam.20.36]] • [[1Sam.20.40]] • [[1Sam.21.2]] • [[1Sam.21.5]] • [[1Sam.21.9]] • [[1Sam.22.3]] • [[1Sam.22.7]] • [[1Sam.22.12]] • [[1Sam.22.16]] • [[1Sam.22.17]] • [[1Sam.23.7]] • [[1Sam.23.12]] • [[1Sam.23.21]] • [[1Sam.24.16]] • [[1Sam.26.6]] • [[1Sam.26.6]] • [[1Sam.26.17]] • [[1Sam.27.10]] • [[1Sam.27.10]] • [[1Sam.28.15]] • [[1Sam.28.16]] • [[1Sam.29.6]] • [[1Sam.29.9]] • [[1Sam.30.7]] • [[1Sam.30.23]] • [[1Sam.31.4]] • [[2Sam.1.3]] • [[2Sam.1.5]] • [[2Sam.1.9]] • [[2Sam.1.13]] • [[2Sam.2.5]] • [[2Sam.2.27]] • [[2Sam.3.13]] • [[2Sam.3.21]] • [[2Sam.4.9]] • [[2Sam.6.21]] • [[2Sam.9.1]] • [[2Sam.9.3]] • [[2Sam.9.9]] • [[2Sam.13.4]] • [[2Sam.13.9]] • [[2Sam.13.11]] • [[2Sam.14.2]] • [[2Sam.14.19]] • [[2Sam.14.22]] • [[2Sam.14.31]] • [[2Sam.14.32]] • [[2Sam.15.14]] • [[2Sam.15.31]] • [[2Sam.16.2]] • [[2Sam.16.3]] • [[2Sam.16.10]] • [[2Sam.16.18]] • [[2Sam.17.8]] • [[2Sam.17.15]] • [[2Sam.18.11]] • [[2Sam.18.14]] • [[2Sam.18.22]] • [[2Sam.18.22]] • [[2Sam.18.25]] • [[2Sam.18.29]] • [[2Sam.18.29]] • [[2Sam.18.30]] • [[2Sam.18.31]] • [[2Sam.18.32]] • [[2Sam.19.19]] • [[2Sam.19.22]] • [[2Sam.19.38]] • [[2Sam.20.17]] • [[2Sam.21.1]] • [[2Sam.21.2]] • [[2Sam.24.13]] • [[2Sam.24.18]] • [[2Sam.24.21]] • [[1Kgs.1.11]] • [[1Kgs.1.32]] • [[1Kgs.1.36]] • [[1Kgs.1.52]] • [[1Kgs.2.22]] • [[1Kgs.2.36]] • [[1Kgs.3.5]] • [[1Kgs.3.6]] • [[1Kgs.3.23]] • [[1Kgs.3.25]] • [[1Kgs.11.22]] • [[1Kgs.12.5]] • [[1Kgs.12.9]] • [[1Kgs.12.28]] • [[1Kgs.13.6]] • [[1Kgs.13.14]] • [[1Kgs.13.15]] • [[1Kgs.13.18]] • [[1Kgs.18.43]] • [[1Kgs.19.4]] • [[1Kgs.19.9]] • [[1Kgs.20.2]] • [[1Kgs.20.11]] • [[1Kgs.20.34]] • [[1Kgs.20.36]] • [[1Kgs.20.42]] • [[1Kgs.21.20]] • [[1Kgs.22.6]] • [[1Kgs.22.8]] • [[1Kgs.22.20]] • [[1Kgs.22.25]] • [[1Kgs.22.28]] • [[1Kgs.22.34]] • [[2Kgs.1.6]] • [[2Kgs.2.2]] • [[2Kgs.2.9]] • [[2Kgs.2.17]] • [[2Kgs.2.18]] • [[2Kgs.3.7]] • [[2Kgs.3.11]] • [[2Kgs.3.14]] • [[2Kgs.4.6]] • [[2Kgs.4.13]] • [[2Kgs.4.14]] • [[2Kgs.4.38]] • [[2Kgs.5.20]] • [[2Kgs.5.22]] • [[2Kgs.5.23]] • [[2Kgs.6.11]] • [[2Kgs.6.20]] • [[2Kgs.7.1]] • [[2Kgs.8.12]] • [[2Kgs.8.13]] • [[2Kgs.8.13]] • [[2Kgs.8.14]] • [[2Kgs.9.6]] • [[2Kgs.9.11]] • [[2Kgs.9.17]] • [[2Kgs.10.18]] • [[2Kgs.10.20]] • [[2Kgs.10.25]] • [[2Kgs.12.7]] • [[2Kgs.13.16]] • [[2Kgs.18.26]] • [[2Kgs.20.7]] • [[2Kgs.20.9]] • [[2Kgs.20.15]] • [[2Kgs.23.27]] • [[2Kgs.25.24]] • [[1Chr.10.4]] • [[1Chr.12.17]] • [[1Chr.14.11]] • [[1Chr.15.12]] • [[1Chr.15.16]] • [[1Chr.21.3]] • [[1Chr.21.17]] • [[1Chr.22.1]] • [[1Chr.22.2]] • [[1Chr.22.5]] • [[1Chr.28.6]] • [[1Chr.29.10]] • [[2Chr.1.7]] • [[2Chr.1.11]] • [[2Chr.2.1]] • [[2Chr.7.12]] • [[2Chr.10.5]] • [[2Chr.10.9]] • [[2Chr.15.2]] • [[2Chr.16.7]] • [[2Chr.18.3]] • [[2Chr.18.5]] • [[2Chr.18.7]] • [[2Chr.18.19]] • [[2Chr.18.24]] • [[2Chr.18.27]] • [[2Chr.18.33]] • [[2Chr.19.6]] • [[2Chr.23.3]] • [[2Chr.24.5]] • [[2Chr.24.6]] • [[2Chr.24.8]] • [[2Chr.25.15]] • [[2Chr.28.9]] • [[2Chr.31.10]] • [[2Chr.31.11]] • [[2Chr.35.3]] • [[Ezra.10.2]] • [[Ezra.10.10]] • [[Neh.4.2]] • [[Neh.8.9]] • [[Neh.8.10]] • [[Esth.1.13]] • [[Esth.1.16]] • [[Esth.5.5]] • [[Esth.6.3]] • [[Esth.7.8]] • [[Esth.7.9]] • [[Job.2.10]] • [[Isa.3.16]] • [[Isa.7.3]] • [[Isa.20.3]] • [[Isa.29.13]] • [[Isa.36.11]] • [[Isa.36.12]] • [[Isa.38.21]] • [[Isa.39.4]] • [[Jer.9.13]] • [[Jer.26.18]] • [[Jer.28.11]] • [[Jer.32.8]] • [[Jer.37.18]] • [[Jer.38.17]] • [[Jer.40.2]] • [[Jer.41.6]] • [[Jer.42.9]] • [[Ezek.2.3]] • [[Ezek.3.1]] • [[Ezek.3.3]] • [[Ezek.3.22]] • [[Ezek.3.24]] • [[Ezek.4.13]] • [[Ezek.4.15]] • [[Ezek.4.16]] • [[Ezek.8.5]] • [[Ezek.8.6]] • [[Ezek.8.8]] • [[Ezek.8.12]] • [[Ezek.8.17]] • [[Ezek.9.9]] • [[Ezek.11.5]] • [[Ezek.37.3]] • [[Ezek.37.4]] • [[Ezek.37.9]] • [[Ezek.41.4]] • [[Ezek.42.13]] • [[Ezek.43.7]] • [[Ezek.43.18]] • [[Ezek.46.20]] • [[Ezek.47.8]] • [[Dan.1.3]] • [[Dan.2.2]] • [[Dan.8.14]] • [[Dan.10.11]] • [[Dan.10.12]] • [[Hos.1.6]] • [[Joel.2.19]] • [[Amos.7.8]] • [[Amos.7.14]] • [[Jonah.1.12]] • [[Jonah.4.4]] • [[Jonah.4.10]] • [[Hag.2.13]] • [[Zech.1.9]] • [[Zech.1.14]] • [[Zech.1.19]] • [[Zech.1.21]] • [[Zech.2.2]] • [[Zech.2.4]] • [[Zech.3.4]] • [[Zech.4.2]] • [[Zech.4.5]] • [[Zech.5.2]] • [[Zech.5.3]] • [[Zech.5.5]] • [[Zech.5.11]] • [[Zech.6.5]]  |
+|   | and he spoke | [[1Sam.8.10]] • [[1Chr.14.12]] • [[2Chr.1.2]] • [[2Chr.32.24]]  |
+|   | and it said | [[Exod.14.25]] • [[Judg.9.15]] • [[Neh.4.10]]  |
+|   | and someone said | [[Gen.48.1]]  |
+| **<span class="ashebrew">וַיֹּ֣אמְרוּ</span>** | and they said | [[Gen.19.5]] • [[Gen.24.60]] • [[Exod.32.23]] • [[Num.22.16]] • [[Judg.1.24]] • [[Judg.12.6]] • [[Judg.14.13]] • [[Judg.14.18]] • [[1Sam.7.6]] • [[1Sam.29.4]] • [[2Kgs.2.23]]  |
+| **<span class="ashebrew">וַיֹּ֣אמְר֔וּ</span>** | and people said | [[1Sam.14.36]]  |
+|   | and they had said | [[Neh.9.18]]  |
+|   | and they have said | [[Exod.32.8]] • [[1Kgs.1.25]] • [[Isa.29.15]]  |
+|   | and they said | [[Gen.18.5]] • [[Gen.24.50]] • [[Gen.29.4]] • [[Gen.38.21]] • [[Gen.42.7]] • [[Gen.50.11]] • [[Gen.50.15]] • [[Gen.50.18]] • [[Exod.5.3]] • [[Exod.17.2]] • [[Exod.19.8]] • [[Exod.24.3]] • [[Exod.24.7]] • [[Exod.32.4]] • [[Num.11.4]] • [[Num.13.27]] • [[Num.14.7]] • [[Num.16.22]] • [[Num.22.14]] • [[Deut.1.25]] • [[Judg.3.24]] • [[Judg.6.29]] • [[Judg.16.23]] • [[Judg.16.25]] • [[Judg.21.3]] • [[Judg.21.6]] • [[Judg.21.8]] • [[Judg.21.17]] • [[1Sam.4.6]] • [[1Sam.5.8]] • [[1Sam.12.4]] • [[1Sam.30.20]] • [[1Kgs.18.39]] • [[1Kgs.20.5]] • [[1Kgs.20.32]] • [[2Kgs.2.15]] • [[2Kgs.10.4]] • [[2Chr.29.18]] • [[Jer.26.17]]  |
+| **<span class="ashebrew">וַיֹּ֡אמֶר</span>** | and he said | [[Gen.22.2]] • [[Gen.27.33]] • [[Gen.27.36]] • [[Exod.34.9]] • [[Judg.18.24]] • [[1Sam.20.29]] • [[1Sam.25.39]] • [[1Sam.30.15]] • [[2Sam.23.17]] • [[2Kgs.8.12]] • [[1Chr.11.19]] • [[Neh.6.10]] • [[Isa.6.11]] • [[Jer.38.12]] • [[Ezek.10.2]]  |
+| **<span class="ashebrew">וַיֹּ֜אמֶר</span>** | and he said | [[Gen.19.2]] • [[Judg.7.13]] • [[Judg.8.21]] • [[Judg.9.48]] • [[Judg.19.6]] • [[1Sam.30.13]] • [[2Sam.1.6]] • [[1Kgs.20.9]] • [[1Kgs.20.28]] • [[1Kgs.20.39]] • [[2Kgs.2.21]] • [[2Kgs.10.23]] • [[2Chr.18.3]] • [[Ezek.10.2]] • [[Dan.1.10]] • [[Dan.10.19]]  |
+| **<span class="ashebrew">וַיֹּ֛אמֶר</span>** | and he has said | [[1Sam.20.3]]  |
+|   | and he said | [[Gen.44.27]] • [[Exod.3.4]] • [[Exod.5.17]] • [[Exod.18.17]] • [[Num.23.5]] • [[Num.23.16]] • [[Josh.4.21]] • [[Judg.8.9]] • [[Judg.13.13]] • [[Ruth.4.1]] • [[1Sam.3.6]] • [[1Sam.4.16]] • [[2Sam.21.4]] • [[1Kgs.20.14]] • [[1Kgs.20.18]] • [[1Kgs.20.32]] • [[2Kgs.2.3]] • [[2Kgs.2.5]] • [[2Kgs.6.5]] • [[2Kgs.9.19]] • [[2Kgs.13.18]] • [[Jer.38.19]]  |
+| **<span class="ashebrew">וַיֹּ֙אמֶר֙</span>** | and he said | [[Gen.2.18]] • [[Gen.3.1]] • [[Gen.4.9]] • [[Gen.12.11]] • [[Gen.15.5]] • [[Gen.18.28]] • [[Gen.18.29]] • [[Gen.18.30]] • [[Gen.18.31]] • [[Gen.18.32]] • [[Gen.19.14]] • [[Gen.19.17]] • [[Gen.20.11]] • [[Gen.21.24]] • [[Gen.22.8]] • [[Gen.24.23]] • [[Gen.24.33]] • [[Gen.26.9]] • [[Gen.32.26]] • [[Gen.32.29]] • [[Gen.33.15]] • [[Gen.37.33]] • [[Gen.38.16]] • [[Gen.38.26]] • [[Gen.39.8]] • [[Gen.40.16]] • [[Gen.43.6]] • [[Gen.43.16]] • [[Gen.45.28]] • [[Gen.48.19]] • [[Exod.1.15]] • [[Exod.2.13]] • [[Exod.3.12]] • [[Exod.4.3]] • [[Exod.4.14]] • [[Exod.8.8]] • [[Exod.8.10]] • [[Exod.10.24]] • [[Exod.12.31]] • [[Exod.18.6]] • [[Exod.19.15]] • [[Exod.32.17]] • [[Num.16.15]] • [[Num.22.13]] • [[Num.22.18]] • [[Num.23.15]] • [[Josh.6.7]] • [[Judg.7.14]] • [[Judg.8.5]] • [[Judg.8.6]] • [[Judg.8.20]] • [[Judg.9.29]] • [[Judg.11.35]] • [[Judg.16.20]] • [[Ruth.3.14]] • [[Ruth.4.3]] • [[1Sam.9.18]] • [[1Sam.9.19]] • [[1Sam.9.24]] • [[1Sam.14.8]] • [[1Sam.14.29]] • [[1Sam.14.36]] • [[1Sam.17.10]] • [[1Sam.20.3]] • [[1Sam.23.9]] • [[1Sam.24.17]] • [[1Sam.28.23]] • [[2Sam.2.26]] • [[2Sam.3.7]] • [[2Sam.3.8]] • [[2Sam.12.5]] • [[2Sam.12.27]] • [[2Sam.13.26]] • [[2Sam.14.11]] • [[2Sam.14.18]] • [[2Sam.15.4]] • [[2Sam.17.5]] • [[2Sam.18.27]] • [[2Sam.24.17]] • [[1Kgs.11.31]] • [[1Kgs.13.2]] • [[1Kgs.13.13]] • [[1Kgs.13.26]] • [[1Kgs.17.23]] • [[1Kgs.18.15]] • [[1Kgs.18.21]] • [[1Kgs.18.27]] • [[1Kgs.20.7]] • [[1Kgs.20.14]] • [[1Kgs.20.39]] • [[1Kgs.22.4]] • [[1Kgs.22.7]] • [[1Kgs.22.8]] • [[1Kgs.22.11]] • [[1Kgs.22.26]] • [[2Kgs.3.12]] • [[2Kgs.4.12]] • [[2Kgs.4.19]] • [[2Kgs.4.25]] • [[2Kgs.4.36]] • [[2Kgs.4.41]] • [[2Kgs.4.43]] • [[2Kgs.5.7]] • [[2Kgs.6.3]] • [[2Kgs.6.12]] • [[2Kgs.6.22]] • [[2Kgs.6.27]] • [[2Kgs.7.12]] • [[2Kgs.9.18]] • [[2Kgs.9.22]] • [[2Kgs.9.36]] • [[2Kgs.10.9]] • [[2Kgs.10.14]] • [[2Kgs.10.16]] • [[2Kgs.13.19]] • [[2Kgs.20.10]] • [[2Kgs.20.14]] • [[2Kgs.23.18]] • [[2Chr.14.4]] • [[2Chr.18.6]] • [[2Chr.18.7]] • [[2Chr.18.10]] • [[2Chr.18.14]] • [[2Chr.18.25]] • [[2Chr.19.2]] • [[2Chr.20.20]] • [[2Chr.25.9]] • [[2Chr.25.16]] • [[2Chr.29.27]] • [[2Chr.33.16]] • [[2Chr.34.15]] • [[Esth.7.5]] • [[Isa.39.3]] • [[Isa.63.8]] • [[Jer.28.5]] • [[Jer.28.6]] • [[Jer.38.5]] • [[Dan.8.19]] • [[Jonah.3.7]] • [[Zech.5.8]]  |
+| **<span class="ashebrew">וַיֹּ֗אמֶר</span>** | and he had said | [[2Kgs.10.24]]  |
+|   | and he said | [[Gen.18.6]] • [[Gen.18.10]] • [[Gen.18.31]] • [[Gen.22.7]] • [[Gen.22.12]] • [[Gen.24.27]] • [[Gen.26.22]] • [[Gen.27.22]] • [[Gen.27.25]] • [[Gen.27.27]] • [[Gen.29.7]] • [[Gen.29.18]] • [[Gen.30.2]] • [[Gen.31.12]] • [[Gen.32.28]] • [[Gen.37.9]] • [[Gen.38.18]] • [[Gen.43.27]] • [[Gen.43.29]] • [[Gen.45.4]] • [[Gen.47.1]] • [[Gen.47.31]] • [[Gen.49.1]] • [[Exod.1.16]] • [[Exod.3.6]] • [[Exod.3.14]] • [[Exod.4.7]] • [[Exod.8.25]] • [[Exod.10.16]] • [[Exod.17.16]] • [[Exod.18.14]] • [[Exod.24.8]] • [[Exod.32.11]] • [[Exod.32.18]] • [[Exod.33.19]] • [[Exod.34.10]] • [[Num.13.30]] • [[Deut.32.20]] • [[Judg.2.20]] • [[Judg.6.14]] • [[Judg.8.18]] • [[Judg.14.2]] • [[Ruth.3.10]] • [[Ruth.3.15]] • [[1Sam.3.17]] • [[1Sam.4.17]] • [[1Sam.9.21]] • [[1Sam.14.28]] • [[1Sam.15.18]] • [[1Sam.16.11]] • [[1Sam.16.18]] • [[1Sam.18.8]] • [[1Sam.23.4]] • [[1Sam.28.8]] • [[2Sam.3.28]] • [[2Sam.7.18]] • [[2Sam.10.11]] • [[2Sam.11.3]] • [[2Sam.13.32]] • [[2Sam.15.2]] • [[2Sam.18.10]] • [[2Sam.18.28]] • [[2Sam.19.43]] • [[2Sam.20.11]] • [[1Kgs.2.15]] • [[1Kgs.2.17]] • [[1Kgs.3.27]] • [[1Kgs.5.7]] • [[1Kgs.8.15]] • [[1Kgs.13.16]] • [[1Kgs.18.18]] • [[1Kgs.18.33]] • [[1Kgs.18.44]] • [[1Kgs.18.44]] • [[1Kgs.19.11]] • [[1Kgs.19.20]] • [[1Kgs.20.13]] • [[1Kgs.22.17]] • [[1Kgs.22.22]] • [[2Kgs.2.20]] • [[2Kgs.4.3]] • [[2Kgs.4.7]] • [[2Kgs.4.16]] • [[2Kgs.4.23]] • [[2Kgs.4.41]] • [[2Kgs.4.43]] • [[2Kgs.5.15]] • [[2Kgs.6.13]] • [[2Kgs.6.33]] • [[2Kgs.7.2]] • [[2Kgs.7.13]] • [[2Kgs.7.19]] • [[2Kgs.8.9]] • [[2Kgs.9.12]] • [[2Kgs.9.25]] • [[2Kgs.9.34]] • [[2Kgs.10.8]] • [[2Kgs.10.22]] • [[2Kgs.13.17]] • [[2Kgs.13.17]] • [[2Kgs.22.9]] • [[1Chr.17.16]] • [[1Chr.19.12]] • [[2Chr.6.4]] • [[2Chr.18.16]] • [[2Chr.18.21]] • [[2Chr.18.23]] • [[2Chr.20.15]] • [[2Chr.28.23]] • [[2Chr.29.21]] • [[2Chr.29.31]] • [[Neh.4.3]] • [[Esth.6.1]] • [[Job.33.24]] • [[Job.33.27]] • [[Ps.106.23]] • [[Isa.21.9]] • [[Isa.49.6]] • [[Dan.10.20]] • [[Amos.8.2]] • [[Jonah.2.2]] • [[Hag.2.14]] • [[Zech.3.4]] • [[Zech.5.6]]  |
+|   | and he spoke | [[Ps.107.25]]  |
+|   | and it has said | [[Jer.46.8]]  |
+|   | and it said | [[Exod.17.3]] • [[1Kgs.22.22]] • [[2Chr.18.21]]  |
+|   | and someone said | [[Dan.12.6]]  |
+| **<span class="ashebrew">וַיֹּ֖אמֶר</span>** | and he said | [[Gen.3.12]] • [[Gen.4.10]] • [[Gen.9.25]] • [[Gen.15.7]] • [[Gen.18.9]] • [[Gen.22.7]] • [[Gen.22.11]] • [[Gen.22.11]] • [[Gen.24.33]] • [[Gen.24.40]] • [[Gen.24.54]] • [[Gen.25.31]] • [[Gen.26.2]] • [[Gen.26.7]] • [[Gen.27.24]] • [[Gen.30.31]] • [[Gen.32.27]] • [[Gen.33.5]] • [[Gen.33.12]] • [[Gen.37.6]] • [[Gen.38.22]] • [[Gen.42.12]] • [[Gen.43.31]] • [[Gen.44.25]] • [[Gen.46.2]] • [[Gen.46.2]] • [[Gen.48.8]] • [[Gen.50.6]] • [[Exod.1.9]] • [[Exod.3.5]] • [[Exod.4.2]] • [[Exod.4.13]] • [[Exod.8.10]] • [[Exod.33.15]] • [[Num.12.6]] • [[Num.22.30]] • [[Num.23.26]] • [[Ruth.3.9]] • [[Ruth.4.4]] • [[1Sam.1.17]] • [[1Sam.3.16]] • [[1Sam.3.16]] • [[1Sam.10.12]] • [[1Sam.10.15]] • [[1Sam.17.30]] • [[1Sam.17.56]] • [[1Sam.22.12]] • [[2Sam.1.15]] • [[2Sam.2.20]] • [[2Sam.3.24]] • [[2Sam.5.23]] • [[2Sam.9.6]] • [[2Sam.9.8]] • [[2Sam.14.10]] • [[2Sam.14.12]] • [[2Sam.20.17]] • [[2Sam.21.16]] • [[1Kgs.1.43]] • [[1Kgs.2.13]] • [[1Kgs.18.9]] • [[1Kgs.18.43]] • [[1Kgs.19.7]] • [[1Kgs.20.33]] • [[1Kgs.20.37]] • [[1Kgs.22.14]] • [[2Kgs.2.10]] • [[2Kgs.2.16]] • [[2Kgs.3.10]] • [[2Kgs.4.15]] • [[2Kgs.4.36]] • [[2Kgs.6.2]] • [[2Kgs.6.3]] • [[2Kgs.6.7]] • [[2Kgs.6.16]] • [[2Kgs.9.5]] • [[2Kgs.9.22]] • [[2Kgs.10.13]] • [[2Chr.18.13]] • [[2Chr.32.1]] • [[Esth.7.5]] • [[Isa.7.12]] • [[Jer.19.14]] • [[Jer.32.6]] • [[Ezek.2.1]] • [[Ezek.3.4]] • [[Ezek.3.10]] • [[Ezek.8.9]] • [[Ezek.8.13]] • [[Ezek.11.2]] • [[Ezek.46.24]] • [[Dan.12.9]]  |
+|   | and he spoke | [[Exod.19.25]]  |
+|   | and it said | [[Num.20.20]] • [[1Kgs.22.21]] • [[2Chr.18.20]]  |
+|   | and someone said | [[1Sam.12.5]] • [[1Sam.16.4]]  |
+| **<span class="ashebrew">וַיֹּ֕אמֶר</span>** | and he said | [[Gen.3.10]] • [[Gen.3.11]] • [[Gen.9.26]] • [[Gen.12.7]] • [[Gen.12.18]] • [[Gen.21.30]] • [[Gen.22.16]] • [[Gen.24.17]] • [[Gen.24.31]] • [[Gen.26.24]] • [[Gen.27.2]] • [[Gen.27.20]] • [[Gen.27.24]] • [[Gen.27.32]] • [[Gen.27.35]] • [[Gen.28.16]] • [[Gen.32.8]] • [[Gen.32.29]] • [[Gen.33.8]] • [[Gen.33.8]] • [[Gen.37.16]] • [[Gen.37.21]] • [[Gen.37.35]] • [[Gen.38.17]] • [[Gen.42.2]] • [[Gen.42.38]] • [[Gen.44.10]] • [[Gen.44.17]] • [[Gen.46.3]] • [[Gen.48.2]] • [[Exod.2.18]] • [[Exod.32.26]] • [[Exod.33.20]] • [[Num.10.31]] • [[Num.22.9]] • [[Judg.3.19]] • [[Judg.8.15]] • [[Judg.9.37]] • [[Judg.15.1]] • [[1Sam.4.14]] • [[1Sam.8.11]] • [[1Sam.9.8]] • [[1Sam.10.1]] • [[1Sam.10.14]] • [[1Sam.16.6]] • [[1Sam.16.8]] • [[1Sam.16.9]] • [[1Sam.16.19]] • [[1Sam.18.11]] • [[1Sam.26.17]] • [[1Sam.26.18]] • [[1Sam.28.11]] • [[2Sam.1.13]] • [[2Sam.1.18]] • [[2Sam.2.20]] • [[2Sam.5.20]] • [[2Sam.6.9]] • [[2Sam.12.22]] • [[2Sam.13.17]] • [[2Sam.13.24]] • [[2Sam.15.2]] • [[2Sam.18.26]] • [[1Kgs.1.41]] • [[1Kgs.2.14]] • [[1Kgs.9.13]] • [[1Kgs.14.6]] • [[1Kgs.18.7]] • [[1Kgs.18.43]] • [[1Kgs.20.10]] • [[1Kgs.21.4]] • [[1Kgs.21.6]] • [[1Kgs.22.9]] • [[1Kgs.22.19]] • [[1Kgs.22.24]] • [[1Kgs.22.28]] • [[2Kgs.2.4]] • [[2Kgs.2.6]] • [[2Kgs.3.8]] • [[2Kgs.3.8]] • [[2Kgs.3.16]] • [[2Kgs.4.14]] • [[2Kgs.4.42]] • [[2Kgs.5.16]] • [[2Kgs.5.25]] • [[2Kgs.6.31]] • [[2Kgs.8.14]] • [[2Kgs.9.5]] • [[2Kgs.9.17]] • [[2Kgs.9.32]] • [[2Kgs.20.15]] • [[2Kgs.20.19]] • [[2Kgs.23.17]] • [[1Chr.28.2]] • [[2Chr.13.4]] • [[2Chr.18.8]] • [[2Chr.18.18]] • [[2Chr.18.19]] • [[2Chr.18.27]] • [[Neh.4.2]] • [[Isa.6.7]] • [[Isa.6.9]] • [[Isa.7.13]] • [[Isa.23.12]] • [[Isa.36.13]] • [[Isa.39.4]] • [[Isa.39.8]] • [[Jer.37.17]] • [[Jer.37.17]] • [[Hos.1.9]] • [[Jonah.4.8]] • [[Jonah.4.9]] • [[Zech.4.14]] • [[Zech.5.6]] • [[Zech.6.7]]  |
+|   | and it said | [[1Kgs.19.13]]  |
+|   | and someone said | [[1Sam.19.22]]  |
+| **<span class="ashebrew">וַיֹּ֔אמֶר</span>** | and he said | [[Gen.40.18]] • [[Exod.4.1]] • [[1Sam.19.22]] • [[1Sam.20.37]] • [[1Sam.21.4]] • [[1Sam.25.10]] • [[1Sam.26.14]] • [[1Sam.26.22]] • [[2Sam.19.21]] • [[1Kgs.1.28]] • [[1Kgs.20.4]] • [[2Kgs.3.11]] • [[2Kgs.18.28]] • [[Hab.2.2]]  |
+|   | and it said | [[Josh.24.16]]  |
+| **<span class="ashebrew">וַיֵּ֣אָמַ֔ר</span>** | and it was told | [[Josh.2.2]]  |
+| **<span class="ashebrew">וַאֲמַרְתֶּם֩</span>** | and you say | [[Mal.1.13]]  |
+| **<span class="ashebrew">וַאֲמַרְתֶּ֥ם</span>** | and you will say | [[1Sam.25.6]]  |
+| **<span class="ashebrew">וַאֲמַרְתֶּ֤ם</span>** | and you will say | [[Exod.3.18]] • [[Josh.9.11]]  |
+| **<span class="ashebrew">וַאֲמַרְתֶּ֣ם</span>** | and you will say | [[Gen.45.9]] • [[Josh.4.7]] • [[1Sam.14.34]]  |
+| **<span class="ashebrew">וַאֲמַרְתֶּ֡ם</span>** | and you will say | [[Exod.12.27]]  |
+| **<span class="ashebrew">וַאֲמַרְתֶּ֞ם</span>** | and you will say | [[Isa.12.4]]  |
+| **<span class="ashebrew">וַאֲמַרְתֶּ֗ם</span>** | and you will say | [[Gen.46.34]] • [[2Chr.18.26]]  |
+| **<span class="ashebrew">וַאֲמַרְתֶּ֖ם</span>** | and you say | [[Mal.1.2]] • [[Mal.1.7]] • [[Mal.2.14]] • [[Mal.2.17]] • [[Mal.3.7]] • [[Mal.3.8]]  |
+|   | and you will say | [[Lev.15.2]] • [[Judg.7.18]] • [[Jer.7.10]]  |
+| **<span class="ashebrew">וַאֲמַרְתֶּ֕ם</span>** | and you say | [[Ezek.18.19]] • [[Ezek.18.25]] • [[Ezek.33.20]] • [[Mal.1.6]] • [[Mal.3.13]]  |
+|   | and you will say | [[Gen.32.20]] • [[2Sam.15.10]] • [[1Kgs.1.34]]  |
+| **<span class="ashebrew">וַֽיֹּאמרוּ֙</span>** | and they said | [[Judg.8.18]]  |
+| **<span class="ashebrew">וַֽיֹּאמֶר</span>** | and he said | [[2Sam.13.15]]  |
+| **<span class="ashebrew">וַֽיֹּאמְרוּ֙</span>** | and they said | [[1Sam.11.10]]  |
+| **<span class="ashebrew">וַֽיֹּאמְר֨וּ</span>** | and they said | [[Num.14.2]]  |
+| **<span class="ashebrew">וַ֭תֹּאמֶר</span>** | and you have said | [[Job.11.4]]  |
+| **<span class="ashebrew">וַ֭יֹּ֣אמְרוּ</span>** | and they said | [[Ps.94.7]]  |
+| **<span class="ashebrew">וַ֥יֹּאמֶר</span>** | and he said | [[Judg.10.11]]  |
+| **<span class="ashebrew">וַ֤יֹּאמֶר</span>** | and he said | [[Gen.32.16]]  |
+| **<span class="ashebrew">וַ֣יֹּאמְר֔וּ</span>** | and they said | [[Num.32.16]]  |
+| **<span class="ashebrew">וַ֠תֹּאמֶר</span>** | and she said | [[Ruth.2.13]] • [[2Sam.14.4]] • [[Esth.8.5]]  |
+| **<span class="ashebrew">וַ֠יֹּאמֶר</span>** | and he said | [[Gen.18.30]] • [[Gen.18.32]] • [[Exod.2.14]] • [[Josh.10.24]] • [[2Sam.1.4]] • [[2Sam.20.1]] • [[2Sam.24.16]] • [[2Kgs.9.27]] • [[2Kgs.22.8]] • [[2Chr.29.30]] • [[2Chr.31.10]] • [[Hag.1.13]]  |
+| **<span class="ashebrew">וַ֠יֹּאמְרוּ</span>** | and they said | [[Num.9.7]]  |
+| **<span class="ashebrew">וַ֝תֹּ֗אמֶר</span>** | and you said | [[Ps.90.3]]  |
+| **<span class="ashebrew">וַ֝יֹּ֗אמֶר</span>** | and he said | [[Job.36.10]]  |
+| **<span class="ashebrew">וֶאֱמָר</span>** | and say | [[2Kgs.4.26]]  |
+| **<span class="ashebrew">וֶֽאֱמָר</span>** | and say | [[Ezek.6.11]]  |
+| **<span class="ashebrew">וְנֹאמַ֣ר</span>** | so we may say | [[Isa.41.26]]  |
+| **<span class="ashebrew">וְלֵאמֹ֥ר</span>** | and to say | [[Isa.51.16]]  |
+| **<span class="ashebrew">וְלֵאמֹ֤ר</span>** | and to say | [[Isa.44.28]]  |
+| **<span class="ashebrew">וְלֵֽאמֹ֨ר</span>** | and to say | [[2Chr.32.17]]  |
+| **<span class="ashebrew">וְיֹאמַר֙</span>** | so he may say | [[Isa.44.17]]  |
+| **<span class="ashebrew">וְיֹאמַ֥ר</span>** | and he may say | [[2Kgs.9.17]]  |
+| **<span class="ashebrew">וְיֹאמַ֣ר</span>** | and he may say | [[Isa.44.16]] • [[Isa.58.9]]  |
+|   | so he may say | [[Ps.58.11]]  |
+| **<span class="ashebrew">וְיֹאמַ֗ר</span>** | so may someone say | [[Hab.2.6]]  |
+| **<span class="ashebrew">וְיֹאמְר֥וּ</span>** | and let people say | [[1Chr.16.31]]  |
+|   | and they may say | [[Isa.43.9]]  |
+| **<span class="ashebrew">וְיֹאמְר֣וּ</span>** | and may they say | [[Ps.35.27]]  |
+|   | and they may say | [[Ps.70.4]]  |
+| **<span class="ashebrew">וְיֹאמְר֗וּ</span>** | so they may say | [[Jer.16.19]]  |
+| **<span class="ashebrew">וְיֹאמְר֖וּ</span>** | and they may say | [[Job.38.35]] • [[Isa.14.10]]  |
+| **<span class="ashebrew">וְיֹ֥אמְרוּ</span>** | so they may say | [[Deut.32.7]]  |
+| **<span class="ashebrew">וְאֹמַ֤ר</span>** | so I may say | [[Ezek.13.15]]  |
+| **<span class="ashebrew">וְאֹמֵ֥ר</span>** | and  says | [[Prov.28.24]]  |
+| **<span class="ashebrew">וְאֹֽמְרָ֣ה</span>** | and I will say | [[Gen.46.31]]  |
+| **<span class="ashebrew">וְאֹֽמְרִים֙</span>** | and  saying | [[Ezek.13.7]]  |
+|   | and saying | [[2Chr.20.21]]  |
+| **<span class="ashebrew">וְאָמָ֑רְתָּ</span>** | and you will say | [[Isa.14.4]]  |
+| **<span class="ashebrew">וְאָמַרְתָּ֩</span>** | and you will say | [[Ezek.34.2]]  |
+| **<span class="ashebrew">וְאָמַרְתָּ֨</span>** | and you will say | [[Jer.13.13]] • [[Jer.15.2]] • [[Jer.19.11]] • [[Jer.28.13]] • [[Ezek.14.4]] • [[Ezek.37.9]]  |
+|   | and you will speak | [[Jer.13.12]]  |
+| **<span class="ashebrew">וְאָמַרְתָּ֥</span>** | and you will say | [[Lev.19.2]]  |
+| **<span class="ashebrew">וְאָמַרְתָּ֤</span>** | and you will say | [[Exod.3.16]] • [[2Sam.15.34]] • [[Jer.23.33]] • [[Ezek.44.6]] • [[Zech.6.12]]  |
+|   | and you will speak | [[Jer.14.17]]  |
+| **<span class="ashebrew">וְאָמַרְתָּ֣</span>** | and you will say | [[Gen.44.4]] • [[Exod.7.9]] • [[Exod.7.16]] • [[Exod.8.1]] • [[Exod.8.20]] • [[Exod.9.13]] • [[Exod.13.14]] • [[Lev.1.2]] • [[Lev.21.1]] • [[Lev.23.2]] • [[Lev.23.10]] • [[Lev.25.2]] • [[Lev.27.2]] • [[Num.15.38]] • [[Num.18.26]] • [[Num.28.3]] • [[Num.34.2]] • [[Deut.6.21]] • [[Deut.26.3]] • [[2Sam.13.5]] • [[Isa.7.4]] • [[Isa.38.5]] • [[Jer.5.19]] • [[Jer.7.28]] • [[Jer.8.4]] • [[Jer.11.3]] • [[Jer.16.11]] • [[Jer.17.20]] • [[Jer.25.27]] • [[Jer.25.28]] • [[Jer.25.30]] • [[Jer.26.4]] • [[Jer.34.2]] • [[Jer.38.26]] • [[Jer.43.10]] • [[Ezek.2.4]] • [[Ezek.3.11]] • [[Ezek.3.27]] • [[Ezek.12.19]] • [[Ezek.20.3]] • [[Ezek.20.5]] • [[Ezek.20.27]] • [[Ezek.24.3]] • [[Ezek.27.3]] • [[Ezek.32.2]] • [[Ezek.33.2]] • [[Ezek.37.4]] • [[Ezek.38.14]] • [[Zech.1.3]]  |
+| **<span class="ashebrew">וְאָמַרְתָּ֡</span>** | and you will say | [[Deut.26.13]] • [[Jer.39.16]] • [[Ezek.21.7]] • [[Ezek.36.6]]  |
+| **<span class="ashebrew">וְאָמַרְתָּ֞</span>** | and you will say | [[2Kgs.20.5]] • [[Jer.7.2]] • [[Ezek.13.18]] • [[Ezek.16.3]] • [[Ezek.17.3]] • [[Ezek.21.3]]  |
+| **<span class="ashebrew">וְאָמַרְתָּ֜</span>** | and you will say | [[Deut.26.5]] • [[Ezek.29.3]] • [[Ezek.37.12]]  |
+| **<span class="ashebrew">וְאָמַרְתָּ֙</span>** | and you will say | [[Deut.12.20]] • [[1Chr.17.4]]  |
+| **<span class="ashebrew">וְאָמַרְתָּ֗</span>** | and you will say | [[Deut.17.14]] • [[1Sam.20.6]] • [[1Kgs.22.27]] • [[Jer.51.62]] • [[Jer.51.64]] • [[Ezek.19.2]] • [[Ezek.21.28]] • [[Ezek.22.3]] • [[Ezek.28.22]] • [[Ezek.38.11]]  |
+| **<span class="ashebrew">וְאָמַרְתָּ֖</span>** | and you will say | [[Exod.4.22]] • [[Lev.17.2]] • [[Lev.18.2]] • [[Lev.22.18]] • [[Num.5.12]] • [[Num.6.2]] • [[Num.8.2]] • [[Num.15.2]] • [[Num.15.18]] • [[Num.18.30]] • [[Num.28.2]] • [[Num.33.51]] • [[Num.35.10]] • [[Deut.8.17]] • [[Josh.7.13]] • [[Isa.6.9]]  |
+| **<span class="ashebrew">וְאָמַרְתָּ֔</span>** | and you will say | [[Ezek.36.3]]  |
+| **<span class="ashebrew">וְאָמַרְתִּ֤י</span>** | and I will say | [[Hos.2.23]]  |
+| **<span class="ashebrew">וְאָמַרְתִּ֣י</span>** | and I will say | [[Gen.24.43]] • [[Exod.3.13]] • [[2Sam.13.28]] • [[Jer.20.9]]  |
+| **<span class="ashebrew">וְאָמַרְתִּ֗י</span>** | and I will say | [[Ezek.14.17]]  |
+| **<span class="ashebrew">וְאָמַר֙</span>** | and he said | [[Judg.19.30]] • [[1Sam.2.15]] • [[1Sam.2.20]]  |
+|   | and he says | [[Isa.29.11]]  |
+|   | and he will say | [[Nah.3.7]]  |
+|   | and it will say | [[Deut.31.17]]  |
+|   | and someone says | [[Isa.65.8]]  |
+|   | and someone will say | [[Isa.25.9]]  |
+| **<span class="ashebrew">וְאָמַ֨רְתִּֽי</span>** | and I said | [[Eccl.2.15]]  |
+| **<span class="ashebrew">וְאָמַ֥רְתְּ</span>** | and you will say | [[Judg.4.20]]  |
+| **<span class="ashebrew">וְאָמַ֥ר</span>** | and he said | [[1Sam.2.16]]  |
+|   | and he says | [[Eccl.10.3]]  |
+|   | and it will say | [[Deut.27.16]] • [[Deut.27.17]] • [[Deut.27.18]] • [[Deut.27.19]] • [[Deut.27.20]] • [[Deut.27.21]] • [[Deut.27.22]] • [[Deut.27.23]] • [[Deut.27.24]] • [[Deut.27.25]] • [[Deut.27.26]]  |
+|   | and someone said | [[1Sam.24.10]]  |
+|   | and someone will say | [[Isa.57.14]]  |
+| **<span class="ashebrew">וְאָמַ֤רְתְּ</span>** | and you will say | [[1Kgs.1.13]]  |
+| **<span class="ashebrew">וְאָמַ֤רְנוּ</span>** | and we will say | [[Judg.21.22]]  |
+| **<span class="ashebrew">וְאָמַ֤ר</span>** | and he will say | [[Exod.14.3]] • [[Num.5.19]] • [[Num.5.21]] • [[Deut.20.3]]  |
+| **<span class="ashebrew">וְאָמַ֣רְתָּ</span>** | and you will say | [[Ezek.28.12]] • [[Ezek.35.3]]  |
+| **<span class="ashebrew">וְאָמַ֣רְתִּי</span>** | and I said | [[Eccl.9.16]]  |
+| **<span class="ashebrew">וְאָמַ֣רְתְּ</span>** | and you will say | [[Isa.49.21]]  |
+| **<span class="ashebrew">וְאָמַ֣ר</span>** | and he will say | [[2Sam.11.20]] • [[Amos.6.10]] • [[Amos.6.10]]  |
+|   | and someone will say | [[Zech.13.6]]  |
+| **<span class="ashebrew">וְאָמַ֡רְנוּ</span>** | and we will say | [[Josh.22.28]]  |
+| **<span class="ashebrew">וְאָמַ֞ר</span>** | and he will say | [[Amos.6.10]]  |
+|   | and it will say | [[Deut.29.22]]  |
+| **<span class="ashebrew">וְאָמַ֛ר</span>** | and he will say | [[Deut.22.16]] • [[Judg.4.20]]  |
+| **<span class="ashebrew">וְאָמַ֗רְתִּי</span>** | and I will say | [[Job.7.4]] • [[Prov.30.9]]  |
+| **<span class="ashebrew">וְאָמַ֗ר</span>** | and he will say | [[Deut.22.14]] • [[1Sam.2.36]] • [[2Chr.7.21]]  |
+| **<span class="ashebrew">וְאָמַ֖ר</span>** | and he said | [[Isa.40.6]]  |
+|   | and he will say | [[Gen.46.33]] • [[Deut.32.37]]  |
+|   | and it will say | [[Ps.106.48]]  |
+| **<span class="ashebrew">וְאָמַ֕רְתִּי</span>** | and I will say | [[Deut.32.40]]  |
+| **<span class="ashebrew">וְאָמַ֕רְנוּ</span>** | and we will say | [[Gen.37.20]]  |
+| **<span class="ashebrew">וְאָמַ֕ר</span>** | and he says | [[Isa.29.12]]  |
+|   | and he will say | [[Zech.13.5]] • [[Zech.13.6]]  |
+| **<span class="ashebrew">וְאָמַ֔ר</span>** | and he said | [[Isa.6.3]]  |
+|   | and he will say | [[Deut.25.8]] • [[2Sam.17.9]]  |
+| **<span class="ashebrew">וְאָמְרוּ֙</span>** | and they say | [[Ezek.33.17]]  |
+|   | and they will say | [[Isa.2.3]]  |
+| **<span class="ashebrew">וְאָמְרָ֥ה</span>** | and she will say | [[Num.5.22]]  |
+| **<span class="ashebrew">וְאָמְרָ֤ה</span>** | and she will say | [[Gen.24.44]]  |
+| **<span class="ashebrew">וְאָמְרָ֣ה</span>** | and she will say | [[Gen.24.14]]  |
+| **<span class="ashebrew">וְאָמְרָ֗ה</span>** | and she will say | [[Hos.2.7]]  |
+| **<span class="ashebrew">וְאָמְר֤וּ</span>** | and they will say | [[Hos.10.8]]  |
+| **<span class="ashebrew">וְאָמְר֣וּ</span>** | and they will say | [[1Sam.10.2]] • [[Jer.13.12]] • [[Jer.16.10]] • [[Zech.13.3]]  |
+| **<span class="ashebrew">וְאָמְר֞וּ</span>** | and they will say | [[Deut.21.20]]  |
+| **<span class="ashebrew">וְאָמְר֗וּ</span>** | and people will say | [[1Kgs.9.8]] • [[2Chr.7.22]] • [[Ezek.36.35]]  |
+|   | and they said | [[1Sam.5.7]]  |
+|   | and they will say | [[Num.14.14]] • [[Deut.4.6]] • [[Deut.20.8]] • [[1Kgs.9.9]] • [[Amos.8.14]]  |
+| **<span class="ashebrew">וְאָמְר֖וּ</span>** | and they said | [[1Kgs.18.10]]  |
+|   | and they say | [[Jer.18.12]]  |
+|   | and they will say | [[Gen.12.12]] • [[Deut.27.15]]  |
+| **<span class="ashebrew">וְאָמְר֑וּ</span>** | and they will say | [[Deut.21.7]]  |
+| **<span class="ashebrew">וְאָֽמַרְתָּ֙</span>** | and you will say | [[Gen.32.18]] • [[1Sam.3.9]] • [[2Sam.7.5]] • [[2Kgs.9.3]] • [[Isa.12.1]] • [[Jer.19.3]] • [[Jer.22.2]] • [[Jer.35.13]] • [[Ezek.13.2]] • [[Ezek.20.47]] • [[Ezek.21.28]] • [[Ezek.25.3]]  |
+| **<span class="ashebrew">וְאָֽמַר</span>** | and he has spoken | [[Isa.38.15]]  |
+| **<span class="ashebrew">וְאָֽמְרוּ֙</span>** | and they say | [[Ezek.18.29]]  |
+|   | and they will say | [[Num.14.15]] • [[Deut.29.24]] • [[Jer.22.8]] • [[Mic.4.2]]  |
+| **<span class="ashebrew">וְאָֽמְרוּ</span>** | and they will say | [[Exod.3.13]]  |
+| **<span class="ashebrew">וְאָֽמְרָה֙</span>** | and she will say | [[Deut.25.7]]  |
+| **<span class="ashebrew">וְאָֽמְר֛וּ</span>** | and they will say | [[Deut.27.14]] • [[Zech.12.5]]  |
+| **<span class="ashebrew">וְאָ֣מַרְתָּ֔</span>** | and you will say | [[1Sam.16.2]] • [[2Sam.11.21]] • [[Jer.34.2]] • [[Ezek.6.3]] • [[Ezek.21.9]] • [[Ezek.30.2]] • [[Ezek.36.1]] • [[Ezek.38.3]] • [[Ezek.39.1]]  |
+| **<span class="ashebrew">וְאָ֣מַר</span>** | and he said | [[Song.2.10]]  |
+| **<span class="ashebrew">וְאָ֣מְרוּ</span>** | and they will say | [[Ezek.26.17]]  |
+| **<span class="ashebrew">וְאָ֣מְרָה</span>** | and she says | [[Prov.9.16]]  |
+| **<span class="ashebrew">וְאָ֣מְרָ֔ה</span>** | and she will say | [[Deut.25.9]]  |
+| **<span class="ashebrew">וְאָ֣מְר֔וּ</span>** | and people will say | [[Deut.29.25]]  |
+|   | and they will say | [[Jer.22.9]]  |
+| **<span class="ashebrew">וְאִמְר֗וּ</span>** | and say | [[Jer.31.10]] • [[Amos.3.9]]  |
+| **<span class="ashebrew">וְאִמְר֕וּ</span>** | and say | [[1Chr.16.35]] • [[Jer.4.5]]  |
+| **<span class="ashebrew">וְאִמְר֔וּ</span>** | and say | [[Jer.4.5]] • [[Jer.31.7]]  |
+| **<span class="ashebrew">וְֽיֹאמְר֞וּ</span>** | and let them say | [[Joel.2.17]]  |
+| **<span class="ashebrew">וְֽאָמַרְתָּ֗</span>** | and you will say | [[Prov.5.12]]  |
+| **<span class="ashebrew">וְֽאָמְר֪וּ</span>** | and they will say | [[Jer.38.25]]  |
+| **<span class="ashebrew">וְֽאָמְר֗וּ</span>** | and they say | [[Ps.73.11]]  |
+| **<span class="ashebrew">וְֽ֭אָמַרְתָּ</span>** | and you say | [[Job.22.13]]  |
+| **<span class="ashebrew">וְ֠אָמַרְתָּ</span>** | and you will say | [[Jer.3.12]]  |
+| **<span class="ashebrew">וְ֠אָמַר</span>** | and he will say | [[Isa.20.6]]  |
+| **<span class="ashebrew">וְ֝אָמַ֗ר</span>** | and he says | [[Prov.26.19]]  |
+| **<span class="ashebrew">וְ֝אָמְרָ֗ה</span>** | and she says | [[Prov.30.20]]  |
+| **<span class="ashebrew">הָאֹמֵ֨ר</span>** | who says | [[Isa.44.26]]  |
+| **<span class="ashebrew">הָאֹמֵ֥ר</span>** | who says | [[Isa.41.13]] • [[Isa.44.27]]  |
+| **<span class="ashebrew">הָאֹמֵ֤ר</span>** | who says | [[Isa.44.28]]  |
+| **<span class="ashebrew">הָאֹמֵ֣ר</span>** | the  speaks | [[Job.9.7]]  |
+|   | who said | [[Gen.32.9]]  |
+| **<span class="ashebrew">הָאֹמֵ֞ר</span>** | who said | [[Deut.33.9]]  |
+| **<span class="ashebrew">הָאֹמֵ֗ר</span>** | the  says | [[Jer.22.14]]  |
+| **<span class="ashebrew">הָאֹמֵ֔ר</span>** | the  said | [[1Sam.11.12]]  |
+| **<span class="ashebrew">הָאֹמְרֹ֥ת</span>** | who say | [[Amos.4.1]]  |
+| **<span class="ashebrew">הָאֹמְרָ֣ה</span>** | who says | [[Mic.7.10]]  |
+| **<span class="ashebrew">הָאֹמְרִ֥ים</span>** | those  say | [[Ps.40.15]] • [[Isa.5.20]] • [[Isa.42.17]]  |
+| **<span class="ashebrew">הָאֹמְרִ֤ים</span>** | who say | [[Jer.27.14]]  |
+| **<span class="ashebrew">הָאֹמְרִ֣ים</span>** | that are saying | [[Mic.4.11]]  |
+|   | who were saying | [[Job.22.17]]  |
+| **<span class="ashebrew">הָאֹמְרִ֗ים</span>** | those  say | [[Isa.5.19]]  |
+|   | who say | [[Amos.9.10]]  |
+| **<span class="ashebrew">הָאֹֽמְרָה֙</span>** | which says | [[Zeph.2.15]]  |
+|   | who says | [[Isa.47.8]]  |
+| **<span class="ashebrew">הָאֹֽמְרִים֙</span>** | O those say | [[Jer.21.13]]  |
+|   | those  say | [[Ezek.13.6]]  |
+|   | who are saying | [[Zeph.1.12]]  |
+|   | who say | [[Isa.65.5]]  |
+| **<span class="ashebrew">הָאֹ֣מְרִ֔ים</span>** | who say | [[Ezek.11.3]] • [[Amos.6.13]]  |
+| **<span class="ashebrew">הָ֭אֹ֣מְרִים</span>** | who were saying | [[Ps.137.7]]  |
+| **<span class="ashebrew">הָ֝אֹמְרִ֗ים</span>** | those  say | [[Ps.70.3]]  |
+| **<span class="ashebrew">הַאֲמֹ֣ר</span>** | ¿ to say | [[Job.34.18]]  |
+| **<span class="ashebrew">הֶאָמֹ֤ר</span>** | ¿ really | [[Ezek.28.9]]  |
+| **<span class="ashebrew">הֶאָמַ֥ר</span>** | ¿ has anyone said | [[Job.34.31]]  |
+| **<span class="ashebrew">הֶאָמ֣וּר</span>** | ¿  said | [[Mic.2.7]]  |
+| **<span class="ashebrew">הֶאֱמַ֖רְתָּ</span>** | you have declared | [[Deut.26.17]]  |
+| **<span class="ashebrew">הֶאֱמִֽירְךָ֣</span>** | he has declared you | [[Deut.26.18]]  |
+| **<span class="ashebrew">הֲיֹאמַ֨ר</span>** | ¿ does it say | [[Isa.45.9]]  |
+| **<span class="ashebrew">בֶּאֱמֹ֨ר</span>** | when said | [[Deut.4.10]]  |
+| **<span class="ashebrew">בֶּאֱמֹ֥ר</span>** | when say | [[Ps.42.3]]  |
+| **<span class="ashebrew">בֶּאֱמֹ֤ר</span>** | when said | [[Ezek.36.20]]  |
+| **<span class="ashebrew">בֶּאֱמָרְכֶ֗ם</span>** | by saying you | [[Mal.1.12]] • [[Mal.2.17]]  |
+| **<span class="ashebrew">בֶּאֱמָרְכֶ֕ם</span>** | by saying you | [[Mal.1.7]]  |
+| **<span class="ashebrew">בְּאֹמְרִ֣ים</span>** | in  said | [[Ps.122.1]]  |
+| **<span class="ashebrew">בְּאָמְרָ֥ם</span>** | when say they | [[Ps.42.10]]  |
+| **<span class="ashebrew">בְּאָמְרָ֗ם</span>** | because will say they | [[Esth.1.17]]  |
+| **<span class="ashebrew">בְּאָמְרִ֤י</span>** | when say I | [[Ezek.3.18]] • [[Ezek.33.13]]  |
+| **<span class="ashebrew">בְּאָמְרִ֣י</span>** | when say I | [[Ezek.33.8]]  |
+| **<span class="ashebrew">אוֹמֵ֑ר</span>** | saying | [[Neh.5.12]] • [[Neh.6.8]]  |
+| **<span class="ashebrew">אוֹמְרָ֤ה</span>** | I will say | [[Ps.42.9]]  |
+| **<span class="ashebrew">אֹמַר֙</span>** | I will say | [[1Sam.20.22]]  |
+| **<span class="ashebrew">אֹמַ֨ר</span>** | I will say | [[Judg.7.4]] • [[1Sam.20.21]]  |
+| **<span class="ashebrew">אֹמַ֥ר</span>** | I will say | [[Gen.26.2]]  |
+|   | I will tell | [[Gen.22.2]]  |
+| **<span class="ashebrew">אֹמַ֤ר</span>** | I will say | [[Gen.24.14]] • [[Isa.43.6]]  |
+| **<span class="ashebrew">אֹמַ֣ר</span>** | I will say | [[Job.10.2]]  |
+| **<span class="ashebrew">אֹמַ֜ר</span>** | I will say | [[Judg.7.4]]  |
+| **<span class="ashebrew">אֹמַ֗ר</span>** | I said | [[Ps.102.24]]  |
+|   | I will say | [[Ps.91.2]]  |
+| **<span class="ashebrew">אֹמַ֖ר</span>** | I will say | [[1Sam.16.3]] • [[1Sam.28.8]]  |
+|   | will I say | [[Exod.3.13]]  |
+| **<span class="ashebrew">אֹמַ֔ר</span>** | will I say | [[Josh.7.8]]  |
+| **<span class="ashebrew">אֹמֶ֙רֶת֙</span>** | saying | [[1Kgs.3.22]] • [[1Kgs.3.23]]  |
+| **<span class="ashebrew">אֹמֶ֗רֶת</span>** | saying | [[1Kgs.3.26]]  |
+| **<span class="ashebrew">אֹמֶ֔רֶת</span>** | saying | [[1Kgs.3.23]]  |
+| **<span class="ashebrew">אֹמֵר֙</span>** | says | [[Isa.46.10]]  |
+| **<span class="ashebrew">אֹמֵ֥ר</span>** | saying | [[2Chr.18.19]] • [[Ps.29.9]]  |
+|   | says | [[Isa.42.22]] • [[Isa.45.10]] • [[Isa.52.7]]  |
+| **<span class="ashebrew">אֹמֵ֤ר</span>** | saying | [[Exod.33.12]] • [[Isa.41.7]]  |
+|   | says | [[Hab.2.19]]  |
+| **<span class="ashebrew">אֹמֵ֣ר</span>** | saying | [[2Chr.18.19]] • [[Isa.40.6]]  |
+|   | says | [[Obad.1.3]]  |
+|   | speaking | [[Ps.45.1]]  |
+| **<span class="ashebrew">אֹמֵ֛ר</span>** | says | [[Jer.44.26]]  |
+| **<span class="ashebrew">אֹמֵ֗ר</span>** | saying | [[Amos.7.16]]  |
+| **<span class="ashebrew">אֹמֵ֖ר</span>** | saying | [[1Kgs.22.20]]  |
+| **<span class="ashebrew">אֹמֵ֔ר</span>** | saying | [[Exod.2.14]] • [[1Kgs.5.5]] • [[1Kgs.18.14]] • [[Neh.6.6]] • [[Isa.6.8]]  |
+| **<span class="ashebrew">אֹמֵ֑ר</span>** | saying | [[1Kgs.18.11]] • [[Mic.6.1]]  |
+| **<span class="ashebrew">אֹמְרִים֮</span>** | saying | [[Ps.4.6]]  |
+| **<span class="ashebrew">אֹמְרִים֙</span>** | telling | [[Neh.6.19]]  |
+| **<span class="ashebrew">אֹמְרִ֪ים</span>** | saying | [[Ps.3.2]]  |
+| **<span class="ashebrew">אֹמְרִ֨ים</span>** | say | [[Jer.2.27]]  |
+| **<span class="ashebrew">אֹמְרִ֥ים</span>** | saying | [[Exod.5.16]]  |
+| **<span class="ashebrew">אֹמְרִ֤ים</span>** | saying | [[Jer.14.13]] • [[Jer.23.17]] • [[Jer.27.9]]  |
+| **<span class="ashebrew">אֹמְרִ֣ים</span>** | saying | [[Jer.42.13]] • [[Jer.43.2]] • [[Ezek.20.49]] • [[Ezek.33.24]] • [[Ezek.36.13]]  |
+| **<span class="ashebrew">אֹמְרִ֡ים</span>** | say | [[Jer.33.11]]  |
+| **<span class="ashebrew">אֹמְרִ֗ים</span>** | saying | [[Jer.32.36]] • [[Jer.32.43]] • [[Ezek.8.12]] • [[Ezek.20.32]] • [[Ezek.22.28]] • [[Ezek.37.11]]  |
+| **<span class="ashebrew">אֹמְרִ֖ים</span>** | saying | [[2Sam.21.4]] • [[Jer.17.15]]  |
+| **<span class="ashebrew">אֹמְרִ֔ים</span>** | saying | [[2Chr.28.10]] • [[2Chr.28.13]] • [[Neh.5.2]] • [[Neh.5.3]] • [[Neh.5.4]] • [[Hos.13.2]]  |
+| **<span class="ashebrew">אֹמְר֗וֹת</span>** | saying | [[Jer.38.22]]  |
+| **<span class="ashebrew">אֹֽמְרִ֗ים</span>** | saying | [[2Chr.13.8]]  |
+| **<span class="ashebrew">אֹֽמְרִ֔ים</span>** | saying | [[Gen.37.17]] • [[Exod.5.17]] • [[Jer.14.15]] • [[Jer.33.10]] • [[Ezek.12.27]]  |
+| **<span class="ashebrew">אֹ֤מֵ֨ר</span>** | says | [[Prov.24.24]]  |
+| **<span class="ashebrew">אֹ֣מַר</span>** | I will tell | [[Ps.50.12]]  |
+| **<span class="ashebrew">אָמוֹר֙</span>** | continually | [[Jer.23.17]]  |
+| **<span class="ashebrew">אָמֹר֩</span>** | certainly | [[1Sam.20.21]]  |
+| **<span class="ashebrew">אָמֹ֤ר</span>** | carefully | [[Exod.21.5]]  |
+|   | certainly | [[Judg.15.2]]  |
+| **<span class="ashebrew">אָמָֽר</span>** | he had said | [[Exod.18.24]]  |
+| **<span class="ashebrew">אָמָ֑רְתִּי</span>** | I have spoken | [[Ps.40.10]]  |
+| **<span class="ashebrew">אָמָ֑ר</span>** | he had said | [[Gen.21.1]]  |
+|   | he said | [[Gen.18.17]]  |
+| **<span class="ashebrew">אָמַרְתְּ֙</span>** | you said | [[Isa.47.10]]  |
+| **<span class="ashebrew">אָמַרְנוּ֩</span>** | we said | [[2Kgs.7.4]]  |
+| **<span class="ashebrew">אָמַר֮</span>** | he says | [[Jer.33.12]] • [[Ezek.11.7]] • [[Ezek.11.16]] • [[Ezek.11.17]] • [[Ezek.12.23]] • [[Ezek.20.5]] • [[Ezek.21.24]] • [[Ezek.23.22]] • [[Ezek.24.21]] • [[Ezek.28.25]] • [[Ezek.36.5]] • [[Ezek.37.12]] • [[Ezek.37.19]] • [[Ezek.37.21]] • [[Ezek.44.9]] • [[Ezek.45.18]] • [[Ezek.46.1]] • [[Zech.2.8]] • [[Zech.8.9]] • [[Zech.8.14]] • [[Zech.8.23]]  |
+| **<span class="ashebrew">אָמַר֩</span>** | he says | [[Isa.30.15]] • [[Jer.19.3]] • [[Jer.25.27]] • [[Jer.28.14]] • [[Jer.29.21]] • [[Jer.32.14]] • [[Jer.42.15]] • [[Jer.43.10]] • [[Jer.46.25]] • [[Jer.48.1]] • [[Ezek.12.19]] • [[Obad.1.1]]  |
+| **<span class="ashebrew">אָמַר֙</span>** | has he said | [[Num.23.19]]  |
+|   | has he spoken | [[Lam.3.37]]  |
+|   | he said | [[Gen.44.4]] • [[Exod.24.14]] • [[1Sam.20.26]] • [[2Sam.18.18]] • [[2Sam.23.3]]  |
+|   | he says | [[Gen.32.4]] • [[Gen.45.9]] • [[Num.20.14]] • [[Num.22.16]] • [[Judg.5.23]] • [[1Sam.15.2]] • [[2Sam.7.8]] • [[1Chr.17.7]] • [[Isa.28.16]] • [[Isa.30.12]] • [[Isa.52.4]] • [[Jer.6.6]] • [[Jer.6.9]] • [[Jer.9.7]] • [[Jer.9.17]] • [[Jer.11.22]] • [[Jer.25.32]] • [[Jer.27.19]] • [[Jer.29.17]] • [[Jer.49.7]] • [[Jer.49.35]] • [[Jer.50.33]] • [[Ezek.5.5]] • [[Ezek.5.8]] • [[Ezek.12.28]] • [[Ezek.13.3]] • [[Ezek.13.8]] • [[Ezek.13.13]] • [[Ezek.14.6]] • [[Ezek.15.6]] • [[Ezek.16.59]] • [[Ezek.17.22]] • [[Ezek.20.3]] • [[Ezek.20.30]] • [[Ezek.21.26]] • [[Ezek.21.28]] • [[Ezek.22.3]] • [[Ezek.22.19]] • [[Ezek.22.28]] • [[Ezek.23.28]] • [[Ezek.23.32]] • [[Ezek.23.35]] • [[Ezek.24.9]] • [[Ezek.25.6]] • [[Ezek.25.12]] • [[Ezek.25.13]] • [[Ezek.25.15]] • [[Ezek.25.16]] • [[Ezek.26.3]] • [[Ezek.26.7]] • [[Ezek.26.19]] • [[Ezek.27.3]] • [[Ezek.28.12]] • [[Ezek.28.22]] • [[Ezek.29.8]] • [[Ezek.29.19]] • [[Ezek.31.10]] • [[Ezek.32.3]] • [[Ezek.35.3]] • [[Ezek.36.2]] • [[Ezek.36.7]] • [[Ezek.36.13]] • [[Ezek.36.22]] • [[Ezek.36.33]] • [[Ezek.36.37]] • [[Ezek.37.5]] • [[Ezek.39.25]] • [[Ezek.43.18]] • [[Ezek.47.13]] • [[Amos.3.11]] • [[Amos.5.3]] • [[Hag.2.6]] • [[Zech.1.3]] • [[Zech.1.4]] • [[Zech.1.17]] • [[Zech.8.2]] • [[Zech.8.4]] • [[Zech.8.6]] • [[Zech.8.7]] • [[Mal.1.4]] • [[Mal.1.10]] • [[Mal.1.13]] • [[Mal.1.14]] • [[Mal.2.2]] • [[Mal.3.17]] • [[Mal.4.1]]  |
+|   | he will say | [[Mic.2.4]]  |
+| **<span class="ashebrew">אָמַ֨רְתִּי</span>** | did I say | [[Gen.42.22]]  |
+| **<span class="ashebrew">אָמַ֨רְנוּ</span>** | we had said | [[Ezra.8.22]]  |
+| **<span class="ashebrew">אָמַ֨ר</span>** | he said | [[2Sam.19.26]] • [[Jer.13.1]] • [[Jer.17.19]] • [[Jer.25.15]]  |
+|   | he says | [[Josh.7.13]] • [[2Sam.12.7]] • [[1Kgs.11.31]] • [[1Kgs.17.14]] • [[2Chr.20.15]] • [[Isa.44.2]] • [[Isa.44.6]] • [[Jer.14.10]] • [[Jer.21.4]] • [[Jer.23.2]] • [[Jer.23.15]] • [[Jer.35.17]] • [[Ezek.16.3]] • [[Ezek.17.19]] • [[Ezek.33.27]] • [[Amos.5.16]]  |
+| **<span class="ashebrew">אָמַ֧ר</span>** | he has said | [[Gen.31.16]] • [[Ezek.36.2]]  |
+|   | he said | [[Gen.31.29]] • [[Deut.10.1]] • [[1Sam.24.4]] • [[1Kgs.20.35]] • [[Isa.8.11]]  |
+|   | he says | [[Isa.43.14]] • [[Isa.45.11]] • [[Isa.48.17]] • [[Jer.30.2]]  |
+| **<span class="ashebrew">אָמַ֥רְתָּ</span>** | you had said | [[Neh.9.23]]  |
+| **<span class="ashebrew">אָמַ֥רְתִּי</span>** | I have said | [[Exod.23.13]] • [[2Kgs.4.24]] • [[Job.31.24]]  |
+|   | I said | [[Judg.13.13]] • [[Lam.3.54]]  |
+|   | did I say | [[2Kgs.2.18]]  |
+| **<span class="ashebrew">אָמַ֥ר</span>** | did he say | [[1Sam.10.15]] • [[2Kgs.8.14]]  |
+|   | has he said | [[Ps.10.13]]  |
+|   | he had said | [[Deut.9.25]] • [[1Sam.10.16]] • [[Dan.1.18]]  |
+|   | he has said | [[2Kgs.5.13]] • [[Isa.21.16]]  |
+|   | he has spoken | [[Jer.48.8]]  |
+|   | he said | [[Exod.15.9]] • [[Num.14.40]] • [[Josh.1.12]] • [[1Sam.19.17]] • [[2Sam.16.7]] • [[1Chr.21.18]] • [[Eccl.12.8]] • [[Amos.7.3]]  |
+|   | he says | [[Judg.6.8]] • [[1Kgs.20.5]] • [[2Kgs.1.11]] • [[2Kgs.9.19]] • [[2Kgs.20.17]] • [[2Kgs.22.15]] • [[1Chr.21.11]] • [[2Chr.34.23]] • [[Isa.39.6]] • [[Isa.48.22]] • [[Isa.54.1]] • [[Isa.54.6]] • [[Isa.54.8]] • [[Isa.54.10]] • [[Isa.57.19]] • [[Isa.57.21]] • [[Isa.65.25]] • [[Isa.66.9]] • [[Isa.66.21]] • [[Isa.66.23]] • [[Jer.6.15]] • [[Jer.8.12]] • [[Jer.11.3]] • [[Jer.32.36]] • [[Jer.33.2]] • [[Jer.33.11]] • [[Jer.33.13]] • [[Jer.34.13]] • [[Jer.42.9]] • [[Jer.45.2]] • [[Jer.49.2]] • [[Amos.1.5]] • [[Amos.1.15]] • [[Amos.2.3]] • [[Amos.5.17]] • [[Zeph.3.20]] • [[Hag.1.8]] • [[Mal.1.13]]  |
+|   | it said | [[Isa.29.16]]  |
+| **<span class="ashebrew">אָמַ֤רְתָּ</span>** | you have said | [[Jer.32.25]]  |
+|   | you said | [[Isa.14.13]]  |
+| **<span class="ashebrew">אָמַ֤רְתִּֽי</span>** | I said | [[Eccl.2.1]] • [[Eccl.3.17]] • [[Eccl.3.18]]  |
+| **<span class="ashebrew">אָמַ֤ר</span>** | he had said | [[Num.26.65]] • [[2Kgs.17.12]] • [[2Kgs.21.7]] • [[2Chr.33.7]] • [[Esth.4.7]]  |
+|   | he has spoken | [[2Sam.3.18]]  |
+|   | he said | [[Gen.43.5]] • [[Exod.6.26]] • [[Num.21.16]] • [[Josh.5.2]] • [[1Sam.9.9]] • [[2Kgs.2.9]] • [[2Kgs.9.12]] • [[Isa.18.4]] • [[Jer.27.2]]  |
+|   | he says | [[Exod.5.1]] • [[Exod.9.1]] • [[Exod.9.13]] • [[Exod.10.3]] • [[Exod.32.27]] • [[1Sam.10.18]] • [[1Kgs.2.30]] • [[1Kgs.14.7]] • [[2Kgs.9.6]] • [[2Kgs.9.18]] • [[2Kgs.19.20]] • [[2Kgs.19.32]] • [[2Kgs.20.1]] • [[2Kgs.20.5]] • [[2Kgs.21.12]] • [[2Kgs.22.18]] • [[2Chr.34.26]] • [[Isa.29.22]] • [[Isa.37.21]] • [[Isa.37.33]] • [[Isa.38.1]] • [[Isa.38.5]] • [[Isa.43.1]] • [[Isa.44.24]] • [[Jer.5.14]] • [[Jer.11.21]] • [[Jer.13.12]] • [[Jer.24.5]] • [[Jer.33.4]] • [[Jer.34.2]] • [[Jer.34.4]] • [[Jer.37.7]] • [[Mal.2.16]]  |
+| **<span class="ashebrew">אָמַ֣רְתָּ</span>** | you have spoken | [[Job.33.8]]  |
+| **<span class="ashebrew">אָמַ֣רְתִּי</span>** | I have said | [[Num.18.24]]  |
+|   | I said | [[1Sam.9.23]] • [[Neh.4.22]] • [[Ps.30.6]] • [[Ps.116.11]] • [[Eccl.2.2]] • [[Eccl.7.23]]  |
+|   | I say | [[Ps.75.4]] • [[Ps.140.6]]  |
+|   | I spoke | [[1Sam.9.17]]  |
+|   | did I say | [[1Kgs.22.18]] • [[2Chr.18.17]]  |
+| **<span class="ashebrew">אָמַ֣רְתִּֽי</span>** | I said | [[Deut.28.68]]  |
+| **<span class="ashebrew">אָמַ֣רְתְּ</span>** | you said | [[Judg.17.2]] • [[Ps.16.2]]  |
+| **<span class="ashebrew">אָמַ֣ר</span>** | did he say | [[Gen.3.1]]  |
+|   | he had said | [[Gen.41.54]] • [[Num.23.30]] • [[1Kgs.14.5]] • [[2Kgs.11.15]] • [[2Kgs.21.4]] • [[1Chr.23.25]] • [[1Chr.27.23]] • [[2Chr.23.14]] • [[2Chr.29.24]] • [[2Chr.33.4]]  |
+|   | he has said | [[Deut.17.16]] • [[Deut.31.2]] • [[1Kgs.1.48]] • [[2Chr.2.15]] • [[2Chr.35.21]] • [[Ps.68.22]] • [[Joel.2.32]] • [[Amos.7.11]]  |
+|   | he said | [[Gen.3.3]] • [[Gen.13.14]] • [[Gen.43.17]] • [[Exod.13.17]] • [[Num.10.29]] • [[Josh.6.22]] • [[Ruth.2.21]] • [[1Sam.9.27]] • [[2Sam.18.33]] • [[1Kgs.2.26]] • [[1Kgs.8.12]] • [[2Kgs.6.32]] • [[2Kgs.18.25]] • [[1Chr.15.2]] • [[2Chr.6.1]] • [[Esth.9.25]] • [[Job.1.5]] • [[Eccl.1.2]] • [[Isa.28.12]] • [[Isa.36.10]] • [[Jer.15.11]] • [[Jer.19.1]] • [[Jer.22.1]] • [[Jer.26.2]] • [[Jer.28.1]] • [[Jer.35.18]] • [[Jer.40.15]] • [[Ezek.9.5]]  |
+|   | he says | [[Exod.4.22]] • [[Exod.5.10]] • [[Exod.7.17]] • [[Exod.8.1]] • [[Exod.8.20]] • [[Exod.11.4]] • [[Josh.24.2]] • [[Judg.11.15]] • [[1Sam.2.27]] • [[2Sam.7.5]] • [[2Sam.12.11]] • [[2Sam.24.12]] • [[1Kgs.12.24]] • [[1Kgs.13.2]] • [[1Kgs.13.21]] • [[1Kgs.20.2]] • [[1Kgs.20.13]] • [[1Kgs.20.14]] • [[1Kgs.20.28]] • [[1Kgs.20.42]] • [[1Kgs.21.19]] • [[1Kgs.21.19]] • [[1Kgs.22.11]] • [[1Kgs.22.27]] • [[2Kgs.1.4]] • [[2Kgs.1.6]] • [[2Kgs.1.16]] • [[2Kgs.2.21]] • [[2Kgs.3.16]] • [[2Kgs.3.17]] • [[2Kgs.7.1]] • [[2Kgs.9.3]] • [[2Kgs.9.12]] • [[2Kgs.18.29]] • [[2Kgs.19.3]] • [[2Kgs.19.6]] • [[2Kgs.22.16]] • [[1Chr.17.4]] • [[1Chr.21.10]] • [[2Chr.11.4]] • [[2Chr.12.5]] • [[2Chr.18.10]] • [[2Chr.18.26]] • [[2Chr.21.12]] • [[2Chr.24.20]] • [[2Chr.34.24]] • [[Ps.10.6]] • [[Ps.10.11]] • [[Prov.22.13]] • [[Prov.26.13]] • [[Isa.21.12]] • [[Isa.36.14]] • [[Isa.37.3]] • [[Isa.37.6]] • [[Isa.43.16]] • [[Isa.45.1]] • [[Isa.45.14]] • [[Isa.49.5]] • [[Isa.49.8]] • [[Isa.49.25]] • [[Isa.50.1]] • [[Isa.52.3]] • [[Isa.56.1]] • [[Isa.56.4]] • [[Isa.59.21]] • [[Isa.59.21]] • [[Isa.65.7]] • [[Isa.65.8]] • [[Isa.65.13]] • [[Isa.66.1]] • [[Isa.66.12]] • [[Isa.66.20]] • [[Jer.2.2]] • [[Jer.2.5]] • [[Jer.4.3]] • [[Jer.4.27]] • [[Jer.6.16]] • [[Jer.6.21]] • [[Jer.6.22]] • [[Jer.7.20]] • [[Jer.8.4]] • [[Jer.9.23]] • [[Jer.10.2]] • [[Jer.10.18]] • [[Jer.11.11]] • [[Jer.12.14]] • [[Jer.13.9]] • [[Jer.13.13]] • [[Jer.14.15]] • [[Jer.15.2]] • [[Jer.15.19]] • [[Jer.16.3]] • [[Jer.16.5]] • [[Jer.17.5]] • [[Jer.17.21]] • [[Jer.18.11]] • [[Jer.18.13]] • [[Jer.19.11]] • [[Jer.20.4]] • [[Jer.21.8]] • [[Jer.21.12]] • [[Jer.22.3]] • [[Jer.22.6]] • [[Jer.22.18]] • [[Jer.22.30]] • [[Jer.23.38]] • [[Jer.24.8]] • [[Jer.26.4]] • [[Jer.26.18]] • [[Jer.27.16]] • [[Jer.28.11]] • [[Jer.28.13]] • [[Jer.28.16]] • [[Jer.29.10]] • [[Jer.29.16]] • [[Jer.29.31]] • [[Jer.29.32]] • [[Jer.30.3]] • [[Jer.30.5]] • [[Jer.30.18]] • [[Jer.31.2]] • [[Jer.31.7]] • [[Jer.31.15]] • [[Jer.31.16]] • [[Jer.31.35]] • [[Jer.31.37]] • [[Jer.32.3]] • [[Jer.32.28]] • [[Jer.32.42]] • [[Jer.33.10]] • [[Jer.33.17]] • [[Jer.33.20]] • [[Jer.33.25]] • [[Jer.34.2]] • [[Jer.34.17]] • [[Jer.36.29]] • [[Jer.36.30]] • [[Jer.37.9]] • [[Jer.38.2]] • [[Jer.38.3]] • [[Jer.38.17]] • [[Jer.44.7]] • [[Jer.44.25]] • [[Jer.44.26]] • [[Jer.44.30]] • [[Jer.45.4]] • [[Jer.47.2]] • [[Jer.48.40]] • [[Jer.49.1]] • [[Jer.49.12]] • [[Jer.49.18]] • [[Jer.49.28]] • [[Jer.51.1]] • [[Jer.51.36]] • [[Ezek.5.7]] • [[Ezek.6.3]] • [[Ezek.11.5]] • [[Ezek.13.18]] • [[Ezek.13.20]] • [[Ezek.14.4]] • [[Ezek.17.3]] • [[Ezek.20.39]] • [[Ezek.20.47]] • [[Ezek.21.3]] • [[Ezek.21.9]] • [[Ezek.24.6]] • [[Ezek.25.3]] • [[Ezek.28.2]] • [[Ezek.29.3]] • [[Ezek.30.6]] • [[Ezek.30.22]] • [[Ezek.33.25]] • [[Ezek.34.2]] • [[Ezek.36.4]] • [[Ezek.36.6]] • [[Ezek.37.9]] • [[Ezek.39.17]] • [[Amos.1.3]] • [[Amos.1.6]] • [[Amos.1.9]] • [[Amos.1.11]] • [[Amos.1.13]] • [[Amos.2.1]] • [[Amos.2.4]] • [[Amos.2.6]] • [[Amos.3.12]] • [[Amos.7.17]] • [[Mic.2.3]] • [[Mic.3.5]] • [[Nah.1.12]] • [[Zech.1.16]] • [[Zech.8.3]] • [[Mal.1.2]] • [[Mal.1.6]] • [[Mal.3.13]]  |
+|   | he spoke | [[Ps.33.9]]  |
+|   | it has said | [[Ps.27.8]] • [[Isa.23.4]]  |
+|   | someone has said | [[1Sam.23.22]]  |
+| **<span class="ashebrew">אָמַ֡ר</span>** | he said | [[Esth.1.10]]  |
+| **<span class="ashebrew">אָמַ֞ר</span>** | he said | [[Gen.32.20]] • [[1Kgs.22.49]] • [[Esth.1.17]]  |
+|   | he says | [[2Kgs.18.19]] • [[2Chr.36.23]] • [[Isa.10.24]] • [[Isa.36.4]] • [[Isa.42.5]] • [[Isa.49.22]] • [[Isa.51.22]] • [[Jer.7.3]] • [[Jer.9.15]] • [[Jer.19.15]] • [[Jer.23.16]] • [[Jer.27.4]] • [[Jer.28.2]] • [[Jer.29.25]] • [[Jer.31.23]] • [[Jer.35.13]] • [[Jer.35.18]] • [[Jer.39.16]] • [[Jer.44.2]] • [[Jer.44.11]] • [[Jer.50.18]] • [[Jer.51.58]] • [[Ezek.6.11]] • [[Ezek.7.2]] • [[Ezek.16.36]] • [[Ezek.30.13]] • [[Ezek.31.15]] • [[Ezek.34.10]] • [[Ezek.38.17]] • [[Ezek.45.9]] • [[Ezek.46.16]] • [[Zech.3.7]] • [[Zech.8.19]]  |
+| **<span class="ashebrew">אָמַ֜רְתִּי</span>** | I said | [[Ruth.4.4]] • [[2Kgs.5.11]] • [[Zeph.3.7]]  |
+|   | did I say | [[1Chr.21.17]]  |
+| **<span class="ashebrew">אָמַ֜ר</span>** | he said | [[Exod.24.1]]  |
+|   | he says | [[2Kgs.18.31]] • [[Isa.36.16]] • [[Isa.57.15]] • [[Jer.16.9]] • [[Jer.29.8]] • [[Jer.42.18]] • [[Jer.51.33]] • [[Ezek.14.21]]  |
+| **<span class="ashebrew">אָמַ֛רְתָּ</span>** | you have said | [[Ezek.35.12]]  |
+| **<span class="ashebrew">אָמַ֛רְתִּי</span>** | I said | [[Isa.22.4]] • [[Isa.45.19]]  |
+| **<span class="ashebrew">אָמַ֛ר</span>** | he has said | [[Isa.21.6]]  |
+|   | he said | [[1Sam.9.5]] • [[Ezek.29.9]]  |
+|   | he says | [[2Kgs.4.43]] • [[Isa.22.14]] • [[Isa.22.15]] • [[Jer.7.21]] • [[Jer.25.28]] • [[Jer.27.21]] • [[Jer.29.4]] • [[Jer.30.12]] • [[Jer.32.15]] • [[Jer.35.19]] • [[Ezek.17.9]] • [[Ezek.26.15]] • [[Ezek.34.20]] • [[Amos.5.4]] • [[Amos.5.27]] • [[Hag.1.2]] • [[Zech.6.12]] • [[Zech.7.9]]  |
+|   | it has said | [[Ezek.29.3]]  |
+| **<span class="ashebrew">אָמַ֙רְתָּ֙</span>** | did you say | [[Gen.12.19]]  |
+|   | you have said | [[Exod.33.12]] • [[2Kgs.18.20]]  |
+|   | you said | [[Jer.45.3]]  |
+| **<span class="ashebrew">אָמַ֙רְתִּי֙</span>** | I have said | [[Lev.17.12]]  |
+|   | I said | [[Num.24.11]] • [[Ruth.1.12]] • [[2Sam.12.22]] • [[Isa.38.11]] • [[Isa.49.4]] • [[Isa.65.1]]  |
+|   | I say | [[Song.7.8]] • [[Isa.36.5]]  |
+|   | I thought | [[Judg.15.2]]  |
+|   | I will say | [[Zech.13.9]]  |
+| **<span class="ashebrew">אָמַ֘ר</span>** | he said | [[Ps.2.7]]  |
+| **<span class="ashebrew">אָמַ֗רְתָּ</span>** | you have said | [[Num.11.21]] • [[2Chr.25.19]]  |
+| **<span class="ashebrew">אָמַ֗רְתִּי</span>** | I have promised | [[Exod.32.13]]  |
+|   | I have said | [[Ps.89.2]] • [[Ps.119.57]]  |
+|   | I said | [[Gen.20.11]] • [[Ps.32.5]] • [[Ps.39.1]] • [[Isa.38.10]]  |
+|   | I thought | [[Jer.3.19]]  |
+| **<span class="ashebrew">אָמַ֗ר</span>** | anyone has said | [[Job.35.10]]  |
+|   | he had said | [[1Sam.25.21]] • [[2Chr.21.7]]  |
+|   | he has said | [[Isa.10.13]]  |
+|   | he said | [[Gen.3.16]] • [[Gen.3.17]] • [[Gen.20.16]] • [[1Sam.17.55]] • [[1Sam.18.17]] • [[1Sam.25.35]] • [[2Chr.8.11]]  |
+|   | he says | [[Ezra.1.2]]  |
+| **<span class="ashebrew">אָמַ֖רְתָּ</span>** | did you say | [[Gen.26.9]]  |
+|   | you said | [[Lam.3.57]]  |
+| **<span class="ashebrew">אָמַ֖רְתִּי</span>** | I had said | [[Jer.18.10]]  |
+|   | I said | [[Deut.32.26]]  |
+| **<span class="ashebrew">אָמַ֖רְתְּ</span>** | you said | [[Isa.57.10]] • [[Jer.22.21]]  |
+| **<span class="ashebrew">אָמַ֖ר</span>** | anyone will say | [[Isa.45.24]]  |
+|   | he had said | [[Ps.106.34]]  |
+|   | he said | [[Amos.7.6]]  |
+|   | he says | [[1Kgs.20.32]] • [[Isa.7.7]] • [[Isa.45.13]] • [[Jer.25.8]] • [[Ezek.2.4]] • [[Ezek.3.11]] • [[Ezek.3.27]] • [[Ezek.7.5]] • [[Ezek.12.10]] • [[Ezek.20.27]] • [[Ezek.23.46]] • [[Ezek.24.3]] • [[Ezek.25.8]] • [[Ezek.28.6]] • [[Ezek.29.13]] • [[Ezek.30.2]] • [[Ezek.30.10]] • [[Ezek.32.11]] • [[Ezek.34.11]] • [[Ezek.34.17]] • [[Ezek.35.14]] • [[Ezek.36.3]] • [[Ezek.38.3]] • [[Ezek.38.10]] • [[Ezek.38.14]] • [[Ezek.39.1]] • [[Ezek.44.6]] • [[Amos.1.8]] • [[Amos.9.15]] • [[Hag.1.5]] • [[Hag.1.7]] • [[Hag.2.7]] • [[Hag.2.9]] • [[Hag.2.11]] • [[Zech.1.3]] • [[Zech.1.14]] • [[Zech.4.6]] • [[Zech.7.13]] • [[Zech.8.14]] • [[Zech.8.20]] • [[Zech.11.4]] • [[Mal.1.8]] • [[Mal.1.9]] • [[Mal.1.11]] • [[Mal.2.4]] • [[Mal.2.8]] • [[Mal.2.16]] • [[Mal.3.1]] • [[Mal.3.5]] • [[Mal.3.7]] • [[Mal.3.10]] • [[Mal.3.11]] • [[Mal.3.12]] • [[Mal.4.3]]  |
+| **<span class="ashebrew">אָמַ֕רְתִּי</span>** | I said | [[Eccl.8.14]]  |
+|   | I say | [[2Sam.19.29]] • [[Eccl.6.3]]  |
+| **<span class="ashebrew">אָמַ֔רְתָּ</span>** | have you said | [[1Kgs.1.24]]  |
+|   | you have said | [[Gen.32.12]] • [[1Kgs.8.29]] • [[2Chr.6.20]]  |
+|   | you said | [[Hos.13.10]]  |
+| **<span class="ashebrew">אָמַ֔רְתִּי</span>** | I said | [[Gen.31.31]] • [[1Sam.2.30]] • [[2Kgs.23.27]] • [[Jer.5.4]] • [[Jer.10.19]] • [[Jonah.2.4]]  |
+|   | I say | [[Judg.2.3]]  |
+|   | I thought | [[Gen.26.9]]  |
+|   | did I say | [[2Kgs.4.28]]  |
+| **<span class="ashebrew">אָמַ֔רְתְּ</span>** | you have said | [[2Sam.6.22]] • [[Ezek.27.3]]  |
+| **<span class="ashebrew">אָמַ֔רְנוּ</span>** | we had said | [[Lam.4.20]]  |
+| **<span class="ashebrew">אָמַ֔ר</span>** | he had said | [[Exod.18.3]]  |
+|   | he has said | [[1Kgs.8.12]] • [[2Chr.6.1]]  |
+|   | he said | [[Gen.31.49]] • [[Gen.38.11]] • [[Gen.42.4]] • [[Exod.2.22]] • [[Deut.33.8]] • [[Deut.33.12]] • [[Deut.33.13]] • [[Deut.33.18]] • [[Deut.33.20]] • [[Deut.33.22]] • [[Deut.33.23]] • [[Deut.33.24]] • [[2Sam.16.3]] • [[2Sam.18.19]] • [[2Chr.24.22]]  |
+|   | he says | [[2Chr.32.10]]  |
+| **<span class="ashebrew">אָמַ֑רְתִּי</span>** | I say | [[Job.9.22]]  |
+| **<span class="ashebrew">אָמְרוּ֩</span>** | they have said | [[Isa.66.5]]  |
+| **<span class="ashebrew">אָמְרוּ֙</span>** | they had said | [[Judg.12.4]]  |
+| **<span class="ashebrew">אָמְרָ֣ה</span>** | it has said | [[Lam.3.24]]  |
+|   | she said | [[1Sam.1.22]] • [[2Kgs.6.28]]  |
+| **<span class="ashebrew">אָמְרָ֗ה</span>** | she said | [[Hos.2.5]] • [[Hos.2.12]]  |
+| **<span class="ashebrew">אָמְרָ֖ה</span>** | she said | [[Eccl.7.27]]  |
+| **<span class="ashebrew">אָמְרֵ֨ךְ</span>** | said you | [[Ezek.25.3]]  |
+| **<span class="ashebrew">אָמְרֵ֖ךְ</span>** | saying you | [[Jer.2.35]]  |
+| **<span class="ashebrew">אָמְרִ֧י</span>** | say I | [[Josh.6.10]]  |
+| **<span class="ashebrew">אָמְר֨וּ</span>** | they said | [[Ezek.11.15]]  |
+| **<span class="ashebrew">אָמְר֥וּ</span>** | have they said | [[Ezek.12.9]]  |
+|   | they said | [[Isa.51.23]]  |
+| **<span class="ashebrew">אָמְר֤וּ</span>** | have they said | [[Jer.2.31]]  |
+|   | they have said | [[1Kgs.20.28]] • [[Isa.30.10]]  |
+|   | they said | [[1Sam.30.6]]  |
+| **<span class="ashebrew">אָמְר֣וּ</span>** | did they say | [[2Kgs.20.14]] • [[Isa.39.3]]  |
+|   | they have spoken | [[Ps.71.10]]  |
+|   | they said | [[1Sam.13.19]] • [[1Kgs.20.23]] • [[Ps.74.8]] • [[Jer.5.24]] • [[Jer.42.5]]  |
+| **<span class="ashebrew">אָמְר֞וּ</span>** | they say | [[Josh.22.16]]  |
+| **<span class="ashebrew">אָמְר֗וּ</span>** | they have said | [[Ps.83.4]] • [[Ezek.9.9]]  |
+|   | they said | [[Josh.22.33]] • [[Judg.16.24]] • [[Judg.20.32]] • [[1Sam.10.27]]  |
+| **<span class="ashebrew">אָמְר֖וּ</span>** | they said | [[Exod.12.33]] • [[Judg.9.3]] • [[2Chr.26.23]] • [[Jer.50.7]] • [[Lam.2.16]]  |
+| **<span class="ashebrew">אָמְר֔וּ</span>** | people have said | [[Jer.12.4]]  |
+|   | they said | [[Judg.20.39]] • [[1Sam.4.7]] • [[1Sam.8.6]] • [[2Sam.17.29]] • [[Jer.2.6]]  |
+| **<span class="ashebrew">אָמ֣וֹר</span>** | certainly | [[1Sam.2.30]]  |
+| **<span class="ashebrew">אָמ֖וֹר</span>** | say | [[Num.6.23]]  |
+| **<span class="ashebrew">אָֽמַר</span>** | did he say | [[Gen.20.5]]  |
+|   | he had said | [[Gen.22.3]] • [[Gen.22.9]] • [[Exod.17.10]] • [[Josh.11.9]] • [[1Kgs.11.2]] • [[2Kgs.8.19]]  |
+|   | he had spoken | [[2Kgs.6.10]] • [[Neh.2.18]]  |
+|   | he has said | [[Isa.31.4]]  |
+|   | he has spoken | [[2Sam.16.11]]  |
+|   | he says | [[Isa.45.18]] • [[Isa.49.7]] • [[Jer.22.11]]  |
+| **<span class="ashebrew">אָֽמְרוּ֙</span>** | people said | [[Lam.4.15]]  |
+|   | they have said | [[Jer.23.25]]  |
+|   | they said | [[2Sam.12.18]] • [[1Kgs.22.32]] • [[2Chr.18.31]] • [[2Chr.22.9]] • [[Jer.2.8]]  |
+| **<span class="ashebrew">אָֽמְרָ֗ה</span>** | she said | [[Gen.16.13]] • [[Gen.29.32]]  |
+| **<span class="ashebrew">אָֽמְרָ֖ה</span>** | she said | [[Gen.20.5]]  |
+| **<span class="ashebrew">אָֽמְרָ֔ה</span>** | she said | [[Gen.21.16]] • [[Gen.27.6]] • [[Exod.4.26]]  |
+| **<span class="ashebrew">אָֽמְר֨וּ</span>** | they say | [[Ps.12.4]] • [[Ps.129.8]]  |
+| **<span class="ashebrew">אָֽמְר֔וּ</span>** | they have said | [[1Sam.29.9]] • [[Jer.23.17]] • [[Hag.1.2]]  |
+|   | they said | [[Gen.38.22]] • [[Num.13.31]] • [[Num.16.34]]  |
+| **<span class="ashebrew">אָ֭מַרְתִּי</span>** | I had said | [[Ps.73.15]]  |
+|   | I said | [[Job.7.13]] • [[Job.32.7]] • [[Ps.38.16]] • [[Ps.40.7]] • [[Ps.41.4]] • [[Ps.82.6]] • [[Ps.94.18]]  |
+|   | I say | [[Job.32.10]] • [[Ps.142.5]]  |
+|   | have I said | [[Job.6.22]]  |
+| **<span class="ashebrew">אָ֭מַר</span>** | he has said | [[Job.34.5]] • [[Job.34.9]]  |
+|   | he spoke | [[Ps.105.31]] • [[Ps.105.34]]  |
+|   | it says | [[Job.28.14]]  |
+| **<span class="ashebrew">אָ֭מְרוּ</span>** | they have said | [[Job.31.31]] • [[Ps.35.21]]  |
+|   | they said | [[Ps.78.19]] • [[Ps.83.12]]  |
+| **<span class="ashebrew">אָ֭מְרִי</span>** | to say I | [[Job.9.27]]  |
+| **<span class="ashebrew">אָ֨מְרָה</span>** | it said | [[Ezek.26.2]]  |
+| **<span class="ashebrew">אָ֥מַר</span>** | did he say | [[Job.37.20]]  |
+|   | he said | [[2Kgs.8.14]]  |
+| **<span class="ashebrew">אָ֥מְרוּ</span>** | they say | [[Prov.30.15]]  |
+| **<span class="ashebrew">אָ֥מְרָה</span>** | it says | [[Prov.30.16]]  |
+| **<span class="ashebrew">אָ֤מַר</span>** | he has said | [[2Sam.16.10]]  |
+| **<span class="ashebrew">אָ֣מַר</span>** | he assigned | [[1Kgs.11.18]]  |
+|   | he said | [[1Chr.28.3]]  |
+| **<span class="ashebrew">אָ֣מְרָה</span>** | she says | [[Prov.9.4]]  |
+| **<span class="ashebrew">אָ֣מְר֑וּ</span>** | they say | [[Job.28.22]]  |
+| **<span class="ashebrew">אָ֝מַ֗רְתָּ</span>** | you have said | [[Job.35.2]]  |
+| **<span class="ashebrew">אָ֝מַ֗רְתִּי</span>** | I say | [[Ps.31.14]]  |
+| **<span class="ashebrew">אָ֝מַ֗ר</span>** | has he said | [[Job.36.23]]  |
+|   | it said | [[Job.3.3]]  |
+|   | it says | [[Job.28.14]]  |
+| **<span class="ashebrew">אָ֝מְר֗וּ</span>** | they say | [[Ps.64.5]]  |
+| **<span class="ashebrew">אָ֘מַ֤רְתִּי</span>** | I said | [[Ps.31.22]]  |
+| **<span class="ashebrew">אָ֘מַ֤ר</span>** | he says | [[Ps.14.1]] • [[Ps.50.16]] • [[Ps.53.1]]  |
+| **<span class="ashebrew">אִמְרוּ֩</span>** | say | [[Jer.50.2]]  |
+| **<span class="ashebrew">אִמְרוּ֙</span>** | say | [[Isa.35.4]] • [[Isa.62.11]]  |
+| **<span class="ashebrew">אִמְרוּ</span>** | say | [[2Sam.20.16]] • [[2Kgs.18.19]] • [[Isa.36.4]]  |
+| **<span class="ashebrew">אִמְרִי֙</span>** | say | [[Isa.40.9]]  |
+| **<span class="ashebrew">אִמְרִי</span>** | say | [[Gen.12.13]] • [[Gen.20.13]]  |
+|   | speak | [[1Kgs.2.17]]  |
+| **<span class="ashebrew">אִמְרִ֣י</span>** | say | [[1Kgs.14.7]]  |
+| **<span class="ashebrew">אִמְרִ֖י</span>** | say | [[Jer.48.19]]  |
+| **<span class="ashebrew">אִמְר֥וּ</span>** | say | [[Hos.2.1]]  |
+|   | tell | [[Isa.3.10]]  |
+| **<span class="ashebrew">אִמְר֤וּ</span>** | say | [[Ps.96.10]]  |
+| **<span class="ashebrew">אִמְר֣וּ</span>** | say | [[2Kgs.22.15]] • [[2Chr.34.23]] • [[Ps.66.3]] • [[Hos.14.2]]  |
+|   | speak | [[Ps.4.4]]  |
+| **<span class="ashebrew">אִמְר֞וּ</span>** | say | [[1Kgs.20.9]]  |
+| **<span class="ashebrew">אִמְר֗וּ</span>** | say | [[Jer.46.14]] • [[Jer.48.17]]  |
+| **<span class="ashebrew">אִמְר֕וּ</span>** | say | [[Isa.48.20]]  |
+| **<span class="ashebrew">אֲמֹ֤ר</span>** | said | [[Ezek.25.8]]  |
+| **<span class="ashebrew">אֲמָרְכֶ֛ם</span>** | have spoken you | [[Jer.23.38]]  |
+| **<span class="ashebrew">אֲמָר</span>** | to say | [[Prov.25.7]]  |
+| **<span class="ashebrew">אֲמַרְתֶּם֙</span>** | you have said | [[Ezek.33.10]]  |
+| **<span class="ashebrew">אֲמַרְתֶּֽם</span>** | you have said | [[Amos.5.14]]  |
+| **<span class="ashebrew">אֲמַרְתֶּ֜ם</span>** | you said | [[Deut.1.39]]  |
+| **<span class="ashebrew">אֲמַרְתֶּ֗ם</span>** | you have said | [[Isa.28.15]]  |
+| **<span class="ashebrew">אֲמַרְתֶּ֖ם</span>** | you have said | [[1Sam.12.1]] • [[Ezek.11.5]]  |
+|   | you said | [[Num.14.31]]  |
+|   | you spoke | [[Gen.43.29]]  |
+| **<span class="ashebrew">אֲמַרְתֶּ֕ם</span>** | you have said | [[Mal.3.14]]  |
+| **<span class="ashebrew">אֲמַרְתֶּ֑ם</span>** | have you said | [[Ezek.13.7]]  |
+|   | you have said | [[Jer.29.15]]  |
+|   | you spoke | [[Gen.43.27]]  |
+| **<span class="ashebrew">אֲ֠מָרְךָ</span>** | saying you | [[Ezek.35.10]]  |
+| **<span class="ashebrew">אֱמֹר֩</span>** | say | [[Ezek.28.2]] • [[Ezek.39.17]]  |
+| **<span class="ashebrew">אֱמֹר֙</span>** | say | [[Exod.8.16]] • [[Ezek.11.5]] • [[Ezek.33.10]] • [[Zech.7.5]]  |
+| **<span class="ashebrew">אֱמֹ֨ר</span>** | say | [[Ezek.33.11]] • [[Ezek.33.25]]  |
+|   | speak | [[Num.16.37]]  |
+| **<span class="ashebrew">אֱמֹ֥ר</span>** | say | [[Gen.45.17]] • [[Exod.6.6]] • [[Lev.21.1]] • [[1Sam.9.27]] • [[1Kgs.18.8]] • [[1Kgs.18.11]] • [[1Kgs.18.14]] • [[Ps.35.3]] • [[Jer.13.18]]  |
+| **<span class="ashebrew">אֱמֹ֤ר</span>** | say | [[Exod.33.5]] • [[Deut.1.42]] • [[1Kgs.18.44]] • [[Ezek.33.12]]  |
+| **<span class="ashebrew">אֱמֹ֣ר</span>** | say | [[Exod.7.19]] • [[Exod.8.5]] • [[Lev.22.3]] • [[Num.14.28]] • [[Deut.5.30]] • [[Prov.7.4]] • [[Ezek.12.10]] • [[Ezek.12.23]] • [[Ezek.12.28]] • [[Ezek.14.6]] • [[Ezek.20.30]] • [[Ezek.24.21]] • [[Ezek.36.22]]  |
+|   | speak | [[Esth.5.14]]  |
+| **<span class="ashebrew">אֱמֹ֛ר</span>** | say | [[Ezek.13.11]] • [[Ezek.31.2]]  |
+| **<span class="ashebrew">אֱמֹ֗ר</span>** | say | [[Exod.16.9]] • [[1Kgs.12.23]] • [[Ezek.11.16]] • [[Ezek.11.17]] • [[Ezek.17.9]] • [[Ezek.17.12]]  |
+| **<span class="ashebrew">אֱמֹ֖ר</span>** | say | [[Ezek.12.11]]  |
+| **<span class="ashebrew">אֱמֹ֕ר</span>** | say | [[2Chr.11.3]] • [[Ezek.21.9]] • [[Hag.2.21]]  |
+| **<span class="ashebrew">אֱמֹ֑ר</span>** | say | [[Num.25.12]]  |
+| **<span class="ashebrew">אֱמָר</span>** | say | [[Judg.12.6]] • [[2Kgs.4.13]] • [[2Kgs.8.10]] • [[Jer.18.11]] • [[Ezek.17.12]] • [[Ezek.22.24]] • [[Hag.2.2]]  |

@@ -1,0 +1,278 @@
+| Form | Translated&nbsp;As&emsp;&emsp;&emsp;&emsp; | In Verse(s) |
+|-  |-  |-  |
+| **<span class="ashebrew">מֵאִישׁ֙</span>** | from man | [[Josh.6.21]] • [[1Sam.22.19]]  |
+| **<span class="ashebrew">מֵאִ֥ישׁ</span>** | from a man of | [[2Sam.22.49]] • [[Ps.18.48]]  |
+|   | more than a person of | [[Prov.19.22]]  |
+| **<span class="ashebrew">מֵאִ֣ישׁ</span>** | from a man | [[1Sam.15.3]]  |
+|   | from a man of | [[Ps.140.4]]  |
+|   | from man | [[Josh.8.25]] • [[Neh.8.2]]  |
+| **<span class="ashebrew">מֵאִ֖ישׁ</span>** | from a man | [[Gen.2.23]]  |
+|   | from a man of | [[Ps.140.1]]  |
+|   | from a person | [[Isa.52.14]]  |
+|   | from man | [[1Chr.16.3]]  |
+| **<span class="ashebrew">מֵ֤אִישׁ</span>** | from a man of | [[Ps.43.1]]  |
+| **<span class="ashebrew">לָאִישׁ֙</span>** | for the man | [[1Sam.17.26]]  |
+|   | to the man | [[2Sam.18.11]] • [[Dan.12.6]]  |
+|   | to the person | [[1Kgs.8.39]] • [[2Chr.6.30]]  |
+| **<span class="ashebrew">לָאִישׁ֒</span>** | to the man | [[1Sam.9.7]]  |
+| **<span class="ashebrew">לָאִ֨ישׁ</span>** | the person | [[Mal.2.12]]  |
+| **<span class="ashebrew">לָאִ֥ישׁ</span>** | to the man | [[Deut.22.16]]  |
+| **<span class="ashebrew">לָאִ֤ישׁ</span>** | to the man | [[Jer.26.16]]  |
+|   | to the person | [[Lev.17.4]]  |
+| **<span class="ashebrew">לָאִ֣ישׁ</span>** | to the man | [[1Sam.2.15]] • [[Jer.26.11]]  |
+|   | to the person | [[Prov.24.29]]  |
+| **<span class="ashebrew">לָאִ֜ישׁ</span>** | to the person | [[Num.5.8]]  |
+| **<span class="ashebrew">לָאִ֖ישׁ</span>** | for the man | [[1Sam.17.27]] • [[2Sam.12.4]]  |
+|   | to the man | [[Gen.43.11]]  |
+|   | to the person | [[Lev.25.27]]  |
+| **<span class="ashebrew">לָאִ֔ישׁ</span>** | for the man | [[Esth.6.9]] • [[Esth.6.11]]  |
+|   | the man | [[Judg.16.19]]  |
+|   | to the man | [[Gen.43.6]] • [[Deut.25.9]] • [[Ruth.3.3]] • [[2Kgs.22.15]] • [[2Chr.34.23]] • [[Job.2.4]]  |
+| **<span class="ashebrew">לָ֭אִישׁ</span>** | to  person | [[Prov.15.23]] • [[Prov.20.3]] • [[Prov.20.17]]  |
+| **<span class="ashebrew">לְמֵאִ֣ישׁ</span>** | to from a man | [[2Sam.6.19]]  |
+| **<span class="ashebrew">לְמֵאִ֖ישׁ</span>** | from man | [[2Chr.15.13]]  |
+|   | to from a human | [[Exod.11.7]]  |
+| **<span class="ashebrew">לְאִישׁ֙</span>** | to  man of | [[1Sam.11.9]]  |
+|   | to a man | [[Gen.38.25]]  |
+|   | to a person | [[1Sam.2.25]]  |
+| **<span class="ashebrew">לְאִישׁ</span>** | for a person | [[Job.35.8]]  |
+|   | to a man | [[Deut.24.2]] • [[Jer.3.1]]  |
+| **<span class="ashebrew">לְאִֽישׁ</span>** | a man | [[1Kgs.2.2]]  |
+|   | and a person | [[Ezek.18.8]]  |
+| **<span class="ashebrew">לְאִ֨ישׁ</span>** | to  man of | [[2Kgs.4.42]]  |
+|   | to a man | [[Exod.2.14]]  |
+| **<span class="ashebrew">לְאִ֥ישׁ</span>** | into a man | [[1Sam.10.6]]  |
+|   | to  man of | [[Judg.20.38]]  |
+| **<span class="ashebrew">לְאִ֤ישׁ</span>** | to  man of | [[Jer.4.3]]  |
+| **<span class="ashebrew">לְאִ֣ישׁ</span>** | a person | [[Ezek.3.26]]  |
+|   | for a person | [[Jer.23.36]]  |
+|   | for a person of | [[Prov.10.23]]  |
+|   | of a man | [[1Sam.30.13]]  |
+|   | of a person | [[Prov.22.7]]  |
+|   | of a person of | [[Prov.19.6]] • [[Prov.28.24]]  |
+|   | to  man | [[2Sam.12.4]]  |
+|   | to  man of | [[1Sam.9.7]] • [[1Sam.9.8]] • [[2Kgs.4.7]] • [[2Chr.25.9]] • [[Jer.35.13]]  |
+|   | to a man | [[Gen.29.19]] • [[Lev.27.20]] • [[Deut.25.5]] • [[Deut.33.8]] • [[2Kgs.15.20]]  |
+|   | to a person | [[Ps.62.12]] • [[Prov.14.7]] • [[Jer.10.23]]  |
+|   | to a person of | [[Ps.37.37]]  |
+| **<span class="ashebrew">לְאִ֜ישׁ</span>** | to a man | [[Deut.21.15]]  |
+| **<span class="ashebrew">לְאִ֖ישׁ</span>** | to a husband | [[Ezek.44.25]]  |
+|   | to a man | [[Gen.34.14]]  |
+| **<span class="ashebrew">לְאִ֔ישׁ</span>** | for a man | [[Lev.19.20]]  |
+| **<span class="ashebrew">לְאִ֑ישׁ</span>** | to a man | [[Deut.22.23]] • [[Hos.3.3]]  |
+| **<span class="ashebrew">כָאִ֖ישׁ</span>** | like the man | [[Judg.8.21]]  |
+| **<span class="ashebrew">כְּאִישׁ֙</span>** | like a man | [[Jer.6.23]] • [[Jer.50.42]]  |
+| **<span class="ashebrew">כְּאִ֥ישׁ</span>** | like a man | [[Judg.6.16]] • [[Judg.20.8]] • [[Judg.20.11]] • [[1Sam.11.7]] • [[Ezra.3.1]]  |
+|   | like a man of | [[Isa.42.13]]  |
+| **<span class="ashebrew">כְּאִ֣ישׁ</span>** | like a man | [[Judg.20.1]] • [[2Sam.19.14]]  |
+|   | like a man of | [[Neh.7.2]] • [[Prov.6.11]] • [[Prov.24.34]]  |
+|   | like a person | [[Num.14.15]] • [[Neh.8.1]] • [[Jer.14.9]] • [[Jer.23.9]]  |
+| **<span class="ashebrew">כְּאִ֖ישׁ</span>** | like a person | [[Zech.4.1]]  |
+| **<span class="ashebrew">כְּאִ֕ישׁ</span>** | like a person | [[Isa.66.13]]  |
+| **<span class="ashebrew">כְּ֭אִישׁ</span>** | like a man | [[Ps.38.14]]  |
+| **<span class="ashebrew">יִשְׁאַלאִ֖ישׁ</span>** | he enquires - anyone | [[2Sam.16.23]]  |
+| **<span class="ashebrew">וּלְאִ֕ישׁ</span>** | and for a man | [[Lev.15.33]]  |
+| **<span class="ashebrew">וָאִֽישׁ</span>** | and man | [[Esth.1.8]]  |
+| **<span class="ashebrew">וְלָאִ֤ישׁ</span>** | and to the man | [[Judg.19.24]]  |
+| **<span class="ashebrew">וְהָאִישׁ֩</span>** | and the person | [[Num.9.13]]  |
+| **<span class="ashebrew">וְהָאִישׁ֙</span>** | and the man | [[Judg.19.16]] • [[1Sam.17.12]] • [[1Sam.25.2]]  |
+| **<span class="ashebrew">וְהָאִ֥ישׁ</span>** | and the man | [[Gen.24.21]] • [[Num.12.3]] • [[1Sam.25.3]] • [[1Kgs.11.28]]  |
+| **<span class="ashebrew">וְהָאִ֣ישׁ</span>** | and the man | [[Judg.17.5]] • [[1Sam.4.14]] • [[1Sam.9.6]] • [[Dan.9.21]]  |
+| **<span class="ashebrew">וְהָאִ֞ישׁ</span>** | and the person | [[Deut.17.12]]  |
+| **<span class="ashebrew">וְהָאִ֛ישׁ</span>** | and the man | [[1Sam.17.41]]  |
+| **<span class="ashebrew">וְהָאִ֗ישׁ</span>** | and the man | [[1Sam.4.13]] • [[2Kgs.5.1]]  |
+|   | and the person | [[Deut.24.11]]  |
+| **<span class="ashebrew">וְאִישׁ֙</span>** | and a man | [[Lev.13.38]] • [[2Sam.20.11]]  |
+|   | and man | [[Lev.13.29]]  |
+| **<span class="ashebrew">וְאִישׁ</span>** | and a man | [[Ezek.9.2]]  |
+| **<span class="ashebrew">וְאִֽישׁ</span>** | and  man of | [[1Sam.14.24]] • [[1Sam.17.2]] • [[2Sam.10.8]]  |
+|   | and a person of | [[Prov.24.5]]  |
+| **<span class="ashebrew">וְאִ֨ישׁ</span>** | and  a man | [[Gen.19.31]]  |
+|   | and  man of | [[Judg.20.17]] • [[Judg.20.48]]  |
+|   | and a man | [[1Sam.25.2]] • [[1Sam.27.11]] • [[1Kgs.20.35]] • [[2Kgs.4.42]]  |
+|   | and a person | [[Lev.17.10]] • [[Lev.17.13]]  |
+| **<span class="ashebrew">וְאִ֧ישׁ</span>** | and a man of | [[1Sam.16.18]]  |
+| **<span class="ashebrew">וְאִ֥ישׁ</span>** | and  man of | [[1Sam.11.8]]  |
+|   | and  person of | [[Isa.40.13]]  |
+|   | and O man of | [[2Sam.16.7]]  |
+|   | and a man | [[Deut.20.5]] • [[Deut.20.6]] • [[Deut.20.7]] • [[Ezek.22.11]]  |
+|   | and a man of | [[Jer.15.10]]  |
+|   | and a person | [[Job.14.12]] • [[Prov.21.28]]  |
+|   | and a person of | [[Prov.14.17]] • [[Prov.15.21]] • [[Prov.20.6]] • [[Prov.26.21]] • [[Isa.55.7]]  |
+| **<span class="ashebrew">וְאִ֤ישׁ</span>** | and  man of | [[Judg.20.41]] • [[2Sam.20.2]]  |
+|   | and a man | [[Deut.28.30]]  |
+|   | and a person | [[Num.19.20]]  |
+| **<span class="ashebrew">וְאִ֣ישׁ</span>** | and  man of | [[Judg.21.1]] • [[2Sam.10.6]] • [[2Sam.24.9]] • [[2Chr.25.7]]  |
+|   | and a man | [[Lev.20.17]] • [[Lev.20.27]] • [[Ezek.22.11]] • [[Amos.2.7]]  |
+|   | and a man of | [[1Sam.16.18]]  |
+|   | and a person | [[Job.11.12]]  |
+|   | and a person of | [[Job.22.8]] • [[Prov.29.13]]  |
+|   | and man of | [[Isa.3.2]]  |
+| **<span class="ashebrew">וְאִ֛ישׁ</span>** | and a man | [[Ezek.22.11]]  |
+| **<span class="ashebrew">וְאִ֗ישׁ</span>** | and a man | [[Lev.20.10]] • [[Lev.20.11]] • [[Lev.20.12]] • [[Lev.20.13]] • [[Lev.20.14]] • [[Lev.20.15]] • [[Lev.20.20]] • [[Lev.20.21]] • [[1Sam.2.33]]  |
+| **<span class="ashebrew">וְאִ֖ישׁ</span>** | and  man of | [[Lev.24.10]]  |
+|   | and a man | [[Gen.24.16]] • [[Mic.2.2]]  |
+|   | and a person | [[Prov.16.14]]  |
+|   | and a person of | [[Prov.11.12]] • [[Prov.12.2]] • [[Prov.20.5]] • [[Prov.29.4]]  |
+| **<span class="ashebrew">וְאִ֕ישׁ</span>** | and a man | [[Lev.15.16]] • [[Ezek.43.6]]  |
+| **<span class="ashebrew">וְ֭אִישׁ</span>** | and a person | [[Ps.87.5]]  |
+| **<span class="ashebrew">וְ֠אִישׁ</span>** | and a man | [[Lev.19.20]] • [[Lev.20.18]]  |
+| **<span class="ashebrew">וְ֝אִ֗ישׁ</span>** | and a person | [[Prov.27.21]]  |
+| **<span class="ashebrew">הָאִישׁ֩</span>** | person | [[Neh.5.13]]  |
+| **<span class="ashebrew">הָאִישׁ֙</span>** | the man | [[Gen.20.7]] • [[Gen.24.22]] • [[Gen.24.32]] • [[Gen.37.17]] • [[Gen.42.33]] • [[Deut.28.54]] • [[Judg.8.4]] • [[Judg.19.9]] • [[Judg.19.10]] • [[Judg.19.23]] • [[Judg.19.25]] • [[Ruth.2.19]] • [[1Sam.9.9]] • [[1Sam.9.17]] • [[1Sam.25.3]] • [[2Sam.18.12]] • [[2Sam.21.5]] • [[2Kgs.13.21]] • [[Isa.14.16]] • [[Ezek.9.3]]  |
+|   | the person | [[Deut.18.19]]  |
+| **<span class="ashebrew">הָאִֽישׁ</span>** | the man | [[Gen.43.13]] • [[Ruth.3.16]]  |
+| **<span class="ashebrew">הָאִ֨ישׁ</span>** | the man | [[Gen.42.30]] • [[Deut.22.29]] • [[1Sam.1.3]] • [[1Sam.17.25]] • [[1Chr.11.23]]  |
+| **<span class="ashebrew">הָאִ֧ישׁ</span>** | the man | [[Judg.19.17]]  |
+| **<span class="ashebrew">הָאִ֥ישׁ</span>** | the man | [[Judg.1.25]] • [[Judg.19.17]] • [[1Sam.1.21]] • [[Esth.9.4]] • [[Eccl.9.15]] • [[Ezek.47.3]]  |
+|   | the person | [[Lev.14.11]] • [[Lev.17.4]] • [[Lev.17.9]] • [[Num.9.13]] • [[Jer.23.34]]  |
+| **<span class="ashebrew">הָאִ֤ישׁ</span>** | the man | [[Gen.24.65]] • [[Gen.43.3]] • [[Deut.20.8]] • [[Judg.7.7]] • [[Judg.19.20]] • [[Judg.19.23]] • [[1Sam.17.25]] • [[2Kgs.10.24]] • [[Jer.22.28]] • [[Jer.22.30]] • [[Ezek.10.6]]  |
+|   | the person | [[Jer.9.12]]  |
+|   | ¿ a man | [[Num.16.22]]  |
+| **<span class="ashebrew">הָאִ֣ישׁ</span>** | man | [[Ps.147.10]]  |
+|   | person | [[2Sam.15.2]]  |
+|   | the man | [[Gen.24.58]] • [[Exod.11.3]] • [[Num.5.15]] • [[Deut.17.5]] • [[Deut.24.3]] • [[Deut.24.3]] • [[Judg.20.4]] • [[Ruth.1.2]] • [[2Sam.12.4]] • [[1Kgs.20.39]] • [[Neh.1.11]] • [[Job.1.1]] • [[Job.1.3]] • [[Jer.38.4]] • [[Jer.38.4]] • [[Ezek.9.11]] • [[Ezek.10.2]] • [[Dan.12.7]] • [[Jonah.1.14]]  |
+|   | the person | [[Lev.20.4]] • [[Deut.17.12]] • [[Jer.20.16]]  |
+| **<span class="ashebrew">הָאִ֡ישׁ</span>** | the man | [[Gen.44.17]]  |
+|   | the person | [[Deut.27.15]]  |
+| **<span class="ashebrew">הָאִ֞ישׁ</span>** | the man | [[Gen.43.5]] • [[Deut.20.5]] • [[Deut.20.6]] • [[Deut.20.7]]  |
+| **<span class="ashebrew">הָאִ֜ישׁ</span>** | the man | [[Judg.17.8]] • [[1Sam.4.16]] • [[2Sam.20.12]] • [[Ezek.40.5]]  |
+|   | the person | [[Josh.6.26]]  |
+| **<span class="ashebrew">הָאִ֛ישׁ</span>** | the man | [[Gen.24.29]] • [[Gen.37.15]] • [[Gen.43.17]] • [[Gen.43.24]] • [[Num.16.7]] • [[Num.17.5]] • [[Deut.22.22]] • [[Deut.22.25]] • [[Judg.13.11]] • [[Judg.19.22]] • [[Judg.19.26]] • [[Zech.1.10]]  |
+|   | the person | [[1Sam.14.28]]  |
+| **<span class="ashebrew">הָאִ֗ישׁ</span>** | person | [[Deut.4.3]]  |
+|   | the man | [[Exod.32.1]] • [[Exod.32.23]] • [[Deut.22.25]] • [[1Sam.2.16]] • [[1Sam.29.4]] • [[Ezek.40.4]]  |
+|   | the person | [[Ps.1.1]] • [[Jer.20.15]]  |
+| **<span class="ashebrew">הָאִ֖ישׁ</span>** | the man | [[Gen.30.43]] • [[Num.5.31]] • [[Deut.22.25]] • [[Judg.4.22]] • [[Judg.7.8]] • [[Judg.7.16]] • [[Judg.19.7]] • [[Ruth.3.8]] • [[1Sam.4.18]] • [[2Sam.12.5]] • [[1Kgs.20.35]] • [[1Kgs.20.37]] • [[2Kgs.6.19]] • [[2Kgs.9.11]] • [[2Kgs.13.21]]  |
+| **<span class="ashebrew">הָאִ֕ישׁ</span>** | the man | [[Deut.17.5]]  |
+| **<span class="ashebrew">הָאִ֔ישׁ</span>** | the man | [[Gen.24.26]] • [[Gen.24.30]] • [[Gen.43.14]] • [[Gen.43.17]] • [[Gen.43.19]] • [[Gen.44.26]] • [[Exod.2.20]] • [[Deut.22.24]] • [[Deut.25.7]] • [[Judg.1.26]] • [[Judg.10.18]] • [[Judg.13.10]] • [[Judg.13.11]] • [[Judg.18.17]] • [[Judg.19.6]] • [[Judg.19.28]] • [[Ruth.2.20]] • [[Ruth.3.18]] • [[2Kgs.1.7]] • [[Esth.6.9]]  |
+|   | the person | [[Jer.11.3]]  |
+| **<span class="ashebrew">הָאִ֑ישׁ</span>** | the man | [[Gen.24.30]] • [[Gen.24.61]] • [[Gen.26.13]] • [[Exod.2.21]] • [[Num.15.35]] • [[Deut.22.18]] • [[Judg.17.11]] • [[1Sam.17.24]] • [[2Sam.12.7]] • [[2Sam.14.16]] • [[Ezek.10.3]]  |
+|   | the person | [[Exod.22.7]]  |
+| **<span class="ashebrew">הָ֭אִישׁ</span>** | the person | [[Ps.25.12]] • [[Ps.34.12]]  |
+| **<span class="ashebrew">הָ֠אִישׁ</span>** | the man | [[Gen.43.7]] • [[Judg.19.22]]  |
+|   | the person | [[1Sam.14.24]]  |
+| **<span class="ashebrew">הַאִ֤ישׁ</span>** | ¿ a man | [[Neh.6.11]]  |
+| **<span class="ashebrew">בָאִ֤ישׁ</span>** | the man | [[Gen.19.9]]  |
+| **<span class="ashebrew">בָּאִ֥ישׁ</span>** | on the person | [[Lev.20.5]]  |
+|   | the man | [[Gen.26.11]]  |
+| **<span class="ashebrew">בָּאִ֣ישׁ</span>** | on the man | [[Deut.29.20]]  |
+|   | on the person | [[Lev.20.3]] • [[Ezek.14.8]]  |
+| **<span class="ashebrew">בָּאִ֖ישׁ</span>** | on the man | [[2Sam.12.5]]  |
+| **<span class="ashebrew">בָּאִ֕ישׁ</span>** | for the man | [[Esth.6.6]]  |
+| **<span class="ashebrew">בְאִ֔ישׁ</span>** | a person | [[2Chr.6.5]]  |
+| **<span class="ashebrew">בְּאִֽישׁ</span>** | among  man of | [[Judg.20.39]]  |
+| **<span class="ashebrew">בְּאִ֣ישׁ</span>** | of a person of | [[Prov.3.31]]  |
+|   | on a man | [[Isa.4.1]]  |
+| **<span class="ashebrew">בְּאִ֖ישׁ</span>** | a person | [[Isa.3.5]]  |
+| **<span class="ashebrew">בְּאִ֑ישׁ</span>** | a person | [[Prov.17.12]]  |
+| **<span class="ashebrew">בְּ֝אִ֗ישׁ</span>** | in a person | [[Ps.37.7]]  |
+| **<span class="ashebrew">אִישׁ֮</span>** | a person | [[Ps.62.3]]  |
+|   | man | [[Num.11.16]]  |
+| **<span class="ashebrew">אִישׁ֩</span>** | a man | [[Num.25.6]] • [[Num.30.2]] • [[1Sam.21.7]] • [[2Sam.20.21]] • [[2Kgs.5.1]]  |
+|   | a person | [[Lev.20.2]] • [[Lev.22.18]]  |
+|   | man of | [[1Sam.25.25]]  |
+| **<span class="ashebrew">אִישׁ֙</span>** | a man | [[Gen.32.24]] • [[Lev.18.6]] • [[Num.5.12]] • [[Num.5.19]] • [[Josh.5.13]] • [[1Kgs.8.25]] • [[2Chr.6.16]] • [[Ezek.40.3]] • [[Zech.1.8]] • [[Zech.1.21]]  |
+|   | a person | [[Lev.17.3]] • [[Lev.17.8]]  |
+|   | man | [[Num.11.24]] • [[Deut.24.5]] • [[Josh.8.3]] • [[1Sam.30.9]] • [[2Sam.15.11]] • [[1Kgs.18.4]] • [[1Kgs.18.13]] • [[2Kgs.25.19]] • [[1Chr.21.5]] • [[Esth.1.22]]  |
+|   | person | [[Exod.25.2]] • [[2Sam.13.9]] • [[2Sam.20.13]] • [[Jer.52.25]]  |
+| **<span class="ashebrew">אִישׁ֔וֹ</span>** | man his | [[1Kgs.20.20]]  |
+| **<span class="ashebrew">אִישׁ֒</span>** | man | [[1Sam.18.27]] • [[1Kgs.22.6]] • [[2Chr.18.5]]  |
+| **<span class="ashebrew">אִישׁ</span>** | O man of | [[Dan.10.19]]  |
+|   | a man | [[Gen.42.11]] • [[Gen.42.13]] • [[Exod.2.11]] • [[Num.1.44]] • [[Josh.3.12]] • [[Josh.3.12]] • [[Josh.4.2]] • [[Josh.4.2]] • [[Josh.4.4]] • [[Josh.4.4]] • [[Josh.23.10]] • [[1Sam.30.11]] • [[2Sam.4.11]] • [[2Sam.14.25]] • [[2Sam.18.26]] • [[1Kgs.7.14]] • [[1Kgs.22.8]] • [[1Chr.27.32]] • [[2Chr.2.7]] • [[2Chr.2.13]] • [[2Chr.2.14]] • [[2Chr.18.7]] • [[Dan.10.5]] • [[Zech.13.5]]  |
+|   | a man of | [[1Sam.2.27]] • [[1Sam.9.6]]  |
+|   | a person | [[Lev.13.44]] • [[Job.15.16]] • [[Prov.24.30]]  |
+|   | a person of | [[Ps.140.11]]  |
+|   | man | [[Esth.1.8]] • [[Jer.44.7]]  |
+|   | man of | [[Josh.14.6]] • [[1Sam.4.12]] • [[2Sam.19.14]] • [[2Sam.20.4]] • [[1Kgs.12.22]] • [[1Kgs.13.4]] • [[1Kgs.13.6]] • [[1Kgs.13.8]] • [[1Kgs.13.11]] • [[1Kgs.13.14]] • [[1Kgs.13.29]] • [[1Kgs.20.42]] • [[2Kgs.4.25]] • [[2Kgs.5.8]] • [[2Kgs.5.20]] • [[2Kgs.6.6]] • [[2Kgs.6.10]] • [[2Kgs.8.4]] • [[2Kgs.23.17]] • [[2Chr.8.14]] • [[2Chr.11.2]] • [[2Chr.30.16]] • [[Ezra.3.2]] • [[Neh.12.24]] • [[Dan.10.11]]  |
+| **<span class="ashebrew">אִישִׁ֥ים</span>** | people | [[Ps.141.4]]  |
+| **<span class="ashebrew">אִישִׁ֣ים</span>** | O people | [[Prov.8.4]]  |
+| **<span class="ashebrew">אִישִׁ֔ים</span>** | people | [[Isa.53.3]]  |
+| **<span class="ashebrew">אִֽישׁ</span>** | a human | [[Deut.3.11]] • [[Job.32.13]]  |
+|   | a man | [[1Sam.18.23]] • [[2Sam.18.27]] • [[2Sam.23.20]] • [[Lam.3.33]]  |
+|   | a man of | [[1Chr.11.22]]  |
+|   | a person | [[Ps.92.6]] • [[Prov.29.3]] • [[Prov.29.9]] • [[Prov.29.26]]  |
+|   | a person of | [[Prov.29.22]]  |
+|   | humankind | [[Job.12.10]]  |
+|   | man | [[Judg.1.4]] • [[Judg.8.14]] • [[Judg.15.15]] • [[Judg.15.16]] • [[Judg.20.45]] • [[1Sam.4.2]] • [[1Sam.9.22]] • [[1Sam.13.15]] • [[1Sam.14.2]] • [[1Sam.22.2]] • [[1Sam.30.17]] • [[1Sam.30.22]] • [[2Sam.8.5]] • [[2Sam.10.6]] • [[2Sam.24.9]] • [[2Sam.24.15]] • [[1Kgs.5.13]] • [[1Kgs.18.22]] • [[1Chr.18.5]] • [[Esth.9.6]]  |
+|   | man of | [[Num.25.8]] • [[Josh.9.7]] • [[Judg.7.23]] • [[Judg.8.22]] • [[Judg.9.55]] • [[Judg.20.20]] • [[Judg.20.36]] • [[Judg.20.39]] • [[1Sam.17.4]] • [[2Sam.19.43]] • [[2Sam.24.9]] • [[1Chr.10.1]] • [[1Chr.26.8]] • [[Ps.90.1]]  |
+|   | person | [[Exod.32.28]] • [[Exod.36.4]] • [[1Chr.21.14]]  |
+| **<span class="ashebrew">אִ֭ישׁ</span>** | a man | [[Prov.6.28]]  |
+|   | a person | [[Job.34.23]] • [[Ps.112.1]] • [[Ps.112.5]] • [[Prov.12.14]] • [[Prov.13.2]] • [[Prov.16.2]] • [[Prov.18.14]] • [[Prov.18.20]] • [[Prov.21.2]] • [[Prov.26.12]] • [[Prov.26.19]] • [[Prov.28.22]]  |
+| **<span class="ashebrew">אִ֨ישׁ</span>** | a man | [[Num.13.2]] • [[Judg.13.2]] • [[1Sam.1.1]] • [[1Sam.17.12]] • [[2Sam.1.2]] • [[2Sam.16.5]] • [[2Sam.23.21]] • [[1Kgs.20.39]]  |
+|   | a man of | [[Exod.4.10]] • [[2Sam.18.20]]  |
+|   | a person | [[1Sam.14.28]] • [[Ezek.14.7]] • [[Zech.8.23]]  |
+|   | man | [[Judg.7.19]] • [[1Sam.22.2]]  |
+|   | man of | [[Num.25.14]] • [[1Sam.22.2]] • [[2Sam.19.42]] • [[2Sam.19.43]] • [[2Kgs.4.27]] • [[2Kgs.5.15]] • [[1Chr.10.7]] • [[2Chr.20.27]]  |
+|   | person | [[Ezek.9.6]]  |
+|   | person of | [[1Sam.14.22]] • [[2Chr.34.30]] • [[Jer.44.27]]  |
+| **<span class="ashebrew">אִ֧ישׁ</span>** | a man of | [[1Chr.28.3]]  |
+| **<span class="ashebrew">אִ֥ישׁ</span>** | O man of | [[2Sam.16.7]] • [[Jer.4.4]]  |
+|   | a human | [[Num.23.19]]  |
+|   | a male | [[Gen.7.2]]  |
+|   | a man | [[Gen.6.9]] • [[Gen.27.11]] • [[Gen.38.1]] • [[Gen.38.2]] • [[Gen.39.14]] • [[Lev.16.21]] • [[Lev.18.6]] • [[Num.1.4]] • [[Num.4.19]] • [[Num.4.49]] • [[Num.5.12]] • [[Num.5.20]] • [[Deut.1.23]] • [[Judg.3.15]] • [[Judg.3.17]] • [[Judg.6.8]] • [[Judg.17.1]] • [[1Sam.10.12]] • [[2Sam.13.3]] • [[1Kgs.2.9]] • [[Esth.2.5]] • [[Eccl.6.2]]  |
+|   | a man of | [[1Sam.17.33]] • [[2Sam.16.8]] • [[1Kgs.1.42]] • [[1Kgs.2.26]] • [[1Kgs.17.24]] • [[2Kgs.4.9]] • [[1Chr.11.23]] • [[Isa.53.3]] • [[Jer.15.10]]  |
+|   | a person | [[Lev.17.3]] • [[Lev.17.8]] • [[Lev.24.15]] • [[Deut.24.12]] • [[Prov.25.14]] • [[Prov.25.18]]  |
+|   | a person of | [[Deut.32.25]] • [[Ps.140.11]] • [[Prov.22.24]]  |
+|   | man | [[Judg.9.49]] • [[Judg.20.2]] • [[Judg.20.15]] • [[1Sam.24.2]] • [[2Chr.13.3]] • [[2Chr.13.17]] • [[Ps.31.20]]  |
+|   | man of | [[Deut.29.10]] • [[Deut.33.1]] • [[Judg.20.17]] • [[1Sam.9.10]] • [[1Sam.15.4]] • [[2Sam.15.13]] • [[2Sam.17.24]] • [[2Sam.19.41]] • [[2Sam.19.43]] • [[2Sam.23.9]] • [[1Kgs.13.5]] • [[1Kgs.13.31]] • [[2Kgs.4.22]] • [[2Kgs.4.25]] • [[2Kgs.6.15]] • [[2Kgs.8.7]] • [[2Kgs.8.11]]  |
+|   | person | [[Exod.36.4]] • [[Jer.29.26]]  |
+|   | person of | [[Deut.27.14]] • [[2Chr.5.3]]  |
+| **<span class="ashebrew">אִ֤ישׁ</span>** | a man | [[Gen.4.23]] • [[Lev.21.18]] • [[1Sam.28.14]] • [[2Sam.19.7]] • [[Eccl.9.15]] • [[Isa.6.5]] • [[Ezek.33.2]]  |
+|   | a man of | [[2Kgs.1.10]]  |
+|   | a person | [[1Sam.2.25]] • [[Prov.22.29]]  |
+|   | a person of | [[Ps.41.9]]  |
+|   | man | [[Judg.20.34]] • [[1Sam.14.52]]  |
+|   | man of | [[Judg.7.8]] • [[Judg.7.24]] • [[Judg.13.6]] • [[Judg.20.11]] • [[Judg.20.42]] • [[2Sam.20.2]] • [[2Kgs.1.12]] • [[2Kgs.4.27]]  |
+| **<span class="ashebrew">אִ֣ישׁ</span>** | O man of | [[1Kgs.17.18]] • [[2Kgs.4.16]] • [[2Kgs.4.40]]  |
+|   | a human | [[Job.9.32]]  |
+|   | a husband | [[Jer.3.1]]  |
+|   | a male | [[Gen.7.2]]  |
+|   | a man | [[Gen.25.27]] • [[Gen.27.11]] • [[Gen.39.1]] • [[Gen.39.2]] • [[Exod.2.11]] • [[Exod.2.19]] • [[Exod.36.6]] • [[Lev.15.2]] • [[Lev.21.9]] • [[Lev.21.17]] • [[Lev.22.4]] • [[Lev.24.10]] • [[Num.5.6]] • [[Num.5.13]] • [[Num.6.2]] • [[Num.9.10]] • [[Num.9.10]] • [[Num.13.2]] • [[Num.16.40]] • [[Num.19.9]] • [[Num.27.8]] • [[Deut.17.2]] • [[Deut.17.15]] • [[Deut.29.18]] • [[Josh.22.20]] • [[Judg.9.2]] • [[Judg.18.19]] • [[Judg.19.1]] • [[Judg.19.16]] • [[1Sam.9.1]] • [[1Sam.9.1]] • [[1Sam.13.14]] • [[1Sam.21.14]] • [[1Sam.26.15]] • [[1Sam.27.9]] • [[2Sam.17.18]] • [[2Sam.18.10]] • [[2Sam.20.1]] • [[1Kgs.20.37]] • [[2Kgs.1.6]] • [[Esth.2.5]] • [[Job.1.8]] • [[Job.2.3]] • [[Jer.38.7]]  |
+|   | a man of | [[Gen.25.27]] • [[Exod.15.3]] • [[Josh.17.1]] • [[Judg.7.14]] • [[Judg.12.2]] • [[2Sam.17.8]] • [[2Sam.20.1]] • [[2Sam.21.20]] • [[2Sam.23.21]] • [[1Kgs.13.1]] • [[1Chr.20.6]] • [[1Chr.22.9]] • [[Ezra.8.18]] • [[Isa.46.11]]  |
+|   | a person | [[Lev.20.2]] • [[Lev.20.9]] • [[Lev.22.18]] • [[Num.19.18]] • [[Ps.87.5]] • [[Prov.12.25]] • [[Prov.13.8]] • [[Prov.14.14]] • [[Prov.21.8]] • [[Prov.21.29]] • [[Prov.28.11]] • [[Prov.29.6]] • [[Prov.29.9]] • [[Ezek.14.4]] • [[Ezek.14.4]] • [[Ezek.22.30]]  |
+|   | a person of | [[Prov.6.12]] • [[Prov.11.17]] • [[Prov.15.18]] • [[Prov.16.27]] • [[Prov.16.28]] • [[Prov.16.29]] • [[Prov.17.27]] • [[Prov.18.24]] • [[Prov.21.17]] • [[Prov.28.20]] • [[Prov.29.1]] • [[Prov.29.27]]  |
+|   | man | [[Exod.35.29]] • [[Lev.22.3]] • [[Judg.16.27]] • [[Judg.20.16]] • [[1Sam.22.2]] • [[2Sam.8.4]] • [[2Sam.19.17]] • [[1Chr.18.4]] • [[1Chr.19.18]] • [[2Chr.2.2]] • [[2Chr.13.3]] • [[Esth.4.11]] • [[Jer.51.22]] • [[Ezek.8.11]]  |
+|   | man of | [[Gen.9.20]] • [[Num.25.8]] • [[Josh.9.6]] • [[Josh.10.24]] • [[Judg.3.29]] • [[Judg.8.1]] • [[Judg.10.1]] • [[Judg.12.1]] • [[Judg.13.8]] • [[Judg.15.10]] • [[Judg.20.20]] • [[Judg.20.22]] • [[Judg.20.33]] • [[Judg.20.41]] • [[1Sam.17.19]] • [[1Sam.17.23]] • [[1Sam.17.24]] • [[1Sam.17.25]] • [[1Sam.31.12]] • [[2Sam.16.15]] • [[2Sam.16.18]] • [[2Sam.17.14]] • [[2Sam.19.16]] • [[2Sam.19.41]] • [[2Sam.19.42]] • [[2Sam.19.43]] • [[1Kgs.13.6]] • [[1Kgs.13.7]] • [[1Kgs.13.12]] • [[1Kgs.13.14]] • [[1Kgs.13.21]] • [[1Kgs.13.26]] • [[1Kgs.20.28]] • [[2Kgs.4.21]] • [[2Kgs.5.14]] • [[2Kgs.6.9]] • [[2Kgs.7.2]] • [[2Kgs.7.17]] • [[2Kgs.7.18]] • [[2Kgs.7.19]] • [[2Kgs.8.2]] • [[2Kgs.8.8]] • [[2Kgs.13.19]] • [[2Kgs.23.16]] • [[1Chr.10.12]] • [[1Chr.23.14]] • [[2Chr.13.15]] • [[2Chr.13.15]] • [[2Chr.25.9]] • [[Neh.12.36]] • [[Ps.80.17]] • [[Jer.35.4]] • [[Ezek.39.20]]  |
+|   | person | [[Exod.36.1]] • [[Exod.36.2]]  |
+|   | person of | [[1Kgs.8.2]] • [[2Kgs.23.2]] • [[1Chr.16.3]] • [[Job.31.35]] • [[Jer.44.26]] • [[Hos.9.7]]  |
+| **<span class="ashebrew">אִ֡ישׁ</span>** | man | [[Ps.4.2]]  |
+| **<span class="ashebrew">אִ֞ישׁ</span>** | a man | [[Lev.22.4]] • [[Esth.6.9]] • [[Zech.6.12]]  |
+|   | man | [[Lev.21.21]]  |
+|   | person | [[Exod.35.23]] • [[Josh.1.18]] • [[1Sam.2.13]]  |
+| **<span class="ashebrew">אִ֝֗ישׁ</span>** | a person | [[Job.12.14]] • [[Job.34.11]] • [[Ps.64.6]] • [[Prov.25.28]] • [[Prov.27.8]]  |
+| **<span class="ashebrew">אִ֜ישׁ</span>** | a man | [[Lev.15.24]] • [[Deut.22.22]] • [[Ruth.1.1]] • [[1Sam.9.16]] • [[2Kgs.6.32]] • [[Jer.35.19]]  |
+|   | a person | [[Lev.17.10]] • [[Lev.17.13]] • [[Ezek.14.7]] • [[Hos.6.9]]  |
+|   | man | [[Judg.15.11]] • [[2Kgs.2.7]] • [[2Kgs.3.26]]  |
+| **<span class="ashebrew">אִ֛ישׁ</span>** | a man | [[Gen.25.27]] • [[Exod.21.7]] • [[Exod.21.28]] • [[Lev.15.18]] • [[Num.1.4]] • [[Num.4.19]] • [[Num.4.49]] • [[Num.15.32]] • [[Num.31.17]] • [[Deut.22.23]] • [[Deut.24.1]] • [[1Sam.9.2]] • [[2Sam.1.13]] • [[2Sam.19.32]] • [[2Kgs.5.26]] • [[Job.1.1]]  |
+|   | a person | [[Lev.24.15]] • [[Isa.7.21]]  |
+|   | man | [[Lev.21.18]] • [[Judg.20.46]]  |
+|   | man of | [[2Sam.8.10]] • [[1Chr.18.10]]  |
+|   | person | [[2Sam.15.4]]  |
+| **<span class="ashebrew">אִ֚ישׁ</span>** | O man of | [[2Kgs.1.9]] • [[2Kgs.1.11]] • [[2Kgs.1.13]]  |
+|   | a man | [[Ruth.2.1]] • [[2Kgs.1.8]] • [[Esth.7.6]]  |
+|   | a person | [[1Sam.16.17]]  |
+| **<span class="ashebrew">אִ֗ישׁ</span>** | a man | [[Exod.22.16]] • [[Lev.15.2]] • [[Num.5.30]] • [[Deut.22.28]] • [[2Sam.17.25]] • [[1Kgs.20.39]] • [[2Kgs.13.21]] • [[Jer.26.20]]  |
+|   | a person | [[Lev.20.9]] • [[Ps.39.6]] • [[Ps.39.11]] • [[Isa.66.3]] • [[Jer.13.11]]  |
+|   | man | [[Josh.7.3]] • [[Judg.9.2]] • [[Judg.14.19]] • [[Judg.18.16]] • [[1Sam.23.13]] • [[2Sam.15.18]] • [[1Kgs.18.13]] • [[Esth.9.12]]  |
+|   | person | [[Neh.5.17]]  |
+| **<span class="ashebrew">אִ֖ישׁ</span>** | a human | [[Exod.19.13]]  |
+|   | a man | [[Gen.4.1]] • [[Gen.41.33]] • [[Gen.44.15]] • [[Exod.2.1]] • [[Exod.21.29]] • [[Num.1.4]] • [[Num.27.16]] • [[Num.27.18]] • [[Num.30.16]] • [[Deut.22.13]] • [[Deut.22.30]] • [[Judg.1.24]] • [[Judg.21.12]] • [[1Sam.17.8]] • [[2Sam.18.24]] • [[2Sam.18.26]] • [[2Sam.21.4]] • [[2Kgs.5.7]] • [[Jer.33.18]]  |
+|   | a man of | [[Job.11.2]]  |
+|   | a person | [[Exod.33.11]] • [[1Kgs.18.44]] • [[Ezek.18.8]] • [[Mic.7.6]]  |
+|   | any | [[Isa.40.26]]  |
+|   | man | [[Gen.32.6]] • [[Gen.45.1]] • [[Num.11.25]] • [[Judg.4.14]] • [[Judg.8.10]] • [[Judg.9.5]] • [[Judg.9.18]] • [[Judg.20.15]] • [[Judg.20.17]] • [[Judg.20.21]] • [[Judg.20.25]] • [[Judg.20.31]] • [[Judg.21.10]] • [[1Sam.26.2]] • [[1Sam.27.2]] • [[2Sam.2.30]] • [[2Sam.2.31]] • [[2Sam.15.1]] • [[1Kgs.1.5]] • [[1Kgs.20.30]] • [[2Kgs.15.25]] • [[1Chr.21.5]] • [[2Chr.2.2]]  |
+|   | person | [[Exod.35.21]] • [[2Sam.13.9]]  |
+| **<span class="ashebrew">אִ֕ישׁ</span>** | a man | [[Gen.41.38]] • [[Esth.6.7]] • [[Jer.33.17]]  |
+|   | a person | [[1Sam.16.16]]  |
+|   | person | [[Exod.35.22]]  |
+| **<span class="ashebrew">אִ֔ישׁ</span>** | a human | [[Isa.31.8]] • [[Hos.11.9]]  |
+|   | a man | [[Gen.2.24]] • [[Gen.19.8]] • [[Gen.37.15]] • [[Gen.49.6]] • [[Lev.20.10]] • [[Lev.21.19]] • [[Deut.23.10]] • [[Judg.7.13]] • [[Judg.11.39]] • [[1Sam.17.10]] • [[1Kgs.2.4]] • [[1Kgs.9.5]] • [[2Chr.7.18]] • [[Isa.21.9]] • [[Isa.44.13]]  |
+|   | a person | [[1Sam.2.25]] • [[2Kgs.12.4]] • [[Isa.41.28]] • [[Jer.5.1]]  |
+|   | man | [[Num.16.35]] • [[Num.26.10]] • [[Josh.3.12]] • [[Josh.4.4]] • [[Josh.7.3]] • [[Josh.7.5]] • [[Judg.3.29]] • [[Judg.3.31]] • [[Judg.4.6]] • [[Judg.18.11]] • [[Judg.20.39]] • [[1Sam.6.19]] • [[1Sam.22.18]] • [[1Sam.25.13]] • [[1Sam.30.10]] • [[2Sam.10.6]] • [[2Sam.17.1]] • [[2Kgs.2.17]] • [[2Kgs.10.6]] • [[2Kgs.10.14]] • [[2Kgs.10.24]] • [[Jer.41.5]]  |
+|   | person | [[Jer.51.43]]  |
+| **<span class="ashebrew">אִ֓ישׁ</span>** | a man | [[Prov.6.27]]  |
+| **<span class="ashebrew">אִ֑ישׁ</span>** | a man | [[Josh.10.14]] • [[Ps.22.6]] • [[Ps.105.17]] • [[Zech.2.1]]  |
+|   | a person | [[Prov.5.21]] • [[Prov.12.8]] • [[Prov.14.12]] • [[Prov.16.7]] • [[Prov.16.25]] • [[Prov.18.4]] • [[Prov.18.12]] • [[Prov.19.21]] • [[Prov.20.5]]  |
+|   | man | [[Gen.33.1]] • [[Num.1.44]] • [[Josh.7.4]] • [[Josh.8.12]] • [[Judg.4.10]] • [[Judg.7.6]] • [[Judg.20.35]] • [[Judg.20.44]] • [[Judg.20.45]] • [[Judg.20.47]] • [[1Sam.6.19]] • [[1Sam.10.22]] • [[1Sam.14.14]] • [[1Sam.30.10]] • [[2Kgs.4.43]] • [[2Kgs.10.7]] • [[Esth.9.15]] • [[Ps.49.2]] • [[Ezek.11.1]]  |
+|   | person | [[Ezek.8.16]]  |

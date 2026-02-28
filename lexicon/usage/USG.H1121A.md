@@ -1,0 +1,638 @@
+| Form | Translated&nbsp;As&emsp;&emsp;&emsp;&emsp; | In Verse(s) |
+|-  |-  |-  |
+| **<span class="ashebrew">מִבָּנָֽיו</span>** | from sons his | [[Judg.17.11]]  |
+| **<span class="ashebrew">מִבָּנָ֖יו</span>** | of sons his | [[Lev.13.2]]  |
+|   | one of sons his | [[Lev.6.22]]  |
+| **<span class="ashebrew">מִבָּנָ֔יו</span>** | from sons his | [[Judg.17.5]] • [[Ezek.46.16]]  |
+| **<span class="ashebrew">מִבָּנָ֑יו</span>** | one of sons his | [[Exod.29.30]]  |
+| **<span class="ashebrew">מִבָּנֶ֑יךָ</span>** | one of descendants your | [[1Chr.17.11]]  |
+| **<span class="ashebrew">מִבָּנִ֣ים</span>** | more than sons | [[Isa.56.5]]  |
+| **<span class="ashebrew">מִבָּנִ֖ים</span>** | more than  sons | [[Deut.33.24]]  |
+| **<span class="ashebrew">מִבְּנֵיכֶם֙</span>** | some of sons your | [[Amos.2.11]]  |
+| **<span class="ashebrew">מִבְּנֵיהֶ֗ם</span>** | from descendants their | [[Ps.78.4]]  |
+| **<span class="ashebrew">מִבְּנֵי֙</span>** | from  descendants of | [[1Chr.6.33]]  |
+| **<span class="ashebrew">מִבְּנֵֽי</span>** | from  sons of | [[Ezek.40.46]]  |
+| **<span class="ashebrew">מִבְּנֵ֥י</span>** | any of  sons of | [[Deut.23.17]]  |
+|   | from  children of | [[2Sam.9.11]] • [[Ps.12.1]] • [[Ps.21.10]] • [[Isa.52.14]]  |
+|   | from  descendants of | [[1Chr.24.5]]  |
+|   | more than  children of | [[Isa.54.1]]  |
+|   | one of  sons of | [[Neh.10.9]]  |
+| **<span class="ashebrew">מִבְּנֵ֤י</span>** | from  sons of | [[2Kgs.2.7]]  |
+| **<span class="ashebrew">מִבְּנֵ֣י</span>** | from  sons of | [[2Kgs.9.1]] • [[Ezek.48.11]]  |
+|   | of  descendants of | [[1Chr.26.8]]  |
+|   | of  sons of | [[2Kgs.5.22]] • [[2Kgs.10.3]]  |
+|   | one of  sons of | [[Lev.7.33]] • [[1Kgs.20.35]]  |
+| **<span class="ashebrew">לִבְנֽוֹ</span>** | for son his | [[Gen.24.48]]  |
+| **<span class="ashebrew">לִבְנֶֽךָ</span>** | for son your | [[Deut.7.3]]  |
+| **<span class="ashebrew">לִבְנֶ֑ךָ</span>** | to son your | [[1Kgs.11.13]]  |
+| **<span class="ashebrew">לִבְנֵיכֶ֤ם</span>** | to sons your | [[Lev.25.46]]  |
+| **<span class="ashebrew">לִבְנֵיכֶ֣ם</span>** | to children your | [[Joel.1.3]]  |
+| **<span class="ashebrew">לִבְנֵיכֶ֜ם</span>** | for sons your | [[Jer.29.6]]  |
+| **<span class="ashebrew">לִבְנֵיכֶ֖ם</span>** | for sons your | [[Neh.13.25]]  |
+|   | sons your | [[Ezra.9.12]]  |
+| **<span class="ashebrew">לִבְנֵיכֶ֔ם</span>** | for sons your | [[Ezra.9.12]]  |
+| **<span class="ashebrew">לִבְנֵיהֶֽם</span>** | to children their | [[Ps.78.5]] • [[Ps.78.6]]  |
+| **<span class="ashebrew">לִבְנֵיהֶ֗ם</span>** | to sons their | [[Ezra.9.12]]  |
+| **<span class="ashebrew">לִבְנֵיהֶ֖ן</span>** | for children their | [[Gen.31.43]]  |
+| **<span class="ashebrew">לִבְנֵיהֶ֔ם</span>** | to children their | [[Joel.1.3]]  |
+|   | to sons their | [[Neh.13.25]]  |
+| **<span class="ashebrew">לִבְנֵיהֶ֑ם</span>** | to sons their | [[Judg.3.6]]  |
+| **<span class="ashebrew">לִבְנֵי</span>** | to  children of | [[Ps.115.16]]  |
+| **<span class="ashebrew">לִבְנֵֽי</span>** | of  descendants of | [[Josh.24.32]]  |
+|   | to  descendants of | [[Josh.17.6]]  |
+| **<span class="ashebrew">לִבְנֵ֨י</span>** | to  descendants of | [[1Chr.24.4]]  |
+| **<span class="ashebrew">לִבְנֵ֥י</span>** | by  children of | [[Ps.12.8]]  |
+|   | for  children of | [[Mic.5.7]]  |
+|   | for  sons of | [[2Kgs.4.38]]  |
+|   | of  sons of | [[1Chr.24.20]] • [[1Chr.24.22]] • [[1Chr.24.24]] • [[1Chr.24.25]]  |
+|   | to  children of | [[Ps.103.17]] • [[Ps.107.8]] • [[Ps.107.15]] • [[Ps.107.21]] • [[Ps.107.31]] • [[Eccl.1.13]] • [[Eccl.3.10]]  |
+|   | to  sons of | [[Num.36.11]] • [[1Chr.5.1]] • [[Job.19.17]]  |
+| **<span class="ashebrew">לִבְנֵ֤י</span>** | for  children of | [[Eccl.2.3]]  |
+|   | of  sons of | [[1Chr.24.20]]  |
+|   | sons of | [[1Chr.25.1]]  |
+|   | to  descendants of | [[1Chr.6.54]]  |
+| **<span class="ashebrew">לִבְנֵ֣י</span>** | children of | [[Ps.72.4]]  |
+|   | for  sons of | [[Exod.28.12]] • [[Exod.39.7]] • [[Num.1.10]]  |
+|   | of  descendants of | [[Num.7.24]] • [[Num.7.30]] • [[Num.7.36]] • [[Num.7.42]] • [[Num.7.48]] • [[Num.7.54]] • [[Num.7.60]] • [[Num.7.66]] • [[Num.7.72]] • [[Num.7.78]]  |
+|   | of  sons of | [[1Chr.24.21]] • [[1Chr.25.2]]  |
+|   | sons of | [[1Chr.23.6]]  |
+|   | to  children of | [[Ps.145.12]]  |
+|   | to  descendants of | [[Num.7.7]] • [[Num.7.8]]  |
+| **<span class="ashebrew">לִבְנִֽי</span>** | for son my | [[Gen.24.38]] • [[1Sam.10.2]]  |
+|   | son my | [[Hos.11.1]]  |
+| **<span class="ashebrew">לִבְנִ֥י</span>** | for son my | [[Gen.24.4]]  |
+| **<span class="ashebrew">לִבְנִ֗י</span>** | for son my | [[Judg.17.3]]  |
+| **<span class="ashebrew">לִבְנִ֖י</span>** | for son my | [[Gen.24.7]]  |
+|   | to son my | [[2Kgs.14.9]] • [[2Chr.25.18]]  |
+| **<span class="ashebrew">לִבְנִ֔י</span>** | for son my | [[Gen.24.3]] • [[Gen.24.37]] • [[Gen.24.40]]  |
+| **<span class="ashebrew">לִבְנ֣וֹ</span>** | son his | [[Gen.47.29]]  |
+| **<span class="ashebrew">לִבְנ֖וֹ</span>** | for son his | [[Exod.21.9]]  |
+| **<span class="ashebrew">לִבְנ֔וֹ</span>** | to son his | [[Deut.7.3]]  |
+| **<span class="ashebrew">לְבָנָֽיו</span>** | to sons his | [[Exod.29.27]]  |
+| **<span class="ashebrew">לְבָנָ֥יו</span>** | for children his | [[Job.21.19]]  |
+| **<span class="ashebrew">לְבָנָ֣יו</span>** | to sons his | [[Ezek.46.16]]  |
+| **<span class="ashebrew">לְבָנָ֛יו</span>** | for sons his | [[Isa.14.21]]  |
+| **<span class="ashebrew">לְבָנָ֖יו</span>** | for sons his | [[Judg.12.9]]  |
+| **<span class="ashebrew">לְבָנָ֔יו</span>** | to sons his | [[Gen.42.1]]  |
+| **<span class="ashebrew">לְבָנֶ֖יךָ</span>** | to children your | [[Deut.4.9]]  |
+| **<span class="ashebrew">לְבָנֶ֔יךָ</span>** | to children your | [[Deut.6.7]]  |
+| **<span class="ashebrew">לְבָנֶ֑יךָ</span>** | for sons your | [[Exod.34.16]]  |
+|   | of children your | [[Ps.128.6]]  |
+| **<span class="ashebrew">לְבָנֵֽינוּ</span>** | for sons our | [[Neh.10.30]]  |
+| **<span class="ashebrew">לְבָנִ֔ים</span>** | to children | [[Isa.38.19]]  |
+| **<span class="ashebrew">לְבֶן</span>** | for  son of | [[Gen.24.44]] • [[Gen.24.51]]  |
+|   | son of | [[1Sam.20.30]] • [[Ps.86.16]]  |
+|   | to  son of | [[1Sam.10.11]] • [[Ps.72.1]]  |
+| **<span class="ashebrew">לְבֵן֮</span>** | for a son | [[Lev.12.6]]  |
+| **<span class="ashebrew">לְבֵ֔ן</span>** | a son | [[1Chr.22.10]]  |
+|   | to a son | [[1Chr.28.6]]  |
+| **<span class="ashebrew">לְבֵ֑ן</span>** | a son | [[Exod.2.10]] • [[2Sam.7.14]] • [[1Chr.17.13]]  |
+| **<span class="ashebrew">לְבִנְךָ֔</span>** | to child your | [[Exod.13.8]] • [[Deut.6.21]]  |
+| **<span class="ashebrew">כִּבְנֵיהֶ֖ם</span>** | like children their | [[Neh.5.5]]  |
+| **<span class="ashebrew">וּמִבָּנֶ֜יךָ</span>** | and some of own descendants your | [[Isa.39.7]]  |
+| **<span class="ashebrew">וּמִבֶּן</span>** | and from a child of | [[Isa.51.12]]  |
+| **<span class="ashebrew">וּמִבְּנֵ֨י</span>** | and one of  sons of | [[Neh.13.28]]  |
+| **<span class="ashebrew">וּלְבָנָיו֙</span>** | and for sons his | [[2Chr.36.20]]  |
+|   | and to sons his | [[Exod.29.35]] • [[Lev.7.34]]  |
+| **<span class="ashebrew">וּלְבָנָֽיו</span>** | and for sons his | [[Exod.39.27]]  |
+|   | and to sons his | [[Lev.7.31]]  |
+| **<span class="ashebrew">וּלְבָנָ֜יו</span>** | and of sons his | [[1Chr.28.1]]  |
+|   | and to sons his | [[Exod.29.28]]  |
+| **<span class="ashebrew">וּלְבָנָ֗יו</span>** | and to sons his | [[Num.8.19]]  |
+| **<span class="ashebrew">וּלְבָנָ֖יו</span>** | and for sons his | [[Exod.28.4]]  |
+|   | and to sons his | [[Num.3.51]] • [[1Chr.26.15]]  |
+| **<span class="ashebrew">וּלְבָנָ֔יו</span>** | and to sons his | [[Lev.24.9]]  |
+| **<span class="ashebrew">וּלְבָנָ֑יו</span>** | and  sons his | [[Lev.9.1]]  |
+|   | and to sons his | [[Lev.2.3]] • [[Lev.2.10]] • [[Num.3.9]] • [[Num.3.48]]  |
+| **<span class="ashebrew">וּלְבָנַי֙</span>** | and for children my | [[1Kgs.20.7]]  |
+| **<span class="ashebrew">וּלְבָנֶֽיךָ</span>** | and for sons your | [[Num.18.9]]  |
+| **<span class="ashebrew">וּלְבָנֶ֧יךָ</span>** | and to sons your | [[Num.18.11]] • [[Num.18.19]]  |
+| **<span class="ashebrew">וּלְבָנֶ֤יךָ</span>** | and for children your | [[Deut.12.28]]  |
+|   | and to sons your | [[Lev.10.15]]  |
+| **<span class="ashebrew">וּלְבָנֶ֣יךָ</span>** | and for children your | [[Deut.12.25]]  |
+| **<span class="ashebrew">וּלְבָנֶ֖יךָ</span>** | and for children your | [[Deut.4.40]]  |
+|   | and of children your | [[Josh.14.9]]  |
+|   | and to sons your | [[Num.18.8]]  |
+| **<span class="ashebrew">וּלְבָנֵ֑ינוּ</span>** | and to children our | [[Gen.31.16]]  |
+| **<span class="ashebrew">וּלְבֶן</span>** | and  for a child of | [[Job.35.8]]  |
+| **<span class="ashebrew">וּלְבֵ֨ן</span>** | and for a son | [[Ezek.44.25]]  |
+| **<span class="ashebrew">וּלְבִנְךָ֖</span>** | and to son your | [[1Sam.25.8]]  |
+| **<span class="ashebrew">וּבָנָיו֙</span>** | and sons his | [[Exod.29.32]] • [[Lev.8.14]] • [[Num.4.5]] • [[Num.4.19]]  |
+| **<span class="ashebrew">וּבָנָיו</span>** | and sons his | [[1Chr.25.9]]  |
+| **<span class="ashebrew">וּבָנָֽיו</span>** | and sons his | [[1Chr.9.5]]  |
+| **<span class="ashebrew">וּבָנָ֨יו</span>** | and sons his | [[Job.1.13]]  |
+| **<span class="ashebrew">וּבָנָ֥יו</span>** | and sons his | [[Exod.18.5]] • [[Lev.25.54]]  |
+| **<span class="ashebrew">וּבָנָ֤יו</span>** | and sons his | [[Ezra.3.9]]  |
+| **<span class="ashebrew">וּבָנָ֣יו</span>** | and sons his | [[Lev.25.41]] • [[Dan.11.10]]  |
+| **<span class="ashebrew">וּבָנָ֞יו</span>** | and sons his | [[2Chr.24.27]]  |
+| **<span class="ashebrew">וּבָנָ֜יו</span>** | and descendants his | [[1Chr.6.49]]  |
+|   | and sons his | [[Lev.6.20]] • [[Num.4.27]]  |
+| **<span class="ashebrew">וּבָנָ֛יו</span>** | and sons his | [[Gen.8.18]] • [[Gen.34.5]] • [[Exod.27.21]] • [[Exod.29.10]] • [[Exod.29.15]] • [[Exod.29.19]] • [[Exod.29.21]] • [[Lev.8.18]] • [[Lev.8.22]]  |
+| **<span class="ashebrew">וּבָנָ֗יו</span>** | and sons his | [[Exod.29.9]] • [[Num.3.38]] • [[Judg.18.30]] • [[1Chr.26.29]]  |
+| **<span class="ashebrew">וּבָנָ֖יו</span>** | and sons his | [[Exod.30.19]] • [[Lev.8.31]] • [[Josh.24.4]] • [[1Chr.7.16]] • [[1Chr.25.9]]  |
+| **<span class="ashebrew">וּבָנָ֔יו</span>** | and sons his | [[2Chr.11.14]] • [[2Chr.23.11]]  |
+| **<span class="ashebrew">וּבָנָ֑יו</span>** | and sons his | [[Gen.46.8]] • [[Exod.40.31]] • [[Lev.6.16]] • [[Lev.8.36]] • [[1Sam.31.7]] • [[1Chr.10.7]]  |
+| **<span class="ashebrew">וּבָנַ֖י</span>** | and sons my | [[1Sam.12.2]]  |
+| **<span class="ashebrew">וּבָנַ֔יִךְ</span>** | and children your | [[2Kgs.4.7]]  |
+| **<span class="ashebrew">וּבָנֶ֨יךָ</span>** | and sons your | [[2Sam.9.10]]  |
+| **<span class="ashebrew">וּבָנֶ֥יךָ</span>** | and sons your | [[Gen.8.16]] • [[Lev.10.14]]  |
+| **<span class="ashebrew">וּבָנֶ֤יךָ</span>** | and sons your | [[Num.18.1]] • [[Amos.7.17]]  |
+| **<span class="ashebrew">וּבָנֶ֣יךָ</span>** | and sons your | [[Gen.19.12]] • [[Lev.10.9]] • [[Num.18.1]] • [[Num.18.2]] • [[Num.18.7]]  |
+| **<span class="ashebrew">וּבָנֶ֛יךָ</span>** | and children your | [[1Kgs.20.3]]  |
+|   | and sons your | [[Gen.6.18]]  |
+| **<span class="ashebrew">וּבָנֶ֖יךָ</span>** | and children your | [[Gen.45.10]] • [[1Kgs.20.5]]  |
+|   | and sons your | [[1Sam.28.19]]  |
+| **<span class="ashebrew">וּבָנֶ֕יךָ</span>** | and sons your | [[1Sam.8.5]]  |
+| **<span class="ashebrew">וּבָנֶ֔יךָ</span>** | and children your | [[Deut.30.2]]  |
+| **<span class="ashebrew">וּבָנֶ֑יהָ</span>** | and children her | [[Ezek.16.45]]  |
+| **<span class="ashebrew">וּבָנֵ֨ינוּ</span>** | and sons our | [[2Chr.29.9]]  |
+| **<span class="ashebrew">וּבָנִים֙</span>** | and children | [[2Chr.25.4]]  |
+|   | and sons | [[2Kgs.14.6]]  |
+| **<span class="ashebrew">וּבָנִֽים</span>** | and sons | [[1Chr.7.4]]  |
+| **<span class="ashebrew">וּבָנִ֥ים</span>** | and sons | [[Jer.6.21]]  |
+| **<span class="ashebrew">וּבָנִ֖ים</span>** | and children | [[Deut.24.16]] • [[Ezek.5.10]]  |
+|   | and sons | [[Num.3.4]] • [[Num.27.3]] • [[1Chr.24.2]]  |
+| **<span class="ashebrew">וּבֶן</span>** | and  child of | [[Deut.6.2]] • [[Isa.56.2]]  |
+|   | and  descendant of | [[1Chr.3.21]]  |
+|   | and  son of | [[Exod.10.2]] • [[1Sam.22.13]] • [[1Chr.2.45]] • [[1Chr.3.10]] • [[1Chr.3.19]] • [[1Chr.3.23]] • [[1Chr.4.17]] • [[1Chr.7.35]] • [[1Chr.8.34]] • [[1Chr.9.40]] • [[Isa.7.4]] • [[Isa.7.5]] • [[Isa.8.6]]  |
+|   | and a child of | [[Job.25.6]]  |
+|   | and a son of | [[Num.23.19]] • [[Ps.8.4]]  |
+| **<span class="ashebrew">וּבֵן֙</span>** | and a son | [[Num.27.8]]  |
+| **<span class="ashebrew">וּבֵ֥ן</span>** | and a son | [[Prov.10.1]]  |
+| **<span class="ashebrew">וּבֵ֣ן</span>** | and a son | [[Deut.25.5]]  |
+| **<span class="ashebrew">וּבִנְךָֽ֣</span>** | and son your | [[Exod.20.10]]  |
+| **<span class="ashebrew">וּבִנְךָֽ</span>** | and son your | [[Deut.5.14]]  |
+| **<span class="ashebrew">וּבִנְךָ֤</span>** | and son your | [[Deut.12.18]] • [[Deut.16.14]]  |
+| **<span class="ashebrew">וּבִנְךָ֣</span>** | and child your | [[Deut.6.2]]  |
+|   | and son your | [[Deut.16.11]]  |
+| **<span class="ashebrew">וּבִנְךָ֖</span>** | and son your | [[2Kgs.16.7]]  |
+| **<span class="ashebrew">וּבִבְנָ֖הּ</span>** | and on son her | [[Deut.28.56]]  |
+| **<span class="ashebrew">וּבִבְנֵֽי</span>** | and among  people of | [[Jer.40.11]]  |
+| **<span class="ashebrew">וּבִבְנֵ֥י</span>** | and among  descendants of | [[1Chr.24.5]]  |
+| **<span class="ashebrew">וּבִבְנֵ֣י</span>** | and among  sons of | [[1Chr.28.4]]  |
+| **<span class="ashebrew">וּבְנָ֖י</span>** | and  sons | [[1Chr.24.23]]  |
+| **<span class="ashebrew">וּבְנֵיכֶם֙</span>** | and children your | [[Joel.1.3]]  |
+|   | and sons your | [[Deut.12.12]]  |
+| **<span class="ashebrew">וּבְנֵיכֶ֧ם</span>** | and sons your | [[Ezek.24.21]]  |
+| **<span class="ashebrew">וּבְנֵיכֶ֤ם</span>** | and children your | [[2Chr.30.9]]  |
+| **<span class="ashebrew">וּבְנֵיכֶ֖ם</span>** | and children your | [[Exod.22.24]] • [[Jer.35.6]]  |
+| **<span class="ashebrew">וּבְנֵיהֶם֙</span>** | and children their | [[Zech.10.7]]  |
+|   | and sons their | [[1Chr.26.8]]  |
+| **<span class="ashebrew">וּבְנֵיהֶֽם</span>** | and children their | [[2Chr.20.13]]  |
+| **<span class="ashebrew">וּבְנֵיהֶ֥ם</span>** | and sons their | [[1Sam.30.3]] • [[2Chr.31.18]]  |
+| **<span class="ashebrew">וּבְנֵיהֶ֣ם</span>** | and children their | [[Neh.9.23]]  |
+| **<span class="ashebrew">וּבְנֵיהֶ֞ם</span>** | and children their | [[Deut.31.13]] • [[Ezek.37.25]]  |
+| **<span class="ashebrew">וּבְנֵיהֶ֗ם</span>** | and children their | [[Neh.13.24]]  |
+| **<span class="ashebrew">וּבְנֵיהֶ֖ם</span>** | and children their | [[Joel.1.3]]  |
+|   | and sons their | [[Num.16.27]] • [[Jer.14.16]]  |
+| **<span class="ashebrew">וּבְנֵיהֶ֔ן</span>** | and children their | [[Ezek.16.45]]  |
+| **<span class="ashebrew">וּבְנֵיהֶ֑ם</span>** | and descendants their | [[1Chr.6.33]]  |
+| **<span class="ashebrew">וּבְנֵי֙</span>** | and  sons of | [[2Kgs.4.38]] • [[1Chr.3.15]] • [[1Chr.4.15]] • [[1Chr.4.19]] • [[1Chr.6.25]]  |
+| **<span class="ashebrew">וּבְנֵי</span>** | and  descendants of | [[1Chr.5.11]]  |
+|   | and  sons of | [[Gen.46.23]] • [[1Chr.18.17]]  |
+|   | and sons of | [[Eccl.2.7]]  |
+| **<span class="ashebrew">וּבְנֵ֨י</span>** | and  sons of | [[Gen.34.7]] • [[1Chr.1.32]] • [[1Chr.5.1]] • [[2Chr.22.8]]  |
+| **<span class="ashebrew">וּבְנֵ֧י</span>** | and  descendants of | [[1Chr.6.44]]  |
+|   | and  sons of | [[Num.3.20]] • [[1Chr.6.28]]  |
+| **<span class="ashebrew">וּבְנֵ֥י</span>** | and  children of | [[Ps.36.7]]  |
+|   | and  sons of | [[Gen.10.4]] • [[Gen.10.7]] • [[Gen.35.26]] • [[Gen.46.27]] • [[Exod.6.19]] • [[Num.3.19]] • [[Num.26.8]] • [[1Sam.2.12]] • [[2Sam.8.18]] • [[2Kgs.10.13]] • [[1Chr.1.7]] • [[1Chr.1.9]] • [[1Chr.1.32]] • [[1Chr.1.39]] • [[1Chr.1.40]] • [[1Chr.2.8]] • [[1Chr.2.9]] • [[1Chr.2.30]] • [[1Chr.2.31]] • [[1Chr.2.31]] • [[1Chr.2.33]] • [[1Chr.2.42]] • [[1Chr.4.13]] • [[1Chr.4.15]] • [[1Chr.7.3]] • [[1Chr.7.10]] • [[1Chr.7.17]] • [[1Chr.16.42]] • [[1Chr.23.17]]  |
+| **<span class="ashebrew">וּבְנֵ֤י</span>** | and  children of | [[Ezek.37.25]]  |
+|   | and  sons of | [[Gen.35.25]] • [[Gen.46.7]] • [[Num.10.8]] • [[2Kgs.10.6]] • [[1Chr.2.31]] • [[1Chr.2.32]] • [[1Chr.2.42]]  |
+| **<span class="ashebrew">וּבְנֵ֣ךְ</span>** | and  son your | [[1Kgs.3.22]]  |
+|   | and son your | [[1Kgs.3.23]]  |
+| **<span class="ashebrew">וּבְנֵ֣י</span>** | and  children of | [[Gen.45.10]] • [[2Kgs.17.41]] • [[1Chr.6.3]]  |
+|   | and  descendants of | [[Num.10.17]]  |
+|   | and  people of | [[Jer.32.30]] • [[Jer.32.32]]  |
+|   | and  sons | [[1Chr.7.3]]  |
+|   | and  sons of | [[Gen.10.7]] • [[Gen.46.10]] • [[Gen.46.12]] • [[Gen.46.16]] • [[Gen.46.17]] • [[Gen.46.17]] • [[Gen.46.21]] • [[Exod.6.15]] • [[Exod.6.18]] • [[Exod.6.24]] • [[Num.26.9]] • [[1Chr.1.9]] • [[1Chr.1.33]] • [[1Chr.1.38]] • [[1Chr.1.41]] • [[1Chr.2.6]] • [[1Chr.2.16]] • [[1Chr.2.28]] • [[1Chr.3.19]] • [[1Chr.3.22]] • [[1Chr.3.24]] • [[1Chr.4.13]] • [[1Chr.4.20]] • [[1Chr.6.3]] • [[1Chr.7.7]] • [[1Chr.7.8]] • [[1Chr.7.10]] • [[1Chr.7.31]] • [[1Chr.7.33]] • [[1Chr.8.12]] • [[1Chr.23.10]] • [[1Chr.24.30]] • [[Jer.40.8]]  |
+|   | and O people of | [[Joel.2.23]]  |
+|   | and children of | [[Deut.4.25]] • [[1Chr.8.40]]  |
+| **<span class="ashebrew">וּבְנֵ֖י</span>** | and  sons of | [[Gen.10.3]] • [[Gen.10.6]] • [[Gen.10.23]] • [[Gen.46.9]] • [[Gen.46.11]] • [[Gen.46.13]] • [[Gen.46.14]] • [[Gen.46.24]] • [[Exod.6.21]] • [[Exod.6.22]] • [[1Chr.1.6]] • [[1Chr.2.7]] • [[1Chr.2.43]] • [[1Chr.2.47]] • [[1Chr.4.7]] • [[1Chr.4.16]] • [[1Chr.6.2]] • [[1Chr.6.18]] • [[1Chr.7.34]] • [[1Chr.7.38]] • [[1Chr.7.39]] • [[1Chr.8.35]] • [[1Chr.8.39]] • [[1Chr.9.41]]  |
+| **<span class="ashebrew">וּבְנִ֥י</span>** | and son my | [[1Kgs.1.21]] • [[1Kgs.3.23]]  |
+| **<span class="ashebrew">וּבְנִ֣י</span>** | and  son my | [[1Kgs.3.22]]  |
+| **<span class="ashebrew">וּבְנ֥וֹ</span>** | and son his | [[1Chr.8.30]] • [[1Chr.9.36]]  |
+| **<span class="ashebrew">וּבְבָנֶ֥יךָ</span>** | and on sons your | [[2Chr.21.14]]  |
+| **<span class="ashebrew">וּבְבָנֶ֙יהָ֙</span>** | and on children her | [[Deut.28.57]]  |
+| **<span class="ashebrew">וּׄלְׄבָׄנֵׄ֙יׄנׄוּׄ֙</span>** | and to descendants our | [[Deut.29.29]]  |
+| **<span class="ashebrew">וּֽבֶן</span>** | and a child of | [[Job.16.21]]  |
+| **<span class="ashebrew">וּ֠בָנָיו</span>** | and sons his | [[Gen.7.7]] • [[Num.4.15]]  |
+| **<span class="ashebrew">וּ֠בְנֵיכֶם</span>** | and children your | [[Num.14.33]] • [[Deut.1.39]]  |
+| **<span class="ashebrew">וּ֝לְבָנָ֗יו</span>** | and to children his | [[Prov.14.26]]  |
+| **<span class="ashebrew">וְשַׂרְאֶ֤צֶרבָּנָיו֙</span>** | and Sharezer  sons his | [[2Kgs.19.37]]  |
+| **<span class="ashebrew">וְלִבְנֵיהֶ֨ם</span>** | and  sons their | [[2Chr.5.12]]  |
+| **<span class="ashebrew">וְלִבְנֵיהֶ֖ם</span>** | and for children their | [[Jer.32.39]]  |
+| **<span class="ashebrew">וְלִבְנֵיהֶ֔ם</span>** | and for sons their | [[Ezra.9.2]]  |
+| **<span class="ashebrew">וְלִבְנֵ֨י</span>** | and to  sons of | [[1Kgs.2.7]]  |
+| **<span class="ashebrew">וְלִבְנֵ֧י</span>** | and  to  descendants of | [[1Chr.24.4]]  |
+| **<span class="ashebrew">וְלִבְנֵ֥י</span>** | and of  descendants of | [[1Chr.26.19]]  |
+|   | and to  children of | [[Deut.4.9]]  |
+|   | and to  descendants of | [[Num.7.9]]  |
+| **<span class="ashebrew">וְלִבְנֵ֤י</span>** | and for  sons of | [[Exod.28.40]]  |
+|   | and to  sons of | [[Gen.25.6]]  |
+| **<span class="ashebrew">וְלִבְנֵ֣י</span>** | and to  descendants of | [[1Chr.6.57]]  |
+|   | and to  sons of | [[1Chr.7.1]]  |
+| **<span class="ashebrew">וְלִבְנֵ֔ךְ</span>** | and for son your | [[1Kgs.17.13]]  |
+| **<span class="ashebrew">וְלִבְנִ֔י</span>** | and for son my | [[1Kgs.17.12]]  |
+| **<span class="ashebrew">וְלִבְנ֥וֹ</span>** | and for son his | [[Lev.21.2]]  |
+| **<span class="ashebrew">וְלִבְנ֖וֹ</span>** | and to son his | [[1Kgs.11.36]]  |
+| **<span class="ashebrew">וְהַבָּנִ֤ים</span>** | and the children | [[Gen.31.43]]  |
+| **<span class="ashebrew">וְהַבָּנִ֛ים</span>** | and the children | [[Jer.13.14]]  |
+| **<span class="ashebrew">וְהַבֵּ֞ן</span>** | and the child | [[Ezek.18.19]]  |
+| **<span class="ashebrew">הַבָּנִים֙</span>** | the children | [[Gen.25.22]]  |
+|   | the sons | [[Jer.16.3]]  |
+| **<span class="ashebrew">הַבָּנִ֥ים</span>** | the children | [[Ps.113.9]]  |
+| **<span class="ashebrew">הַבָּנִ֞ים</span>** | the children | [[Jer.7.18]]  |
+| **<span class="ashebrew">הַבָּנִ֗ים</span>** | the children | [[Ezek.20.21]]  |
+| **<span class="ashebrew">הַבָּנִ֖ים</span>** | the children | [[Ezek.18.2]]  |
+| **<span class="ashebrew">הַבֵּ֥ן</span>** | the son | [[Deut.21.15]]  |
+| **<span class="ashebrew">הַבֵּ֣ן</span>** | son | [[Exod.1.22]]  |
+| **<span class="ashebrew">הַבֵּ֛ן</span>** | the son | [[2Sam.12.14]]  |
+| **<span class="ashebrew">הַבֵּ֖ן</span>** | the child | [[Ezek.18.4]] • [[Ezek.18.19]]  |
+| **<span class="ashebrew">הַבֵּ֔ן</span>** | the child | [[Ezek.18.20]]  |
+| **<span class="ashebrew">הֲבָנִ֥ים</span>** | ¿  children | [[Jer.49.1]]  |
+| **<span class="ashebrew">הֲבֵן֩</span>** | ¿ a son | [[Jer.31.20]]  |
+| **<span class="ashebrew">בָנָיו֙</span>** | children its | [[Jer.30.20]]  |
+|   | sons his | [[Gen.46.7]] • [[Gen.48.1]] • [[Gen.50.13]] • [[1Sam.8.3]] • [[Job.1.4]]  |
+| **<span class="ashebrew">בָנָֽיו</span>** | sons his | [[Ruth.1.1]]  |
+| **<span class="ashebrew">בָנָ֥יו</span>** | children his | [[Ps.109.9]]  |
+| **<span class="ashebrew">בָנָ֣יו</span>** | children his | [[Job.5.4]] • [[Job.17.5]] • [[Job.27.14]] • [[Ps.109.10]]  |
+|   | sons his | [[Ruth.1.2]] • [[Prov.20.7]]  |
+| **<span class="ashebrew">בָנָ֜יו</span>** | sons his | [[2Kgs.9.26]]  |
+| **<span class="ashebrew">בָנָ֛יו</span>** | sons his | [[Gen.7.7]] • [[Gen.7.13]]  |
+| **<span class="ashebrew">בָנָ֗יו</span>** | sons his | [[1Kgs.13.12]]  |
+| **<span class="ashebrew">בָנָ֖יו</span>** | sons his | [[Gen.8.18]] • [[Gen.50.12]] • [[Exod.29.21]] • [[Exod.29.21]] • [[Exod.31.10]] • [[Exod.35.19]] • [[Exod.39.41]] • [[Lev.8.30]] • [[Lev.8.30]] • [[1Chr.8.10]]  |
+| **<span class="ashebrew">בָנָ֔יו</span>** | children his | [[Job.42.16]]  |
+| **<span class="ashebrew">בָנָ֑יו</span>** | sons his | [[Exod.29.24]] • [[Lev.8.27]] • [[Num.8.13]] • [[Num.8.22]] • [[1Chr.10.2]]  |
+| **<span class="ashebrew">בָנַי֙</span>** | children my | [[Lam.1.16]]  |
+|   | sons my | [[Gen.42.37]] • [[Isa.43.6]]  |
+| **<span class="ashebrew">בָנַ֙יִךְ֙</span>** | children your | [[Isa.60.9]]  |
+|   | sons your | [[Isa.49.22]]  |
+| **<span class="ashebrew">בָנַ֔יִךְ</span>** | children your | [[Ezek.16.36]]  |
+| **<span class="ashebrew">בָנַ֔י</span>** | children my | [[Job.1.5]]  |
+| **<span class="ashebrew">בָנֶיךָ֩</span>** | sons your | [[Gen.48.5]]  |
+| **<span class="ashebrew">בָנֶֽיךָ</span>** | children your | [[Deut.4.9]]  |
+| **<span class="ashebrew">בָנֶֽיהָ</span>** | sons her | [[Ruth.1.3]]  |
+| **<span class="ashebrew">בָנֶ֜יךָ</span>** | sons your | [[1Sam.4.17]]  |
+| **<span class="ashebrew">בָנֶ֙יךָ֙</span>** | sons your | [[Jer.48.46]]  |
+| **<span class="ashebrew">בָנֶ֖יךָ</span>** | sons your | [[Gen.6.18]] • [[Gen.8.16]]  |
+| **<span class="ashebrew">בָנֶ֖יהָ</span>** | sons her | [[Exod.18.6]]  |
+| **<span class="ashebrew">בָנֶ֔יךָ</span>** | sons your | [[1Sam.2.34]]  |
+| **<span class="ashebrew">בָנֶ֔יהָ</span>** | sons her | [[1Chr.2.18]]  |
+| **<span class="ashebrew">בָנֶ֑יךָ</span>** | children your | [[Gen.45.10]]  |
+| **<span class="ashebrew">בָנֶ֑יהָ</span>** | sons her | [[Exod.18.3]]  |
+| **<span class="ashebrew">בָנִים֙</span>** | children | [[2Kgs.19.3]] • [[Isa.37.3]] • [[Ezek.5.10]]  |
+|   | sons | [[Ruth.1.11]]  |
+| **<span class="ashebrew">בָנִים֒</span>** | sons | [[1Chr.8.38]] • [[1Chr.9.44]]  |
+| **<span class="ashebrew">בָנִֽים</span>** | children | [[Ps.103.17]]  |
+|   | sons | [[Ruth.1.12]] • [[1Chr.2.30]] • [[1Chr.2.32]]  |
+| **<span class="ashebrew">בָנִ֥ים</span>** | children | [[Ps.128.6]] • [[Hos.5.7]]  |
+| **<span class="ashebrew">בָנִ֤ים</span>** | O sons | [[Jer.3.14]]  |
+| **<span class="ashebrew">בָנִ֜ים</span>** | sons | [[1Chr.25.5]]  |
+| **<span class="ashebrew">בָנִ֖ים</span>** | children | [[Gen.21.7]] • [[Jer.31.17]] • [[Jer.31.29]] • [[Ezek.47.22]] • [[Hos.11.10]]  |
+|   | sons | [[Exod.21.4]] • [[1Sam.2.21]] • [[1Chr.8.3]] • [[Job.1.2]] • [[Job.42.13]]  |
+| **<span class="ashebrew">בָנִ֔ים</span>** | children | [[Gen.30.1]] • [[Deut.4.25]]  |
+|   | sons | [[Gen.41.50]] • [[Deut.21.15]] • [[2Sam.14.6]] • [[2Sam.14.27]] • [[1Chr.23.11]]  |
+| **<span class="ashebrew">בָנִ֑ים</span>** | children | [[Gen.3.16]] • [[Prov.13.22]]  |
+|   | sons | [[Gen.6.10]] • [[Gen.10.25]] • [[Gen.29.34]] • [[Gen.30.20]] • [[1Sam.17.12]] • [[1Chr.1.19]] • [[Ps.17.14]]  |
+| **<span class="ashebrew">בָּנָיו֮</span>** | sons his | [[Lev.10.12]]  |
+| **<span class="ashebrew">בָּנָיו֩</span>** | sons his | [[1Sam.31.6]]  |
+| **<span class="ashebrew">בָּנָיו֙</span>** | children his | [[Deut.28.55]] • [[Job.42.16]]  |
+|   | sons his | [[Exod.29.4]] • [[Exod.29.20]] • [[Num.3.10]] • [[Num.21.35]] • [[1Sam.2.22]] • [[1Kgs.13.27]] • [[1Kgs.13.31]] • [[2Chr.28.3]] • [[Isa.37.38]]  |
+| **<span class="ashebrew">בָּנָֽיו</span>** | children his | [[Hos.9.13]]  |
+|   | sons his | [[Gen.30.35]] • [[Gen.35.29]] • [[Exod.29.9]] • [[2Chr.21.17]]  |
+| **<span class="ashebrew">בָּנָֽיִךְ</span>** | children your | [[Isa.54.13]]  |
+| **<span class="ashebrew">בָּנָ֨יו</span>** | sons his | [[Gen.37.35]]  |
+| **<span class="ashebrew">בָּנָ֥יו</span>** | children his | [[Gen.31.17]]  |
+|   | sons his | [[Gen.9.8]] • [[1Chr.25.10]] • [[1Chr.25.11]] • [[1Chr.25.12]] • [[1Chr.25.13]] • [[1Chr.25.14]] • [[1Chr.25.15]] • [[1Chr.25.16]] • [[1Chr.25.17]] • [[1Chr.25.18]] • [[1Chr.25.19]] • [[1Chr.25.20]] • [[1Chr.25.21]] • [[1Chr.25.22]] • [[1Chr.25.23]] • [[1Chr.25.24]] • [[1Chr.25.25]] • [[1Chr.25.26]] • [[1Chr.25.27]] • [[1Chr.25.28]] • [[1Chr.25.29]] • [[1Chr.25.30]] • [[1Chr.25.31]]  |
+| **<span class="ashebrew">בָּנָ֤יו</span>** | children his | [[Gen.18.19]]  |
+|   | sons his | [[Num.21.29]] • [[2Chr.33.6]]  |
+| **<span class="ashebrew">בָּנָ֣יו</span>** | children his | [[Deut.32.5]]  |
+|   | sons his | [[Gen.36.6]] • [[Exod.28.1]] • [[Lev.6.9]] • [[Lev.6.25]] • [[Lev.8.2]] • [[Num.6.23]] • [[1Sam.30.6]] • [[Ezra.3.9]]  |
+| **<span class="ashebrew">בָּנָ֡יו</span>** | sons his | [[Josh.7.24]]  |
+| **<span class="ashebrew">בָּנָ֞יו</span>** | sons his | [[Gen.46.7]]  |
+| **<span class="ashebrew">בָּנָ֜יו</span>** | children his | [[Jer.35.14]]  |
+|   | sons his | [[Lev.10.6]] • [[2Chr.11.23]]  |
+| **<span class="ashebrew">בָּנָ֛יו</span>** | sons his | [[Gen.46.15]] • [[Exod.29.21]] • [[Exod.29.44]] • [[Lev.8.30]] • [[Lev.8.30]] • [[Judg.9.18]] • [[1Sam.8.1]] • [[2Sam.19.17]] • [[1Chr.21.20]]  |
+| **<span class="ashebrew">בָּנָ֗יו</span>** | sons his | [[Exod.4.20]] • [[Lev.8.31]] • [[Lev.17.2]] • [[Lev.22.2]] • [[Lev.22.18]] • [[1Sam.17.13]]  |
+| **<span class="ashebrew">בָּנָ֖יו</span>** | children his | [[Gen.46.7]] • [[Deut.28.54]] • [[Deut.33.9]] • [[2Sam.12.3]]  |
+|   | sons his | [[Exod.28.41]] • [[Exod.29.8]] • [[Exod.30.30]] • [[Exod.40.14]] • [[Deut.2.33]] • [[Deut.32.19]] • [[1Sam.16.10]] • [[2Chr.21.17]] • [[Esth.9.25]] • [[Ezek.46.17]]  |
+| **<span class="ashebrew">בָּנָ֕יו</span>** | descendants his | [[1Chr.23.14]]  |
+| **<span class="ashebrew">בָּנָ֔יו</span>** | children his | [[1Sam.30.22]]  |
+|   | sons his | [[Gen.25.9]] • [[Gen.37.3]] • [[Gen.49.33]] • [[Exod.40.12]] • [[Lev.7.35]] • [[Deut.21.16]] • [[1Sam.3.13]] • [[1Sam.16.5]] • [[1Sam.31.8]] • [[1Sam.31.12]] • [[1Kgs.13.13]] • [[1Chr.10.6]] • [[1Chr.10.8]] • [[1Chr.10.12]]  |
+| **<span class="ashebrew">בָּנָ֑יו</span>** | children his | [[Jer.35.3]]  |
+|   | sons his | [[Gen.9.1]] • [[Gen.49.1]] • [[Lev.8.6]] • [[Lev.21.24]] • [[Josh.17.6]] • [[1Sam.31.2]] • [[Esth.5.11]] • [[Ezek.46.18]]  |
+| **<span class="ashebrew">בָּנָ֑יִךְ</span>** | children your | [[Isa.49.17]]  |
+|   | sons your | [[Isa.62.5]]  |
+| **<span class="ashebrew">בָּנָ֑י</span>** | O sons my | [[1Sam.2.24]]  |
+|   | children my | [[Exod.21.5]] • [[Ezek.16.21]]  |
+| **<span class="ashebrew">בָּנַי֙</span>** | children my | [[Gen.31.43]]  |
+| **<span class="ashebrew">בָּנַ֥י</span>** | children my | [[Exod.17.3]]  |
+| **<span class="ashebrew">בָּנַ֤יִךְ</span>** | sons your | [[Ezek.16.20]] • [[Ezek.23.25]]  |
+| **<span class="ashebrew">בָּנַ֤י</span>** | children my | [[Jer.10.20]]  |
+| **<span class="ashebrew">בָּנַ֣יִךְ</span>** | children your | [[Ps.147.13]] • [[Jer.5.7]]  |
+| **<span class="ashebrew">בָּנַ֣י</span>** | sons my | [[Gen.48.9]]  |
+| **<span class="ashebrew">בָּנַ֜יִךְ</span>** | children your | [[Isa.51.20]]  |
+| **<span class="ashebrew">בָּנַ֛י</span>** | children my | [[Isa.45.11]]  |
+| **<span class="ashebrew">בָּנַ֙יִךְ֙</span>** | sons your | [[Isa.60.4]]  |
+| **<span class="ashebrew">בָּנַ֖יִךְ</span>** | children your | [[Isa.49.25]] • [[Isa.54.13]]  |
+| **<span class="ashebrew">בָּנַ֖י</span>** | sons my | [[Exod.13.15]]  |
+| **<span class="ashebrew">בָּנַ֕י</span>** | O sons my | [[2Chr.29.11]]  |
+| **<span class="ashebrew">בָּנַ֔יִךְ</span>** | children your | [[2Kgs.4.4]]  |
+| **<span class="ashebrew">בָּנַ֔י</span>** | sons my | [[1Chr.28.5]]  |
+| **<span class="ashebrew">בָּנֶֽיהָ</span>** | children her | [[Isa.66.8]]  |
+| **<span class="ashebrew">בָּנֶ֨יךָ</span>** | sons your | [[Deut.28.32]] • [[Job.1.18]]  |
+| **<span class="ashebrew">בָּנֶ֥יךָ</span>** | children your | [[Job.8.4]]  |
+| **<span class="ashebrew">בָּנֶ֥יהָ</span>** | sons her | [[2Chr.24.7]]  |
+|   | young ones its | [[Job.38.32]]  |
+| **<span class="ashebrew">בָּנֶ֤יהָ</span>** | sons her | [[Ezek.23.10]]  |
+| **<span class="ashebrew">בָּנֶ֣יךָ</span>** | children your | [[Ps.73.15]]  |
+|   | sons your | [[Jer.5.17]]  |
+| **<span class="ashebrew">בָּנֶ֛יהָ</span>** | sons her | [[1Sam.1.4]]  |
+| **<span class="ashebrew">בָּנֶ֙יךָ֙</span>** | children your | [[Lev.10.14]]  |
+|   | sons your | [[Exod.34.20]] • [[Lev.10.13]] • [[Deut.28.53]] • [[1Sam.2.29]] • [[2Sam.19.5]]  |
+| **<span class="ashebrew">בָּנֶ֗יךָ</span>** | children your | [[Jer.38.23]]  |
+| **<span class="ashebrew">בָּנֶ֖יךָ</span>** | children your | [[Hos.4.6]]  |
+|   | sons your | [[Exod.22.29]]  |
+| **<span class="ashebrew">בָּנֶ֖יהָ</span>** | children her | [[Jer.31.15]] • [[Hos.2.4]]  |
+| **<span class="ashebrew">בָּנֶ֔יךָ</span>** | sons your | [[Exod.34.16]]  |
+| **<span class="ashebrew">בָּנֶ֑יהָ</span>** | children her | [[2Kgs.4.5]] • [[Jer.31.15]]  |
+| **<span class="ashebrew">בָּנֵ֨ינוּ</span>** | sons our | [[Neh.5.5]]  |
+| **<span class="ashebrew">בָּנֵ֥ינוּ</span>** | sons our | [[Neh.5.2]]  |
+| **<span class="ashebrew">בָּנֵ֙ינוּ֙</span>** | sons our | [[Neh.10.36]]  |
+| **<span class="ashebrew">בָּנֵ֖ינוּ</span>** | sons our | [[Jer.35.8]]  |
+| **<span class="ashebrew">בָּנֵ֑ינוּ</span>** | children our | [[Neh.5.5]]  |
+| **<span class="ashebrew">בָּנִים֙</span>** | children | [[Exod.34.7]] • [[Deut.4.25]] • [[1Chr.8.40]] • [[2Chr.25.4]] • [[Isa.1.2]]  |
+|   | sons | [[2Kgs.14.6]]  |
+| **<span class="ashebrew">בָּנִֽים</span>** | children | [[Gen.32.11]] • [[Ezra.10.44]] • [[Hos.13.13]]  |
+|   | sons | [[Ruth.4.15]] • [[1Sam.1.8]] • [[1Chr.24.28]]  |
+| **<span class="ashebrew">בָּנִ֨ים</span>** | sons | [[1Chr.4.27]]  |
+| **<span class="ashebrew">בָּנִ֧ים</span>** | sons | [[1Chr.26.9]] • [[1Chr.26.11]]  |
+| **<span class="ashebrew">בָּנִ֥ים</span>** | sons | [[Deut.28.41]] • [[2Sam.5.13]] • [[1Chr.14.3]] • [[2Chr.24.3]] • [[Ezek.14.16]]  |
+| **<span class="ashebrew">בָּנִ֤ים</span>** | children | [[Isa.30.1]] • [[Jer.4.22]]  |
+|   | sons | [[1Sam.30.19]]  |
+| **<span class="ashebrew">בָּנִ֣ים</span>** | O sons | [[Jer.3.22]]  |
+|   | children | [[Deut.14.1]] • [[Ps.78.6]] • [[Prov.17.6]]  |
+|   | sons | [[1Chr.4.27]] • [[1Chr.23.17]] • [[2Chr.28.8]] • [[Jer.16.2]] • [[Jer.29.6]] • [[Jer.29.6]] • [[Ezek.14.18]] • [[Ezek.14.22]] • [[Ezek.23.4]]  |
+| **<span class="ashebrew">בָּנִ֛ים</span>** | children | [[Exod.20.5]] • [[Deut.5.9]] • [[Deut.23.8]]  |
+|   | sons | [[1Chr.25.5]]  |
+| **<span class="ashebrew">בָּנִ֗ים</span>** | sons | [[Judg.10.4]] • [[Judg.12.9]] • [[Judg.12.14]]  |
+| **<span class="ashebrew">בָּנִ֖ים</span>** | children | [[Gen.22.20]] • [[Deut.32.20]] • [[Isa.1.4]] • [[Isa.13.18]] • [[Isa.30.9]] • [[Isa.51.18]] • [[Isa.51.18]] • [[Isa.63.8]] • [[Hos.10.14]]  |
+|   | sons | [[Gen.5.4]] • [[Gen.5.7]] • [[Gen.5.10]] • [[Gen.5.13]] • [[Gen.5.16]] • [[Gen.5.19]] • [[Gen.5.22]] • [[Gen.5.26]] • [[Gen.5.30]] • [[Gen.10.1]] • [[Gen.11.11]] • [[Gen.11.13]] • [[Gen.11.15]] • [[Gen.11.17]] • [[Gen.11.19]] • [[Gen.11.21]] • [[Gen.11.23]] • [[Gen.11.25]] • [[Num.26.33]] • [[Josh.17.3]] • [[1Sam.2.5]] • [[2Sam.3.2]] • [[2Sam.9.10]] • [[2Kgs.10.1]] • [[1Chr.2.34]] • [[1Chr.23.22]] • [[2Chr.11.21]] • [[Mal.4.6]]  |
+| **<span class="ashebrew">בָּנִ֕ים</span>** | children | [[Isa.30.9]]  |
+| **<span class="ashebrew">בָּנִ֔ים</span>** | children | [[Num.14.18]] • [[Deut.24.16]] • [[Jer.47.3]]  |
+|   | sons | [[Judg.8.30]] • [[1Chr.26.6]] • [[1Chr.28.5]] • [[2Chr.13.21]] • [[Mal.4.6]]  |
+| **<span class="ashebrew">בָּנִ֑ים</span>** | children | [[Ps.103.13]]  |
+|   | sons | [[Judg.11.2]] • [[1Chr.26.2]] • [[1Chr.26.4]] • [[1Chr.26.10]] • [[2Chr.11.19]] • [[Ps.127.3]]  |
+| **<span class="ashebrew">בָּ֭נָיו</span>** | children his | [[Job.20.10]]  |
+| **<span class="ashebrew">בָּ֭נֶיךָ</span>** | children your | [[Ps.128.3]]  |
+| **<span class="ashebrew">בָ֭נָיו</span>** | sons his | [[Job.14.21]] • [[Ps.89.30]]  |
+| **<span class="ashebrew">בָ֭נֶיהָ</span>** | sons her | [[Prov.31.28]]  |
+| **<span class="ashebrew">בָ֭נִים</span>** | O children | [[Ps.34.11]]  |
+| **<span class="ashebrew">בַבָּנִ֗ים</span>** | among the sons | [[Prov.7.7]]  |
+| **<span class="ashebrew">בַּר</span>** | O son of | [[Prov.31.2]] • [[Prov.31.2]]  |
+| **<span class="ashebrew">בַּבָּנִ֔ים</span>** | among the sons | [[Jer.3.19]]  |
+| **<span class="ashebrew">בַ֡ר</span>** | son | [[Ps.2.12]]  |
+| **<span class="ashebrew">בֶן</span>** | Ben | [[Josh.15.8]] • [[Josh.18.16]] • [[2Kgs.23.10]] • [[2Chr.28.3]] • [[2Chr.33.6]] • [[Jer.7.31]] • [[Jer.7.32]] • [[Jer.19.2]] • [[Jer.19.6]] • [[Jer.32.35]]  |
+|   | O son of | [[1Chr.12.18]] • [[Ezek.2.6]] • [[Ezek.2.8]] • [[Ezek.3.25]] • [[Ezek.4.1]] • [[Ezek.5.1]] • [[Ezek.7.2]] • [[Ezek.8.12]] • [[Ezek.8.15]] • [[Ezek.8.17]] • [[Ezek.12.3]] • [[Ezek.13.17]] • [[Ezek.21.6]] • [[Ezek.21.14]] • [[Ezek.21.19]] • [[Ezek.21.28]] • [[Ezek.22.2]] • [[Ezek.24.25]] • [[Ezek.27.2]] • [[Ezek.33.7]] • [[Ezek.33.10]] • [[Ezek.33.12]] • [[Ezek.33.30]] • [[Ezek.36.1]] • [[Ezek.37.9]] • [[Ezek.37.16]] • [[Ezek.38.14]] • [[Ezek.39.1]] • [[Ezek.39.17]] • [[Ezek.43.10]] • [[Ezek.47.6]]  |
+|   | a son of | [[Gen.37.3]] • [[2Sam.17.25]] • [[Amos.7.14]]  |
+|   | son of | [[Gen.15.3]] • [[Gen.29.12]] • [[Exod.31.2]] • [[Exod.35.30]] • [[Exod.38.22]] • [[Num.27.1]] • [[Num.32.33]] • [[Num.36.12]] • [[Deut.13.6]] • [[Deut.21.16]] • [[Josh.7.1]] • [[Josh.7.1]] • [[Josh.7.18]] • [[Judg.9.28]] • [[1Sam.1.1]] • [[1Sam.14.3]] • [[1Sam.20.27]] • [[1Sam.25.10]] • [[1Sam.25.44]] • [[2Sam.3.4]] • [[2Sam.3.4]] • [[2Sam.4.2]] • [[2Sam.16.5]] • [[2Sam.17.27]] • [[2Sam.19.16]] • [[2Sam.19.18]] • [[2Sam.23.11]] • [[2Sam.23.20]] • [[2Sam.23.26]] • [[1Kgs.1.5]] • [[1Kgs.1.8]] • [[1Kgs.1.11]] • [[1Kgs.1.26]] • [[1Kgs.1.36]] • [[1Kgs.1.38]] • [[1Kgs.2.5]] • [[1Kgs.2.8]] • [[1Kgs.2.13]] • [[1Kgs.2.25]] • [[1Kgs.2.29]] • [[1Kgs.2.32]] • [[1Kgs.2.35]] • [[1Kgs.4.2]] • [[1Kgs.4.4]] • [[1Kgs.4.5]] • [[1Kgs.4.18]] • [[1Kgs.14.1]] • [[1Kgs.15.27]] • [[1Kgs.15.33]] • [[1Kgs.16.1]] • [[1Kgs.16.7]] • [[1Kgs.16.8]] • [[1Kgs.16.21]] • [[1Kgs.16.22]] • [[1Kgs.19.16]] • [[1Kgs.21.22]] • [[1Kgs.22.9]] • [[1Kgs.22.49]] • [[1Kgs.22.51]] • [[2Kgs.8.25]] • [[2Kgs.8.29]] • [[2Kgs.9.2]] • [[2Kgs.9.9]] • [[2Kgs.9.20]] • [[2Kgs.14.1]] • [[2Kgs.14.17]] • [[2Kgs.14.23]] • [[2Kgs.14.25]] • [[2Kgs.15.1]] • [[2Kgs.15.8]] • [[2Kgs.15.23]] • [[2Kgs.18.1]] • [[2Kgs.19.20]] • [[2Kgs.20.1]] • [[2Kgs.22.3]] • [[2Kgs.25.23]] • [[1Chr.3.2]] • [[1Chr.4.2]] • [[1Chr.4.21]] • [[1Chr.4.37]] • [[1Chr.4.37]] • [[1Chr.4.37]] • [[1Chr.6.41]] • [[1Chr.6.45]] • [[1Chr.6.46]] • [[1Chr.9.4]] • [[1Chr.9.8]] • [[1Chr.9.11]] • [[1Chr.9.14]] • [[1Chr.9.16]] • [[1Chr.11.22]] • [[1Chr.11.28]] • [[1Chr.11.42]] • [[1Chr.24.6]] • [[1Chr.26.1]] • [[1Chr.27.5]] • [[1Chr.27.9]] • [[1Chr.27.17]] • [[1Chr.29.22]] • [[2Chr.1.1]] • [[2Chr.1.5]] • [[2Chr.13.6]] • [[2Chr.17.16]] • [[2Chr.18.7]] • [[2Chr.18.8]] • [[2Chr.19.2]] • [[2Chr.19.11]] • [[2Chr.20.34]] • [[2Chr.22.1]] • [[2Chr.22.6]] • [[2Chr.22.7]] • [[2Chr.23.1]] • [[2Chr.23.1]] • [[2Chr.23.1]] • [[2Chr.25.25]] • [[2Chr.26.22]] • [[2Chr.28.12]] • [[2Chr.28.12]] • [[2Chr.30.26]] • [[2Chr.31.14]] • [[2Chr.32.20]] • [[2Chr.32.32]] • [[2Chr.35.3]] • [[Ezra.7.3]] • [[Ezra.7.4]] • [[Ezra.8.33]] • [[Ezra.10.2]] • [[Ezra.10.15]] • [[Neh.3.9]] • [[Neh.3.10]] • [[Neh.3.11]] • [[Neh.3.14]] • [[Neh.3.16]] • [[Neh.3.23]] • [[Neh.3.25]] • [[Neh.3.29]] • [[Neh.3.30]] • [[Neh.6.10]] • [[Neh.6.18]] • [[Neh.11.4]] • [[Neh.11.4]] • [[Neh.11.4]] • [[Neh.11.5]] • [[Neh.11.5]] • [[Neh.11.5]] • [[Neh.11.7]] • [[Neh.11.7]] • [[Neh.11.9]] • [[Neh.11.10]] • [[Neh.11.11]] • [[Neh.11.12]] • [[Neh.11.15]] • [[Neh.11.17]] • [[Neh.11.17]] • [[Neh.11.22]] • [[Neh.12.35]] • [[Job.32.2]] • [[Job.32.6]] • [[Prov.1.1]] • [[Isa.1.1]] • [[Isa.20.2]] • [[Isa.37.2]] • [[Isa.37.21]] • [[Isa.38.1]] • [[Jer.1.2]] • [[Jer.1.3]] • [[Jer.15.4]] • [[Jer.21.1]] • [[Jer.22.24]] • [[Jer.24.1]] • [[Jer.25.3]] • [[Jer.27.20]] • [[Jer.28.1]] • [[Jer.28.4]] • [[Jer.29.3]] • [[Jer.29.21]] • [[Jer.29.25]] • [[Jer.35.4]] • [[Jer.36.10]] • [[Jer.36.11]] • [[Jer.36.11]] • [[Jer.36.12]] • [[Jer.36.12]] • [[Jer.36.12]] • [[Jer.36.14]] • [[Jer.36.26]] • [[Jer.37.3]] • [[Jer.38.1]] • [[Jer.38.6]] • [[Jer.40.5]] • [[Jer.40.6]] • [[Jer.40.7]] • [[Jer.40.8]] • [[Jer.40.9]] • [[Jer.40.16]] • [[Jer.41.1]] • [[Jer.41.1]] • [[Jer.41.2]] • [[Jer.41.6]] • [[Jer.43.2]] • [[Jer.51.59]] • [[Ezek.8.11]] • [[Ezek.11.1]] • [[Ezek.11.1]] • [[Ezek.11.13]] • [[Jonah.1.1]] • [[Zeph.1.1]] • [[Zeph.1.1]] • [[Zech.6.10]]  |
+| **<span class="ashebrew">בֶֽן</span>** | son of | [[1Kgs.22.11]] • [[1Kgs.22.24]] • [[2Chr.11.22]] • [[2Chr.18.10]] • [[2Chr.18.23]] • [[Jer.35.3]]  |
+| **<span class="ashebrew">בֶּן</span>** | Ben- | [[1Kgs.4.10]]  |
+|   | O son of | [[Judg.5.12]] • [[1Sam.22.12]] • [[2Sam.13.4]] • [[Ezek.2.1]] • [[Ezek.2.3]] • [[Ezek.3.1]] • [[Ezek.3.3]] • [[Ezek.3.4]] • [[Ezek.3.10]] • [[Ezek.3.17]] • [[Ezek.4.16]] • [[Ezek.6.2]] • [[Ezek.8.5]] • [[Ezek.8.6]] • [[Ezek.8.8]] • [[Ezek.11.2]] • [[Ezek.11.4]] • [[Ezek.11.15]] • [[Ezek.12.2]] • [[Ezek.12.9]] • [[Ezek.12.18]] • [[Ezek.12.22]] • [[Ezek.12.27]] • [[Ezek.13.2]] • [[Ezek.14.3]] • [[Ezek.14.13]] • [[Ezek.15.2]] • [[Ezek.16.2]] • [[Ezek.17.2]] • [[Ezek.20.3]] • [[Ezek.20.4]] • [[Ezek.20.27]] • [[Ezek.20.46]] • [[Ezek.21.2]] • [[Ezek.21.9]] • [[Ezek.21.12]] • [[Ezek.22.18]] • [[Ezek.22.24]] • [[Ezek.23.2]] • [[Ezek.23.36]] • [[Ezek.24.2]] • [[Ezek.24.16]] • [[Ezek.25.2]] • [[Ezek.26.2]] • [[Ezek.28.2]] • [[Ezek.28.12]] • [[Ezek.28.21]] • [[Ezek.29.2]] • [[Ezek.29.18]] • [[Ezek.30.2]] • [[Ezek.30.21]] • [[Ezek.31.2]] • [[Ezek.32.2]] • [[Ezek.32.18]] • [[Ezek.33.2]] • [[Ezek.33.24]] • [[Ezek.34.2]] • [[Ezek.35.2]] • [[Ezek.36.17]] • [[Ezek.37.3]] • [[Ezek.37.11]] • [[Ezek.38.2]] • [[Ezek.40.4]] • [[Ezek.43.7]] • [[Ezek.43.18]] • [[Ezek.44.5]] • [[Dan.8.17]]  |
+|   | a child of | [[Ps.144.3]] • [[Jer.50.40]] • [[Jer.51.43]]  |
+|   | a son of | [[Lev.24.10]] • [[Lev.24.10]] • [[1Sam.17.12]] • [[2Sam.2.10]] • [[1Kgs.7.14]] • [[2Chr.2.14]] • [[Eccl.10.17]] • [[Isa.19.11]] • [[Isa.19.11]]  |
+|   | a young one of | [[Zech.9.9]]  |
+|   | child of | [[Exod.23.12]] • [[Isa.49.15]]  |
+|   | son | [[Gen.46.10]] • [[Deut.21.16]] • [[Judg.20.28]] • [[1Chr.27.29]] • [[2Chr.34.8]] • [[Jer.35.3]] • [[Jer.35.4]] • [[Jer.40.8]]  |
+|   | son of | [[Gen.11.31]] • [[Gen.11.31]] • [[Gen.12.5]] • [[Gen.14.12]] • [[Gen.21.9]] • [[Gen.21.10]] • [[Gen.21.13]] • [[Gen.23.8]] • [[Gen.24.15]] • [[Gen.24.24]] • [[Gen.24.47]] • [[Gen.25.9]] • [[Gen.25.12]] • [[Gen.25.19]] • [[Gen.28.5]] • [[Gen.28.9]] • [[Gen.29.13]] • [[Gen.34.2]] • [[Gen.34.18]] • [[Gen.36.10]] • [[Gen.36.10]] • [[Gen.36.12]] • [[Gen.36.17]] • [[Gen.36.32]] • [[Gen.36.33]] • [[Gen.36.35]] • [[Gen.36.38]] • [[Gen.36.39]] • [[Gen.43.29]] • [[Exod.6.15]] • [[Exod.31.2]] • [[Exod.31.6]] • [[Exod.35.30]] • [[Exod.35.34]] • [[Exod.38.22]] • [[Exod.38.23]] • [[Lev.24.11]] • [[Num.1.5]] • [[Num.1.6]] • [[Num.1.7]] • [[Num.1.8]] • [[Num.1.9]] • [[Num.1.10]] • [[Num.1.10]] • [[Num.1.11]] • [[Num.1.12]] • [[Num.1.13]] • [[Num.1.14]] • [[Num.1.15]] • [[Num.2.3]] • [[Num.2.5]] • [[Num.2.7]] • [[Num.2.10]] • [[Num.2.12]] • [[Num.2.14]] • [[Num.2.18]] • [[Num.2.20]] • [[Num.2.22]] • [[Num.2.25]] • [[Num.2.27]] • [[Num.2.29]] • [[Num.3.24]] • [[Num.3.30]] • [[Num.3.32]] • [[Num.3.35]] • [[Num.4.16]] • [[Num.7.12]] • [[Num.7.17]] • [[Num.7.18]] • [[Num.7.23]] • [[Num.7.29]] • [[Num.7.35]] • [[Num.7.41]] • [[Num.7.47]] • [[Num.7.53]] • [[Num.7.59]] • [[Num.7.65]] • [[Num.7.71]] • [[Num.7.77]] • [[Num.7.83]] • [[Num.10.14]] • [[Num.10.15]] • [[Num.10.16]] • [[Num.10.18]] • [[Num.10.19]] • [[Num.10.20]] • [[Num.10.22]] • [[Num.10.23]] • [[Num.10.24]] • [[Num.10.25]] • [[Num.10.26]] • [[Num.10.27]] • [[Num.10.29]] • [[Num.13.4]] • [[Num.13.5]] • [[Num.13.6]] • [[Num.13.7]] • [[Num.13.9]] • [[Num.13.10]] • [[Num.13.11]] • [[Num.13.12]] • [[Num.13.13]] • [[Num.13.14]] • [[Num.13.15]] • [[Num.14.6]] • [[Num.14.30]] • [[Num.14.38]] • [[Num.16.1]] • [[Num.16.1]] • [[Num.16.1]] • [[Num.16.1]] • [[Num.16.37]] • [[Num.22.2]] • [[Num.22.4]] • [[Num.22.5]] • [[Num.22.10]] • [[Num.22.16]] • [[Num.25.7]] • [[Num.25.11]] • [[Num.25.11]] • [[Num.25.14]] • [[Num.26.1]] • [[Num.26.33]] • [[Num.26.65]] • [[Num.27.1]] • [[Num.27.1]] • [[Num.27.1]] • [[Num.27.1]] • [[Num.31.6]] • [[Num.31.8]] • [[Num.32.12]] • [[Num.32.39]] • [[Num.32.40]] • [[Num.34.19]] • [[Num.34.20]] • [[Num.34.21]] • [[Num.34.22]] • [[Num.34.23]] • [[Num.34.24]] • [[Num.34.25]] • [[Num.34.26]] • [[Num.34.27]] • [[Num.34.28]] • [[Num.36.1]] • [[Num.36.1]] • [[Deut.1.36]] • [[Deut.11.6]] • [[Deut.21.17]] • [[Deut.23.4]] • [[Josh.7.1]] • [[Josh.7.18]] • [[Josh.7.18]] • [[Josh.7.24]] • [[Josh.13.22]] • [[Josh.13.31]] • [[Josh.14.6]] • [[Josh.14.13]] • [[Josh.14.14]] • [[Josh.15.6]] • [[Josh.15.13]] • [[Josh.15.17]] • [[Josh.17.2]] • [[Josh.17.3]] • [[Josh.17.3]] • [[Josh.17.3]] • [[Josh.17.3]] • [[Josh.18.17]] • [[Josh.21.12]] • [[Josh.22.13]] • [[Josh.22.20]] • [[Josh.22.31]] • [[Josh.22.32]] • [[Josh.24.9]] • [[Josh.24.9]] • [[Judg.1.13]] • [[Judg.3.9]] • [[Judg.3.11]] • [[Judg.3.15]] • [[Judg.3.31]] • [[Judg.4.6]] • [[Judg.4.12]] • [[Judg.5.1]] • [[Judg.5.6]] • [[Judg.6.29]] • [[Judg.7.14]] • [[Judg.8.13]] • [[Judg.8.29]] • [[Judg.8.32]] • [[Judg.9.1]] • [[Judg.9.5]] • [[Judg.9.18]] • [[Judg.9.26]] • [[Judg.9.28]] • [[Judg.9.30]] • [[Judg.9.31]] • [[Judg.9.35]] • [[Judg.9.57]] • [[Judg.10.1]] • [[Judg.10.1]] • [[Judg.11.1]] • [[Judg.11.2]] • [[Judg.11.25]] • [[Judg.12.13]] • [[Judg.12.15]] • [[Judg.18.30]] • [[Judg.18.30]] • [[1Sam.1.1]] • [[1Sam.1.1]] • [[1Sam.1.1]] • [[1Sam.9.1]] • [[1Sam.9.1]] • [[1Sam.9.1]] • [[1Sam.9.1]] • [[1Sam.10.21]] • [[1Sam.14.1]] • [[1Sam.14.3]] • [[1Sam.14.3]] • [[1Sam.14.50]] • [[1Sam.14.51]] • [[1Sam.17.55]] • [[1Sam.17.56]] • [[1Sam.17.58]] • [[1Sam.19.1]] • [[1Sam.20.31]] • [[1Sam.22.7]] • [[1Sam.22.8]] • [[1Sam.22.9]] • [[1Sam.22.9]] • [[1Sam.22.11]] • [[1Sam.22.20]] • [[1Sam.23.6]] • [[1Sam.23.16]] • [[1Sam.26.5]] • [[1Sam.26.6]] • [[1Sam.26.14]] • [[1Sam.27.2]] • [[1Sam.30.7]] • [[2Sam.1.13]] • [[2Sam.2.8]] • [[2Sam.2.8]] • [[2Sam.2.12]] • [[2Sam.2.12]] • [[2Sam.2.13]] • [[2Sam.2.15]] • [[2Sam.3.14]] • [[2Sam.3.15]] • [[2Sam.3.23]] • [[2Sam.3.25]] • [[2Sam.3.28]] • [[2Sam.3.37]] • [[2Sam.4.1]] • [[2Sam.4.4]] • [[2Sam.4.8]] • [[2Sam.8.3]] • [[2Sam.8.12]] • [[2Sam.8.16]] • [[2Sam.8.16]] • [[2Sam.8.17]] • [[2Sam.8.17]] • [[2Sam.8.18]] • [[2Sam.9.4]] • [[2Sam.9.5]] • [[2Sam.9.6]] • [[2Sam.9.6]] • [[2Sam.10.2]] • [[2Sam.11.21]] • [[2Sam.13.1]] • [[2Sam.13.1]] • [[2Sam.13.3]] • [[2Sam.13.32]] • [[2Sam.13.37]] • [[2Sam.14.1]] • [[2Sam.15.27]] • [[2Sam.16.9]] • [[2Sam.17.27]] • [[2Sam.18.2]] • [[2Sam.18.12]] • [[2Sam.18.19]] • [[2Sam.18.20]] • [[2Sam.18.22]] • [[2Sam.18.27]] • [[2Sam.19.21]] • [[2Sam.20.1]] • [[2Sam.20.2]] • [[2Sam.20.6]] • [[2Sam.20.7]] • [[2Sam.20.10]] • [[2Sam.20.13]] • [[2Sam.20.21]] • [[2Sam.20.22]] • [[2Sam.20.23]] • [[2Sam.20.24]] • [[2Sam.21.7]] • [[2Sam.21.7]] • [[2Sam.21.7]] • [[2Sam.21.8]] • [[2Sam.21.17]] • [[2Sam.21.19]] • [[2Sam.21.21]] • [[2Sam.23.1]] • [[2Sam.23.9]] • [[2Sam.23.9]] • [[2Sam.23.18]] • [[2Sam.23.22]] • [[2Sam.23.24]] • [[2Sam.23.29]] • [[2Sam.23.33]] • [[2Sam.23.33]] • [[2Sam.23.34]] • [[2Sam.23.34]] • [[2Sam.23.34]] • [[2Sam.23.36]] • [[2Sam.23.37]] • [[1Kgs.1.7]] • [[1Kgs.1.32]] • [[1Kgs.1.42]] • [[1Kgs.1.44]] • [[1Kgs.2.5]] • [[1Kgs.2.5]] • [[1Kgs.2.22]] • [[1Kgs.2.32]] • [[1Kgs.2.34]] • [[1Kgs.2.46]] • [[1Kgs.3.19]] • [[1Kgs.4.3]] • [[1Kgs.4.5]] • [[1Kgs.4.6]] • [[1Kgs.4.12]] • [[1Kgs.4.13]] • [[1Kgs.4.14]] • [[1Kgs.4.16]] • [[1Kgs.4.17]] • [[1Kgs.4.19]] • [[1Kgs.11.23]] • [[1Kgs.11.26]] • [[1Kgs.12.2]] • [[1Kgs.12.15]] • [[1Kgs.12.21]] • [[1Kgs.12.23]] • [[1Kgs.14.21]] • [[1Kgs.15.1]] • [[1Kgs.15.18]] • [[1Kgs.15.18]] • [[1Kgs.15.25]] • [[1Kgs.16.3]] • [[1Kgs.16.26]] • [[1Kgs.16.29]] • [[1Kgs.16.29]] • [[1Kgs.16.30]] • [[1Kgs.16.31]] • [[1Kgs.17.17]] • [[1Kgs.19.16]] • [[1Kgs.19.19]] • [[1Kgs.21.22]] • [[1Kgs.22.8]] • [[1Kgs.22.26]] • [[1Kgs.22.41]] • [[1Kgs.22.52]] • [[2Kgs.1.17]] • [[2Kgs.3.1]] • [[2Kgs.3.11]] • [[2Kgs.6.31]] • [[2Kgs.8.16]] • [[2Kgs.8.16]] • [[2Kgs.8.25]] • [[2Kgs.8.28]] • [[2Kgs.8.29]] • [[2Kgs.9.2]] • [[2Kgs.9.9]] • [[2Kgs.9.14]] • [[2Kgs.9.14]] • [[2Kgs.9.29]] • [[2Kgs.10.15]] • [[2Kgs.10.23]] • [[2Kgs.10.29]] • [[2Kgs.11.2]] • [[2Kgs.11.4]] • [[2Kgs.11.12]] • [[2Kgs.12.21]] • [[2Kgs.12.21]] • [[2Kgs.13.1]] • [[2Kgs.13.1]] • [[2Kgs.13.2]] • [[2Kgs.13.3]] • [[2Kgs.13.10]] • [[2Kgs.13.11]] • [[2Kgs.13.25]] • [[2Kgs.13.25]] • [[2Kgs.14.1]] • [[2Kgs.14.8]] • [[2Kgs.14.8]] • [[2Kgs.14.13]] • [[2Kgs.14.13]] • [[2Kgs.14.17]] • [[2Kgs.14.23]] • [[2Kgs.14.24]] • [[2Kgs.14.27]] • [[2Kgs.15.5]] • [[2Kgs.15.9]] • [[2Kgs.15.10]] • [[2Kgs.15.13]] • [[2Kgs.15.14]] • [[2Kgs.15.14]] • [[2Kgs.15.17]] • [[2Kgs.15.18]] • [[2Kgs.15.24]] • [[2Kgs.15.25]] • [[2Kgs.15.27]] • [[2Kgs.15.28]] • [[2Kgs.15.30]] • [[2Kgs.15.30]] • [[2Kgs.15.30]] • [[2Kgs.15.32]] • [[2Kgs.15.32]] • [[2Kgs.15.37]] • [[2Kgs.16.1]] • [[2Kgs.16.1]] • [[2Kgs.16.5]] • [[2Kgs.17.1]] • [[2Kgs.17.21]] • [[2Kgs.18.1]] • [[2Kgs.18.9]] • [[2Kgs.18.18]] • [[2Kgs.18.18]] • [[2Kgs.18.26]] • [[2Kgs.18.37]] • [[2Kgs.18.37]] • [[2Kgs.19.2]] • [[2Kgs.22.3]] • [[2Kgs.22.12]] • [[2Kgs.22.12]] • [[2Kgs.22.14]] • [[2Kgs.22.14]] • [[2Kgs.23.15]] • [[2Kgs.23.30]] • [[2Kgs.23.34]] • [[2Kgs.25.22]] • [[2Kgs.25.22]] • [[2Kgs.25.23]] • [[2Kgs.25.23]] • [[2Kgs.25.23]] • [[2Kgs.25.25]] • [[2Kgs.25.25]] • [[1Chr.1.43]] • [[1Chr.1.44]] • [[1Chr.1.46]] • [[1Chr.1.49]] • [[1Chr.2.18]] • [[1Chr.2.50]] • [[1Chr.4.8]] • [[1Chr.4.15]] • [[1Chr.4.34]] • [[1Chr.4.35]] • [[1Chr.4.35]] • [[1Chr.4.35]] • [[1Chr.4.37]] • [[1Chr.4.37]] • [[1Chr.5.1]] • [[1Chr.5.8]] • [[1Chr.5.8]] • [[1Chr.5.8]] • [[1Chr.5.14]] • [[1Chr.5.14]] • [[1Chr.5.14]] • [[1Chr.5.14]] • [[1Chr.5.14]] • [[1Chr.5.14]] • [[1Chr.5.14]] • [[1Chr.5.15]] • [[1Chr.5.15]] • [[1Chr.6.33]] • [[1Chr.6.33]] • [[1Chr.6.34]] • [[1Chr.6.34]] • [[1Chr.6.34]] • [[1Chr.6.34]] • [[1Chr.6.35]] • [[1Chr.6.35]] • [[1Chr.6.35]] • [[1Chr.6.35]] • [[1Chr.6.36]] • [[1Chr.6.36]] • [[1Chr.6.36]] • [[1Chr.6.36]] • [[1Chr.6.37]] • [[1Chr.6.37]] • [[1Chr.6.37]] • [[1Chr.6.37]] • [[1Chr.6.38]] • [[1Chr.6.38]] • [[1Chr.6.38]] • [[1Chr.6.38]] • [[1Chr.6.39]] • [[1Chr.6.39]] • [[1Chr.6.40]] • [[1Chr.6.40]] • [[1Chr.6.40]] • [[1Chr.6.41]] • [[1Chr.6.41]] • [[1Chr.6.42]] • [[1Chr.6.42]] • [[1Chr.6.42]] • [[1Chr.6.43]] • [[1Chr.6.43]] • [[1Chr.6.43]] • [[1Chr.6.44]] • [[1Chr.6.44]] • [[1Chr.6.44]] • [[1Chr.6.45]] • [[1Chr.6.45]] • [[1Chr.6.46]] • [[1Chr.6.46]] • [[1Chr.6.47]] • [[1Chr.6.47]] • [[1Chr.6.47]] • [[1Chr.6.47]] • [[1Chr.6.56]] • [[1Chr.7.17]] • [[1Chr.7.17]] • [[1Chr.7.29]] • [[1Chr.9.4]] • [[1Chr.9.4]] • [[1Chr.9.4]] • [[1Chr.9.4]] • [[1Chr.9.7]] • [[1Chr.9.7]] • [[1Chr.9.7]] • [[1Chr.9.8]] • [[1Chr.9.8]] • [[1Chr.9.8]] • [[1Chr.9.8]] • [[1Chr.9.8]] • [[1Chr.9.11]] • [[1Chr.9.11]] • [[1Chr.9.11]] • [[1Chr.9.11]] • [[1Chr.9.12]] • [[1Chr.9.12]] • [[1Chr.9.12]] • [[1Chr.9.12]] • [[1Chr.9.12]] • [[1Chr.9.12]] • [[1Chr.9.12]] • [[1Chr.9.12]] • [[1Chr.9.14]] • [[1Chr.9.14]] • [[1Chr.9.15]] • [[1Chr.9.15]] • [[1Chr.9.15]] • [[1Chr.9.16]] • [[1Chr.9.16]] • [[1Chr.9.16]] • [[1Chr.9.19]] • [[1Chr.9.19]] • [[1Chr.9.19]] • [[1Chr.9.20]] • [[1Chr.10.14]] • [[1Chr.11.6]] • [[1Chr.11.12]] • [[1Chr.11.24]] • [[1Chr.11.26]] • [[1Chr.11.31]] • [[1Chr.11.34]] • [[1Chr.11.35]] • [[1Chr.11.35]] • [[1Chr.11.37]] • [[1Chr.11.38]] • [[1Chr.11.39]] • [[1Chr.11.41]] • [[1Chr.11.45]] • [[1Chr.12.1]] • [[1Chr.15.17]] • [[1Chr.15.17]] • [[1Chr.15.17]] • [[1Chr.16.38]] • [[1Chr.18.12]] • [[1Chr.18.15]] • [[1Chr.18.15]] • [[1Chr.18.16]] • [[1Chr.18.16]] • [[1Chr.18.17]] • [[1Chr.19.2]] • [[1Chr.20.5]] • [[1Chr.20.7]] • [[1Chr.24.6]] • [[1Chr.26.24]] • [[1Chr.26.28]] • [[1Chr.26.28]] • [[1Chr.26.28]] • [[1Chr.27.2]] • [[1Chr.27.16]] • [[1Chr.27.18]] • [[1Chr.27.19]] • [[1Chr.27.19]] • [[1Chr.27.20]] • [[1Chr.27.20]] • [[1Chr.27.21]] • [[1Chr.27.21]] • [[1Chr.27.22]] • [[1Chr.27.24]] • [[1Chr.27.25]] • [[1Chr.27.25]] • [[1Chr.27.26]] • [[1Chr.27.32]] • [[1Chr.27.34]] • [[1Chr.29.26]] • [[2Chr.1.5]] • [[2Chr.9.29]] • [[2Chr.10.2]] • [[2Chr.10.15]] • [[2Chr.11.3]] • [[2Chr.11.17]] • [[2Chr.11.18]] • [[2Chr.11.18]] • [[2Chr.13.6]] • [[2Chr.13.7]] • [[2Chr.15.1]] • [[2Chr.15.8]] • [[2Chr.18.25]] • [[2Chr.20.37]] • [[2Chr.22.5]] • [[2Chr.22.6]] • [[2Chr.22.11]] • [[2Chr.23.1]] • [[2Chr.23.1]] • [[2Chr.23.11]] • [[2Chr.24.20]] • [[2Chr.24.26]] • [[2Chr.24.26]] • [[2Chr.25.17]] • [[2Chr.25.17]] • [[2Chr.25.23]] • [[2Chr.25.23]] • [[2Chr.25.25]] • [[2Chr.28.6]] • [[2Chr.28.7]] • [[2Chr.28.12]] • [[2Chr.28.12]] • [[2Chr.29.12]] • [[2Chr.29.12]] • [[2Chr.29.12]] • [[2Chr.29.12]] • [[2Chr.29.12]] • [[2Chr.29.12]] • [[2Chr.34.8]] • [[2Chr.34.20]] • [[2Chr.34.20]] • [[2Chr.34.22]] • [[2Chr.34.22]] • [[2Chr.36.1]] • [[Ezra.3.2]] • [[Ezra.3.2]] • [[Ezra.3.8]] • [[Ezra.3.8]] • [[Ezra.7.1]] • [[Ezra.7.1]] • [[Ezra.7.1]] • [[Ezra.7.2]] • [[Ezra.7.2]] • [[Ezra.7.2]] • [[Ezra.7.3]] • [[Ezra.7.3]] • [[Ezra.7.4]] • [[Ezra.7.4]] • [[Ezra.7.5]] • [[Ezra.7.5]] • [[Ezra.7.5]] • [[Ezra.7.5]] • [[Ezra.8.5]] • [[Ezra.8.6]] • [[Ezra.8.7]] • [[Ezra.8.8]] • [[Ezra.8.9]] • [[Ezra.8.18]] • [[Ezra.8.18]] • [[Ezra.8.33]] • [[Ezra.8.33]] • [[Ezra.8.33]] • [[Ezra.10.6]] • [[Ezra.10.15]] • [[Ezra.10.18]] • [[Neh.1.1]] • [[Neh.3.2]] • [[Neh.3.4]] • [[Neh.3.4]] • [[Neh.3.4]] • [[Neh.3.4]] • [[Neh.3.6]] • [[Neh.3.6]] • [[Neh.3.10]] • [[Neh.3.11]] • [[Neh.3.12]] • [[Neh.3.15]] • [[Neh.3.17]] • [[Neh.3.18]] • [[Neh.3.19]] • [[Neh.3.20]] • [[Neh.3.21]] • [[Neh.3.21]] • [[Neh.3.23]] • [[Neh.3.24]] • [[Neh.3.25]] • [[Neh.3.29]] • [[Neh.3.30]] • [[Neh.3.30]] • [[Neh.6.10]] • [[Neh.10.1]] • [[Neh.10.9]] • [[Neh.11.4]] • [[Neh.11.4]] • [[Neh.11.5]] • [[Neh.11.5]] • [[Neh.11.5]] • [[Neh.11.5]] • [[Neh.11.7]] • [[Neh.11.7]] • [[Neh.11.7]] • [[Neh.11.7]] • [[Neh.11.7]] • [[Neh.11.9]] • [[Neh.11.11]] • [[Neh.11.11]] • [[Neh.11.11]] • [[Neh.11.11]] • [[Neh.11.12]] • [[Neh.11.12]] • [[Neh.11.12]] • [[Neh.11.12]] • [[Neh.11.12]] • [[Neh.11.13]] • [[Neh.11.13]] • [[Neh.11.13]] • [[Neh.11.13]] • [[Neh.11.14]] • [[Neh.11.15]] • [[Neh.11.15]] • [[Neh.11.15]] • [[Neh.11.17]] • [[Neh.11.17]] • [[Neh.11.17]] • [[Neh.11.17]] • [[Neh.11.22]] • [[Neh.11.22]] • [[Neh.11.22]] • [[Neh.11.24]] • [[Neh.11.24]] • [[Neh.12.1]] • [[Neh.12.23]] • [[Neh.12.24]] • [[Neh.12.26]] • [[Neh.12.26]] • [[Neh.12.35]] • [[Neh.12.35]] • [[Neh.12.35]] • [[Neh.12.35]] • [[Neh.12.35]] • [[Neh.13.13]] • [[Neh.13.13]] • [[Neh.13.28]] • [[Esth.2.5]] • [[Esth.2.5]] • [[Ps.72.20]] • [[Ps.80.17]] • [[Ps.116.16]] • [[Eccl.1.1]] • [[Isa.2.1]] • [[Isa.7.1]] • [[Isa.7.1]] • [[Isa.7.1]] • [[Isa.7.6]] • [[Isa.7.9]] • [[Isa.13.1]] • [[Isa.14.12]] • [[Isa.22.20]] • [[Isa.36.3]] • [[Isa.36.3]] • [[Isa.36.22]] • [[Isa.36.22]] • [[Jer.1.1]] • [[Jer.1.3]] • [[Jer.20.1]] • [[Jer.21.1]] • [[Jer.22.11]] • [[Jer.22.18]] • [[Jer.25.1]] • [[Jer.26.1]] • [[Jer.26.22]] • [[Jer.26.24]] • [[Jer.27.1]] • [[Jer.29.3]] • [[Jer.29.21]] • [[Jer.32.7]] • [[Jer.32.12]] • [[Jer.32.12]] • [[Jer.32.16]] • [[Jer.35.1]] • [[Jer.35.6]] • [[Jer.35.8]] • [[Jer.35.14]] • [[Jer.35.16]] • [[Jer.35.19]] • [[Jer.36.1]] • [[Jer.36.4]] • [[Jer.36.8]] • [[Jer.36.9]] • [[Jer.36.12]] • [[Jer.36.14]] • [[Jer.36.14]] • [[Jer.36.14]] • [[Jer.36.26]] • [[Jer.36.32]] • [[Jer.37.1]] • [[Jer.37.1]] • [[Jer.37.3]] • [[Jer.37.13]] • [[Jer.37.13]] • [[Jer.38.1]] • [[Jer.38.1]] • [[Jer.38.1]] • [[Jer.39.14]] • [[Jer.39.14]] • [[Jer.40.5]] • [[Jer.40.8]] • [[Jer.40.9]] • [[Jer.40.11]] • [[Jer.40.11]] • [[Jer.40.13]] • [[Jer.40.14]] • [[Jer.40.14]] • [[Jer.40.15]] • [[Jer.40.15]] • [[Jer.40.16]] • [[Jer.41.1]] • [[Jer.41.2]] • [[Jer.41.2]] • [[Jer.41.6]] • [[Jer.41.7]] • [[Jer.41.9]] • [[Jer.41.10]] • [[Jer.41.10]] • [[Jer.41.11]] • [[Jer.41.11]] • [[Jer.41.12]] • [[Jer.41.13]] • [[Jer.41.14]] • [[Jer.41.15]] • [[Jer.41.16]] • [[Jer.41.16]] • [[Jer.41.16]] • [[Jer.41.18]] • [[Jer.41.18]] • [[Jer.42.1]] • [[Jer.42.1]] • [[Jer.42.8]] • [[Jer.43.2]] • [[Jer.43.3]] • [[Jer.43.4]] • [[Jer.43.5]] • [[Jer.43.6]] • [[Jer.43.6]] • [[Jer.43.6]] • [[Jer.45.1]] • [[Jer.46.2]] • [[Jer.51.59]] • [[Ezek.1.3]] • [[Dan.9.1]] • [[Hos.1.1]] • [[Hos.1.1]] • [[Joel.1.1]] • [[Amos.1.1]] • [[Mic.6.5]] • [[Zeph.1.1]] • [[Zeph.1.1]] • [[Zeph.1.1]] • [[Hag.1.1]] • [[Hag.1.1]] • [[Hag.1.12]] • [[Hag.1.14]] • [[Hag.1.14]] • [[Hag.2.2]] • [[Hag.2.2]] • [[Hag.2.4]] • [[Hag.2.23]] • [[Zech.1.1]] • [[Zech.1.1]] • [[Zech.1.7]] • [[Zech.1.7]] • [[Zech.6.11]] • [[Zech.6.14]]  |
+| **<span class="ashebrew">בֶּֽן</span>** | O son of | [[1Sam.20.30]]  |
+|   | son of | [[Exod.6.25]] • [[Exod.38.21]] • [[Num.4.28]] • [[Num.4.33]] • [[Num.7.8]] • [[Num.25.7]] • [[Josh.24.33]] • [[Judg.20.28]] • [[1Sam.17.58]] • [[2Sam.3.3]] • [[2Sam.23.29]] • [[1Kgs.2.39]] • [[2Kgs.3.3]] • [[2Kgs.20.12]] • [[1Chr.3.2]] • [[1Chr.9.16]] • [[1Chr.11.30]] • [[1Chr.11.43]] • [[1Chr.27.16]] • [[Neh.3.4]] • [[Neh.3.8]] • [[Esth.3.1]] • [[Esth.3.10]] • [[Esth.8.5]] • [[Esth.9.10]] • [[Esth.9.24]] • [[Isa.39.1]] • [[Jer.26.20]] • [[Jer.36.26]] • [[Jer.45.1]] • [[Hag.1.12]]  |
+| **<span class="ashebrew">בֶּ֥ן</span>** | son of | [[Neh.6.18]] • [[Isa.8.2]]  |
+| **<span class="ashebrew">בֶּ֣ן</span>** | son of | [[1Chr.9.21]] • [[Esth.2.5]]  |
+| **<span class="ashebrew">בֶּ֚ן</span>** | son of | [[Lev.24.10]]  |
+| **<span class="ashebrew">בֵן֙</span>** | a son | [[Gen.24.36]] • [[Hos.13.13]] • [[Mic.7.6]]  |
+| **<span class="ashebrew">בֵֽן</span>** | a son | [[Gen.18.14]]  |
+| **<span class="ashebrew">בֵּן֒</span>** | a son | [[Gen.29.33]] • [[Gen.29.34]]  |
+| **<span class="ashebrew">בֵּן</span>** | a son | [[Gen.30.19]] • [[1Sam.22.20]] • [[2Sam.9.12]] • [[Ezek.18.10]]  |
+| **<span class="ashebrew">בֵּֽן</span>** | a son | [[Gen.5.28]] • [[Gen.30.5]] • [[Gen.30.10]] • [[Gen.35.17]] • [[Judg.13.3]] • [[Ruth.4.13]] • [[2Kgs.1.17]] • [[Hos.1.3]] • [[Hos.1.8]]  |
+| **<span class="ashebrew">בֵּ֧ן</span>** | a son | [[Eccl.4.8]]  |
+| **<span class="ashebrew">בֵּ֥ן</span>** | a son | [[Gen.30.7]] • [[Gen.30.12]] • [[Gen.30.17]] • [[Gen.30.24]] • [[Exod.1.16]] • [[2Sam.9.3]] • [[2Kgs.4.14]] • [[Prov.3.12]] • [[Ezek.14.20]]  |
+| **<span class="ashebrew">בֵּ֣ן</span>** | a son | [[1Sam.16.18]] • [[1Kgs.5.7]] • [[2Chr.2.12]] • [[Prov.10.1]] • [[Prov.10.5]] • [[Prov.10.5]] • [[Prov.13.1]] • [[Prov.15.20]] • [[Prov.17.25]] • [[Prov.19.13]] • [[Prov.28.7]] • [[Jer.20.15]]  |
+| **<span class="ashebrew">בֵּ֞ן</span>** | a child | [[Ezek.18.20]]  |
+| **<span class="ashebrew">בֵּ֝֗ן</span>** | a son | [[Prov.19.26]]  |
+|   | son | [[Ps.80.15]]  |
+| **<span class="ashebrew">בֵּ֛ן</span>** | a son | [[Mal.1.6]]  |
+| **<span class="ashebrew">בֵּ֚ן</span>** | a son | [[Deut.21.18]] • [[Isa.9.6]]  |
+| **<span class="ashebrew">בֵּ֗ן</span>** | a son | [[Gen.29.35]] • [[Judg.13.5]] • [[2Sam.12.24]]  |
+| **<span class="ashebrew">בֵּ֖ן</span>** | a son | [[Gen.21.2]] • [[Judg.11.34]] • [[Ruth.4.17]] • [[2Sam.4.4]]  |
+| **<span class="ashebrew">בֵּ֔ן</span>** | a child | [[Ezek.18.14]]  |
+|   | a son | [[Gen.4.25]] • [[Gen.4.26]] • [[Gen.17.19]] • [[Gen.19.37]] • [[Gen.19.38]] • [[Gen.29.32]] • [[Gen.38.5]] • [[Exod.2.22]] • [[Judg.13.24]] • [[1Chr.7.16]] • [[2Chr.21.17]] • [[Eccl.5.14]] • [[Isa.7.14]]  |
+| **<span class="ashebrew">בֵּ֑ן</span>** | a son | [[Gen.16.11]] • [[Gen.16.15]] • [[Gen.17.16]] • [[Gen.30.6]] • [[Gen.30.23]] • [[Gen.38.3]] • [[Gen.38.4]] • [[Exod.2.2]] • [[Num.27.4]] • [[Judg.8.31]] • [[Judg.13.7]] • [[1Sam.1.20]] • [[2Sam.11.27]] • [[2Kgs.4.16]] • [[2Kgs.4.17]] • [[1Chr.7.23]] • [[Isa.8.3]]  |
+| **<span class="ashebrew">בֵ֭ן</span>** | a son | [[Prov.4.3]]  |
+| **<span class="ashebrew">בֵ֥ן</span>** | a son | [[Exod.21.31]]  |
+| **<span class="ashebrew">בֵ֣ן</span>** | a son | [[1Sam.4.20]]  |
+| **<span class="ashebrew">בֵ֞ן</span>** | a son | [[1Kgs.13.2]] • [[1Chr.22.9]]  |
+| **<span class="ashebrew">בֵ֜ן</span>** | a son | [[1Sam.9.2]]  |
+| **<span class="ashebrew">בֵ֛ן</span>** | a son | [[1Kgs.3.6]]  |
+| **<span class="ashebrew">בֵ֖ן</span>** | a son | [[Gen.18.10]] • [[Gen.21.7]] • [[2Kgs.4.28]]  |
+| **<span class="ashebrew">בֵ֔ן</span>** | a son | [[2Sam.18.18]]  |
+| **<span class="ashebrew">בִנְךָ֨</span>** | son your | [[Deut.13.6]]  |
+| **<span class="ashebrew">בִנְךָ֜</span>** | son your | [[Exod.10.2]]  |
+| **<span class="ashebrew">בִנְךָ֛</span>** | child your | [[Deut.6.20]]  |
+|   | son your | [[Exod.13.14]]  |
+| **<span class="ashebrew">בִנְךָ֙</span>** | son your | [[2Chr.6.9]]  |
+| **<span class="ashebrew">בִנְךָ֔</span>** | son your | [[1Chr.28.6]]  |
+| **<span class="ashebrew">בִּנְךָ֨</span>** | son your | [[Gen.22.2]] • [[2Kgs.8.9]]  |
+| **<span class="ashebrew">בִּנְךָ֥</span>** | son your | [[Gen.22.12]] • [[Gen.22.16]] • [[Gen.27.32]] • [[Gen.48.2]]  |
+| **<span class="ashebrew">בִּנְךָ֣</span>** | son your | [[Gen.45.9]]  |
+| **<span class="ashebrew">בִּנְךָ֜</span>** | son your | [[2Sam.15.27]]  |
+| **<span class="ashebrew">בִּנְךָ֛</span>** | son your | [[Gen.37.32]]  |
+| **<span class="ashebrew">בִּנְךָ֙</span>** | son your | [[Lev.18.10]] • [[Lev.18.15]] • [[Deut.7.4]] • [[1Kgs.8.19]]  |
+| **<span class="ashebrew">בִּנְךָ֗</span>** | son your | [[1Kgs.5.5]]  |
+| **<span class="ashebrew">בִּנְךָ֖</span>** | son your | [[Exod.4.23]] • [[Judg.6.30]] • [[Judg.8.22]] • [[1Sam.16.19]] • [[1Kgs.11.12]]  |
+| **<span class="ashebrew">בִּנְךָ֔</span>** | child your | [[Deut.6.2]]  |
+|   | son your | [[Gen.24.5]]  |
+| **<span class="ashebrew">בִּן</span>** | son of | [[Exod.33.11]] • [[Num.11.28]] • [[Num.13.8]] • [[Num.13.16]] • [[Num.14.6]] • [[Num.14.30]] • [[Num.14.38]] • [[Num.26.65]] • [[Num.27.18]] • [[Num.32.12]] • [[Num.32.28]] • [[Num.34.17]] • [[Deut.1.38]] • [[Deut.31.23]] • [[Deut.32.44]] • [[Deut.34.9]] • [[Josh.1.1]] • [[Josh.2.1]] • [[Josh.2.23]] • [[Josh.6.6]] • [[Josh.14.1]] • [[Josh.17.4]] • [[Josh.19.49]] • [[Josh.19.51]] • [[Josh.21.1]] • [[Josh.24.29]] • [[Judg.2.8]] • [[1Kgs.16.34]] • [[Neh.8.17]] • [[Prov.30.1]]  |
+| **<span class="ashebrew">בִּבְנֵ֥י</span>** | among  sons of | [[Ps.89.6]]  |
+| **<span class="ashebrew">בִּבְנֵ֣י</span>** | among  people of | [[Ezek.47.22]]  |
+| **<span class="ashebrew">בִּבְנ֖וֹ</span>** | on son his | [[Exod.32.29]]  |
+| **<span class="ashebrew">בִּ֭נְךָ</span>** | son your | [[Prov.19.18]] • [[Prov.29.17]]  |
+| **<span class="ashebrew">בְנוֹ֙</span>** | son his | [[1Chr.26.6]] • [[1Chr.26.25]]  |
+| **<span class="ashebrew">בְנֽוֹ</span>** | son his | [[1Chr.3.13]] • [[1Chr.3.14]] • [[1Chr.3.16]] • [[1Chr.5.4]] • [[1Chr.6.20]] • [[1Chr.6.27]] • [[1Chr.6.29]] • [[1Chr.6.30]] • [[1Chr.6.51]] • [[1Chr.22.17]] • [[2Chr.35.4]] • [[Neh.12.45]]  |
+| **<span class="ashebrew">בְנֵךְ֙</span>** | son your | [[1Kgs.1.13]] • [[1Kgs.1.30]]  |
+| **<span class="ashebrew">בְנֵיכֶ֖ם</span>** | children your | [[Jer.2.9]]  |
+|   | sons your | [[2Sam.15.27]]  |
+| **<span class="ashebrew">בְנֵיכֶ֔ם</span>** | children your | [[Deut.11.21]]  |
+| **<span class="ashebrew">בְנֵיהֶם֙</span>** | children their | [[Ezek.37.25]]  |
+| **<span class="ashebrew">בְנֵיהֶ֗ם</span>** | children their | [[2Kgs.17.41]]  |
+| **<span class="ashebrew">בְנֵיהֶ֔ם</span>** | sons their | [[2Sam.15.36]]  |
+| **<span class="ashebrew">בְנֵי</span>** | O children of | [[Ps.90.3]]  |
+|   | children of | [[Lam.3.33]]  |
+|   | descendants of | [[Num.4.15]] • [[1Chr.4.4]]  |
+|   | people of | [[Josh.24.32]]  |
+|   | sons of | [[Gen.9.18]] • [[Gen.10.20]] • [[Gen.10.31]] • [[Gen.23.11]] • [[Gen.34.25]] • [[Gen.36.19]] • [[Gen.36.22]] • [[Gen.46.12]] • [[Gen.46.26]] • [[1Chr.2.25]] • [[1Chr.2.27]] • [[1Chr.2.28]] • [[1Chr.8.40]] • [[1Chr.23.10]]  |
+| **<span class="ashebrew">בְנֵֽךְ</span>** | son your | [[Gen.30.15]] • [[2Kgs.4.36]]  |
+| **<span class="ashebrew">בְנֵֽי</span>** | children of | [[Gen.36.25]]  |
+|   | descendants of | [[Exod.32.28]] • [[Num.4.15]] • [[Num.10.17]] • [[1Chr.23.24]]  |
+|   | people of | [[Jer.32.30]] • [[Jer.32.30]]  |
+|   | sons of | [[Gen.31.1]] • [[Gen.34.13]] • [[Gen.35.22]] • [[Gen.36.15]] • [[Gen.36.20]] • [[Gen.36.24]] • [[Gen.36.28]] • [[Gen.46.5]] • [[Lev.3.5]] • [[Lev.10.1]] • [[Num.3.17]] • [[1Sam.1.3]] • [[1Sam.4.4]] • [[1Sam.4.11]] • [[2Sam.13.35]] • [[2Sam.13.36]] • [[2Kgs.2.3]] • [[2Kgs.2.5]] • [[2Kgs.2.15]] • [[2Kgs.4.1]] • [[2Kgs.6.1]] • [[2Kgs.10.6]] • [[2Kgs.10.8]] • [[Ezek.40.46]]  |
+| **<span class="ashebrew">בְנֵ֥י</span>** | children of | [[Hos.2.4]]  |
+| **<span class="ashebrew">בְנֵ֖ךְ</span>** | son your | [[1Kgs.1.17]]  |
+| **<span class="ashebrew">בְנִי֮</span>** | son my | [[1Chr.22.5]]  |
+| **<span class="ashebrew">בְנִי֙</span>** | O son my | [[Gen.48.19]]  |
+| **<span class="ashebrew">בְנִי</span>** | son my | [[1Sam.14.41]]  |
+| **<span class="ashebrew">בְנִֽי</span>** | son my | [[2Sam.18.33]] • [[2Sam.19.4]]  |
+| **<span class="ashebrew">בְנִ֥י</span>** | son my | [[1Chr.29.1]]  |
+| **<span class="ashebrew">בְנִ֣י</span>** | O son my | [[Prov.5.20]] • [[Prov.23.26]]  |
+|   | son my | [[2Sam.18.33]] • [[Prov.23.19]]  |
+| **<span class="ashebrew">בְנִ֡י</span>** | son my | [[1Chr.28.9]]  |
+| **<span class="ashebrew">בְנִ֗י</span>** | son my | [[1Chr.29.19]]  |
+| **<span class="ashebrew">בְנִ֖י</span>** | O son my | [[Gen.27.8]] • [[Gen.27.43]] • [[1Sam.3.6]]  |
+|   | son my | [[1Kgs.3.21]]  |
+| **<span class="ashebrew">בְנִ֔י</span>** | O son my | [[1Chr.22.11]]  |
+|   | son my | [[Gen.38.11]] • [[1Kgs.1.33]] • [[1Chr.28.5]]  |
+| **<span class="ashebrew">בְנִ֑י</span>** | O son my | [[Gen.22.7]]  |
+|   | son my | [[Gen.38.26]]  |
+| **<span class="ashebrew">בְנ֤וֹ</span>** | son his | [[2Chr.22.1]]  |
+| **<span class="ashebrew">בְנ֡וֹ</span>** | son his | [[1Kgs.13.11]] • [[1Chr.28.11]]  |
+| **<span class="ashebrew">בְנ֜וֹ</span>** | son his | [[1Chr.26.14]] • [[1Chr.26.25]]  |
+| **<span class="ashebrew">בְנ֛וֹ</span>** | son his | [[1Chr.3.10]] • [[1Chr.3.12]] • [[1Chr.5.4]] • [[1Chr.5.5]] • [[1Chr.6.20]] • [[1Chr.6.23]] • [[1Chr.6.29]] • [[1Chr.6.30]] • [[1Chr.6.51]] • [[1Chr.8.37]] • [[1Chr.9.43]]  |
+| **<span class="ashebrew">בְנ֗וֹ</span>** | son his | [[1Chr.28.20]]  |
+| **<span class="ashebrew">בְנ֖וֹ</span>** | son his | [[1Kgs.2.1]] • [[1Kgs.15.8]] • [[1Kgs.16.6]] • [[1Kgs.22.40]] • [[2Kgs.8.24]] • [[2Kgs.12.21]] • [[2Kgs.14.29]] • [[2Kgs.15.22]] • [[2Kgs.16.20]] • [[2Kgs.20.21]] • [[2Kgs.21.24]] • [[2Kgs.21.26]] • [[1Chr.3.10]] • [[1Chr.3.11]] • [[1Chr.3.12]] • [[1Chr.3.13]] • [[1Chr.3.16]] • [[1Chr.5.5]] • [[1Chr.6.24]] • [[1Chr.6.29]] • [[1Chr.6.30]] • [[1Chr.6.51]] • [[1Chr.6.52]] • [[1Chr.7.20]] • [[1Chr.8.37]] • [[1Chr.9.43]] • [[1Chr.23.1]] • [[1Chr.26.25]] • [[1Chr.27.7]] • [[1Chr.29.28]] • [[2Chr.12.16]] • [[2Chr.14.1]] • [[2Chr.24.27]] • [[2Chr.28.27]] • [[2Chr.33.25]]  |
+| **<span class="ashebrew">בְנ֔וֹ</span>** | son his | [[1Kgs.21.29]] • [[2Kgs.21.7]] • [[1Chr.5.6]] • [[1Chr.6.21]] • [[2Chr.33.7]]  |
+| **<span class="ashebrew">בְנ֑וֹ</span>** | son his | [[2Sam.16.19]] • [[1Kgs.16.13]] • [[1Chr.22.6]] • [[Prov.13.24]]  |
+| **<span class="ashebrew">בְֽנֵי</span>** | children of | [[Eccl.3.19]]  |
+|   | descendants of | [[1Chr.24.4]]  |
+|   | sons of | [[Judg.11.2]]  |
+| **<span class="ashebrew">בְּנוֹ֙</span>** | son his | [[Gen.25.6]] • [[1Sam.7.1]] • [[1Sam.19.1]] • [[1Kgs.15.4]] • [[2Kgs.16.3]] • [[2Kgs.21.6]] • [[1Chr.6.21]] • [[1Chr.6.24]] • [[1Chr.7.20]] • [[2Chr.26.21]]  |
+| **<span class="ashebrew">בְּנוֹ</span>** | son his | [[1Chr.7.25]]  |
+| **<span class="ashebrew">בְּנֽוֹ</span>** | son his | [[Gen.17.26]] • [[Gen.21.5]] • [[Gen.21.11]] • [[Gen.22.10]] • [[Gen.22.13]] • [[Deut.18.10]] • [[1Sam.13.22]] • [[2Sam.1.5]] • [[2Sam.1.17]] • [[2Sam.19.2]] • [[1Chr.3.10]] • [[1Chr.3.11]] • [[1Chr.3.12]] • [[1Chr.3.17]] • [[1Chr.4.25]] • [[1Chr.5.5]] • [[1Chr.6.21]] • [[1Chr.6.22]] • [[1Chr.6.23]] • [[1Chr.6.24]] • [[1Chr.6.26]] • [[1Chr.6.27]] • [[1Chr.6.50]] • [[1Chr.6.52]] • [[1Chr.6.53]] • [[1Chr.7.20]] • [[1Chr.7.25]] • [[1Chr.7.26]] • [[1Chr.7.27]] • [[1Chr.8.37]] • [[1Chr.9.43]] • [[1Chr.26.25]] • [[1Chr.27.6]] • [[Ps.3.1]]  |
+| **<span class="ashebrew">בְּנָהּ֙</span>** | son her | [[1Kgs.14.5]] • [[2Kgs.4.6]] • [[2Kgs.8.5]]  |
+| **<span class="ashebrew">בְּנָהּ֒</span>** | son her | [[1Kgs.3.26]]  |
+| **<span class="ashebrew">בְּנָֽהּ</span>** | son her | [[Gen.27.17]] • [[1Kgs.17.20]] • [[2Kgs.6.29]]  |
+| **<span class="ashebrew">בְּנָ֨הּ</span>** | son her | [[1Kgs.3.26]]  |
+| **<span class="ashebrew">בְּנָ֥הּ</span>** | son her | [[Gen.27.15]] • [[1Kgs.3.20]]  |
+| **<span class="ashebrew">בְּנָ֤הּ</span>** | son her | [[Gen.27.15]]  |
+| **<span class="ashebrew">בְּנָ֣הּ</span>** | son her | [[Gen.27.42]] • [[Gen.27.42]]  |
+| **<span class="ashebrew">בְּנָ֞הּ</span>** | son her | [[Lev.18.17]]  |
+| **<span class="ashebrew">בְּנָ֜הּ</span>** | son her | [[2Kgs.8.1]]  |
+| **<span class="ashebrew">בְּנָ֖הּ</span>** | son her | [[Gen.27.6]] • [[2Kgs.4.37]] • [[2Kgs.8.5]]  |
+| **<span class="ashebrew">בְּנָ֔הּ</span>** | son her | [[Exod.4.25]] • [[1Sam.1.23]]  |
+| **<span class="ashebrew">בְּנָ֑הּ</span>** | son her | [[Gen.21.10]] • [[2Kgs.11.1]] • [[2Chr.22.10]]  |
+| **<span class="ashebrew">בְּנֶ֑ךָ</span>** | son your | [[Judg.8.22]] • [[2Sam.16.8]] • [[Isa.7.3]]  |
+| **<span class="ashebrew">בְּנֵךְ֙</span>** | son your | [[2Kgs.6.28]] • [[2Kgs.6.29]]  |
+| **<span class="ashebrew">בְּנֵיכֶם֙</span>** | children your | [[Deut.29.22]]  |
+|   | sons your | [[Exod.3.22]]  |
+| **<span class="ashebrew">בְּנֵיכֶֽם</span>** | children your | [[Ps.115.14]]  |
+| **<span class="ashebrew">בְּנֵיכֶ֨ם</span>** | children your | [[Ezek.20.31]]  |
+| **<span class="ashebrew">בְּנֵיכֶ֤ם</span>** | children your | [[Josh.4.6]]  |
+| **<span class="ashebrew">בְּנֵיכֶ֣ם</span>** | children your | [[Josh.4.22]]  |
+|   | sons your | [[1Sam.8.11]] • [[Neh.4.14]]  |
+| **<span class="ashebrew">בְּנֵיכֶ֗ם</span>** | children your | [[Deut.11.2]]  |
+| **<span class="ashebrew">בְּנֵיכֶ֖ם</span>** | children your | [[Deut.11.19]]  |
+|   | sons your | [[Exod.32.2]]  |
+| **<span class="ashebrew">בְּנֵיכֶ֔ם</span>** | children your | [[Deut.32.46]]  |
+|   | sons your | [[Jer.2.30]]  |
+| **<span class="ashebrew">בְּנֵיכֶ֑ם</span>** | children your | [[Exod.12.26]]  |
+|   | sons your | [[Lev.26.29]]  |
+| **<span class="ashebrew">בְּנֵיהֶן֙</span>** | children their | [[Ezek.23.37]]  |
+| **<span class="ashebrew">בְּנֵיהֶם֙</span>** | children their | [[Josh.5.7]] • [[2Kgs.17.31]] • [[Jer.17.2]] • [[Ezek.20.18]] • [[Ezek.23.39]]  |
+|   | sons their | [[Deut.12.31]] • [[Jer.11.22]]  |
+| **<span class="ashebrew">בְּנֵיהֶֽם</span>** | children their | [[Ps.90.16]]  |
+| **<span class="ashebrew">בְּנֵיהֶ֥ם</span>** | sons their | [[Ezra.3.9]] • [[Jer.7.31]]  |
+| **<span class="ashebrew">בְּנֵיהֶ֤ם</span>** | sons their | [[2Kgs.17.17]] • [[Ezek.23.47]]  |
+| **<span class="ashebrew">בְּנֵיהֶ֣ם</span>** | children their | [[2Kgs.17.41]]  |
+|   | sons their | [[Neh.10.28]] • [[Jer.32.35]]  |
+| **<span class="ashebrew">בְּנֵיהֶ֜ם</span>** | children their | [[Jer.18.21]]  |
+| **<span class="ashebrew">בְּנֵיהֶ֛ם</span>** | children their | [[Jer.19.5]]  |
+| **<span class="ashebrew">בְּנֵיהֶ֗ם</span>** | sons their | [[Jer.19.9]]  |
+| **<span class="ashebrew">בְּנֵיהֶ֖ם</span>** | children their | [[Deut.4.10]] • [[2Chr.25.4]] • [[Jer.32.18]] • [[Zech.10.9]]  |
+|   | sons their | [[Jer.3.24]] • [[Ezek.24.25]]  |
+| **<span class="ashebrew">בְּנֵיהֶ֔ם</span>** | children their | [[Hos.9.12]]  |
+| **<span class="ashebrew">בְּנֵי֩</span>** | sons of | [[Lev.1.11]] • [[Lev.3.2]]  |
+| **<span class="ashebrew">בְּנֵי֙</span>** | sons | [[1Chr.6.26]]  |
+|   | sons of | [[2Sam.6.3]] • [[2Sam.21.8]] • [[2Kgs.25.7]] • [[1Chr.1.28]] • [[1Chr.4.18]] • [[1Chr.4.21]] • [[1Chr.9.30]] • [[1Chr.12.3]] • [[2Chr.24.25]] • [[Ezra.3.9]] • [[Jer.35.16]]  |
+| **<span class="ashebrew">בְּנֵי</span>** | children of | [[Ps.14.2]] • [[Ps.89.47]]  |
+|   | descendants of | [[Num.3.29]] • [[1Chr.9.6]] • [[1Chr.26.10]]  |
+|   | people of | [[Deut.2.37]]  |
+|   | sons of | [[Gen.7.13]] • [[Gen.9.19]] • [[Gen.10.1]] • [[Gen.10.21]] • [[Gen.10.32]] • [[Gen.36.27]] • [[Exod.39.14]] • [[1Chr.2.5]] • [[1Chr.7.8]] • [[1Chr.23.22]] • [[1Chr.24.29]] • [[Job.41.34]]  |
+| **<span class="ashebrew">בְּנֵֽךְ</span>** | son your | [[Gen.30.14]] • [[1Kgs.17.23]]  |
+| **<span class="ashebrew">בְּנֵֽי</span>** | children of | [[Ps.102.28]] • [[Ps.149.2]] • [[Prov.13.22]]  |
+|   | descendants of | [[Num.3.25]] • [[1Chr.24.31]]  |
+|   | people of | [[Jer.32.32]] • [[Jer.40.14]]  |
+|   | sons of | [[Gen.33.19]] • [[Gen.36.10]] • [[Exod.6.16]] • [[Exod.28.21]] • [[Exod.28.29]] • [[Lev.6.14]] • [[Josh.24.32]] • [[Judg.8.19]] • [[Judg.9.5]] • [[Judg.9.24]] • [[1Sam.17.13]] • [[2Sam.4.5]] • [[2Sam.13.32]] • [[2Kgs.10.13]] • [[2Kgs.11.2]] • [[2Chr.22.11]] • [[Ezra.3.9]] • [[Esth.9.12]] • [[Esth.9.13]] • [[Esth.9.14]] • [[Jer.40.8]]  |
+| **<span class="ashebrew">בְּנֵ֫י</span>** | children of | [[Ps.53.2]]  |
+| **<span class="ashebrew">בְּנֵ֨י</span>** | descendants of | [[1Chr.26.21]]  |
+|   | sons of | [[Gen.36.14]] • [[Exod.6.14]] • [[Lev.1.5]] • [[Lev.1.7]] • [[Lev.3.8]] • [[Lev.3.13]] • [[Lev.9.9]] • [[Lev.9.12]] • [[Lev.9.18]] • [[2Sam.21.8]] • [[1Kgs.1.25]] • [[Esth.9.10]]  |
+| **<span class="ashebrew">בְּנֵ֧י</span>** | sons of | [[Lev.7.10]] • [[Num.16.1]] • [[Song.1.6]] • [[Jer.39.6]]  |
+| **<span class="ashebrew">בְּנֵ֥ךְ</span>** | son your | [[1Kgs.3.22]] • [[1Kgs.3.23]]  |
+| **<span class="ashebrew">בְּנֵ֥י</span>** | children of | [[Gen.11.5]] • [[2Sam.7.14]] • [[1Kgs.8.39]] • [[2Chr.6.30]] • [[Ps.33.13]] • [[Ps.66.5]] • [[Prov.8.4]] • [[Prov.8.31]] • [[Eccl.2.8]] • [[Jer.2.9]] • [[Ezek.31.14]] • [[Joel.1.12]]  |
+|   | descendants of | [[Exod.32.26]] • [[Deut.1.28]] • [[Deut.9.2]] • [[1Chr.2.10]] • [[1Chr.9.14]] • [[1Chr.24.4]] • [[2Chr.13.9]]  |
+|   | people of | [[Deut.32.8]] • [[Isa.31.6]]  |
+|   | sons of | [[Gen.10.22]] • [[Gen.10.29]] • [[Gen.35.5]] • [[Gen.36.12]] • [[Gen.36.13]] • [[Gen.36.17]] • [[Gen.36.21]] • [[Gen.37.2]] • [[Gen.42.11]] • [[Gen.42.13]] • [[Gen.49.8]] • [[Exod.6.17]] • [[Exod.28.1]] • [[Exod.28.9]] • [[Exod.39.6]] • [[Lev.10.4]] • [[Num.16.1]] • [[Judg.8.18]] • [[1Sam.31.2]] • [[2Sam.3.39]] • [[2Sam.13.23]] • [[2Sam.13.27]] • [[2Sam.13.33]] • [[2Sam.23.32]] • [[1Kgs.4.3]] • [[1Kgs.11.20]] • [[2Kgs.14.6]] • [[2Kgs.23.6]] • [[1Chr.1.23]] • [[1Chr.1.31]] • [[1Chr.1.41]] • [[1Chr.1.42]] • [[1Chr.2.4]] • [[1Chr.3.21]] • [[1Chr.3.21]] • [[1Chr.4.6]] • [[1Chr.4.42]] • [[1Chr.5.3]] • [[1Chr.6.19]] • [[1Chr.7.33]] • [[1Chr.8.16]] • [[1Chr.8.18]] • [[1Chr.8.21]] • [[1Chr.8.25]] • [[1Chr.8.27]] • [[1Chr.8.38]] • [[1Chr.9.44]] • [[1Chr.10.2]] • [[1Chr.12.7]] • [[1Chr.23.18]] • [[1Chr.23.21]] • [[1Chr.24.30]] • [[1Chr.26.1]] • [[1Chr.27.32]] • [[2Chr.21.2]] • [[Job.38.7]] • [[Jer.48.45]] • [[Jer.52.10]]  |
+| **<span class="ashebrew">בְּנֵ֤נוּ</span>** | son our | [[Deut.21.20]]  |
+| **<span class="ashebrew">בְּנֵ֤י</span>** | descendants of | [[1Chr.15.17]]  |
+|   | people of | [[Exod.13.19]]  |
+|   | sons of | [[Gen.25.16]] • [[Gen.36.15]] • [[Gen.36.17]] • [[Gen.36.18]] • [[Gen.46.19]] • [[Lev.1.8]] • [[1Chr.7.11]] • [[1Chr.23.21]] • [[1Chr.24.24]] • [[1Chr.24.26]]  |
+| **<span class="ashebrew">בְּנֵ֣י</span>** | O children of | [[Isa.57.3]]  |
+|   | O people of | [[2Chr.13.12]]  |
+|   | O sons of | [[Gen.49.2]] • [[2Sam.16.10]] • [[2Sam.19.22]]  |
+|   | children of | [[Exod.34.7]] • [[Job.42.16]] • [[Ps.11.4]] • [[Ps.31.19]] • [[Ps.58.1]] • [[Eccl.3.18]] • [[Eccl.9.12]] • [[Isa.60.14]] • [[Jer.32.19]]  |
+|   | descendants of | [[Num.3.15]] • [[Num.3.36]] • [[Num.4.27]] • [[Num.26.38]] • [[Deut.9.2]] • [[1Chr.6.66]] • [[1Chr.7.17]] • [[1Chr.24.3]] • [[1Chr.24.3]] • [[1Chr.27.10]] • [[1Chr.27.14]] • [[2Chr.13.10]] • [[2Chr.29.12]] • [[2Chr.29.12]]  |
+|   | people of | [[Jer.3.21]] • [[Jer.27.3]]  |
+|   | sons of | [[Gen.10.2]] • [[Gen.25.13]] • [[Gen.27.29]] • [[Gen.34.27]] • [[Gen.35.23]] • [[Gen.35.24]] • [[Gen.35.26]] • [[Gen.36.5]] • [[Gen.36.11]] • [[Gen.36.13]] • [[Gen.36.23]] • [[Gen.36.26]] • [[Gen.42.5]] • [[Gen.42.32]] • [[Gen.45.21]] • [[Gen.46.15]] • [[Gen.46.18]] • [[Gen.46.22]] • [[Gen.46.25]] • [[Gen.48.8]] • [[Exod.1.1]] • [[Exod.28.11]] • [[Lev.2.2]] • [[Lev.8.13]] • [[Lev.8.24]] • [[Lev.10.16]] • [[Lev.16.1]] • [[Lev.19.18]] • [[Lev.20.17]] • [[Lev.21.1]] • [[Num.3.3]] • [[Num.16.12]] • [[Deut.11.6]] • [[Deut.21.5]] • [[Deut.31.9]] • [[Judg.9.2]] • [[1Sam.14.49]] • [[2Sam.2.18]] • [[2Sam.13.29]] • [[2Sam.13.30]] • [[1Kgs.1.9]] • [[1Kgs.1.19]] • [[1Kgs.4.31]] • [[2Kgs.10.2]] • [[2Kgs.10.7]] • [[1Chr.1.5]] • [[1Chr.1.17]] • [[1Chr.1.34]] • [[1Chr.1.40]] • [[1Chr.2.1]] • [[1Chr.2.3]] • [[1Chr.3.1]] • [[1Chr.3.9]] • [[1Chr.3.21]] • [[1Chr.5.14]] • [[1Chr.7.13]] • [[1Chr.7.19]] • [[1Chr.7.30]] • [[1Chr.11.46]] • [[1Chr.12.3]] • [[1Chr.23.8]] • [[1Chr.23.9]] • [[1Chr.23.12]] • [[1Chr.23.15]] • [[1Chr.23.23]] • [[1Chr.24.1]] • [[1Chr.25.2]] • [[1Chr.25.3]] • [[1Chr.25.4]] • [[1Chr.26.7]] • [[1Chr.26.21]] • [[2Chr.21.2]] • [[Neh.3.3]] • [[Job.1.6]] • [[Job.2.1]] • [[Job.30.8]] • [[Ps.127.4]] • [[Dan.10.16]] • [[Zeph.1.8]]  |
+| **<span class="ashebrew">בְּנֵ֛י</span>** | sons of | [[2Sam.4.2]] • [[2Sam.4.9]] • [[Jer.35.4]]  |
+| **<span class="ashebrew">בְּנֵ֗י</span>** | sons of | [[1Chr.11.34]]  |
+| **<span class="ashebrew">בְּנֵ֖ךְ</span>** | son your | [[2Sam.14.11]] • [[1Kgs.1.12]]  |
+| **<span class="ashebrew">בְּנֵ֖י</span>** | children of | [[Isa.49.20]] • [[Mic.1.16]]  |
+|   | descendants of | [[1Chr.4.24]]  |
+|   | sons of | [[1Chr.1.8]] • [[1Chr.1.35]] • [[1Chr.1.36]] • [[1Chr.1.37]] • [[1Chr.6.1]] • [[1Chr.6.16]] • [[1Chr.7.36]] • [[1Chr.11.44]] • [[1Chr.23.19]] • [[1Chr.23.20]] • [[1Chr.24.26]] • [[1Chr.24.27]] • [[1Chr.26.22]] • [[1Chr.29.24]]  |
+| **<span class="ashebrew">בְּנֵ֑ךְ</span>** | son your | [[1Kgs.17.19]]  |
+| **<span class="ashebrew">בְּנִי֙</span>** | O son my | [[Josh.7.19]] • [[2Sam.13.25]] • [[2Sam.19.4]]  |
+|   | son my | [[Exod.4.23]] • [[2Sam.14.16]]  |
+| **<span class="ashebrew">בְּנִֽי</span>** | O son my | [[Gen.27.18]] • [[Gen.27.26]] • [[Gen.27.37]] • [[Gen.43.29]] • [[1Sam.4.16]] • [[1Sam.26.21]]  |
+|   | son my | [[1Kgs.17.18]]  |
+| **<span class="ashebrew">בְּנִ֨י</span>** | son my | [[1Sam.22.8]]  |
+| **<span class="ashebrew">בְּנִ֥י</span>** | son my | [[Gen.27.21]] • [[Exod.4.22]] • [[2Sam.18.33]] • [[2Sam.19.4]] • [[1Kgs.3.23]] • [[Ps.2.7]]  |
+| **<span class="ashebrew">בְּנִ֤י</span>** | O son my | [[2Sam.18.33]]  |
+|   | son my | [[1Kgs.3.22]]  |
+| **<span class="ashebrew">בְּנִ֣י</span>** | O child my | [[Eccl.12.12]]  |
+|   | O son my | [[Gen.49.9]] • [[1Sam.24.16]] • [[1Sam.26.17]] • [[1Sam.26.25]] • [[Prov.3.11]] • [[Prov.24.13]] • [[Prov.24.21]]  |
+|   | son my | [[Gen.27.24]] • [[1Sam.22.8]] • [[2Sam.18.33]] • [[1Kgs.3.20]]  |
+| **<span class="ashebrew">בְּנִ֡י</span>** | O son my | [[Prov.1.10]] • [[Prov.6.3]]  |
+| **<span class="ashebrew">בְּנִ֛י</span>** | son my | [[Gen.37.35]]  |
+| **<span class="ashebrew">בְּנִ֗י</span>** | O son my | [[Prov.1.15]]  |
+|   | son my | [[Gen.34.8]]  |
+| **<span class="ashebrew">בְּנִ֖י</span>** | son my | [[Gen.21.10]] • [[Gen.24.6]] • [[Gen.42.38]] • [[Gen.45.28]] • [[Judg.8.23]] • [[Judg.17.2]] • [[1Sam.14.39]] • [[1Kgs.3.21]] • [[2Kgs.6.28]] • [[2Kgs.6.29]] • [[Ezek.21.10]]  |
+| **<span class="ashebrew">בְּנִ֕י</span>** | O son my | [[1Chr.22.7]]  |
+| **<span class="ashebrew">בְּנִ֔י</span>** | O son my | [[Gen.27.1]] • [[2Sam.18.22]]  |
+|   | son my | [[Gen.24.8]] • [[Gen.27.25]] • [[Gen.27.27]] • [[Gen.37.33]] • [[1Sam.14.40]]  |
+| **<span class="ashebrew">בְּנִ֑י</span>** | O son my | [[Gen.22.8]] • [[Gen.27.13]] • [[Gen.27.20]] • [[Gen.27.21]]  |
+|   | son my | [[Gen.30.15]] • [[Gen.30.16]] • [[1Sam.3.16]] • [[1Sam.14.42]] • [[2Sam.14.11]]  |
+| **<span class="ashebrew">בְּנ֨וֹ</span>** | son his | [[2Kgs.3.27]]  |
+| **<span class="ashebrew">בְּנ֧וֹ</span>** | son his | [[Gen.21.3]] • [[2Kgs.23.10]]  |
+| **<span class="ashebrew">בְּנ֥וֹ</span>** | son  his | [[Num.23.18]]  |
+|   | son his | [[Gen.4.17]] • [[Gen.9.24]]  |
+| **<span class="ashebrew">בְּנ֤וֹ</span>** | son his | [[1Sam.8.2]]  |
+| **<span class="ashebrew">בְּנ֣וֹ</span>** | son his | [[Gen.27.1]] • [[Num.24.3]] • [[Num.24.15]] • [[2Sam.8.10]] • [[1Chr.18.10]]  |
+| **<span class="ashebrew">בְּנ֛וֹ</span>** | son his | [[Gen.16.15]] • [[1Chr.3.11]] • [[1Chr.3.13]] • [[1Chr.4.25]] • [[1Chr.6.27]] • [[1Chr.6.50]] • [[1Chr.6.52]] • [[1Chr.7.21]] • [[1Chr.7.26]]  |
+| **<span class="ashebrew">בְּנ֗וֹ</span>** | son his | [[Gen.11.31]] • [[Gen.17.23]] • [[Judg.6.11]] • [[1Sam.9.3]] • [[1Sam.13.16]] • [[1Sam.17.17]] • [[2Sam.1.12]] • [[1Chr.7.25]]  |
+| **<span class="ashebrew">בְּנ֖וֹ</span>** | son his | [[Gen.34.20]] • [[Gen.37.34]] • [[Deut.10.6]] • [[1Sam.16.20]] • [[2Sam.1.4]] • [[2Sam.10.1]] • [[2Sam.13.37]] • [[1Kgs.11.43]] • [[1Kgs.14.20]] • [[1Kgs.14.31]] • [[1Kgs.15.24]] • [[1Kgs.16.28]] • [[1Kgs.22.50]] • [[2Kgs.10.35]] • [[2Kgs.13.9]] • [[2Kgs.13.24]] • [[2Kgs.14.16]] • [[2Kgs.15.7]] • [[2Kgs.15.38]] • [[2Kgs.19.37]] • [[2Kgs.21.18]] • [[2Kgs.24.6]] • [[1Chr.3.14]] • [[1Chr.4.25]] • [[1Chr.5.4]] • [[1Chr.6.20]] • [[1Chr.6.21]] • [[1Chr.6.22]] • [[1Chr.6.23]] • [[1Chr.6.26]] • [[1Chr.6.27]] • [[1Chr.6.50]] • [[1Chr.6.53]] • [[1Chr.7.21]] • [[1Chr.7.25]] • [[1Chr.7.26]] • [[1Chr.7.27]] • [[1Chr.19.1]] • [[2Chr.9.31]] • [[2Chr.17.1]] • [[2Chr.21.1]] • [[2Chr.26.23]] • [[2Chr.27.9]] • [[2Chr.33.20]] • [[2Chr.36.8]] • [[Isa.37.38]] • [[Jer.27.7]] • [[Mal.3.17]]  |
+| **<span class="ashebrew">בְּנ֔וֹ</span>** | child his | [[Deut.8.5]]  |
+|   | son his | [[Gen.11.31]] • [[Gen.17.25]] • [[Gen.21.4]] • [[Gen.22.6]] • [[Gen.22.9]] • [[Gen.27.20]] • [[Gen.27.31]] • [[Gen.34.24]] • [[Gen.34.26]] • [[Num.20.28]] • [[Josh.24.33]] • [[1Sam.20.27]] • [[2Sam.21.12]] • [[1Kgs.11.20]] • [[1Chr.6.22]] • [[1Chr.6.24]] • [[1Chr.7.20]] • [[1Chr.26.25]] • [[Neh.6.18]]  |
+| **<span class="ashebrew">בְּנ֑וֹ</span>** | child his | [[Deut.1.31]]  |
+|   | son his | [[Gen.11.31]] • [[Gen.22.3]] • [[Gen.25.11]] • [[Gen.27.5]] • [[Num.20.25]] • [[Num.20.26]] • [[2Sam.21.13]] • [[1Kgs.11.35]] • [[2Chr.24.22]]  |
+| **<span class="ashebrew">בְּבָנָ֛יו</span>** | among sons his | [[1Sam.16.1]]  |
+| **<span class="ashebrew">בְּבָנֶ֖יךָ</span>** | among sons your | [[Exod.13.13]]  |
+| **<span class="ashebrew">בְּבָנֵ֨ינוּ</span>** | with sons our | [[Exod.10.9]]  |
+| **<span class="ashebrew">בְּבֶן</span>** | in  son of | [[2Sam.20.1]] • [[1Kgs.12.16]] • [[2Chr.10.16]]  |
+|   | in a child of | [[Ps.146.3]]  |
+| **<span class="ashebrew">בְּבֶֽן</span>** | on  child of | [[Ps.50.20]]  |
+| **<span class="ashebrew">בְּבֵ֣ן</span>** | over a son | [[Prov.17.2]]  |
+| **<span class="ashebrew">בְּֽנֵי</span>** | children of | [[Ps.57.4]] • [[Prov.15.11]] • [[Eccl.8.11]] • [[Eccl.9.3]] • [[Isa.54.1]]  |
+|   | sons of | [[Num.3.2]] • [[Num.3.18]] • [[1Chr.1.42]] • [[1Chr.3.9]] • [[1Chr.6.17]]  |
+| **<span class="ashebrew">בְּ֭רִי</span>** | O son my | [[Prov.31.2]]  |
+| **<span class="ashebrew">בְּ֭נִי</span>** | O son my | [[Prov.1.8]] • [[Prov.2.1]] • [[Prov.3.1]] • [[Prov.3.21]] • [[Prov.4.10]] • [[Prov.4.20]] • [[Prov.5.1]] • [[Prov.6.1]] • [[Prov.6.20]] • [[Prov.7.1]] • [[Prov.19.27]] • [[Prov.23.15]] • [[Prov.27.11]]  |
+| **<span class="ashebrew">בְּ֠נוֹ</span>** | son his | [[2Sam.21.14]]  |
+| **<span class="ashebrew">בְּ֝נ֗וֹ</span>** | son his | [[Prov.30.4]]  |
+| **<span class="ashebrew">בְ֭נֵיהֶם</span>** | young their | [[Job.39.4]]  |
