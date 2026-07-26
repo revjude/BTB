@@ -1,2 +1,2 @@
-- A group, first mentioned at [[2Sam.8.18|2Sa.8.18]] [[2Sam.8.0| a]] lso called Carite at [[2Kgs.11.4|2Ki.11.4]], [[2Kgs.11.19|19]]
+- A group, first mentioned at [[2Sam.8.18|2Sa.8.18]] also called Carite at [[2Kgs.11.4|2Ki.11.4]], [[2Kgs.11.19|19]]
 - Also named: <i>ka.ri</i> (<span class='ashebrew'>‎כ‎</span>ָּ<span class='ashebrew'>‎ר‎</span>ִ<span class='ashebrew'>‎י‎</span> "Carite" **<big>[[H3746|כָּרִי]]</big>**)

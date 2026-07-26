@@ -22,5 +22,4 @@ All entries for **Berechiah**:  **<big>[[H1296|בֶּרֶכְיָה]]</big>**
 - **[Hashubah](H2807)** (sibling)
 - **[Ohel](H0169)** (sibling)
 - **[Hasadiah](H2619)** (sibling)
-- **[Jushab-hesed](Jushab)** (sibling)
 - **[Abiud](G0010)** (sibling)

@@ -1,2 +1,2 @@
-- A man living at the time of United Monarchy, first mentioned at [[2Sam.23.28|2Sa.23.28]] [[2Sam.23.0| a]] lso called Ilai at [[1Chr.11.29|1Ch.11.29]]
+- A man living at the time of United Monarchy, first mentioned at [[2Sam.23.28|2Sa.23.28]] also called Ilai at [[1Chr.11.29|1Ch.11.29]]
 - Also named: <i>i.lay</i> (<span class='ashebrew'>‎ע‎</span>ִ<span class='ashebrew'>‎יל‎</span>ַ<span class='ashebrew'>‎י‎</span> "Ilai" **<big>[[H5866|עִילַי]]</big>**)

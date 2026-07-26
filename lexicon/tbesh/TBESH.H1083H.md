@@ -1,2 +1,2 @@
-- A man living at the time of Exile and Return, first mentioned at [[Neh.10.8|Neh.10.8]] [[Neh.10.0| a]] lso called Bilgai at [[Neh.10.8|Neh.10.8]]
+- A man living at the time of Exile and Return, first mentioned at [[Neh.10.8|Neh.10.8]] also called Bilgai at [[Neh.10.8|Neh.10.8]]
 - Also named: <i>bil.gay</i> (<span class='ashebrew'>‎ב‎</span>ִּ<span class='ashebrew'>‎ל‎</span>ְ<span class='ashebrew'>‎ג‎</span>ַּ<span class='ashebrew'>‎י‎</span> "Bilgai" **<big>[[H1084|בִּלְגַּי]]</big>**)

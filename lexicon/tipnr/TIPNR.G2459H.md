@@ -19,5 +19,5 @@ Apart from this brief mention in Paul's letter to the Colossians, no other infor
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
 | Justus | [<span class='tipnrLangGreek'>Ἰοῦστος</span>](G2459H) | 1x | [Col.4.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Justus\*\|reference=Col.4.11) |
-| Jesus | [<span class='tipnrLangGreek'>Ἰησοῦς</span>](G2424J) | 1x | [Col.4.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jesus\*\|reference=Col.4.11) |
+| Jesus | [<span class='tipnrLangGreek'>Ἰησοῦς</span>](G2424) | 1x | [Col.4.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jesus\*\|reference=Col.4.11) |
 All entries for **Justus or Jesus**:  **<big>[[G2459|Ἰοῦστος]]</big>** ☩  **<big>[[G2424|Ἰησοῦς]]</big>**

@@ -1,2 +1,2 @@
-- A man living at the time of Divided Monarchy, first mentioned at [[2Kgs.17.3|2Ki.17.3]] [[2Kgs.17.0| a]] lso called Shalman at [[Hos.10.14|Hos.10.14]]
+- A man living at the time of Divided Monarchy, first mentioned at [[2Kgs.17.3|2Ki.17.3]] also called Shalman at [[Hos.10.14|Hos.10.14]]
 - Also named: <i>shal.man</i> (<span class='ashebrew'>‎ש‎</span>ַׁ<span class='ashebrew'>‎ל‎</span>ְ<span class='ashebrew'>‎מ‎</span>ַ<span class='ashebrew'>‎ן‎</span> "Shalman" **<big>[[H8020|שַׁלְמַן]]</big>**)

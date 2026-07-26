@@ -25,6 +25,6 @@ Despite the variations in the place names, the gospel accounts agree that the he
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
 | Gerasene (Var, KJV= Gadarene) | [<span class='tipnrLangGreek'>Γερασηνός</span>](G1086G) | 3x | [[Mrk.5.1] ... [Luk.8.37] ⌕](https://www.stepbible.org/?q=version=ESV\|text=Gerasene\*\|reference=Mrk.5.1;Luk.8.26;Luk.8.37) |
-| Gerasene (Var, KJV= Gadarene) | [<span class='tipnrLangGreek'>Γεργεσηνός</span>](G1086H) | 1x | [Mat.8.28 ⌕](https://www.stepbible.org/?q=version=ESV\|text=Gerasene\*\|reference=Mat.8.28) |
+| Gerasene (Var, KJV= Gadarene) | [<span class='tipnrLangGreek'>Γεργεσηνός</span>](G1086) | 1x | [Mat.8.28 ⌕](https://www.stepbible.org/?q=version=ESV\|text=Gerasene\*\|reference=Mat.8.28) |
 | Gadara (Var, KJV= Gergesene) | [<span class='tipnrLangGreek'>Γαδαρηνός</span>](G1046) | 4x | [[Mat.8.28] ... [Luk.8.37] ⌕](https://www.stepbible.org/?q=version=ESV\|text=Gadara\|reference=Mat.8.28) |
 All entries for **Gerasa or Gadara**:  **<big>[[G1086|Γεργεσηνός]]</big>** ☩  **<big>[[G1086|Γεργεσηνός]]</big>** ☩  **<big>[[G1046|Γαδαρηνός]]</big>**

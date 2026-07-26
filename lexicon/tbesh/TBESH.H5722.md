@@ -1,1 +1,1 @@
-- A man living at the time of United Monarchy, only mentioned at [[2Sam.23.8|2Sa.23.8]] [[2Sam.23.0| a]] lso translated "wielded" or "raised"
+- A man living at the time of United Monarchy, only mentioned at [[2Sam.23.8|2Sa.23.8]] also translated "wielded" or "raised"

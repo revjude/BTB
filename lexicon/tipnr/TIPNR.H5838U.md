@@ -3,7 +3,7 @@
 Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Azariah</span> son of Jehallel was a Merarite Levite who helped purify the temple under King Hezekiah.
-- A man living at the time of Divided Monarchy, only mentioned at [[2Chr.29.12a|2Ch.29.12a]]; 
+- A man living at the time of Divided Monarchy, only mentioned at [[2Chr.29.12|2Ch.29.12]]; 
 - only referred to as Azariah **<big>[[H5838|עֲזַרְיָה]]</big>**; 
 -  father of Joel **<big>[[H3100|יוֹאֵל]]</big>**.
 

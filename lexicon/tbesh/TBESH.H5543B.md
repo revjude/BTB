@@ -1,2 +1,2 @@
-- A man living at the time of Exile and Return, first mentioned at [[Neh.12.7|Neh.12.7]] [[Neh.12.0| a]] lso called Sallai at [[Neh.12.20|Neh.12.20]]
+- A man living at the time of Exile and Return, first mentioned at [[Neh.12.7|Neh.12.7]] also called Sallai at [[Neh.12.20|Neh.12.20]]
 - Also named: <i>sal.lay</i> (<span class='ashebrew'>‎ס‎</span>ַ<span class='ashebrew'>‎ל‎</span>ַּ<span class='ashebrew'>‎י‎</span> "Sallai" **<big>[[H5543E|סַלּוּ]]</big>**)

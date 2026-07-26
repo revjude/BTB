@@ -21,6 +21,6 @@ Colossae was known for its wool and dye industry, particularly a unique purple d
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
 | Colossae (KJV= Colosse) | [<span class='tipnrLangGreek'>Κολοσσαί</span>](G2857G) | 1x | [Col.1.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Colossae\*\|reference=Col.1.2) |
-| Colossae (Var, KJV= Colosse) | [<span class='tipnrLangGreek'>Κολασσαί</span>](G2857H) | 1x | [Col.1.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Colossae\*\|reference=Col.1.2) |
+| Colossae (Var, KJV= Colosse) | [<span class='tipnrLangGreek'>Κολασσαί</span>](G2857) | 1x | [Col.1.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Colossae\*\|reference=Col.1.2) |
 | - (KJV= Colossians) <small>*(group)*</small> | [<span class='tipnrLangGreek'>Κολ</span>a<span class='tipnrLangGreek'>σσαεύς</span>](G2858) | 1x | [Col.4.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|reference=Col.4.18) |
 All entries for **Colossae**:  **<big>[[G2857|Κολοσσαί]]</big>** ☩  **<big>[[G2857|Κολοσσαί]]</big>** ☩  **<big>[[G2858|Κολοσσαεύς]]</big>**

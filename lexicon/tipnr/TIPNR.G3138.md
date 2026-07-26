@@ -12,7 +12,7 @@ Mark, also known as John Mark, was a prominent figure in the early Christian chu
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
 | Mark (KJV= Marcus) | [<span class='tipnrLangGreek'>Μάρκος</span>](G3138) | 8x | [[Act.12.12] ... [1Pe.5.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mark\*\|reference=Act.12.12;Act.12.25;Act.15.37;Act.15.39;Col.4.10;2Ti.4.11;Phm.1.24;1Pe.5.13) |
-| John | [<span class='tipnrLangGreek'>Ἰωάννης</span>](G2491J) | 5x | [[Act.12.12] ... [Act.15.37] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=John\*\|reference=Act.12.12;Act.12.25;Act.13.5;Act.13.13;Act.15.37) |
+| John | [<span class='tipnrLangGreek'>Ἰωάννης</span>](G2491) | 5x | [[Act.12.12] ... [Act.15.37] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=John\*\|reference=Act.12.12;Act.12.25;Act.13.5;Act.13.13;Act.15.37) |
 All entries for **Mark or John**:  **<big>[[G3138|Μάρκος]]</big>** ☩  **<big>[[G2491|Ἰωάννης]]</big>**
 #### Related Profiles:
 - **[husband_of_Mary](G3137N)** (father)

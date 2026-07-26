@@ -1,1 +1,1 @@
-- A man living at the time of Exile and Return, first mentioned at [[Ezra.2.55|Ezr.2.55]] [[Ezra.2.0| a]] lso called Perida at [[Neh.7.57|Neh.7.57]]
+- A man living at the time of Exile and Return, first mentioned at [[Ezra.2.55|Ezr.2.55]] also called Perida at [[Neh.7.57|Neh.7.57]]

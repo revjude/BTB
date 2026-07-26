@@ -3,7 +3,7 @@
 Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Joah</span>, a Levite of the Gershonites, assisted in the purification of the temple during Hezekiah's reign \(2Ch.29.12\).
-- A man living at the time of Divided Monarchy, only mentioned at [[2Chr.29.12a|2Ch.29.12a]]; 
+- A man living at the time of Divided Monarchy, only mentioned at [[2Chr.29.12|2Ch.29.12]]; 
 - only referred to as Joah **<big>[[H3098|יוֹאָח]]</big>**; 
 - a son of Zimmah **<big>[[H2155|זִמָּה]]</big>**.
 

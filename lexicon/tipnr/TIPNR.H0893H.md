@@ -3,7 +3,7 @@
 Man living at the time of Exile and Return
 
 Zechariah, a descendant of <span class='tipnrhighlight'>Bebai</span>, led 28 men of his family to return with Ezra to Jerusalem.
-- A man living at the time of Exile and Return, only mentioned at [[Ezra.8.11b|Ezr.8.11b]]; 
+- A man living at the time of Exile and Return, only mentioned at [[Ezra.8.11|Ezr.8.11]]; 
 - only referred to as Bebai **<big>[[H0893|בֵּבַי]]</big>**; 
 -  father of Zechariah **<big>[[H2148|זְכַרְיָה]]</big>**.
 

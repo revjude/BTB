@@ -1,3 +1,3 @@
 - A woman living at the time of United Monarchy, only mentioned at [[2Sam.17.25|2Sa.17.25]]
--  wife of: Jesse (**<big>[[H3448H|יִשַׁי]]</big>**)
+-  wife of: Jesse (**<big>[[H3448|יִשַׁי]]</big>**)
 -  mother of: David (**<big>[[H1732|דָּוִד]]</big>**), Eliab (**<big>[[H0446I|אֱלִיאָב]]</big>**), Abinadab (**<big>[[H0041I|אֲבִינָדָב]]</big>**), Shimeah (**<big>[[H8093|שִׁמְעָה]]</big>**), Nethanel (**<big>[[H5417H|נְתַנְאֵל]]</big>**), Raddai (**<big>[[H7288|רַדַּי]]</big>**), Ozem (**<big>[[H0684|אֹצֶם]]</big>**), Zeruiah (**<big>[[H6870|צְרוּיָה]]</big>**), Abigail (**<big>[[H0026H|אֲבִיגַיִל]]</big>**) and Elihu (**<big>[[H0453J|אֱלִיהוּ]]</big>**)

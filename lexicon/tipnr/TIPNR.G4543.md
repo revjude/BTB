@@ -1,7 +1,7 @@
 <small>*Samothrace • Island visited by Paul during his second missionary journey*</small>
 
 <span class='tipnrhighlight'>Samothrace</span> is an island in the Aegean Sea where Paul and his companions landed during his second missionary journey \(Acts 16:11\).
-- A location only mentioned at [[John.4.9c|Act.16.11]]; 
+- A location only mentioned at [[Acts.16.11|Act.16.11]]; 
 - only referred to as Samothrace **<big>[[G4543|Σαμοθρᾴκη]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=40.467279,25.486069&zoom=10&maptype=satellite"></iframe>
 

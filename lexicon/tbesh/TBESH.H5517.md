@@ -1,1 +1,1 @@
-- A man living at the time of Exile and Return, first mentioned at [[Ezra.2.44|Ezr.2.44]] [[Ezra.2.0| a]] lso called Sia at [[Neh.7.47|Neh.7.47]]
+- A man living at the time of Exile and Return, first mentioned at [[Ezra.2.44|Ezr.2.44]] also called Sia at [[Neh.7.47|Neh.7.47]]

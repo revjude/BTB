@@ -1,7 +1,7 @@
 <small>*Moab • In Edom • Ancient kingdom east of the Dead Sea in Jordan*</small>
 
 <span class='tipnrhighlight'>Moab</span> was an ancient kingdom located east of the Dead Sea in present-day Jordan, often in conflict with Israel.
-- A location in Edom first mentioned at [[Gen.19.37b|Gen.19.37b]]; 
+- A location in Edom first mentioned at [[Gen.19.37|Gen.19.37]]; 
 - referred to as Moab or Moabite **<big>[[H4124|מוֹאָב]]</big>**, or Moab or Moabite **<big>[[H4125|מוֹאָבִי]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.49684513710609,35.78284105296996&zoom=10&maptype=satellite"></iframe>
 

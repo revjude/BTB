@@ -3,7 +3,7 @@
 Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Azariahu</span> was one of the sons of King Jehoshaphat of Judah \(2 Chr 21:2\).
-- A man from the tribe of Judah living at the time of Divided Monarchy, only mentioned at [[2Chr.21.2b|2Ch.21.2b]]; 
+- A man from the tribe of Judah living at the time of Divided Monarchy, only mentioned at [[2Chr.21.2|2Ch.21.2]]; 
 - only referred to as Azariahu **<big>[[H5838|עֲזַרְיָה]]</big>**; 
 -  son of Jehoshaphat **<big>[[H3092|יְהוֹשָׁפָט]]</big>**; 
 - a brother of Jehoram **<big>[[H3088|יְהוֹרָם]]</big>**, Azariah **<big>[[H5838|עֲזַרְיָה]]</big>**, Jehiel **<big>[[H3171|יְחִיאֵל]]</big>**, Zechariah **<big>[[H2148|זְכַרְיָה]]</big>**, Michael **<big>[[H4317|מִיכָאֵל]]</big>** and Shephatiah **<big>[[H8203|שְׁפַטְיָה]]</big>**.

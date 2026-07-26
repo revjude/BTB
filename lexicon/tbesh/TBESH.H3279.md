@@ -1,1 +1,1 @@
-- A man living at the time of Exile and Return, first mentioned at [[Ezra.2.56|Ezr.2.56]] [[Ezra.2.0| a]] lso called Jaala at [[Neh.7.58|Neh.7.58]]
+- A man living at the time of Exile and Return, first mentioned at [[Ezra.2.56|Ezr.2.56]] also called Jaala at [[Neh.7.58|Neh.7.58]]

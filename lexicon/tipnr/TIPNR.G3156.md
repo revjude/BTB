@@ -12,7 +12,7 @@ Matthew, also known as Levi, was a tax collector in Capernaum before being calle
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
 | Matthew | [<span class='tipnrLangGreek'>Ματθαῖος</span>](G3156) | 5x | [[Mat.9.9] ... [Act.1.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Matthew\*\|reference=Mat.9.9;Mat.10.3;Mrk.3.18;Luk.6.15;Act.1.13) |
-| Levi | [<span class='tipnrLangGreek'>Λευΐ</span>](G3017I) | 3x | [[Mrk.2.14] ... [Luk.5.29] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Levi\*\|reference=Mrk.2.14;Luk.5.27;Luk.5.29) |
+| Levi | [<span class='tipnrLangGreek'>Λευΐ</span>](G3017) | 3x | [[Mrk.2.14] ... [Luk.5.29] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Levi\*\|reference=Mrk.2.14;Luk.5.27;Luk.5.29) |
 | Levi (=Alt tag) | [<span class='tipnrLangGreek'>Λευΐ</span>](G3018) | 3x | [[Mrk.2.14] ... [Luk.5.29] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Levi\*\|reference=Mrk.2.14;Luk.5.27;Luk.5.29) |
 All entries for **Matthew or Levi**:  **<big>[[G3156|Ματθαῖος]]</big>** ☩  **<big>[[G3017|Λευΐ]]</big>** ☩  **<big>[[G3018|Λευΐς]]</big>**
 #### Related Profiles:

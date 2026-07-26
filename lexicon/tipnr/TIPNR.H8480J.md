@@ -3,7 +3,7 @@
 Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Tahath</span>, another descendant of Ephraim mentioned in the genealogy.
-- A man from the tribe of Ephraim living at the time of Divided Monarchy, only mentioned at [[1Chr.7.20b|1Ch.7.20b]]; 
+- A man from the tribe of Ephraim living at the time of Divided Monarchy, only mentioned at [[1Chr.7.20|1Ch.7.20]]; 
 - only referred to as Tahath **<big>[[H8480|תַּחַת]]</big>**; 
 - a son of Eleadah **<big>[[H0497|אֶלְעָדָה]]</big>**; 
 -  father of Zabad **<big>[[H2066|זָבָד]]</big>**.

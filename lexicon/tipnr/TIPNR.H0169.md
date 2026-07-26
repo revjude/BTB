@@ -22,5 +22,4 @@ All entries for **Ohel**:  **<big>[[H0169|אֹהֶל]]</big>**
 - **[Hashubah](H2807)** (sibling)
 - **[Berechiah](H1296G)** (sibling)
 - **[Hasadiah](H2619)** (sibling)
-- **[Jushab-hesed](Jushab)** (sibling)
 - **[Abiud](G0010)** (sibling)

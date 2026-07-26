@@ -11,5 +11,5 @@ Claudius Lysias was a Roman tribune \(commander\) stationed in Jerusalem during 
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
 | Lysias | [<span class='tipnrLangGreek'>Λυσίας</span>](G3079) | 3x | [[Act.23.26] ... [Act.24.22] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Lysias\*\|reference=Act.23.26;Act.24.7;Act.24.22) |
-| Claudius | [<span class='tipnrLangGreek'>Κλαύδιος</span>](G2804H) | 1x | [Act.23.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Claudius\*\|reference=Act.23.26) |
+| Claudius | [<span class='tipnrLangGreek'>Κλαύδιος</span>](G2804) | 1x | [Act.23.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Claudius\*\|reference=Act.23.26) |
 All entries for **Lysias or Claudius**:  **<big>[[G3079|Λυσίας]]</big>** ☩  **<big>[[G2804|Κλαύδιος]]</big>**

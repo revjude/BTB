@@ -1,2 +1,2 @@
-- A man living at the time of Exile and Return, first mentioned at [[Ezra.2.10|Ezr.2.10]] [[Ezra.2.0| a]] lso called Binnui at [[Neh.7.15|Neh.7.15]]
+- A man living at the time of Exile and Return, first mentioned at [[Ezra.2.10|Ezr.2.10]] also called Binnui at [[Neh.7.15|Neh.7.15]]
 - Also named: <i>bin.nuy</i> (<span class='ashebrew'>‎ב‎</span>ִּ<span class='ashebrew'>‎נ‎</span>ּ<span class='ashebrew'>‎ו‎</span>ּ<span class='ashebrew'>‎י‎</span> "Binnui" **<big>[[H1131|בִּנּוּי]]</big>**)

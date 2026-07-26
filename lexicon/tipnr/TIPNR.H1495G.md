@@ -3,7 +3,7 @@
 Man living at the time of Egypt and Wilderness
 
 <span class='tipnrhighlight'>Gazez</span> was a son of Caleb and his concubine Ephah, born after Haran.
-- A man from the tribe of Judah living at the time of Egypt and Wilderness, only mentioned at [[1Chr.2.46a|1Ch.2.46a]]; 
+- A man from the tribe of Judah living at the time of Egypt and Wilderness, only mentioned at [[1Chr.2.46|1Ch.2.46]]; 
 - only referred to as Gazez **<big>[[H1495|גָּזֵז]]</big>**; 
 -  son of Caleb **<big>[[H3612|כָּלֵב]]</big>** and Ephah **<big>[[H5891|עֵיפָה]]</big>**; 
 - a brother of Haran **<big>[[H2771|חָרָן]]</big>** and Moza **<big>[[H4162|מוֹצָא]]</big>**; 

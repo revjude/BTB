@@ -13,7 +13,7 @@ Joses, also known as Joseph, was one of the brothers of Jesus Christ and a son o
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
 | Joses (NIV= Joseph) | [<span class='tipnrLangGreek'>Ἰωσῆς</span>](G2500G) | 3x | [[Mrk.6.3] ... [Mrk.15.47] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joses\*\|reference=Mrk.6.3;Mrk.15.40;Mrk.15.47) |
-| Joseph (KJV= Joses) | [<span class='tipnrLangGreek'>Ἰωσήφ</span>](G2501H) | 2x | [[Mat.13.55] & [Mat.27.56] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joseph\*\|reference=Mat.13.55;Mat.27.56) |
+| Joseph (KJV= Joses) | [<span class='tipnrLangGreek'>Ἰωσήφ</span>](G2501) | 2x | [[Mat.13.55] & [Mat.27.56] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joseph\*\|reference=Mat.13.55;Mat.27.56) |
 All entries for **Joses or Joseph**:  **<big>[[G2500|Ἰωσῆς]]</big>** ☩  **<big>[[G2501|Ἰωσήφ]]</big>**
 #### Related Profiles:
 - **[Joseph](G2501G)** (father)

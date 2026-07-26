@@ -29,5 +29,4 @@ All entries for **Zerubbabel or Sheshbazzar**:  **<big>[[H2216|זְרֻבָּב�
 - **[Ohel](H0169)** (child)
 - **[Berechiah](H1296G)** (child)
 - **[Hasadiah](H2619)** (child)
-- **[Jushab-hesed](Jushab)** (child)
 - **[Abiud](G0010)** (child)

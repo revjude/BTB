@@ -1,1 +1,1 @@
-- A man living at the time of Divided Monarchy, first mentioned at [[2Kgs.22.12|2Ki.22.12]] [[2Kgs.22.0| a]] lso called in KJV: Asahiah
+- A man living at the time of Divided Monarchy, first mentioned at [[2Kgs.22.12|2Ki.22.12]] also called in KJV: Asahiah

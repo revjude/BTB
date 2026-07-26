@@ -1,7 +1,7 @@
 <small>*Laban • A place Moses spoke to Israel*</small>
 
 <span class='tipnrhighlight'>Laban</span>, a place where Moses spoke to the Israelites \(Deuteronomy 1:1\).
-- A location near Ashnah **<big>[[H0823|אַשְׁנָה]]</big>** only mentioned at [[2Chr.1.16b|Deu.1.1]]; 
+- A location near Ashnah **<big>[[H0823|אַשְׁנָה]]</big>** only mentioned at [[Deut.1.1|Deu.1.1]]; 
 - only referred to as Laban **<big>[[H3837|לָבָן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.8099,34.9365&zoom=10&maptype=satellite"></iframe>
 

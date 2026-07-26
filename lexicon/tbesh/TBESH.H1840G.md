@@ -1,1 +1,1 @@
-- A prophet living at the time of Exile and Return, first mentioned at [[Ezek.14.14|Ezk.14.14]] [[Ezek.14.0| a]] lso called Belteshazzar at [[Dan.1.7|Dan.1.7]] [[Dan.2.26| 2.26]] [[Dan.4.8| 4.8]], [[Dan.4.9|9]], [[Dan.4.18|18]], [[Dan.4.19|19]] [[Dan.5.12| 5.12]] [[Dan.10.1| 10.1]]
+- A prophet living at the time of Exile and Return, first mentioned at [[Ezek.14.14|Ezk.14.14]] also called Belteshazzar at [[Dan.1.7|Dan.1.7]] [[Dan.2.26| 2.26]] [[Dan.4.8| 4.8]], [[Dan.4.9|9]], [[Dan.4.18|18]], [[Dan.4.19|19]] [[Dan.5.12| 5.12]] [[Dan.10.1| 10.1]]

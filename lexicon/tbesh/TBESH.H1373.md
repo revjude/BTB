@@ -1,1 +1,1 @@
-- A man living at the time of Exile and Return, only mentioned at [[Neh.11.8|Neh.11.8]] [[Neh.11.0| a]] lso translated "men"
+- A man living at the time of Exile and Return, only mentioned at [[Neh.11.8|Neh.11.8]] also translated "men"

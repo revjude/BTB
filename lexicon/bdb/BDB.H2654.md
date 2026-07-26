@@ -14,7 +14,7 @@ $\quad$ $\quad$ **c.** with imperfect subject ([[BDB#Ges|Ges]]<sup>«GKC:142»§
 
 
 
- [<span class="bdbLangHebrew">‎חָפַץ‎</span>] **verb** ==bend down== (Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhMAAbAIAAAAAAAP///yH5BAAAAAAALAAAAAAwABsAAAJtjI+py+0Po5y0WgjAdRrnvCkfiIzG2IUnWrIBqbaMGYdpzTUwvnyTz3vdSqJhsLg7PlzKFlB4ciYTxh4qBdpdq1NrR/t8rZhQL22Llj67QrT7fT1Ux+9lvKibB9ls5TTcJOcWOJNGaNZ3qOhQAAA7"> ***lower, depress***, as wings Qor 15:88) — only **Qal** ***Imperfect*** <span class="bdbLangHebrew">‎יַחְפֹּץ זְנָבוֺ כְמוֺאֶֿרֶז‎</span> [[Job.40.17|Job 40:17]] ***he bendeth down (extendeth down stiffly) his tail like a cedar***, see [[BDB#Wetzst|Wetzst]] in [[BDB#De|De]]<sup>[[Job.52|Job 52]]6</sup> [[BDB#Hi|Hi]]<sup>Hiob 299</sup>. 
+ [<span class="bdbLangHebrew">‎חָפַץ‎</span>] **verb** ==bend down== (Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhMAAbAIAAAAAAAP///yH5BAAAAAAALAAAAAAwABsAAAJtjI+py+0Po5y0WgjAdRrnvCkfiIzG2IUnWrIBqbaMGYdpzTUwvnyTz3vdSqJhsLg7PlzKFlB4ciYTxh4qBdpdq1NrR/t8rZhQL22Llj67QrT7fT1Ux+9lvKibB9ls5TTcJOcWOJNGaNZ3qOhQAAA7"> ***lower, depress***, as wings Qor 15:88) — only **Qal** ***Imperfect*** <span class="bdbLangHebrew">‎יַחְפֹּץ זְנָבוֺ כְמוֺאֶֿרֶז‎</span> [[Job.40.17|Job 40:17]] ***he bendeth down (extendeth down stiffly) his tail like a cedar***, see [[BDB#Wetzst|Wetzst]] in [[BDB#De|De]]<sup>Job 526</sup> [[BDB#Hi|Hi]]<sup>Hiob 299</sup>. 
 
 **Brown-Driver-Briggs References**
 
@@ -30,7 +30,7 @@ $\quad$ $\quad$ **c.** with imperfect subject ([[BDB#Ges|Ges]]<sup>«GKC:142»§
 | 1 Kings | [[1Kgs.9.1\|9:1]] · [[1Kgs.10.9\|10:9]] |
 | 2 Chronicles | [[2Chr.9.8\|9:8]] |
 | Esther | [[Esth.2.14\|2:14]] · [[Esth.6.6\|6:6]] · [[Esth.6.7\|6:7]] · [[Esth.6.9\|6:9]] · [[Esth.6.11\|6:11]] |
-| Job | [[Job.9.3\|9:3]] · [[Job.13.3\|13:3]] · [[Job.21.14\|21:14]] · [[Job.33.32\|33:32]] · [[Job.40.17\|40:17]] · [[Job.52\|Chapter 52]] |
+| Job | [[Job.9.3\|9:3]] · [[Job.13.3\|13:3]] · [[Job.21.14\|21:14]] · [[Job.33.32\|33:32]] · [[Job.40.17\|40:17]] |
 | Psalms | [[Ps.18.19\|18:20]]**\*** · [[Ps.22.8\|22:9]]**\*** · [[Ps.37.23\|37:23]] · [[Ps.40.6\|40:7]]**\*** · [[Ps.40.8\|40:9]]**\*** · [[Ps.41.11\|41:12]]**\*** · [[Ps.51.6\|51:8]]**\*** · [[Ps.51.16\|51:18]]**\*** · [[Ps.51.19\|51:21]]**\*** · [[Ps.68.30\|68:31]]**\*** · [[Ps.73.25\|73:25]] · [[Ps.109.17\|109:17]] · [[Ps.112.1\|112:1]] · [[Ps.115.3\|115:3]] · [[Ps.119.35\|119:35]] · [[Ps.135.6\|135:6]] · [[Ps.147.10\|147:10]] |
 | Proverbs | [[Prov.18.2\|18:2]] · [[Prov.21.1\|21:1]] |
 | Ecclesiastes | [[Eccl.8.3\|8:3]] |

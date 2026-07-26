@@ -22,5 +22,4 @@ All entries for **Shelomith**:  **<big>[[H8019|שְׁלֹמִית]]</big>**
 - **[Ohel](H0169)** (sibling)
 - **[Berechiah](H1296G)** (sibling)
 - **[Hasadiah](H2619)** (sibling)
-- **[Jushab-hesed](Jushab)** (sibling)
 - **[Abiud](G0010)** (sibling)

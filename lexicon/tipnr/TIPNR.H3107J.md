@@ -3,7 +3,7 @@
 Man living at the time of Divided Monarchy
 
 One of two men called <span class='tipnrhighlight'>Jozabad</span> who, along with other Manassite leaders, joined David at Ziklag when he was returning to fight against the Philistines.
-- A man living at the time of Divided Monarchy, only mentioned at [[1Chr.12.20b|1Ch.12.20b]]; 
+- A man living at the time of Divided Monarchy, only mentioned at [[1Chr.12.20|1Ch.12.20]]; 
 - only referred to as Jozabad **<big>[[H3107|יוֹזָבָד]]</big>**.
 
 Jozabad is one of two men of that name  in 1 Chronicles 12:20 who were leaders from the tribe of Manasseh who joined David at Ziklag. The context of the passage is the listing of the warriors who allied themselves with David during his time of exile and conflict with King Saul \(1 Chronicles 12:1-22\). 

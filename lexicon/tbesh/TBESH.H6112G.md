@@ -1,1 +1,1 @@
-- Someone descended from Ezni, only mentioned at [[2Sam.23.8|2Sa.23.8]] [[2Sam.23.0| a]] lso translated "spear"; (Qere)
+- Someone descended from Ezni, only mentioned at [[2Sam.23.8|2Sa.23.8]] also translated "spear"; (Qere)

@@ -16,4 +16,3 @@ Hamor was a Hivite who founded the city of Shechem during the time of the patria
 All entries for **Hamor**:  **<big>[[H2544|חֲמוֹר]]</big>** ☩  **<big>[[G1697|Ἐμμόρ]]</big>**
 #### Related Profiles:
 - **[Shechem](H7927H)** (child)
-- **[town|Shechem](town|Shechem@Gen.12.6)** (child)

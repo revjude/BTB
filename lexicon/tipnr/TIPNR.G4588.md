@@ -10,5 +10,5 @@ Sergius Paulus, mentioned in Acts 13:7, was the proconsul of Cyprus during Paul'
 #### References
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
-| Sergius/ Paulus | [<span class='tipnrLangGreek'>Σέργιος</span>](G4588)[<span class='tipnrLangGreek'>Παῦλος</span>](G3972H) | 1x | [Act.13.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sergius\*\|reference=Act.13.7) |
+| Sergius/ Paulus | [<span class='tipnrLangGreek'>Σέργιος</span>](G4588)[<span class='tipnrLangGreek'>Παῦλος</span>](G3972) | 1x | [Act.13.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sergius\*\|reference=Act.13.7) |
 All entries for **Sergius Paulus**:  **<big>[[G4588|Σέργιος]]</big>** ☩  **<big>[[G3972|Παῦλος]]</big>**

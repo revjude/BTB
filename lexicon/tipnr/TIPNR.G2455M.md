@@ -19,5 +19,5 @@ The inclusion of Judas Barsabbas in this narrative highlights the unity and coop
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
 | Judas | [<span class='tipnrLangGreek'>Ἰούδας</span>](G2455M) | 3x | [[Act.15.22] ... [Act.15.32] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Judas\*\|reference=Act.15.22;Act.15.27;Act.15.32) |
-| Barsabbas (KJV= Barsabas) | [<span class='tipnrLangGreek'>Βαρσαβᾶς</span>](G0923H) | 1x | [Act.15.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Barsabbas\*\|reference=Act.15.22) |
+| Barsabbas (KJV= Barsabas) | [<span class='tipnrLangGreek'>Βαρσαβᾶς</span>](G0923) | 1x | [Act.15.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Barsabbas\*\|reference=Act.15.22) |
 All entries for **Judas or Barsabbas**:  **<big>[[G2455|Ἰούδας]]</big>** ☩  **<big>[[G0923|Βαρσαβᾶς]]</big>**

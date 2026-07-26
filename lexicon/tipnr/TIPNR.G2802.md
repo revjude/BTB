@@ -1,7 +1,7 @@
 <small>*Cauda • Island where Paul's ship sought shelter*</small>
 
 <span class='tipnrhighlight'>Cauda</span> was an island where the ship carrying Paul sought shelter during a storm on his journey to Rome.
-- A location only mentioned at [[Ezra.8.17b|Act.27.16]]; 
+- A location only mentioned at [[Acts.27.16|Act.27.16]]; 
 - only referred to as Cauda **<big>[[G2802|Κλαύδη]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=34.843510,24.091671&zoom=10&maptype=satellite"></iframe>
 

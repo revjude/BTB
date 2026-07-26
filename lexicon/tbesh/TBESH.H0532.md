@@ -1,2 +1,2 @@
-- A man living at the time of Exile and Return, first mentioned at [[Ezra.2.57|Ezr.2.57]] [[Ezra.2.0| a]] lso called Amon at [[Neh.7.59|Neh.7.59]]
+- A man living at the time of Exile and Return, first mentioned at [[Ezra.2.57|Ezr.2.57]] also called Amon at [[Neh.7.59|Neh.7.59]]
 - Also named: <i>a.mon</i> (<span class='ashebrew'>‎א‎</span>ָ<span class='ashebrew'>‎מו‎</span>ֹ<span class='ashebrew'>‎ן‎</span> "Amon" **<big>[[H0526I|אָמוֹן]]</big>**)

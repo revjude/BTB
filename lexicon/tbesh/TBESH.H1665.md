@@ -1,1 +1,1 @@
--  a musical instrument? from Gath? and used in three Psalm titles- [[Ps.8.1|Psa.8.1 81:1]] [[Ps.8.84| 84:1]] [[Ps.8.0| a]] song title used for the Feast of Booths
+-  a musical instrument? from Gath? and used in three Psalm titles- [[Ps.8.1|Psa.8.1 81:1]] 84:1 a song title used for the Feast of Booths

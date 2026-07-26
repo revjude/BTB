@@ -11,5 +11,5 @@ Barabbas was a notorious prisoner mentioned in all four Gospels \([[Matt.27.16|M
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
 | Barabbas | [<span class='tipnrLangGreek'>Βαραββᾶς</span>](G0912) | 11x | [[Mat.27.16] ... [Jhn.18.40b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Barabbas\*\|reference=Mat.27.16;Mat.27.17;Mat.27.20;Mat.27.21;Mat.27.26;Mrk.15.7;Mrk.15.11;Mrk.15.15;Luk.23.18;Jhn.18.40;Jhn.18.40) |
-| [ ] (NIV= Jesus) | [<span class='tipnrLangGreek'>Ἰησοῦς</span>](G2424H) | 1x | [Mat.27.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|reference=Mat.27.16) |
+| [ ] (NIV= Jesus) | [<span class='tipnrLangGreek'>Ἰησοῦς</span>](G2424) | 1x | [Mat.27.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|reference=Mat.27.16) |
 All entries for **Barabbas or Jesus**:  **<big>[[G0912|Βαραββᾶς]]</big>** ☩  **<big>[[G2424|Ἰησοῦς]]</big>**

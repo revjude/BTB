@@ -1,1 +1,1 @@
-- or Melzar - a man living at the time of Exile and Return, first mentioned at [[Dan.1.11|Dan.1.11]] [[Dan.1.0| a]] lso translated "steward"
+- or Melzar - a man living at the time of Exile and Return, first mentioned at [[Dan.1.11|Dan.1.11]] also translated "steward"

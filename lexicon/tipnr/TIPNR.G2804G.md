@@ -25,5 +25,5 @@ These references to Claudius provide historical context for the events in Acts a
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
 | Claudius | [<span class='tipnrLangGreek'>Κλαύδιος</span>](G2804G) | 2x | [[Act.11.28] & [Act.18.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Claudius\*\|reference=Act.11.28;Act.18.2) |
-| Caesar | [<span class='tipnrLangGreek'>Καῖσαρ</span>](G2541H) | 11x | [[Act.11.28] ... [Act.28.19] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Caesar\*\|reference=Act.11.28;Act.17.7;Act.25.8;Act.25.10;Act.25.11;Act.25.12;Act.25.12;Act.25.21;Act.26.32;Act.27.24;Act.28.19) |
+| Caesar | [<span class='tipnrLangGreek'>Καῖσαρ</span>](G2541) | 11x | [[Act.11.28] ... [Act.28.19] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Caesar\*\|reference=Act.11.28;Act.17.7;Act.25.8;Act.25.10;Act.25.11;Act.25.12;Act.25.12;Act.25.21;Act.26.32;Act.27.24;Act.28.19) |
 All entries for **Claudius or Caesar**:  **<big>[[G2804|Κλαύδιος]]</big>** ☩  **<big>[[G2541|Καῖσαρ]]</big>**

@@ -1,7 +1,7 @@
 <small>*Berea • City in Macedonia where Paul preached; home of Sopater.*</small>
 
 <span class='tipnrhighlight'>Berea</span> was a city in Macedonia where Paul preached, and the home of Sopater, one of Paul's traveling companions. \(Acts 17:10, 13; 20:4\)
-- A location first mentioned at [[2Chr.20.26b|Act.17.10]]; 
+- A location first mentioned at [[Acts.17.10|Act.17.10]]; 
 - referred to as Berea **<big>[[G0960|Βέροια]]</big>**, or Berean **<big>[[G0961|Βεροιαῖος]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=40.5167,22.2&zoom=10&maptype=satellite"></iframe>
 

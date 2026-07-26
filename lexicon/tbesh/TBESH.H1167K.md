@@ -1,3 +1,3 @@
 <small>meaning of:</small> <small>**<big>[[H1167G|בַּעַל]]</big>**</small> 
 
-- : [master\_of](DESCRIPTOR)
+- : [master\_of] (DESCRIPTOR)

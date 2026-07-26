@@ -3,7 +3,7 @@
 Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Pashhur</span>, the son of Gedaliah, one of the officials who opposed Jeremiah.
-- A man living at the time of Divided Monarchy, only mentioned at [[Jer.38.1a|Jer.38.1a]]; 
+- A man living at the time of Divided Monarchy, only mentioned at [[Jer.38.1|Jer.38.1]]; 
 - only referred to as Pashhur **<big>[[H6583|פַּשְׁחוּר]]</big>**; 
 -  father of Gedaliah **<big>[[H1436|גְּדַּלְיָה]]</big>**.
 

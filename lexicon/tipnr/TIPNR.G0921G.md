@@ -13,8 +13,8 @@ Barnabas, whose original name was Joseph or Joses, was a prominent figure in the
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
 | Barnabas | [<span class='tipnrLangGreek'>Βαρνάβας</span>](G0921G) | 29x | [[Act.4.36] ... [Col.4.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Barnabas\*\|reference=Act.4.36;Act.9.27;Act.11.22;Act.11.25;Act.11.30;Act.12.25;Act.13.1;Act.13.2;Act.13.7;Act.13.43;Act.13.46;Act.13.50;Act.14.12;Act.14.14;Act.14.20;Act.15.2;Act.15.2;Act.15.12;Act.15.22;Act.15.25;Act.15.35;Act.15.36;Act.15.37;Act.15.39;1Co.9.6;Gal.2.1;Gal.2.9;Gal.2.13;Col.4.10) |
-| Joseph (KJV= Joses) | [<span class='tipnrLangGreek'>Ἰωσήφ</span>](G2501O) | 1x | [Act.4.36 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joseph\*\|reference=Act.4.36) |
-| Joses (=Var, KJV) | [<span class='tipnrLangGreek'>Ἰωσῆς</span>](G2500I) | 1x | [Act.4.36 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joseph\*\|reference=Act.4.36) |
+| Joseph (KJV= Joses) | [<span class='tipnrLangGreek'>Ἰωσήφ</span>](G2501) | 1x | [Act.4.36 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joseph\*\|reference=Act.4.36) |
+| Joses (=Var, KJV) | [<span class='tipnrLangGreek'>Ἰωσῆς</span>](G2500) | 1x | [Act.4.36 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joseph\*\|reference=Act.4.36) |
 All entries for **Barnabas or Joseph or Joses**:  **<big>[[G0921|Βαρνάβας]]</big>** ☩  **<big>[[G2501|Ἰωσήφ]]</big>** ☩  **<big>[[G2500|Ἰωσῆς]]</big>**
 #### Related Profiles:
 - **[father_of_Barnabas](G0921H)** (father)

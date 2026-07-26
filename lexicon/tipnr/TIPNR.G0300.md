@@ -19,7 +19,7 @@ The prophets Jeremiah and Zephaniah began their ministries during the reign of J
 | - | - | - | - |
 | Amon | [<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H0526H) | 14x | [[2Ki.21.18] ... [Zep.1.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amon\*\|reference=2Ki.21.18;2Ki.21.19;2Ki.21.23;2Ki.21.24;2Ki.21.25;1Ch.3.14;2Ch.33.20;2Ch.33.21;2Ch.33.22;2Ch.33.23;2Ch.33.25;Jer.1.2;Jer.25.3;Zep.1.1) |
 | Amon | [<span class='tipnrLangGreek'>Ἀμών</span>](G0300) | 2x | [[Mat.1.10a] & [Mat.1.10b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amos\*\|reference=Mat.1.10;Mat.1.10) |
-| Amos | [<span class='tipnrLangGreek'>Ἀμώς</span>](G0301H) | 2x | [[Mat.1.10a] & [Mat.1.10b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amos\*\|reference=Mat.1.10;Mat.1.10) |
+| Amos | [<span class='tipnrLangGreek'>Ἀμώς</span>](G0301) | 2x | [[Mat.1.10a] & [Mat.1.10b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amos\*\|reference=Mat.1.10;Mat.1.10) |
 All entries for **Amon or Amos**:  **<big>[[H0526|אָמוֹן]]</big>** ☩  **<big>[[G0300|Ἀμών]]</big>** ☩  **<big>[[G0301|Ἀμώς]]</big>**
 #### Related Profiles:
 - **[Manasseh](H4519H)** (father)

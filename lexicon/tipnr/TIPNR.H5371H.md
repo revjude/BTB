@@ -3,7 +3,7 @@
 Babylonian living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Nergal-sar-ezer</span> was a Babylonian official present at the capture of Jerusalem in 587 BC and probably became king Neriglissar.
-- A Babylonian official living at the time of Divided Monarchy, first mentioned at [[Jer.39.3a|Jer.39.3a]]; 
+- A Babylonian official living at the time of Divided Monarchy, first mentioned at [[Jer.39.3|Jer.39.3]]; 
 - only referred to as Nergal-sar-ezer **<big>[[H5371|נֵרְגַּל שַׁרְאֶצֶר]]</big>**.
 
 The first of the two people called Nergal-sar-ezer in Jer.39.3 is either "of Samgar" \(an unknown place\) or is "a Simmagir" \(a high rank\). His name is likely to be a version of Neriglissar, the person of Simmagir rank who usurped the throne from the son of Nebuchadnezzar II, Amel-Marduk \(Evil-Merodach in \(Jer 52:31; 2 Kgs 25:27\). At this time, he was merely a representative of King Nebuchadnezzar. Ironically, the name Nergal-shar-ezer means "Nergal, protect the king!" referring to the Babylonian god of war, Nergal. Nergal-shar-ezer and the other officials took up residence in the Middle Gate of Jerusalem. They likely oversaw the destruction of the city, the burning of the temple, and the deportation of captives \(2 Kings 25:8-21\).

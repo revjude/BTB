@@ -3,7 +3,7 @@
 Man living at the time of the New Testament
 
 <span class='tipnrhighlight'>Silas</span> \(or Silvanus\) was a prominent member of the Jerusalem church who accompanied Paul on his second missionary journey and co-wrote some of his epistles.
-- A man living at the time of the New Testament, first mentioned at [[Num.21.23b|Act.15.22]]; 
+- A man living at the time of the New Testament, first mentioned at [[Acts.15.22|Act.15.22]]; 
 - referred to as Silas or \[ \] \(KJV= Silas\)  **<big>[[G4609|Σίλας]]</big>**, or Silvanus \(NIV= Silas\)  **<big>[[G4610|Σιλουανός]]</big>**.
 
 Silas, also known as Silvanus, was a significant figure in the early Christian church, particularly in his role as a companion of the apostle Paul. He is first mentioned in Acts 15:22 as a prominent member of the Jerusalem church, along with Judas Barsabbas, chosen to accompany Paul and Barnabas to Antioch to deliver the decision of the Jerusalem Council regarding Gentile believers. 

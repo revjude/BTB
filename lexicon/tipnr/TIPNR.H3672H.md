@@ -17,5 +17,5 @@ In [[1Kgs.15.20|1 Kings 15:20]], during the reign of King Baasha of Israel, Ben-
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
 | Chinneroth (KJV= Cinneroth; NIV= Kinnereth) | [<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>נ</span>ֶּ֫<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H3672H) | 3x | [[Jos.11.2] ... [1Ki.15.20] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chinneroth\*\|reference=Jos.11.2;Jos.19.35;1Ki.15.20) |
-| Chinnereth (KJV= Chinnereth; NIV= Kinnereth) | [<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>נ</span>ֶּ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ת</span>](H3672I) | 1x | [Jos.19.35 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chinneroth\*\|reference=Jos.19.35) |
+| Chinnereth (KJV= Chinnereth; NIV= Kinnereth) | [<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>נ</span>ֶּ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ת</span>](H3672) | 1x | [Jos.19.35 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chinneroth\*\|reference=Jos.19.35) |
 All entries for **Chinneroth or Chinnereth**:  **<big>[[H3672|כִּנְּרוֹת]]</big>** ☩  **<big>[[H3672|כִּנְּרוֹת]]</big>**

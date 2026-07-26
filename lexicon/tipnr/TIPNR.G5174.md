@@ -1,7 +1,7 @@
 <small>*Troas • A city in Asia Minor, visited by Paul*</small>
 
 <span class='tipnrhighlight'>Troas</span>, a city in Asia Minor, where Paul had a vision of a man urging him to come to Macedonia, and where he later preached and raised Eutychus from the dead \(Acts 16:8-11; 20:5-12; 2 Cor. 2:12; 2 Tim. 4:13\).
-- A location first mentioned at [[Ezek.39.11a|Act.16.8]]; 
+- A location first mentioned at [[Acts.16.8|Act.16.8]]; 
 - only referred to as Troas **<big>[[G5174|Τρωάς]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=39.50664305923271,26.08059270470616&zoom=10&maptype=satellite"></iframe>
 

@@ -1,2 +1,2 @@
-- A man living at the time of the Patriarchs, only mentioned at [[Gen.49.10|Gen.49.10]] [[Gen.49.0| a]] lso translated "tribute"
+- A man living at the time of the Patriarchs, only mentioned at [[Gen.49.10|Gen.49.10]] also translated "tribute"
 -  meaning uncertain

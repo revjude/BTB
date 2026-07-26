@@ -1,1 +1,1 @@
-- A man living at the time of United Monarchy, first mentioned at [[Prov.30.1|Pro.30.1]] [[Prov.30.0| a]] lso translated "God"
+- A man living at the time of United Monarchy, first mentioned at [[Prov.30.1|Pro.30.1]] also translated "God"

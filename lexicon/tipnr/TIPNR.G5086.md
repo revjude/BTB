@@ -11,5 +11,5 @@ Tiberius, also referred to as Caesar, was the Roman emperor during the ministry 
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
 | Tiberius | [<span class='tipnrLangGreek'>Τιβέριος</span>](G5086) | 1x | [Luk.3.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tiberius\*\|reference=Luk.3.1) |
-| Caesar | [<span class='tipnrLangGreek'>Καῖσαρ</span>](G2541J) | 16x | [[Mat.22.17] ... [Jhn.19.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Caesar\*\|reference=Mat.22.17;Mat.22.21;Mat.22.21;Mat.22.21;Mrk.12.14;Mrk.12.16;Mrk.12.17;Mrk.12.17;Luk.20.22;Luk.20.24;Luk.20.25;Luk.20.25;Luk.23.2;Jhn.19.12;Jhn.19.12;Jhn.19.15) |
+| Caesar | [<span class='tipnrLangGreek'>Καῖσαρ</span>](G2541) | 16x | [[Mat.22.17] ... [Jhn.19.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Caesar\*\|reference=Mat.22.17;Mat.22.21;Mat.22.21;Mat.22.21;Mrk.12.14;Mrk.12.16;Mrk.12.17;Mrk.12.17;Luk.20.22;Luk.20.24;Luk.20.25;Luk.20.25;Luk.23.2;Jhn.19.12;Jhn.19.12;Jhn.19.15) |
 All entries for **Tiberius or Caesar**:  **<big>[[G5086|Τιβέριος]]</big>** ☩  **<big>[[G2541|Καῖσαρ]]</big>**

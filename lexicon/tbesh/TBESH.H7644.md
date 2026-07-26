@@ -1,1 +1,1 @@
-- A man living at the time of Divided Monarchy, first mentioned at [[2Kgs.18.18|2Ki.18.18]] [[2Kgs.18.0| a]] lso called Shebnah at [[2Kgs.18.18|2Ki.18.18]], [[2Kgs.18.26|26]]
+- A man living at the time of Divided Monarchy, first mentioned at [[2Kgs.18.18|2Ki.18.18]] also called Shebnah at [[2Kgs.18.18|2Ki.18.18]], [[2Kgs.18.26|26]]

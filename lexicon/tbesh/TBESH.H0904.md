@@ -1,1 +1,1 @@
-- A man living at the time of Exile and Return, first mentioned at [[Esth.2.21|Est.2.21]] [[Esth.2.0| a]] lso called Bigthana at [[Esth.6.2|Est.6.2]]
+- A man living at the time of Exile and Return, first mentioned at [[Esth.2.21|Est.2.21]] also called Bigthana at [[Esth.6.2|Est.6.2]]

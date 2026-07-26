@@ -1,2 +1,2 @@
-- A man living at the time of Exile and Return, only mentioned at [[Ezra.10.23|Ezr.10.23]] [[Ezra.10.0| a]] lso called Kelita at [[Ezra.10.23|Ezr.10.23]]
+- A man living at the time of Exile and Return, only mentioned at [[Ezra.10.23|Ezr.10.23]] also called Kelita at [[Ezra.10.23|Ezr.10.23]]
 - Also named: <i>qe.li.ta</i> (<span class='ashebrew'>‎ק‎</span>ְ<span class='ashebrew'>‎ל‎</span>ִ<span class='ashebrew'>‎יט‎</span>ָ<span class='ashebrew'>‎א‎</span> "Kelita" **<big>[[H7042H|קְלִיטָא]]</big>**)

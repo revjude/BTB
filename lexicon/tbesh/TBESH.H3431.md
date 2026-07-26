@@ -2,4 +2,4 @@
 -  son of: Mered (**<big>[[H4778|מֶרֶד]]</big>**) and Bithiah (**<big>[[H1332|בִּתְיָה]]</big>**)
 -  brother of: Miriam (**<big>[[H4813H|מִרְיָם]]</big>**) and Shammai (**<big>[[H8060I|שַׁמַּי]]</big>**)
 -  half-brother of: Jered (**<big>[[H3382H|יֶרֶד]]</big>**), Heber (**<big>[[H2268I|חֶבֶר]]</big>**) and Jekuthiel (**<big>[[H3354|יְקוּתִיאֵל]]</big>**); married to Hodiah (**<big>[[H1940|הוֹדִיָּה]]</big>**)
--  father of: son\_of\_Hodiah (**<big>[[H3431H|יִשְׁבַּח]]</big>**)
+-  father of: son\_of\_Hodiah (**<big>[[H3431|יִשְׁבַּח]]</big>**)

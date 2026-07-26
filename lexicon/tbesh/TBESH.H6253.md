@@ -1,1 +1,1 @@
-- A female deity in the time of the Old Testament, first mentioned at [[1Kgs.11.5|1Ki.11.5]], [[1Kgs.11.0| a]] lso known as Astarte
+- A female deity in the time of the Old Testament, first mentioned at [[1Kgs.11.5|1Ki.11.5]] also known as Astarte

@@ -16,8 +16,8 @@ These references provide insight into Peter's family background but do not offer
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
 | John (KJV= Jonas) | [<span class='tipnrLangGreek'>Ἰωάννης</span>](G2491K) | 3x | [[Jhn.21.15] ... [Jhn.21.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=John\*\|reference=Jhn.21.15;Jhn.21.16;Jhn.21.17) |
-| John (KJV= Jona) | [<span class='tipnrLangGreek'>Ἰωνᾶς</span>](G2495G) | 1x | [Jhn.1.42 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=John\*\|reference=Jhn.1.42) |
-| Jonah (KJV= Jona) | [<span class='tipnrLangGreek'>Ἰωνᾶς</span>](G2495G) | 1x | [Mat.16.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jonah\*\|reference=Mat.16.17) |
+| John (KJV= Jona) | [<span class='tipnrLangGreek'>Ἰωνᾶς</span>](G2495) | 1x | [Jhn.1.42 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=John\*\|reference=Jhn.1.42) |
+| Jonah (KJV= Jona) | [<span class='tipnrLangGreek'>Ἰωνᾶς</span>](G2495) | 1x | [Mat.16.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jonah\*\|reference=Mat.16.17) |
 All entries for **John or Jonah**:  **<big>[[G2491|Ἰωάννης]]</big>** ☩  **<big>[[G2495|Ἰωνᾶς]]</big>**
 #### Related Profiles:
 - **[Peter](G4074G)** (child)

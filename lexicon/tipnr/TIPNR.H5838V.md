@@ -3,7 +3,7 @@
 Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Azariah</span> son of Jehallelel was a Kohathite Levite who helped purify the temple under King Hezekiah.
-- A man living at the time of Divided Monarchy, only mentioned at [[2Chr.29.12b|2Ch.29.12b]]; 
+- A man living at the time of Divided Monarchy, only mentioned at [[2Chr.29.12|2Ch.29.12]]; 
 - only referred to as Azariah **<big>[[H5838|עֲזַרְיָה]]</big>**; 
 - a son of Jehallelel **<big>[[H3094|יְהַלֶּלְאֵל]]</big>**.
 

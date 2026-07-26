@@ -1,1 +1,1 @@
-- A man living at the time of Exile and Return, first mentioned at [[Ezra.2.61|Ezr.2.61]] [[Ezra.2.0| a]] lso called Hobaiah at [[Neh.7.63|Neh.7.63]]
+- A man living at the time of Exile and Return, first mentioned at [[Ezra.2.61|Ezr.2.61]] also called Hobaiah at [[Neh.7.63|Neh.7.63]]

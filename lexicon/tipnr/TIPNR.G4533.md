@@ -17,7 +17,7 @@ Salmon \(or Sala\) is mentioned in several genealogies in the Bible, including 1
 | Salmon | [<span class='tipnrLangHebrew'>ש</span>ַׂ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H8012) | 1x | [Rut.4.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Salmon\*\|reference=Rut.4.21) |
 | Salmon | [<span class='tipnrLangHebrew'>ש</span>ַׂ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H8009) | 1x | [Rut.4.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Salmon\*\|reference=Rut.4.20) |
 | Salmon | [<span class='tipnrLangGreek'>Σαλμών</span>](G4533) | 2x | [[Mat.1.4] & [Mat.1.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Salmon\*\|reference=Mat.1.4;Mat.1.5) |
-| Sala (Var, KJV, NIV= Salmon) | [<span class='tipnrLangGreek'>Σαλά</span>](G4527G) | 1x | [Luk.3.32 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sala\*\|reference=Luk.3.32) |
+| Sala (Var, KJV, NIV= Salmon) | [<span class='tipnrLangGreek'>Σαλά</span>](G4527) | 1x | [Luk.3.32 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sala\*\|reference=Luk.3.32) |
 All entries for **Salmon or Sala**:  **<big>[[H8007|שַׂלְמָא]]</big>** ☩  **<big>[[H8012|שַׂלְמוֹן]]</big>** ☩  **<big>[[H8009|שַׂלְמָה]]</big>** ☩  **<big>[[G4533|Σαλμών]]</big>** ☩  **<big>[[G4527|Σαλά]]</big>**
 #### Related Profiles:
 - **[Nahshon](H5177)** (father)

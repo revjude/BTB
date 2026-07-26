@@ -28,5 +28,4 @@ All entries for **Abiud**:  **<big>[[G0010|Ἀβιούδ]]</big>**
 - **[Ohel](H0169)** (sibling)
 - **[Berechiah](H1296G)** (sibling)
 - **[Hasadiah](H2619)** (sibling)
-- **[Jushab-hesed](Jushab)** (sibling)
 - **[Eliakim](G1662G)** (child)

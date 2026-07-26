@@ -1,7 +1,7 @@
 <small>*Cenchreae • Port of Corinth; home of Phoebe*</small>
 
 <span class='tipnrhighlight'>Cenchreae</span> was the eastern port of Corinth, where Paul had his hair cut in connection with a vow, and was the home of Phoebe, a deaconess of the church.
-- A location first mentioned at [[Ezra.8.17b|Act.18.18]]; 
+- A location first mentioned at [[Acts.18.18|Act.18.18]]; 
 - only referred to as Cenchreae **<big>[[G2747|Κεγχρεαί]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=37.88460365000972,22.9933595701051&zoom=10&maptype=satellite"></iframe>
 

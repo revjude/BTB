@@ -13,5 +13,5 @@ Augustus, also referred to as Caesar, was the first Roman emperor and ruled duri
 | Augustus | [<span class='tipnrLangGreek'>Αὔγουστος</span>](G0828) | 1x | [Luk.2.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Augustus\*\|reference=Luk.2.1) |
 | Augustan (KJV= Augustus; NIV= Imperial) | [<span class='tipnrLangGreek'>σεβαστός</span>](G4575) | 1x | [Act.27.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Augustan\*\|reference=Act.27.1) |
 | emperor (KJV= Augustus) | [<span class='tipnrLangGreek'>σεβαστός</span>](G4575) | 2x | [[Act.25.21] & [Act.25.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text="emperor"\*\|reference=Act.25.21;Act.25.25) |
-| Caesar | [<span class='tipnrLangGreek'>Καῖσαρ</span>](G2541G) | 2x | [[Luk.2.1] & [Luk.3.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Caesar\*\|reference=Luk.2.1;Luk.3.1) |
+| Caesar | [<span class='tipnrLangGreek'>Καῖσαρ</span>](G2541) | 2x | [[Luk.2.1] & [Luk.3.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Caesar\*\|reference=Luk.2.1;Luk.3.1) |
 All entries for **Augustus or Caesar**:  **<big>[[G0828|Αὐγοῦστος]]</big>** ☩  **<big>[[G4575|σεβαστός]]</big>** ☩  **<big>[[G2541|Καῖσαρ]]</big>**

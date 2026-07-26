@@ -11,6 +11,6 @@ Joseph, also known as Barsabbas or Justus, was one of the candidates proposed to
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
 | Joseph | [<span class='tipnrLangGreek'>Ἰωσήφ</span>](G2501M) | 1x | [Act.1.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joseph\*\|reference=Act.1.23) |
-| Barsabbas (KJV= Barsabas) | [<span class='tipnrLangGreek'>Βαρσαβᾶς</span>](G0923G) | 1x | [Act.1.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Barsabbas\*\|reference=Act.1.23) |
-| Justus | [<span class='tipnrLangGreek'>Ἰοῦστος</span>](G2459I) | 1x | [Act.1.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Justus\*\|reference=Act.1.23) |
+| Barsabbas (KJV= Barsabas) | [<span class='tipnrLangGreek'>Βαρσαβᾶς</span>](G0923) | 1x | [Act.1.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Barsabbas\*\|reference=Act.1.23) |
+| Justus | [<span class='tipnrLangGreek'>Ἰοῦστος</span>](G2459) | 1x | [Act.1.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Justus\*\|reference=Act.1.23) |
 All entries for **Joseph or Barsabbas or Justus**:  **<big>[[G2501|Ἰωσήφ]]</big>** ☩  **<big>[[G0923|Βαρσαβᾶς]]</big>** ☩  **<big>[[G2459|Ἰοῦστος]]</big>**

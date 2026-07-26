@@ -3,7 +3,7 @@
 Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Joah</span> son of Joahaz was a Kohathite Levite who helped purify the temple under King Hezekiah.
-- A man living at the time of Divided Monarchy, only mentioned at [[2Chr.29.12b|2Ch.29.12b]]; 
+- A man living at the time of Divided Monarchy, only mentioned at [[2Chr.29.12|2Ch.29.12]]; 
 - only referred to as Joah **<big>[[H3098|יוֹאָח]]</big>**; 
 -  father of Eden **<big>[[H5731|עֵדֶן]]</big>**.
 

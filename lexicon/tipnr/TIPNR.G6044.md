@@ -13,7 +13,7 @@ Josech, also known as Joseph, is mentioned in [[Luke.3.26|Luke 3:26]] as one of 
 | English | Original | Count | STEP Bible Search |
 | - | - | - | - |
 | Josech (NIV= Josek; KJV= Joseph) | [<span class='tipnrLangGreek'>Ἰωσήχ</span>](G6044) | 1x | [Luk.3.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Josech\*\|reference=Luk.3.26) |
-| Joseph (=Var, KJV) | [<span class='tipnrLangGreek'>Ἰωσήφ</span>](G2501K) | 1x | [Luk.3.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Josech\*\|reference=Luk.3.26) |
+| Joseph (=Var, KJV) | [<span class='tipnrLangGreek'>Ἰωσήφ</span>](G2501) | 1x | [Luk.3.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Josech\*\|reference=Luk.3.26) |
 All entries for **Josech or Joseph**:  **<big>[[G2501|Ἰωσήφ]]</big>** ☩  **<big>[[G6044|Ἰωσήχ]]</big>**
 #### Related Profiles:
 - **[Joda](G6043)** (father)

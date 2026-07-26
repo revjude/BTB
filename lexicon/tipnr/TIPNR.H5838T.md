@@ -3,7 +3,7 @@
 Levite living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Azariah</span> son of Obed was one of the commanders who supported Jehoiada in making Joash king.
-- A man living at the time of Divided Monarchy, only mentioned at [[2Chr.23.1b|2Ch.23.1b]]; 
+- A man living at the time of Divided Monarchy, only mentioned at [[2Chr.23.1|2Ch.23.1]]; 
 - only referred to as Azariah **<big>[[H5838|עֲזַרְיָה]]</big>**; 
 - a son of Obed **<big>[[H5744|עוֹבֵד]]</big>**.
 

@@ -1,7 +1,7 @@
 <small>*Mount Paran • A mountain associated with God's appearance*</small>
 
 Mount Paran is mentioned in poetic passages as a place from which God comes or shines forth.
-- A location in Paran **<big>[[H6290|פָּארָן]]</big>** first mentioned at [[1Kgs.11.18b|Deu.33.2]]; 
+- A location in Paran **<big>[[H6290|פָּארָן]]</big>** first mentioned at [[Deut.33.2|Deu.33.2]]; 
 - only referred to as Paran\_Mount **<big>[[H6290|פָּארָן]]</big>**.
 <br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=29.151667,33.541944&zoom=10&maptype=satellite"></iframe>
 

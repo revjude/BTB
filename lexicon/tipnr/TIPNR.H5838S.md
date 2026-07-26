@@ -3,7 +3,7 @@
 Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Azariah</span> son of Jeroham was a military commander who supported Jehoiada in restoring Joash to the throne of Judah.
-- A man living at the time of Divided Monarchy, only mentioned at [[2Chr.23.1a|2Ch.23.1a]]; 
+- A man living at the time of Divided Monarchy, only mentioned at [[2Chr.23.1|2Ch.23.1]]; 
 - only referred to as Azariah **<big>[[H5838|עֲזַרְיָה]]</big>**; 
 - a son of Jeroham **<big>[[H3395|יְרֹחָם]]</big>**.
 

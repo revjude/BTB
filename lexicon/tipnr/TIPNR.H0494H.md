@@ -3,7 +3,7 @@
 Man living at the time of Exile and Return
 
 <span class='tipnrhighlight'>Elnathan</span>, a leader, was among those sent by Ezra to find Levites to serve in the Temple \(Ezr.8.16\).
-- A man living at the time of Exile and Return, only mentioned at [[Ezra.8.16a|Ezr.8.16a]]; 
+- A man living at the time of Exile and Return, only mentioned at [[Ezra.8.16|Ezr.8.16]]; 
 - only referred to as Elnathan **<big>[[H0494|אֶלְנָתָן]]</big>**.
 
 Three men with this name occur in the same verse \(Ezr.8.16\), mentioned among the men sent by Ezra to Casiphia to find Levites for Temple service. This Elnathan is identified as a "leader," distinguishing him from the last Elnathan mentioned in the same verse. The designation of Elnathan as a teacher suggests that he held a position of authority and was recognized for his knowledge and ability to instruct others. Like the other leading men, this Elnathan was entrusted with the task of recruiting Levites to assist in the Temple service. The presence of a teacher among the group sent by Ezra underscores the importance of not only gathering Levites but also ensuring that they were properly educated and prepared for their roles in the Temple.

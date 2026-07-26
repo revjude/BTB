@@ -20,7 +20,7 @@
 
 **10.** [[Ezra.8.8|Ezra 8:8]]. 
 
-**11.** the 'prince,' or patron-angel, of Israel, [[Dan.10.13|Dan 10:13]]; [[Dan.10.21|Dan 10:21]]; [[Dan.12.1|Dan 12:1]] (compare [[Jude.9|Jude 9]]; [[Rev.12.7|Rev 12:7]] [[BDB#Levy|Levy]]<sup>NHWB iii.100</sup>). 
+**11.** the 'prince,' or patron-angel, of Israel, [[Dan.10.13|Dan 10:13]]; [[Dan.10.21|Dan 10:21]]; [[Dan.12.1|Dan 12:1]] (compare [[Jude.1.9|Jude 1:9]]; [[Rev.12.7|Rev 12:7]] [[BDB#Levy|Levy]]<sup>NHWB iii.100</sup>). 
 
 
 
@@ -33,6 +33,6 @@
 | 2 Chronicles | [[2Chr.21.2\|21:2]] |
 | Ezra | [[Ezra.8.8\|8:8]] |
 | Daniel | [[Dan.10.13\|10:13]] · [[Dan.10.21\|10:21]] · [[Dan.12.1\|12:1]] |
-| Jude | [[Jude.9\|Chapter 9]] |
+| Jude | [[Jude.1.9\|1:9]] |
 | Revelation | [[Rev.12.7\|12:7]] |
 

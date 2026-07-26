@@ -1,1 +1,1 @@
-- amethyst, a gem in the third row on the ephod, breastplate of judgment worn by the high pri[[Esth.11.0|est.]] Transliteration of the Septuagint word. Identification is not certain but is a purple stone perhaps a corundum or red or brown jasper.
+- amethyst, a gem in the third row on the ephod, breastplate of judgment worn by the high priest. Transliteration of the Septuagint word. Identification is not certain but is a purple stone perhaps a corundum or red or brown jasper.

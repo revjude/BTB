@@ -22,5 +22,4 @@ All entries for **Meshullam**:  **<big>[[H4918|מְשֻׁלָּם]]</big>**
 - **[Ohel](H0169)** (sibling)
 - **[Berechiah](H1296G)** (sibling)
 - **[Hasadiah](H2619)** (sibling)
-- **[Jushab-hesed](Jushab)** (sibling)
 - **[Abiud](G0010)** (sibling)

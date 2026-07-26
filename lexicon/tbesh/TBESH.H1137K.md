@@ -1,1 +1,1 @@
-- A man living at the time of Exile and Return, only mentioned at [[Ezra.10.38|Ezr.10.38]] [[Ezra.10.0| a]] lso translated "sons"
+- A man living at the time of Exile and Return, only mentioned at [[Ezra.10.38|Ezr.10.38]] also translated "sons"

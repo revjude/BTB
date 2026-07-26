@@ -1,2 +1,2 @@
-- A man of the Ammonites living at the time of Divided Monarchy, first mentioned at [[2Kgs.12.22|2Ki.12.22]]
+- A man of the Ammonites living at the time of Divided Monarchy, first mentioned at [[2Kgs.12.21|2Ki.12.21]]
 -  son of: Shimeath (**<big>[[H8100|שִׁמְעַת]]</big>**); also called Zabad at [[2Chr.24.26|2Ch.24.26]]

@@ -3,7 +3,7 @@
 Man living at the time of Divided Monarchy
 
 <span class='tipnrhighlight'>Gazez</span> was a grandson of Caleb, born to Haran's son Gazez.
-- A man from the tribe of Judah living at the time of Divided Monarchy, only mentioned at [[1Chr.2.46b|1Ch.2.46b]]; 
+- A man from the tribe of Judah living at the time of Divided Monarchy, only mentioned at [[1Chr.2.46|1Ch.2.46]]; 
 - only referred to as Gazez **<big>[[H1495|גָּזֵז]]</big>**; 
 - a son of Haran **<big>[[H2771|חָרָן]]</big>**.
 
