@@ -10,17 +10,14 @@ Edomite living at the time of the Patriarchs
 
 Alvan is mentioned in the genealogies of the Horites, the original inhabitants of the land of Seir, which later became known as Edom. He is listed as one of the sons of Shobal, who was a descendant of Seir the Horite. \([[1Chr.1.40|1Ch.1.40]]; [[Gen.36.23|Gen.36.23]]\) 
 
-The Horites were the people who lived in the mountainous region of Seir before the descendants of Esau, the Edomites, settled there. The genealogy in Genesis 36 and 1 Chronicles 1 provides a record of the Horite clans and their chiefs. 
+The Horites were the people who lived in the mountainous region of Seir before the descendants of Esau, the Edomites, settled there. The genealogy in [[Gen.36|Genesis 36]] and [[1Chr.1|1 Chronicles 1]] provides a record of the Horite clans and their chiefs. 
 
 Apart from being listed as a Horite chief, no further details are provided about Alvan's life, his role within the clan, or any significant events associated with him. 
 
 The mention of Alvan in the genealogies serves to document the pre-Edomite inhabitants of Seir and to provide a historical context for the later Edomite settlement in the region. It also highlights the diverse peoples and cultures that inhabited the lands surrounding Israel in the patriarchal period.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Alvan (KJV= Alian) | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ן</span>, <span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ו</span>ָ<span class='tipnrLangHebrew'>ן</span>](H5935) | 1x | [1Ch.1.40 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Alvan\*\|reference=1Ch.1.40) |
-| Alvan | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ן</span>, <span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ו</span>ָ<span class='tipnrLangHebrew'>ן</span>](H5935) | 1x | [Gen.36.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Alvan\*\|reference=Gen.36.23) |
+
 All entries for **Alvan**:  **<big>[[H5935|עַלְוָן]]</big>**
+
 #### Related Profiles:
 - **[Shobal](H7732G)** (father)
 - **[Manahath](H4506B)** (sibling)

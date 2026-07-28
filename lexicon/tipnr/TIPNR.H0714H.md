@@ -12,13 +12,10 @@ Ard is mentioned in the book of Numbers as one of the descendants of Benjamin, t
 
 The purpose of this census was to determine the military strength of each tribe and to prepare for the allocation of the Promised Land among the tribes. The mention of Ard in this context highlights the continuity of the Benjamite clan and their place within the nation of Israel as they prepared to enter and possess the land promised to their forefathers. 
 
-This reference to Ard in the book of Numbers is consistent with his mention in the genealogy of Benjamin in Genesis 46:21, confirming his place in the family line. Apart from these two mentions, no further details about Ard's life or role within the tribe of Benjamin are provided in the biblical text.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Ard | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ְּ](H0714H) | 1x | [Num.26.40 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ard\*\|reference=Num.26.40) |
-| Ardite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>י</span>](H0716) | 1x | [Num.26.40 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ardite\*\|reference=Num.26.40) |
+This reference to Ard in the book of Numbers is consistent with his mention in the genealogy of Benjamin in [[Gen.46.21|Genesis 46:21]], confirming his place in the family line. Apart from these two mentions, no further details about Ard's life or role within the tribe of Benjamin are provided in the biblical text.
+
 All entries for **Ard**:  **<big>[[H0714|אַרְדְּ]]</big>** ☩  **<big>[[H0716|אַרְדִּי]]</big>**
+
 #### Related Profiles:
 - **[Bela](H1106A)** (father)
 - **[Naaman](H5283H)** (sibling)

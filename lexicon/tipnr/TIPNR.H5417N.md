@@ -7,8 +7,5 @@ Man living at the time of Exile and Return
 - only referred to as Nethanel **<big>[[H5417|נְתַנְאֵל]]</big>**.
 
 Nethanel was a priest who returned from the Babylonian Exile and was found to have married a foreign woman, which was against God's law \([[Ezra.10.22|Ezra 10:22]]\). He was one of many who had to send away their foreign wives and children as part of Ezra's reforms to purify the people.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Nethanel (KJV= Nethaneel) | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ת</span>ַ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H5417N) | 1x | [Ezr.10.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nethanel\*\|reference=Ezr.10.22) |
+
 All entries for **Nethanel**:  **<big>[[H5417|נְתַנְאֵל]]</big>**

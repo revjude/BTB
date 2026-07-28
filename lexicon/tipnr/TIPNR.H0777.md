@@ -7,8 +7,5 @@ Man living at the time of Divided Monarchy
 - only referred to as Arza **<big>[[H0777|אַרְצָא]]</big>**.
 
 Arza was the steward of the household of Elah, king of Israel. Elah was the son of Baasha and became king in the twenty-sixth year of Asa, king of Judah. However, Elah's reign was short-lived. While Elah was drinking himself drunk in the house of Arza in Tirzah, his servant Zimri, commander of half his chariots, conspired against him and killed him. This fulfilled the prophecy against Baasha's house due to his evil ways.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Arza | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>צ</span>ָ<span class='tipnrLangHebrew'>א</span>](H0777) | 1x | [1Ki.16.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Arza\*\|reference=1Ki.16.9) |
+
 All entries for **Arza**:  **<big>[[H0777|אַרְצָא]]</big>**

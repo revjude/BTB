@@ -97,7 +97,7 @@ You sympathized with those in prison and joyfully accepted the confiscation of y
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.33|<< Hebrews 10:33]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.35|Hebrews 10:35 >>]]</td></tr></table>
 
 [^1]: Variant:  **<big><span class='asgreek'>δεσμοῖς</span></big>** **<big><span class='asgreek'>μου</span></big>**  (<i>desmois mou</i>) 'my imprisonments' occurs in traditional manuscripts (TR+Byz) instead of **<big><span class='asgreek'>δεσμίοις</span></big>**  (<i>desmiois</i>) 'prisoners' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)
-[^2]: my imprisonments | **<big>[[G1199\|δεσμοῖς μου]]</big>** <sup><small>[[G0846|G3165«G3450\| [ • ] ]]</small></sup> | desmois mou <sup><small>[[N-DPM]]</small></sup> <sup><small>[[P-1GS]]</small></sup> | TR+Byz
+[^2]: my imprisonments | **<big>[[G1199\|δεσμοῖς]]</big><sup><small>[[G0846\| [ • ] ]]</small></sup> <big>[[G3450\|μου]]</big>** | desmois mou <sup><small>[[N-DPM]]</small></sup> <sup><small>[[P-1GS]]</small></sup> | TR+Byz
 [^3]: yourselves | **<big>[[G1438\|ἑαυτοῖς]]</big>** | he'autois <sup><small>[[F-2DPM]]</small></sup> | TR+Byz
 [^4]: better | **<big>[[G2908\|κρείσσονα]]</big>** | kreissona <sup><small>[[A-APN-C]]</small></sup> | Tyn+WH
 [^5]: Extra Text:  **<big><span class='asgreek'>ἐν</span></big>**   **<big><span class='asgreek'>οὐρανοῖς</span></big>**   (<i>en ouranois</i>) 'in heavens' is only in traditional manuscripts (TR+Byz)

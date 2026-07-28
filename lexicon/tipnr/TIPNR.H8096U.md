@@ -9,11 +9,9 @@ Man living at the time of Exile and Return
 -  father of Jair **<big>[[H2971|יָאִיר]]</big>**.
 
 Shimei is mentioned in [[Esth.2.5|Esther 2:5]] as an ancestor of Mordecai, the cousin and guardian of Queen Esther. He is described as a Benjamite who had been carried into exile from Jerusalem by King Nebuchadnezzar of Babylon. This information provides background on Mordecai's lineage and explains how he came to be living in Susa, the capital of the Persian Empire, during the time of King Ahasuerus \(Xerxes I\). Shimei's inclusion in the genealogy highlights Mordecai's connection to the tribe of Benjamin and his Jewish heritage.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Shimei | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>י</span>](H8096U) | 1x | [Est.2.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shimei\*\|reference=Est.2.5) |
+
 All entries for **Shimei**:  **<big>[[H8096|שִׁמְעִי]]</big>**
+
 #### Related Profiles:
 - **[Kish](H7027J)** (father)
 - **[Jair](H2971J)** (child)

@@ -9,11 +9,9 @@ Man living at the time of Divided Monarchy
 - a brother of Igal **<big>[[H3008|יִגְאָל]]</big>**, Bariah **<big>[[H1282|בָּרִיחַ]]</big>**, Neariah **<big>[[H5294|נְעַרְיָה]]</big>** and Shaphat **<big>[[H8202|שָׁפָט]]</big>**.
 
 Hattush was a descendant of King Jeconiah \(also known as Jehoiachin\) of Judah. He is mentioned in the genealogy of the royal line of Judah recorded in the book of 1 Chronicles. Hattush was one of the sons of Shemaiah, who was a descendant of Jeconiah through Pedaiah. Jeconiah was one of the last kings of Judah before the Babylonian exile, and his descendants played a role in the restoration of Jewish life after the return from exile. No other information is provided about Hattush in the Bible. \([[1Chr.3.22|1Ch.3.22]]\).
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Hattush | [<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ט</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ש</span>ׁ](H2407G) | 1x | [1Ch.3.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hattush\*\|reference=1Ch.3.22) |
+
 All entries for **Hattush**:  **<big>[[H2407|חַטּוּשׁ]]</big>**
+
 #### Related Profiles:
 - **[Shemaiah](H8098B)** (father)
 - **[Igal](H3008I)** (sibling)

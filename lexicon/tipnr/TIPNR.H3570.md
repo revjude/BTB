@@ -12,10 +12,8 @@ Cushi is mentioned in [[Jer.36.14|Jeremiah 36:14]] as the father of Jehudi, a ma
 Jehudi's task was to fetch Baruch, who had written down Jeremiah's prophecies, and have him read the scroll before the officials. This event took place during the reign of King Jehoiakim of Judah when Jeremiah's prophecies were causing concern among the royal officials. 
 
 Apart from being identified as Jehudi's father, no other information is provided about Cushi in the Bible. His name suggests that he or his ancestors may have had a connection to the land of Cush, but this is not explicitly stated in the text.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Cushi | [<span class='tipnrLangHebrew'>כ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>י</span>](H3570) | 1x | [Jer.36.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cushi\*\|reference=Jer.36.14) |
+
 All entries for **Cushi**:  **<big>[[H3570|כּוּשִׁי]]</big>**
+
 #### Related Profiles:
 - **[Shelemiah](H8018K)** (child)

@@ -6,9 +6,6 @@ Man living at the time of Exile and Return
 - A man living at the time of Exile and Return, only mentioned at [[Neh.10.13|Neh.10.13]]; 
 - only referred to as Beninu **<big>[[H1148|בְּנִינוּ]]</big>**.
 
-Beninu was a Levite who lived during the time of Nehemiah, the governor of Judah. He was among those who sealed the covenant, pledging to follow God's law and to separate themselves from the surrounding peoples \(Neh. 10:13\). This covenant renewal took place after the completion of the wall of Jerusalem and the public reading of the Law. Beninu's participation in this solemn act demonstrates his commitment to God and his support for Nehemiah's reforms.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Beninu | [<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>נ</span>ִ֑<span class='tipnrLangHebrew'>ינו</span>ּ](H1148) | 1x | [Neh.10.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Beninu\*\|reference=Neh.10.13) |
+Beninu was a Levite who lived during the time of Nehemiah, the governor of Judah. He was among those who sealed the covenant, pledging to follow God's law and to separate themselves from the surrounding peoples \([[Neh.10.13|Neh. 10:13]]\). This covenant renewal took place after the completion of the wall of Jerusalem and the public reading of the Law. Beninu's participation in this solemn act demonstrates his commitment to God and his support for Nehemiah's reforms.
+
 All entries for **Beninu**:  **<big>[[H1148|בְּנִינוּ]]</big>**

@@ -13,11 +13,9 @@ Ishmerai is mentioned briefly in a genealogy of the tribe of Benjamin in [[1Chr.
 The genealogy in this chapter traces the lineage of several prominent Benjamite families, particularly those who lived in Jerusalem. Ishmerai's mention helps to establish the family connections and the continuity of the Benjamite lineage. 
 
 No other details are provided about Ishmerai's life, occupation, or role within the clan. His inclusion in the genealogy serves to demonstrate the importance of family records and the preservation of tribal heritage among the Israelites.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Ishmerai | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>י</span>](H3461) | 1x | [1Ch.8.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ishmerai\*\|reference=1Ch.8.18) |
+
 All entries for **Ishmerai**:  **<big>[[H3461|יִשְׁמְרַי]]</big>**
+
 #### Related Profiles:
 - **[Elpaal](H0508)** (father)
 - **[Eber](H5677I)** (sibling)

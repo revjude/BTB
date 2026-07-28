@@ -10,17 +10,14 @@ Woman living at the time of United Monarchy
 - wife of Jether **<big>[[H3500|יֶתֶר]]</big>**; 
 -  mother of Amasa **<big>[[H6021|עֲמָשָׂא]]</big>**.
 
-Abigail was the daughter of Jesse and the sister of King David, as mentioned in [[1Chr.2.16|1 Chronicles 2:16]]-17. She married a man named Jether, who was an Ishmaelite \([[2Sam.17.25|2 Samuel 17:25]]\). Abigail and Jether had a son named Amasa, who played a significant role during the rebellion of David's son Absalom. 
+Abigail was the daughter of Jesse and the sister of King David, as mentioned in [[1Chr.2.16|1 Chronicles 2:16-17]]. She married a man named Jether, who was an Ishmaelite \([[2Sam.17.25|2 Samuel 17:25]]\). Abigail and Jether had a son named Amasa, who played a significant role during the rebellion of David's son Absalom. 
 
 During Absalom's revolt against David, Absalom appointed Amasa as the commander of his army, replacing Joab, who had been David's military commander \([[2Sam.17.25|2 Samuel 17:25]]\). After Absalom's defeat and death, David offered Amasa the position of commander-in-chief to appease the supporters of Absalom. 
 
-However, when David sent Amasa to gather the men of Judah, he took longer than expected. This delay prompted David to send Abishai and Joab to pursue the rebel Sheba. Joab, seeing Amasa as a threat to his position, killed him \(2 Samuel 20:4-13\). The biblical text does not provide further information about Abigail's life or her reaction to her son's death.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Abigail | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יג</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ל</span>](H0026H) | 2x | [[1Ch.2.16] & [1Ch.2.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abigail\*\|reference=1Ch.2.16;1Ch.2.17) |
-| Abigal (KJV= Abigail) | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יג</span>ַ֫<span class='tipnrLangHebrew'>ל</span>](H0026H) | 1x | [2Sa.17.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abigal\*\|reference=2Sa.17.25) |
+However, when David sent Amasa to gather the men of Judah, he took longer than expected. This delay prompted David to send Abishai and Joab to pursue the rebel Sheba. Joab, seeing Amasa as a threat to his position, killed him \([[2Sam.20.4|2 Samuel 20:4-13]]\). The biblical text does not provide further information about Abigail's life or her reaction to her son's death.
+
 All entries for **Abigail**:  **<big>[[H0026|אֲבִיגַיִל]]</big>**
+
 #### Related Profiles:
 - **[Jesse](H3448)** (father)
 - **[Nahash](H5176I)** (mother)

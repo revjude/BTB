@@ -2,9 +2,10 @@
 
 <span class='tipnrhighlight'>Gerasa</span> \(or Gadara\), a region southeast of the Sea of Galilee, was the location where Jesus healed a demon-possessed man.
 - A location first mentioned at [[Matt.8.28|Mat.8.28]]; 
-- referred to as Gerasa **<big>[[G1086|Γεργεσηνός]]</big>**, or Gerasene \(Var, KJV= Gadarene\)  **<big>[[G1086|Γεργεσηνός]]</big>**, or Gadara \(Var, KJV= Gergesene\)  **<big>[[G1046|Γαδαρηνός]]</big>**.
+- referred to as Gerasa **<big>[[G1086|Γεργεσηνός]]</big>**, or Gerasene \(Var, KJV= Gadarene\)  **<big>[[G1086|Γεργεσηνός]]</big>**, or Gadara \(Var, KJV= Gergesene\)  **<big>[[G1046|Γαδαρηνός]]</big>**.<br>
 
-Gerasa \(or Gadara\) is mentioned in the Synoptic Gospels as the region where Jesus performed a notable miracle, healing a man \(or two men, according to Matthew\) who was possessed by demons. The accounts of this event are found in [[Mark.5.1|Mark 5:1]], [[Luke.8.26|Luke 8:26]]-37, and [[Matt.8.28|Matthew 8:28]]-34. 
+
+Gerasa \(or Gadara\) is mentioned in the Synoptic Gospels as the region where Jesus performed a notable miracle, healing a man \(or two men, according to Matthew\) who was possessed by demons. The accounts of this event are found in [[Mark.5.1|Mark 5:1]], [[Luke.8.26|Luke 8:26-37]], and [[Matt.8.28|Matthew 8:28-34]]. 
 
 According to the Gospel narratives, after crossing the Sea of Galilee, Jesus and his disciples arrived in the region of the Gerasenes \(or Gadarenes\). There, they encountered a man \(or two men\) who was possessed by demons and lived among the tombs. The demon-possessed man was extremely violent and could not be restrained, even with chains. 
 
@@ -21,10 +22,5 @@ The exact location of this event is somewhat uncertain, as there are textual var
 4\) Matthew, writing primarily to a Jewish audience, may have used "Gadarenes" because Gadara was a prominent city in the region, while Mark and Luke, writing to Gentile audiences, used "Gerasenes" as Gerasa was an important Gentile city. 
 
 Despite the variations in the place names, the gospel accounts agree that the healing of the demoniac took place on the eastern shore of the Sea of Galilee, in a predominantly Gentile region. The presence of pigs, considered unclean by Jews, further confirms the Gentile character of the area.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Gerasene (Var, KJV= Gadarene) | [<span class='tipnrLangGreek'>Γερασηνός</span>](G1086G) | 3x | [[Mrk.5.1] ... [Luk.8.37] ⌕](https://www.stepbible.org/?q=version=ESV\|text=Gerasene\*\|reference=Mrk.5.1;Luk.8.26;Luk.8.37) |
-| Gerasene (Var, KJV= Gadarene) | [<span class='tipnrLangGreek'>Γεργεσηνός</span>](G1086) | 1x | [Mat.8.28 ⌕](https://www.stepbible.org/?q=version=ESV\|text=Gerasene\*\|reference=Mat.8.28) |
-| Gadara (Var, KJV= Gergesene) | [<span class='tipnrLangGreek'>Γαδαρηνός</span>](G1046) | 4x | [[Mat.8.28] ... [Luk.8.37] ⌕](https://www.stepbible.org/?q=version=ESV\|text=Gadara\|reference=Mat.8.28) |
+
 All entries for **Gerasa or Gadara**:  **<big>[[G1086|Γεργεσηνός]]</big>** ☩  **<big>[[G1086|Γεργεσηνός]]</big>** ☩  **<big>[[G1046|Γαδαρηνός]]</big>**

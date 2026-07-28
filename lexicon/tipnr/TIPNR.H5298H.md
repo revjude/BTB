@@ -16,12 +16,10 @@ As a son of David, Nepheg would have been part of the royal family and would hav
 
 The biblical record does not mention any significant events or accomplishments associated with Nepheg, and he does not appear to have played a prominent role in the history of Israel. This is in contrast to some of his brothers, such as Solomon, who succeeded David as king, and Absalom, who led a rebellion against his father. 
 
-Nepheg's inclusion in the genealogical record of David's sons serves to provide a complete account of the royal family and to highlight the fulfillment of God's promise to David that he would establish his throne forever \(2 Samuel 7:12-16\). The mention of Nepheg and his brothers also underscores the importance of family lineage in the Israelite monarchy and the continuation of the Davidic dynasty.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Nepheg | [<span class='tipnrLangHebrew'>נ</span>ֶ֫<span class='tipnrLangHebrew'>פ</span>ֶ<span class='tipnrLangHebrew'>ג</span>](H5298H) | 3x | [[2Sa.5.15] ... [1Ch.14.6] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nepheg\*\|reference=2Sa.5.15;1Ch.3.7;1Ch.14.6) |
+Nepheg's inclusion in the genealogical record of David's sons serves to provide a complete account of the royal family and to highlight the fulfillment of God's promise to David that he would establish his throne forever \([[2Sam.7.12|2 Samuel 7:12-16]]\). The mention of Nepheg and his brothers also underscores the importance of family lineage in the Israelite monarchy and the continuation of the Davidic dynasty.
+
 All entries for **Nepheg**:  **<big>[[H5298|נֶפֶג]]</big>**
+
 #### Related Profiles:
 - **[David](H1732)** (father)
 - **[Jerusalem_wives](H0802J)** (mother)

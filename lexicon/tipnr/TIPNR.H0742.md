@@ -12,12 +12,10 @@ Aridai is mentioned in the book of Esther as one of the ten sons of Haman, the c
 
 As a result, Haman was hanged on the gallows he had prepared for Mordecai, and the king issued a decree allowing the Jews to defend themselves against their enemies. On the appointed day, the Jews throughout the empire fought against those who sought to harm them. In Susa, the capital, they killed five hundred men and also killed Haman's ten sons, including Aridai \([[Esth.9.9|Esther 9:9]]\). 
 
-After this victory, Queen Esther requested that the bodies of Haman's sons be hanged on the gallows, further emphasizing the complete defeat of Haman and his family \(Esther 9:13-14\). The mention of Aridai and his brothers' deaths serves to underscore the reversal of fortune and the triumph of the Jewish people over their enemies, as well as the downfall of those who sought to destroy them.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Aridai | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>יד</span>ַ<span class='tipnrLangHebrew'>י</span>](H0742) | 1x | [Est.9.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aridai\*\|reference=Est.9.9) |
+After this victory, Queen Esther requested that the bodies of Haman's sons be hanged on the gallows, further emphasizing the complete defeat of Haman and his family \([[Esth.9.13|Esther 9:13-14]]\). The mention of Aridai and his brothers' deaths serves to underscore the reversal of fortune and the triumph of the Jewish people over their enemies, as well as the downfall of those who sought to destroy them.
+
 All entries for **Aridai**:  **<big>[[H0742|אֲרִידַי]]</big>**
+
 #### Related Profiles:
 - **[Haman](H2001)** (father)
 - **[Zeresh](H2238)** (mother)

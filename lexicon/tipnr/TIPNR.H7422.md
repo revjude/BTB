@@ -7,8 +7,5 @@ Man living at the time of Exile and Return
 - only referred to as Ramiah **<big>[[H7422|רַמְיָה]]</big>**.
 
 Ramiah is mentioned in the book of Ezra as one of the men who had married foreign women \([[Ezra.10.25|Ezra 10:25]]\). This occurred during the time when Ezra, a priest and scribe, led a religious reform among the Jewish people who had returned from Babylonian exile. Ezra called for the people to separate themselves from the foreign wives they had married, as these marriages were considered a violation of God's law. Ramiah was among those who had taken foreign wives, but no further details are provided about him or his specific situation.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Ramiah | [<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H7422) | 1x | [Ezr.10.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ramiah\*\|reference=Ezr.10.25) |
+
 All entries for **Ramiah**:  **<big>[[H7422|רַמְיָה]]</big>**

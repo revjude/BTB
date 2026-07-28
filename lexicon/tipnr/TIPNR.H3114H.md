@@ -13,8 +13,5 @@ Ezra, a priest and scribe, had been commissioned by King Artaxerxes of Persia to
 Ezra sent these men to Iddo to request that he send Levites to accompany them to Jerusalem. The Levites were essential for the proper functioning of the temple and the maintenance of religious rituals. Joiarib's inclusion in this delegation highlights his trustworthiness and the importance of his role in Ezra's mission. 
 
 No further details are provided about Joiarib's background or his specific contributions to the journey or the restoration of Jerusalem. However, his brief mention in this context underscores the significance of the Levites and the collective effort required to reestablish Jewish religious life in the post-exilic period.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Joiarib | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>יב</span>](H3114H) | 1x | [Ezr.8.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joiarib\*\|reference=Ezr.8.16) |
+
 All entries for **Joiarib**:  **<big>[[H3114|יוֹיָרִיב]]</big>**

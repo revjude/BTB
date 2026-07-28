@@ -9,11 +9,9 @@ Woman living before Israel's Monarchy
 - a sister of Japhlet **<big>[[H3310|יַפְלֵט]]</big>**, Shomer **<big>[[H7763|שׁוֹמֵר]]</big>** and Hotham **<big>[[H2369|חוֹתָם]]</big>**.
 
 Shua is mentioned in [[1Chr.7.32|1 Chronicles 7:32]] as part of the genealogy of the tribe of Asher. She is listed as one of the sons of Heber, along with his brothers Shomer \(or Shemer\) and Hotham. The genealogy traces the descendants of Asher, one of the twelve tribes of Israel, and provides insight into the family structure and lineage within the tribe.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Shua | [<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>א</span>](H7774) | 1x | [1Ch.7.32 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shua\*\|reference=1Ch.7.32) |
+
 All entries for **Shua**:  **<big>[[H7774|שׁוּעָא]]</big>**
+
 #### Related Profiles:
 - **[Heber](H2268G)** (father)
 - **[Japhlet](H3310)** (sibling)

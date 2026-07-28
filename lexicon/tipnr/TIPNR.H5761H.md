@@ -2,13 +2,11 @@
 
 <span class='tipnrhighlight'>Avvim</span> was a town allotted to the tribe of Benjamin. \([[Josh.18.23|Joshua 18:23]]\)
 - A location near Hebron **<big>[[H2275|חֶבְרוֹן]]</big>** only mentioned at [[Josh.18.23|Jos.18.23]]; 
-- only referred to as Avvim **<big>[[H5761|עַוִּים]]</big>**.
-<br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.53577362133176,35.09409986578734&zoom=10&maptype=satellite"></iframe>
+- only referred to as Avvim **<big>[[H5761|עַוִּים]]</big>**.<br>
+
+<iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.53577362133176,35.09409986578734&zoom=10&maptype=satellite"></iframe>
 
 
 Avvim is mentioned in [[Josh.18.23|Joshua 18:23]] as one of the towns allotted to the tribe of Benjamin when the land of Canaan was divided among the tribes of Israel. It is listed along with other towns such as Beth-hoglah, Emek-keziz, and Parah.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Avvim | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ו</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H5761H) | 1x | [Jos.18.23 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Avvim\*\|reference=Jos.18.23) |
+
 All entries for **Avvim**:  **<big>[[H5761|עַוִּים]]</big>**

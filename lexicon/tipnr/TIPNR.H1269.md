@@ -7,11 +7,9 @@ Man or town at the time of Egypt and Wilderness
 - only referred to as Birzaith **<big>[[H1269|בִּרְזוֹת]]</big>**; 
 - a son of Malchiel **<big>[[H4439|מַלְכִּיאֵל]]</big>**.
 
-Birzaith is mentioned in the genealogy of the tribe of Asher as a town or son of Birzaith, a descendant of Beriah, one of Asher's sons \(1 Ch. 7:31\). Asher was one of the twelve sons of Israel \(or 'Jacob'\) and the founder of the tribe that bore his name. No further details about Birzaith's life or role are provided in the biblical text. The inclusion of Birzaith in the genealogy highlights the importance of family lineage and the preservation of ancestral records among the Israelites, particularly within the tribe of Asher.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Birzaith (=Qere. Ketiv= Birzoth; KJV= Birzavith) | [<span class='tipnrLangHebrew'>ברזות</span>](H1269) | 1x | [1Ch.7.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Birzaith\*\|reference=1Ch.7.31) |
+Birzaith is mentioned in the genealogy of the tribe of Asher as a town or son of Birzaith, a descendant of Beriah, one of Asher's sons \([[1Chr.7.31|1 Ch. 7:31]]\). Asher was one of the twelve sons of Israel \(or 'Jacob'\) and the founder of the tribe that bore his name. No further details about Birzaith's life or role are provided in the biblical text. The inclusion of Birzaith in the genealogy highlights the importance of family lineage and the preservation of ancestral records among the Israelites, particularly within the tribe of Asher.
+
 All entries for **Birzaith**:  **<big>[[H1269|בִּרְזוֹת]]</big>**
+
 #### Related Profiles:
 - **[Malchiel](H4439)** (father)

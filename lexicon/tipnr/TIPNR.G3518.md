@@ -9,11 +9,9 @@ Man living at the time ofExile and return
 -  father of Shealtiel **<big>[[G4528|Σαλαθιήλ]]</big>**.
 
 Neri was an ancestor of Jesus Christ, mentioned in the genealogy found in the Gospel of Luke \([[Luke.3.27|Luke 3:27]]\). He was the son of Melchi and the father of Shealtiel. No other details about Neri's life are provided in the Bible. His name means "my light" in Hebrew.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Neri | [<span class='tipnrLangGreek'>Νηρί</span>](G3518) | 1x | [Luk.3.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Neri\*\|reference=Luk.3.27) |
+
 All entries for **Neri**:  **<big>[[G3518|Νηρί]]</big>**
+
 #### Related Profiles:
 - **[Melchi](G3197H)** (father)
 - **[Shealtiel](G4528G)** (child)

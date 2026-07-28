@@ -8,16 +8,14 @@ Man living at the time of Divided Monarchy
 - a son of Mibsam **<big>[[H4017|מִבְשָׂם]]</big>**; 
 -  father of Hammuel **<big>[[H2536|חַמּוּאֵל]]</big>**.
 
-Mishma is mentioned in [[1Chr.4.25|1 Chronicles 4:25]]-26 as part of the genealogy of the tribe of Simeon. He is identified as the son of Mibsam and the father of Hammuel. This genealogical record traces the descendants of Simeon, one of the twelve tribes of Israel, providing insight into the family lines within the tribe. 
+Mishma is mentioned in [[1Chr.4.25|1 Chronicles 4:25-26]] as part of the genealogy of the tribe of Simeon. He is identified as the son of Mibsam and the father of Hammuel. This genealogical record traces the descendants of Simeon, one of the twelve tribes of Israel, providing insight into the family lines within the tribe. 
 
 The mention of Mishma in this context highlights the importance of lineage and family heritage in ancient Israelite society. The chronicling of these genealogies served to preserve the identity and history of the tribes and to establish the legitimacy of their claims to specific territories and roles within the nation. 
 
 However, beyond his place in the genealogy as the son of Mibsam and the father of Hammuel, no additional information is provided about Mishma's life, character, or achievements. The lack of further details leaves much of his personal story unknown, and his significance lies primarily in his contribution to the continuation of the Simeonite line.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Mishma | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ע</span>](H4927H) | 2x | [[1Ch.4.25] & [1Ch.4.26] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mishma\*\|reference=1Ch.4.25;1Ch.4.26) |
+
 All entries for **Mishma**:  **<big>[[H4927|מִשְׁמָע]]</big>**
+
 #### Related Profiles:
 - **[Mibsam](H4017H)** (father)
 - **[Hammuel](H2536)** (child)

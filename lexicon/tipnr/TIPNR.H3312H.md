@@ -9,11 +9,9 @@ Man living at the time of Divided Monarchy
 - a brother of Pispa **<big>[[H6462|פִּסְפָּה]]</big>** and Ara **<big>[[H0690|אֲרָא]]</big>**.
 
 Jephunneh is briefly mentioned in the genealogy of the tribe of Asher in 1 Chronicles. He is listed as one of the sons of Jether, a descendant of Asher.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Jephunneh | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>פ</span>ֻ<span class='tipnrLangHebrew'>נ</span>ֶּ<span class='tipnrLangHebrew'>ה</span>](H3312H) | 1x | [1Ch.7.38 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jephunneh\*\|reference=1Ch.7.38) |
+
 All entries for **Jephunneh**:  **<big>[[H3312|יְפֻנֶּה]]</big>**
+
 #### Related Profiles:
 - **[Ithran](H3506H)** (father)
 - **[Pispa](H6462)** (sibling)

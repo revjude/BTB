@@ -11,11 +11,9 @@ Man living at the time of Egypt and Wilderness
 -  father of Anub **<big>[[H6036|עָנוּב]]</big>**, Zobebah **<big>[[H6637|צֹבֵבָה]]</big>**, Harum **<big>[[H2037|הָרֻם]]</big>** and Jabez **<big>[[H3258|יַעְבֵּץ]]</big>**.
 
 Koz was a son of Ashhur and a descendant of Judah \([[1Chr.4.8|1Ch.4.8]]\). He is mentioned in the genealogy of Judah, but no additional information is provided about him in the Bible. Koz lived during the period of the judges or the early monarchy in Israel.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Koz (KJV= Coz) | [<span class='tipnrLangHebrew'>קו</span>ֹ<span class='tipnrLangHebrew'>ץ</span>](H6976G) | 1x | [1Ch.4.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Koz\*\|reference=1Ch.4.8) |
+
 All entries for **Koz**:  **<big>[[H6976|קוֹץ]]</big>**
+
 #### Related Profiles:
 - **[Ashhur](H0806)** (father)
 - **[Helah](H2458)** (mother)

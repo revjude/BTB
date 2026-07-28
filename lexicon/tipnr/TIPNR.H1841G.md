@@ -13,8 +13,5 @@ In [[Neh.10.6|Nehemiah 10:6]], Daniel is mentioned again as one of the priests w
 The fact that Daniel is mentioned in both Ezra and Nehemiah suggests that he played a role in the religious life of the Jewish community after the exile. As a priest, he would have been involved in the Temple service and in teaching the people the Law of God. 
 
 Apart from these two references, no other details about this Daniel's life or ministry are provided in the Bible. It is important to note that this Daniel is a different person from the more well-known prophet Daniel, who lived earlier during the Babylonian exile.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Daniel | [<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>ֵּ<span class='tipnrLangHebrew'>אל</span>, <span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H1841G) | 2x | [[Ezr.8.2] & [Neh.10.6] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Daniel\*\|reference=Ezr.8.2;Neh.10.6) |
+
 All entries for **Daniel**:  **<big>[[H1841|דָּנִיֵּאל]]</big>**

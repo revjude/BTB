@@ -8,10 +8,8 @@ Man living at the time of Egypt and Wilderness
 - a son of Ammihud **<big>[[H5989|עַמִּיהוּד]]</big>**.
 
 Shemuel, the son of Ammihud, was a leader of the tribe of Simeon during the time of the allotment of the Promised Land. In [[Num.34.20|Numbers 34:20]], he is designated as the representative of his tribe who would assist Eleazar the priest and Joshua in dividing the land of Canaan among the nine and a half tribes settling west of the Jordan River. This appointment highlights Shemuel's leadership role within the tribe of Simeon and his responsibility in ensuring a fair distribution of the land inheritance among his people.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Shemuel | [<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>מו</span>ּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H8050H) | 1x | [Num.34.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shemuel\*\|reference=Num.34.20) |
+
 All entries for **Shemuel**:  **<big>[[H8050|שְׁמוּאֵל]]</big>**
+
 #### Related Profiles:
 - **[Ammihud](H5989H)** (father)

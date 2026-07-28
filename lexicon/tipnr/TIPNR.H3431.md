@@ -12,12 +12,10 @@ Man living at the time of Divided Monarchy
 -  father of son\_of\_Hodiah **<big>[[H1940|הוֹדִיָּה]]</big>**; 
 - founder of the town of Eshtemoa **<big>[[H0851|אֶשְׁתְּמֹעַ]]</big>** and Keilah **<big>[[H7084|קְעִילָה]]</big>**.
 
-Ishbah is mentioned only once in the Bible, in [[1Chr.4.17|1 Chronicles 4:17]], within the genealogical records of the descendants of Judah. He is identified as the  father \(ie founder\) of Eshtemoa, a town allotted to the Levites within the territory of Judah \(Joshua 21:14\), likely named after Ishbah's son or his descendants who settled there.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Ishbah | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ב</span>ַּ<span class='tipnrLangHebrew'>ח</span>](H3431) | 1x | [1Ch.4.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ishbah\*\|reference=1Ch.4.17) |
+Ishbah is mentioned only once in the Bible, in [[1Chr.4.17|1 Chronicles 4:17]], within the genealogical records of the descendants of Judah. He is identified as the  father \(ie founder\) of Eshtemoa, a town allotted to the Levites within the territory of Judah \([[Josh.21.14|Joshua 21:14]]\), likely named after Ishbah's son or his descendants who settled there.
+
 All entries for **Ishbah**:  **<big>[[H3431|יִשְׁבַּח]]</big>**
+
 #### Related Profiles:
 - **[Mered](H4778)** (father)
 - **[Bithiah](H1332)** (mother)

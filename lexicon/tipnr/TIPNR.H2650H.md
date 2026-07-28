@@ -19,14 +19,9 @@ In [[1Chr.8.5|1 Chronicles 8:5]], Huppim is mentioned as one of the sons of Bela
 The variations in the name \(Huppim, Hupham, or Huram\) may be due to different spellings or pronunciations used in different traditions or may refer to the same person. 
 
 Apart from being mentioned in these genealogies, no other information is provided about Huppim in the Bible. His inclusion in the records demonstrates the importance of family lineage and tribal identity in ancient Israelite society.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Huppim | [<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H2650H) | 1x | [Gen.46.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Huppim\*\|reference=Gen.46.21) |
-| Hupham | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>ם</span>](H2349) | 1x | [Num.26.39 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hupham\*\|reference=Num.26.39) |
-| Huram | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ם</span>](H2361H) | 1x | [1Ch.8.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Huram\*\|reference=1Ch.8.5) |
-| Huphamite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>י</span>](H2350) | 1x | [Num.26.39 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Huphamite\*\|reference=Num.26.39) |
+
 All entries for **Huppim or Hupham or Huram**:  **<big>[[H2650|חֻפִּים]]</big>** ☩  **<big>[[H2349|חוּפָם]]</big>** ☩  **<big>[[H2361|חוּרָם]]</big>** ☩  **<big>[[H2350|חוּפָמִי]]</big>**
+
 #### Related Profiles:
 - **[Benjamin](H1144G)** (father)
 - **[Bela](H1106A)** (sibling)

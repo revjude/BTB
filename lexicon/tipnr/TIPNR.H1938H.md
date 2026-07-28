@@ -13,8 +13,5 @@ The half-tribe of Manasseh settled on the east side of the Jordan River, in the 
 As a leader of his tribe, Hodaviah would have had responsibilities in military, political, and social matters. He would have been involved in decision-making, conflict resolution, and the overall well-being of his people. 
 
 The mention of Hodaviah and the other leaders in this passage highlights the importance of strong leadership within the tribes of Israel, especially during the time of King David when the nation was facing numerous challenges and enemies.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Hodaviah | [<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ַ<span class='tipnrLangHebrew'>ו</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1938H) | 1x | [1Ch.5.24 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hodaviah\*\|reference=1Ch.5.24) |
+
 All entries for **Hodaviah**:  **<big>[[H1938|הוֹדַוְיָה]]</big>**

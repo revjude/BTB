@@ -8,12 +8,10 @@ Man living at the time of the Patriarchs
 -  son of Aram **<big>[[H0758|אֲרָם]]</big>**; 
 - a brother of Uz **<big>[[H5780|עוּץ]]</big>**, Hul **<big>[[H2343|חוּל]]</big>** and Mash **<big>[[H4851|מַשׁ]]</big>**.
 
-Gether is mentioned in [[Gen.10.23|Genesis 10:23]] and [[1Chr.1.17|1 Chronicles 1:17]] as one of the sons of Aram, who was a son of Shem. Shem was one of the three sons of Noah, and his descendants are listed in the Table of Nations \(Genesis 10\), which provides a genealogical record of the repopulation of the Earth after the Great Flood. Gether is listed alongside his brothers Uz, Hul, and Mash \(or Meshech in 1 Chronicles\). The Table of Nations is organized according to the descendants of Noah's three sons: Shem, Ham, and Japheth. The descendants of Shem, known as Semites, are believed to have settled in the Middle East, and Aram's descendants, including Gether, are traditionally associated with the regions of Syria and Mesopotamia. However, no further details are provided about Gether's life, his specific descendants, or the territory they inhabited. The mention of Gether in the Table of Nations serves to emphasize the common ancestry of the various nations and people groups that emerged after the Flood.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Gether | [<span class='tipnrLangHebrew'>ג</span>ֶּ֫<span class='tipnrLangHebrew'>ת</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H1666) | 2x | [[Gen.10.23] & [1Ch.1.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Gether\*\|reference=Gen.10.23;1Ch.1.17) |
+Gether is mentioned in [[Gen.10.23|Genesis 10:23]] and [[1Chr.1.17|1 Chronicles 1:17]] as one of the sons of Aram, who was a son of Shem. Shem was one of the three sons of Noah, and his descendants are listed in the Table of Nations \([[Gen.10|Genesis 10]]\), which provides a genealogical record of the repopulation of the Earth after the Great Flood. Gether is listed alongside his brothers Uz, Hul, and Mash \(or Meshech in 1 Chronicles\). The Table of Nations is organized according to the descendants of Noah's three sons: Shem, Ham, and Japheth. The descendants of Shem, known as Semites, are believed to have settled in the Middle East, and Aram's descendants, including Gether, are traditionally associated with the regions of Syria and Mesopotamia. However, no further details are provided about Gether's life, his specific descendants, or the territory they inhabited. The mention of Gether in the Table of Nations serves to emphasize the common ancestry of the various nations and people groups that emerged after the Flood.
+
 All entries for **Gether**:  **<big>[[H1666|גֶּתֶר]]</big>**
+
 #### Related Profiles:
 - **[Aram](H0758G)** (father)
 - **[Uz](H5780G)** (sibling)

@@ -7,8 +7,5 @@ Man living at the time of Divided Monarchy
 - only referred to as Adrammelech **<big>[[H0152|אֲדְרַמֶּלֶךְ]]</big>**.
 
 Adrammelech was an Assyrian god mentioned in the Bible as one of the deities worshipped by the Sepharvite people who were brought to Samaria by the Assyrian king after the conquest of Israel. The Sepharvites burned their children as sacrifices to Adrammelech and Anammelech.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Adrammelech (NIV= Adrammelek) | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>מ</span>ֶּ֫<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ך</span>ְ](H0152G) | 1x | [2Ki.17.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adrammelech\*\|reference=2Ki.17.31) |
+
 All entries for **Adrammelech**:  **<big>[[H0152|אֲדְרַמֶּלֶךְ]]</big>**

@@ -9,11 +9,9 @@ Man living at the time ofExile and return
 -  father of Nahum **<big>[[G3486|Ναούμ]]</big>**.
 
 Esli is mentioned in the genealogy of Jesus Christ recorded in [[Luke.3.25|Luke 3:25]]. He was the son of Naggai and the father of Nahum. Esli was part of the lineage traced from David to Jesus through Nathan, David's son.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Esli | [<span class='tipnrLangGreek'>Ἐσλί</span>](G2069) | 1x | [Luk.3.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Esli\*\|reference=Luk.3.25) |
+
 All entries for **Esli**:  **<big>[[G2069|Ἐσλί]]</big>**
+
 #### Related Profiles:
 - **[Naggai](G3477)** (father)
 - **[Nahum](G3486)** (child)

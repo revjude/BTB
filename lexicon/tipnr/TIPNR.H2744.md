@@ -7,8 +7,5 @@ Man living at the time of Exile and Return
 - only referred to as Harhur **<big>[[H2744|חַרְחוּר]]</big>**.
 
 Harhur is mentioned as an ancestor of a group of temple servants, also known as Nethinim, who returned to Jerusalem from Babylonian exile. The Nethinim were assigned to assist the Levites in the service of the temple. Harhur's descendants were among the 392 Nethinim who returned with Zerubbabel, as recorded in the lists found in Ezra and Nehemiah. No further information about Harhur is provided in the Bible. \([[Ezra.2.51|Ezr.2.51]]; [[Neh.7.53|Neh.7.53]]\).
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Harhur | [<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ר</span>](H2744) | 2x | [[Ezr.2.51] & [Neh.7.53] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Harhur\*\|reference=Ezr.2.51;Neh.7.53) |
+
 All entries for **Harhur**:  **<big>[[H2744|חַרְחוּר]]</big>**

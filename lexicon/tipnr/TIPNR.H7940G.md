@@ -8,12 +8,10 @@ Levite living at the time of United Monarchy
 -  son of Obed-edom **<big>[[H5654|עֹבֵד אֱדוֹם]]</big>**; 
 - a brother of Shemaiah **<big>[[H8098|שְׁמַעְיָה]]</big>**, Jehozabad **<big>[[H3075|יְהוֹזָבָד]]</big>**, Joah **<big>[[H3098|יוֹאָח]]</big>**, Nethanel **<big>[[H5417|נְתַנְאֵל]]</big>**, Ammiel **<big>[[H5988|עַמִּיאֵל]]</big>**, Issachar **<big>[[H3485|יִשָּׂשכָר]]</big>** and Peullethai **<big>[[H6469|פְּעֻלְּתַי]]</big>**.
 
-Sachar is mentioned in [[1Chr.26.4|1 Chronicles 26:4]] as one of the sons of Obed-edom, a Levite who served as a gatekeeper in the tabernacle during the reign of King David. Obed-edom was entrusted with the care of the Ark of the Covenant for three months after the incident involving Uzzah \(2 Samuel 6:10-11; 1 Chronicles 13:13-14\). As a result of God's blessing upon Obed-edom's household during this time, David appointed him and his sons as gatekeepers in the tabernacle \(1 Chronicles 15:18, 24\). Sachar is listed among Obed-edom's eight sons, who are described as "able men with strength for the service" \(1 Chronicles 26:8\). The gatekeepers were responsible for guarding the entrances to the tabernacle, maintaining order, and ensuring that only authorized individuals entered the sacred spaces \(1 Chronicles 9:22-27\). The mention of Sachar and his brothers highlights the importance of the Levites' role in the worship and service of the Lord, as well as the faithfulness of Obed-edom's family in carrying out their assigned duties.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Sachar (KJV= Sacar; NIV= Sakar) | [<span class='tipnrLangHebrew'>ש</span>ָׂ<span class='tipnrLangHebrew'>כ</span>ָ<span class='tipnrLangHebrew'>ר</span>](H7940G) | 1x | [1Ch.26.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sachar\*\|reference=1Ch.26.4) |
+Sachar is mentioned in [[1Chr.26.4|1 Chronicles 26:4]] as one of the sons of Obed-edom, a Levite who served as a gatekeeper in the tabernacle during the reign of King David. Obed-edom was entrusted with the care of the Ark of the Covenant for three months after the incident involving Uzzah \([[2Sam.6.10|2 Samuel 6:10-11]]; [[1Chr.13.13|1 Chronicles 13:13-14]]\). As a result of God's blessing upon Obed-edom's household during this time, David appointed him and his sons as gatekeepers in the tabernacle \([[1Chr.15.18|1 Chronicles 15:18]], [[1Chr.15.24|24]]\). Sachar is listed among Obed-edom's eight sons, who are described as "able men with strength for the service" \([[1Chr.26.8|1 Chronicles 26:8]]\). The gatekeepers were responsible for guarding the entrances to the tabernacle, maintaining order, and ensuring that only authorized individuals entered the sacred spaces \([[1Chr.9.22|1 Chronicles 9:22-27]]\). The mention of Sachar and his brothers highlights the importance of the Levites' role in the worship and service of the Lord, as well as the faithfulness of Obed-edom's family in carrying out their assigned duties.
+
 All entries for **Sachar**:  **<big>[[H7940|שָׂכָר]]</big>**
+
 #### Related Profiles:
 - **[Obed-edom](Obed)** (father)
 - **[Shemaiah](H8098I)** (sibling)

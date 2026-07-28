@@ -14,10 +14,8 @@ According to the text, Nehemiah son of Azbuk was responsible for repairing a spe
 The fact that Nehemiah son of Azbuk's section of the wall was near the tombs of David also indicates that this area was of particular historical and religious significance to the Jewish people. By repairing this section, Nehemiah son of Azbuk was contributing to the restoration of both the physical and spiritual aspects of Jerusalem. 
 
 Apart from this single mention in [[Neh.3.16|Nehemiah 3:16]], no further information is provided about Nehemiah son of Azbuk's life, family, or role within the community. However, his inclusion in the list of those who participated in the rebuilding of the walls highlights the collective effort and unity of the Jewish people in their task of restoring Jerusalem and their commitment to their faith and heritage.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Nehemiah | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5166I) | 1x | [Neh.3.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nehemiah\*\|reference=Neh.3.16) |
+
 All entries for **Nehemiah**:  **<big>[[H5166|נְחֶמְיָה]]</big>**
+
 #### Related Profiles:
 - **[Azbuk](H5802)** (father)

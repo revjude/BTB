@@ -15,11 +15,9 @@ In [[Num.10.29|Numbers 10:29]], as the Israelites were preparing to depart from 
 In [[Judg.4.11|Judges 4:11]], Hobab is described as the father-in-law of Heber the Kenite. This passage suggests that Hobab's descendants maintained a close relationship with the Israelites, even though they were not part of the original twelve tribes. 
 
 As a Midianite, Hobab would have had valuable knowledge of the wilderness through which the Israelites were traveling. His presence and guidance would have been beneficial to the Israelites during their journey to the Promised Land.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Hobab | [<span class='tipnrLangHebrew'>ח</span>ֹ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ב</span>](H2246) | 2x | [[Num.10.29] & [Jdg.4.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hobab\*\|reference=Num.10.29;Jdg.4.11) |
+
 All entries for **Hobab**:  **<big>[[H2246|חֹבָב]]</big>**
+
 #### Related Profiles:
 - **[Jethro](H3503)** (father)
 - **[Zipporah](H6855)** (sibling)

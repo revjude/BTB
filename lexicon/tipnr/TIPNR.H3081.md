@@ -8,11 +8,8 @@ Man living at the time of Divided Monarchy
 - a son of Shelemiah **<big>[[H8018|שֶׁלֶמְיָה]]</big>**.
 
 Jehucal, also known as Jucal, was an official during the reign of King Zedekiah of Judah. He, along with Zephaniah the priest, was sent by the king to the prophet Jeremiah to request his prayers for the nation. However, later, Jehucal is mentioned as one of the officials who opposed Jeremiah and sought to have him punished for his prophecies. He, along with other officials, urged the king to put Jeremiah to death, accusing him of discouraging the people and not seeking the welfare of the nation.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Jehucal (NIV= Jehukal) | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ּ<span class='tipnrLangHebrew'>כ</span>ַ<span class='tipnrLangHebrew'>ל</span>](H3081) | 1x | [Jer.37.3 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jehucal\*\|reference=Jer.37.3) |
-| Jucal (NIV= Jehukal) | [<span class='tipnrLangHebrew'>יו</span>ּ<span class='tipnrLangHebrew'>כ</span>ַ<span class='tipnrLangHebrew'>ל</span>](H3116) | 1x | [Jer.38.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jucal\*\|reference=Jer.38.1) |
+
 All entries for **Jehucal or Jucal**:  **<big>[[H3081|יְהוּכַל]]</big>** ☩  **<big>[[H3116|יוּכַל]]</big>**
+
 #### Related Profiles:
 - **[Shelemiah](H8018M)** (father)

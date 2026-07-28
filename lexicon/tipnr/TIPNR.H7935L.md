@@ -11,11 +11,9 @@ Man living at the time of Exile and Return
 Shecaniah was an Israelite man living in the time of Ezra after the return from Babylonian exile. He is first mentioned in [[Ezra.10.2|Ezra 10:2]], where he speaks on behalf of the people in confessing that they had been unfaithful to God by marrying foreign women. Shecaniah proposes that the people make a covenant to send away these wives and their children. 
 
 He is likely the same Shecaniah mentioned in [[Neh.3.29|Nehemiah 3:29]] as the son of Shemaiah. In this passage, he is recorded as making repairs to a section of the wall of Jerusalem near his house. This suggests he remained faithful to God and was trusted to help rebuild the city walls.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Shecaniah (KJV= Shechaniah; NIV= Shekaniah) | [<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>כ</span>ַ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>הו</span>ּ](H7935L) | 2x | [[Ezr.10.2] & [Neh.3.29] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shecaniah\*\|reference=Ezr.10.2;Neh.3.29) |
+
 All entries for **Shecaniah**:  **<big>[[H7935|שְׁכַנְיָה]]</big>**
+
 #### Related Profiles:
 - **[Jehiel](H3171O)** (father)
 - **[Shemaiah](H8098R)** (child)

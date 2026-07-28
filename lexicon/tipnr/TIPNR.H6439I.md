@@ -2,7 +2,7 @@
 
 Man living at the time of Divided Monarchy
 
-<span class='tipnrhighlight'>Penuel</span>, a son of Shashak and descendant of Benjamin, mentioned in the genealogy of 1 Chronicles 8.
+<span class='tipnrhighlight'>Penuel</span>, a son of Shashak and descendant of Benjamin, mentioned in the genealogy of [[1Chr.8|1 Chronicles 8]].
 - A man from the tribe of Benjamin  living at the time of Divided Monarchy, only mentioned at [[1Chr.8.25|1Ch.8.25]]; 
 - only referred to as Penuel **<big>[[H6439|פְּנוּאֵל]]</big>**; 
 -  son of Shashak **<big>[[H8349|שָׁשַׁק]]</big>**; 
@@ -10,11 +10,9 @@ Man living at the time of Divided Monarchy
 - founder of Gedor **<big>[[H1446|גְדֹר]]</big>**.
 
 Penuel was a son of Shashak, according to the genealogy of Benjamin in [[1Chr.8.25|1 Chronicles 8:25]]. He is listed among the descendants of Jeroham, who was a descendant of Benjamin through his son Bela. No further information is given about Penuel's life or role. His inclusion in the genealogy indicates that he was part of the tribe of Benjamin and lived during the period of Israel's settlement in Canaan or the early monarchy.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Penuel (=Qere. Ketiv= Peniel) | [<span class='tipnrLangHebrew'>פ</span>ְּ<span class='tipnrLangHebrew'>נו</span>ּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H6439I) | 1x | [1Ch.8.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Penuel\*\|reference=1Ch.8.25) |
+
 All entries for **Penuel**:  **<big>[[H6439|פְּנוּאֵל]]</big>**
+
 #### Related Profiles:
 - **[Shashak](H8349)** (father)
 - **[Ishpan](H3473)** (sibling)

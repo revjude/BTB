@@ -15,8 +15,5 @@ The importance of genealogical records in determining priestly lineage is eviden
 The exclusion of the Nekoda family from the priesthood highlights the significance of maintaining the purity and integrity of the priestly line. It also underscores the challenges faced by the returning exiles in reestablishing their religious and social order after years of captivity in a foreign land. 
 
 Apart from this incident, no further information is provided about the Nekoda family or their subsequent role in the post-exilic Jewish community.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Nekoda | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>קו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>א</span>](H5353H) | 2x | [[Ezr.2.60] & [Neh.7.62] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nekoda\*\|reference=Ezr.2.60;Neh.7.62) |
+
 All entries for **Nekoda**:  **<big>[[H5353|נְקוֹדָא]]</big>**

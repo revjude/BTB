@@ -9,11 +9,9 @@ Woman of living at the time of Divided Monarchy
 -  mother of Ahban **<big>[[H0257|אַחְבָן]]</big>**, Molid **<big>[[H4140|מוֹלִיד]]</big>**.
 
 Abihail is mentioned briefly in [[1Chr.2.29|1 Chronicles 2:29]] as the wife of Abishur, who was a descendant of Judah. She is listed in the genealogy of Judah, which traces the lineage of David. Abihail and Abishur had two sons, Ahban and Molid.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Abihail | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יח</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ל</span>](H0032H) | 1x | [1Ch.2.29 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abihail\*\|reference=1Ch.2.29) |
+
 All entries for **Abihail**:  **<big>[[H0032|אֲבִיהַיִל]]</big>**
+
 #### Related Profiles:
 - **[Abishur](H0051)** (spouse)
 - **[Ahban](H0257)** (child)

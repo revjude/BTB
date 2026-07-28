@@ -9,11 +9,9 @@ King living at the time of United Monarchy
 -  father of Maacah **<big>[[H4601|מַעֲכָה]]</big>**.
 
 Talmai is mentioned in [[2Sam.3.3|2 Samuel 3:3]] and [[1Chr.3.2|1 Chronicles 3:2]] as the father of Maacah, who was one of David's wives and the mother of Absalom. Talmai was the king of Geshur, an Aramean city-state to the northeast of Israel. After Absalom murdered his half-brother Amnon, he fled to Geshur and stayed with his grandfather King Talmai for three years before Joab brought about his reconciliation with David \([[2Sam.13.37|2 Samuel 13:37]]\).
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Talmai | [<span class='tipnrLangHebrew'>ת</span>ַּ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>י</span>](H8526H) | 3x | [[2Sa.3.3] ... [1Ch.3.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Talmai\*\|reference=2Sa.3.3;2Sa.13.37;1Ch.3.2) |
+
 All entries for **Talmai**:  **<big>[[H8526|תַּלְמַי]]</big>**
+
 #### Related Profiles:
 - **[Ammihud](H5989J)** (father)
 - **[Maacah](H4601I)** (child)

@@ -11,11 +11,9 @@ Man living at the time of Egypt and Wilderness
 -  founder of Ziph **<big>[[H2128|זִיף]]</big>**.
 
 Mesha was a son of Caleb, the son of Hezron from the tribe of Judah. He founded \(or fathered\) Ziph.  \([[1Chr.2.42|1 Chronicles 2:42]]\).
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Mesha (ESV= Mareshah) | [<span class='tipnrLangHebrew'>מ</span>ֵ<span class='tipnrLangHebrew'>יש</span>ָׁ<span class='tipnrLangHebrew'>ע</span>](H4337) | 1x | [1Ch.2.42 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mareshah\*\|reference=1Ch.2.42) |
+
 All entries for **Mesha**:  **<big>[[H4337|מֵישָׁע]]</big>**
+
 #### Related Profiles:
 - **[Caleb](H3612H)** (father)
 - **[Jerioth](H3408)** (mother)

@@ -9,11 +9,9 @@ Man living at the time of Divided Monarchy
 - a brother of Ahikam **<big>[[H0296|אֲחִיקָם]]</big>** and Gemariah **<big>[[H1587|גְּמַרְיָה]]</big>**.
 
 Elasah is mentioned in [[Jer.29.3|Jeremiah 29:3]] as one of the two messengers \(along with Gemariah\) who carried a letter from the prophet Jeremiah to the exiles in Babylon. The letter contained Jeremiah's message encouraging the exiles to settle down, build houses, and pray for the peace of the city where they were living. Elasah's role as a messenger indicates he was trusted to deliver this important communication.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Elasah | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ש</span>ָׂ<span class='tipnrLangHebrew'>ה</span>](H0501J) | 1x | [Jer.29.3 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elasah\*\|reference=Jer.29.3) |
+
 All entries for **Elasah**:  **<big>[[H0501|אֶלְעָשָׂה]]</big>**
+
 #### Related Profiles:
 - **[Shaphan](H8227B)** (father)
 - **[Ahikam](H0296)** (sibling)

@@ -11,12 +11,9 @@ Woman living at the time of Divided Monarchy
 - mother of Zechariah **<big>[[H2148|זְכַרְיָה]]</big>**.
 
 Jehosheba, also known as Jehoshabeath, was the daughter of King Jehoram of Judah and the sister of King Ahaziah. She was married to Jehoiada, the high priest. When Athaliah, Jehosheba's mother, attempted to kill all the royal heirs after Ahaziah's death, Jehosheba rescued the infant Joash, Ahaziah's son, and hid him in the temple for six years. Later, Jehoiada and Jehosheba orchestrated the coronation of Joash and the overthrow of Athaliah.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Jehosheba | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ֶׁ<span class='tipnrLangHebrew'>ב</span>ַ<span class='tipnrLangHebrew'>ע</span>](H3089) | 1x | [2Ki.11.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jehosheba\*\|reference=2Ki.11.2) |
-| Jehoshabeath | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ת</span>](H3090) | 2x | [[2Ch.22.11a] & [2Ch.22.11b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jehoshabeath\*\|reference=2Ch.22.11;2Ch.22.11) |
+
 All entries for **Jehosheba or Jehoshabeath**:  **<big>[[H3089|יְהוֹשֶׁבַע]]</big>** ☩  **<big>[[H3090|יְהוֹשַׁבְעַת]]</big>**
+
 #### Related Profiles:
 - **[Jehoram](H3088G)** (father)
 - **[Athaliah](H6271G)** (mother)

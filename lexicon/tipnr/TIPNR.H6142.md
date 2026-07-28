@@ -16,10 +16,8 @@ Ikkesh is specifically identified as a Tekoite, indicating that he was from the 
 In addition to being listed among the mighty warriors, Ira the son of Ikkesh is also mentioned in [[1Chr.27.9|1 Chronicles 27:9]] as one of the twelve military commanders who served King David. Each of these commanders was responsible for leading a division of 24,000 men, with each division serving the king for one month out of the year. 
 
 Although no specific details are provided about Ikkesh himself, his son Ira's inclusion among David's mighty warriors and military commanders indicates that the family was known for their military skill and leadership. Ikkesh's mention as Ira's father also highlights the importance of family lineage and the passing down of military traditions from one generation to another.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Ikkesh | [<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>ק</span>ֵּ<span class='tipnrLangHebrew'>ש</span>ׁ](H6142) | 3x | [[2Sa.23.26] ... [1Ch.27.9] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ikkesh\*\|reference=2Sa.23.26;1Ch.11.28;1Ch.27.9) |
+
 All entries for **Ikkesh**:  **<big>[[H6142|עִקֵּשׁ]]</big>**
+
 #### Related Profiles:
 - **[Ira](H5896H)** (child)

@@ -8,16 +8,14 @@ Priest living at the time of Egypt and Wilderness
 - a son of Phinehas **<big>[[H6372|פִּינְחָס]]</big>**; 
 -  father of Bukki **<big>[[H1231|בֻּקִּי]]</big>**.
 
-Abishua was the son of Phinehas and the grandson of Eleazar, who was the son of Aaron, the first high priest of Israel \([[1Chr.6.4|1 Chronicles 6:4]]-5,50\). He was part of the lineage of high priests who served in the tabernacle and, later, in the temple. 
+Abishua was the son of Phinehas and the grandson of Eleazar, who was the son of Aaron, the first high priest of Israel \([[1Chr.6.4|1 Chronicles 6:4-5]],[[1Chr.6.50|50]]\). He was part of the lineage of high priests who served in the tabernacle and, later, in the temple. 
 
 As a descendant of Aaron, Abishua would have been part of the Levitical priesthood, although no specific details are given about his role or responsibilities. His mention in the genealogies serves to trace the line of high priests from Aaron to the time of the divided monarchy. 
 
 Abishua is also mentioned in the genealogy of Ezra, the scribe and priest who led a group of exiles back to Jerusalem during the Persian period \([[Ezra.7.5|Ezra 7:5]]\). This genealogy demonstrates Ezra's priestly lineage and his connection to the line of high priests stretching back to Aaron, including Abishua.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Abishua | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ַ](H0050G) | 4x | [[1Ch.6.4] ... [Ezr.7.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abishua\*\|reference=1Ch.6.4;1Ch.6.5;1Ch.6.50;Ezr.7.5) |
+
 All entries for **Abishua**:  **<big>[[H0050|אֲבִישׁוּעַ]]</big>**
+
 #### Related Profiles:
 - **[Phinehas](H6372G)** (father)
 - **[Bukki](H1231H)** (child)

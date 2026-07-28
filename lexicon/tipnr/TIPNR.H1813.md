@@ -12,14 +12,12 @@ Dalphon is mentioned in [[Esth.9.7|Esther 9:7]] as one of the ten sons of Haman,
 
 After Haman's downfall and execution, the king granted the Jews the right to defend themselves against their enemies. On the 13th day of the month of Adar, the Jews fought against those who sought to harm them. They defeated their enemies, and among those killed were the ten sons of Haman, including Dalphon. 
 
-Following their deaths, the bodies of Haman's sons were hanged on the gallows, likely the same gallows Haman had prepared for Mordecai \(Esther 9:13-14\). This act served as a public display of the Jews' victory over their enemies and the downfall of Haman's family. 
+Following their deaths, the bodies of Haman's sons were hanged on the gallows, likely the same gallows Haman had prepared for Mordecai \([[Esth.9.13|Esther 9:13-14]]\). This act served as a public display of the Jews' victory over their enemies and the downfall of Haman's family. 
 
 Apart from being listed as one of Haman's sons, no other details about Dalphon's life or actions are provided in the biblical text.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Dalphon | [<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>פו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H1813) | 1x | [Est.9.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dalphon\*\|reference=Est.9.7) |
+
 All entries for **Dalphon**:  **<big>[[H1813|דַּלְפוֹן]]</big>**
+
 #### Related Profiles:
 - **[Haman](H2001)** (father)
 - **[Zeresh](H2238)** (mother)

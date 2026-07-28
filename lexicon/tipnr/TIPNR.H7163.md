@@ -12,14 +12,12 @@ Keren-happuch is mentioned in [[Job.42.14|Job 42:14]] as the name of Job's third
 
 The context of Keren-happuch's mention is the conclusion of the Book of Job, where God blessed Job abundantly after his period of suffering and testing. Job's restoration included not only material wealth but also a new family. He had seven sons and three daughters, and Keren-happuch was the youngest of the daughters. 
 
-The Bible notes that Job's daughters were the most beautiful in all the land, and he gave them an inheritance along with their brothers \(Job 42:15\). This was unusual in ancient Near Eastern culture and demonstrates Job's love and respect for his daughters. 
+The Bible notes that Job's daughters were the most beautiful in all the land, and he gave them an inheritance along with their brothers \([[Job.42.15|Job 42:15]]\). This was unusual in ancient Near Eastern culture and demonstrates Job's love and respect for his daughters. 
 
 The mention of Keren-happuch and her sisters highlights the completeness of Job's restoration and the blessing of family in his life after enduring great trials. It also emphasizes the value and dignity given to women in this narrative.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Keren-happuch | [<span class='tipnrLangHebrew'>ק</span>ֶ<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ן</span> <span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>פ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ך</span>ְ](H7163) | 1x | [Job.42.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Keren\*\|reference=Job.42.14) |
+
 All entries for **Keren-happuch**:  **<big>[[H7163|קֶרֶן הַפּוּךְ]]</big>**
+
 #### Related Profiles:
 - **[Job](H0347)** (father)
 - **[Jemimah](H3224)** (sibling)

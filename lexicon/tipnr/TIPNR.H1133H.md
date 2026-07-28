@@ -16,10 +16,8 @@ The appointment of district governors was part of Solomon's administrative strat
 The fact that Hur is mentioned by name suggests that he was a person of some importance or influence, as he was entrusted with the responsibility of overseeing a district and providing for the king's needs. 
 
 Apart from this brief mention in [[1Kgs.4.8|1 Kings 4:8]], no other information is provided about Hur in the Bible. His role as a district governor under Solomon highlights the king's organizational skills and the structure of the Israelite kingdom during this period of peace and prosperity.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Hur | [<span class='tipnrLangHebrew'>ב</span>ֶּ<span class='tipnrLangHebrew'>ן</span>־<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ר</span>](H1133H) | 1x | [1Ki.4.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hur\*\|reference=1Ki.4.8) |
+
 All entries for **Hur**:  **<big>[[H1133|בֶּן־חוּר]]</big>**
+
 #### Related Profiles:
 - **[Ben-hur](Ben)** (child)

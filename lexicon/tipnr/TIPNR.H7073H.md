@@ -12,11 +12,9 @@ Kenaz is mentioned in [[1Chr.4.15|1 Chronicles 4:15]] as a descendant of Caleb, 
 This mention of Kenaz is part of the larger genealogical record of the tribe of Judah, which traces the lineage of the prominent families and individuals within the tribe. 
 
 Apart from this brief genealogical note, no other information is provided about Kenaz's life, his relationship with Caleb, or any significant events or roles he may have had within the tribe of Judah.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Kenaz | [<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ז</span>](H7073H) | 1x | [1Ch.4.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kenaz\*\|reference=1Ch.4.15) |
+
 All entries for **Kenaz**:  **<big>[[H7073|קְנַז]]</big>**
+
 #### Related Profiles:
 - **[Elah](H0425J)** (father)
 - **[Jehallelel](H3094G)** (sibling)

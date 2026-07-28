@@ -9,11 +9,9 @@ Levite living at the time of Divided Monarchy
 -  father of Shelomoth **<big>[[H8013|שְׁלֹמוֹת]]</big>**.
 
 Zichri was a Levite mentioned in the genealogy of the temple treasurers during the reign of King David. He was a descendant of Moses through his son Eliezer and is listed among the Levites appointed to oversee the treasuries of the house of God. As a treasurer, Zichri would have been responsible for managing the wealth and resources dedicated to the temple, including offerings, tithes, and other valuables. The appointment of Levites as treasurers reflects the importance of their role in maintaining the integrity and proper use of the temple's assets. Zichri's service as a treasurer highlights the diverse responsibilities undertaken by the Levites in support of the temple and its worship.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Zichri (NIV= Zikri) | [<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>](H2147L) | 1x | [1Ch.26.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zichri\*\|reference=1Ch.26.25) |
+
 All entries for **Zichri**:  **<big>[[H2147|זִכְרִי]]</big>**
+
 #### Related Profiles:
 - **[Joram](H3141I)** (father)
 - **[Shelomoth](H8013H)** (child)

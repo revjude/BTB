@@ -11,11 +11,9 @@ Man living at the time of Divided Monarchy
 - founder of Gedor **<big>[[H1446|גְדֹר]]</big>**.
 
 Jered is mentioned in the genealogy of Judah in 1 Chronicles. He was the son of Mered and his wife Jehudijah \(or the Judahite woman\). Jered is described as the  father \(ie founder\) of Gedor, which may refer to a person or a town associated with his descendants.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Jered | [<span class='tipnrLangHebrew'>י</span>ֶ֫<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ד</span>](H3382H) | 1x | [1Ch.4.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jered\*\|reference=1Ch.4.18) |
+
 All entries for **Jered**:  **<big>[[H3382|יֶרֶד]]</big>**
+
 #### Related Profiles:
 - **[Mered](H4778)** (father)
 - **[Jehudijah](H3057)** (mother)

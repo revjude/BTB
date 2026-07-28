@@ -11,11 +11,9 @@ Abinadab, the son of Iddo, was a high-ranking official during the reign of King 
 
 As part of Solomon's administrative structure, Abinadab was appointed as one of the twelve officers who governed various regions of Israel. He was responsible for the region of Dor, located in the western part of the country near the Mediterranean coast \([[1Kgs.4.11|1 Kings 4:11]]\). 
 
-These officers were tasked with providing provisions for the king and his household, each being responsible for supplying the royal court for one month out of the year \(1 Kings 4:7\).
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Abinadab | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>ינ</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ב</span>](H0041J) | 1x | [1Ki.4.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abinadab\*\|reference=1Ki.4.11) |
+These officers were tasked with providing provisions for the king and his household, each being responsible for supplying the royal court for one month out of the year \([[1Kgs.4.7|1 Kings 4:7]]\).
+
 All entries for **Abinadab**:  **<big>[[H0041|אֲבִינָדָב]]</big>**
+
 #### Related Profiles:
 - **[Ben-abinadab](Ben)** (child)

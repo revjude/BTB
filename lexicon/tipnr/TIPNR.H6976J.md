@@ -8,10 +8,8 @@ Man living at the time of Exile and Return
 -  father of Uriah **<big>[[H0223|אוּרִיָּה]]</big>**.
 
 Hakkoz is mentioned in [[Neh.3.4|Nehemiah 3:4]] and 3:21 as one of the priests who participated in repairing the wall of Jerusalem during the time of Nehemiah. In [[Neh.3.4|Nehemiah 3:4]], Hakkoz is described as one of the priests who made repairs to a section of the wall. Later, in [[Neh.3.21|Nehemiah 3:21]], Meremoth, the son of Uriah, the son of Hakkoz, is mentioned as repairing another section of the wall near his house. The rebuilding of the wall was a significant event in the history of Jerusalem, as it provided security and stability for the city and its inhabitants after the return from Babylonian exile. The participation of priests like Hakkoz in the rebuilding effort demonstrates the importance of the project and the unity of the people in working towards a common goal.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Hakkoz (KJV= Koz) | [<span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>קו</span>ֹ<span class='tipnrLangHebrew'>ץ</span>](H6976J) | 2x | [[Neh.3.4] & [Neh.3.21] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hakkoz\*\|reference=Neh.3.4;Neh.3.21) |
+
 All entries for **Hakkoz**:  **<big>[[H6976|קוֹץ]]</big>**
+
 #### Related Profiles:
 - **[Uriah](H0223H)** (child)

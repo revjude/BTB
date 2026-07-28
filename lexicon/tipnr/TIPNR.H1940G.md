@@ -15,11 +15,9 @@ Hodiah gave birth to several children, including the father of Keilah the Garmit
 The inclusion of Hodiah in this genealogy of Judah underscores the importance of family lineage and the role of women in the history of Israel. Although no further details are provided about Hodiah's life, her mention in the biblical record indicates that she was an ancestor of notable individuals within the tribe of Judah. 
 
 The passage also highlights the practice of polygamy in ancient Israel, as Mered is recorded as having two wives. However, the biblical text does not provide any commentary on the practice itself, focusing instead on the genealogical record and the descendants of these unions.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Hodiah | [<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H1940G) | 1x | [1Ch.4.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hodiah\*\|reference=1Ch.4.19) |
+
 All entries for **Hodiah**:  **<big>[[H1940|הוֹדִיָּה]]</big>** ☩  **<big>[[H1940|הוֹדִיָּה]]</big>** ☩  **<big>[[H1940|הוֹדִיָּה]]</big>**
+
 #### Related Profiles:
 - **[father_of_Hodiah](H1940H)** (father)
 - **[Ishbah](H3431)** (spouse)

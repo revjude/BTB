@@ -8,10 +8,8 @@ Man living at the time of Exile and Return
 - a son of Zichri **<big>[[H2147|זִכְרִי]]</big>**.
 
 Joel, the son of Zichri, is mentioned in [[Neh.11.9|Nehemiah 11:9]] as a leader of the Benjaminites who settled in Jerusalem after the Babylonian exile. Following the return of the exiles and the rebuilding of the city walls, Nehemiah organized the repopulation of Jerusalem. He appointed leaders from various tribes to reside in the holy city and help maintain its security and prosperity. Joel is identified as the second-in-command to Judah, the son of Hassenuah, who was the chief of the Benjaminites in Jerusalem. This leadership role indicates Joel's importance and responsibility within the Benjaminite community during the post-exilic period.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Joel | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3100S) | 1x | [Neh.11.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joel\*\|reference=Neh.11.9) |
+
 All entries for **Joel**:  **<big>[[H3100|יוֹאֵל]]</big>**
+
 #### Related Profiles:
 - **[Zichri](H2147Q)** (father)

@@ -10,9 +10,6 @@ Akkub is mentioned in the list of the Temple servants, also known as the Nethini
 
 The Temple servants were a group of individuals who assisted the Levites in the maintenance and operation of the Temple. They performed various tasks, such as preparing the sacrifices, cleaning the Temple, and providing support for the daily rituals and ceremonies. 
 
-Akkub is listed as one of the family heads of the Temple servants, indicating that he was a prominent figure among this group. The list in Ezra 2 records the number of people from each family who returned to Jerusalem, demonstrating the significance of family units in the post-exilic Jewish community.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Akkub | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ק</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ב</span>](H6126I) | 1x | [Ezr.2.45 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Akkub\*\|reference=Ezr.2.45) |
+Akkub is listed as one of the family heads of the Temple servants, indicating that he was a prominent figure among this group. The list in [[Ezra.2|Ezra 2]] records the number of people from each family who returned to Jerusalem, demonstrating the significance of family units in the post-exilic Jewish community.
+
 All entries for **Akkub**:  **<big>[[H6126|עַקּוּב]]</big>**

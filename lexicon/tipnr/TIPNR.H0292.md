@@ -7,15 +7,13 @@ Man living at the time of United Monarchy
 - only referred to as Ahinadab **<big>[[H0292|אֲחִינָדָב]]</big>**; 
 - a son of Iddo **<big>[[H5714|עִדּוֹ]]</big>**.
 
-Ahinadab, the son of Iddo, is mentioned briefly in the context of King Solomon's administration. He was one of the twelve governors appointed by Solomon to oversee the twelve districts of Israel. Each governor was responsible for providing provisions for the king's household for one month out of the year. \(1Ki.4.7\) 
+Ahinadab, the son of Iddo, is mentioned briefly in the context of King Solomon's administration. He was one of the twelve governors appointed by Solomon to oversee the twelve districts of Israel. Each governor was responsible for providing provisions for the king's household for one month out of the year. \([[1Kgs.4.7|1Ki.4.7]]\) 
 
 Ahinadab was assigned to the district of Mahanaim, a region east of the Jordan River. \([[1Kgs.4.14|1Ki.4.14]]\) His role as a governor involved ensuring that the necessary supplies were collected and delivered to the royal court during his assigned month. 
 
 The appointment of governors over districts was part of Solomon's strategy to organize his kingdom efficiently and to ensure a steady supply of resources for the royal household.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Ahinadab | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ינ</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ב</span>](H0292) | 1x | [1Ki.4.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahinadab\*\|reference=1Ki.4.14) |
+
 All entries for **Ahinadab**:  **<big>[[H0292|אֲחִינָדָב]]</big>**
+
 #### Related Profiles:
 - **[Iddo](H5714G)** (father)

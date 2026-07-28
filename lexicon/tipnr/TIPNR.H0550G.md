@@ -11,11 +11,9 @@ David's son living at the time of United Monarchy
 Amnon was the firstborn son of King David, born to him in Hebron. His mother was Ahinoam of Jezreel. Amnon is primarily known for his infamous act of raping his half-sister Tamar, who was the sister of Absalom. After the incident, Amnon's love for Tamar turned to hatred, and he sent her away in shame. 
 
 Absalom, enraged by Amnon's actions, waited two years before exacting revenge. He invited Amnon to a sheep-shearing feast and had his servants kill Amnon when he was drunk. This led to a rift between Absalom and his father, David, and ultimately to Absalom's rebellion against the king. The story of Amnon highlights the tragic consequences of sexual violence and the far-reaching effects it can have on families and relationships.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Amnon | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H0550G) | 27x | [[2Sa.3.2] ... [1Ch.3.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amnon\*\|reference=2Sa.3.2;2Sa.13.1;2Sa.13.2;2Sa.13.2;2Sa.13.3;2Sa.13.4;2Sa.13.6;2Sa.13.6;2Sa.13.7;2Sa.13.8;2Sa.13.9;2Sa.13.10;2Sa.13.10;2Sa.13.15;2Sa.13.15;2Sa.13.20;2Sa.13.22;2Sa.13.22;2Sa.13.26;2Sa.13.27;2Sa.13.28;2Sa.13.28;2Sa.13.29;2Sa.13.32;2Sa.13.33;2Sa.13.39;1Ch.3.1) |
+
 All entries for **Amnon**:  **<big>[[H0550|אַמְנוֹן]]</big>**
+
 #### Related Profiles:
 - **[David](H1732)** (father)
 - **[Ahinoam](H0293H)** (mother)

@@ -8,12 +8,10 @@ David's son living at the time of United Monarchy
 -  son of David **<big>[[H1732|דָּוִד]]</big>**; 
 - a brother of Amnon **<big>[[H0550|אַמְנוֹן]]</big>**, Chileab **<big>[[H3609|כִּלְאָב]]</big>**, Absalom **<big>[[H0053|אֲבִישָׁלוֹם]]</big>**, Adonijah **<big>[[H0138|אֲדֹנִיָּה]]</big>**, Shephatiah **<big>[[H8203|שְׁפַטְיָה]]</big>**, Ithream **<big>[[H3507|יִתְרְעָם]]</big>**, Shammua **<big>[[H8051|שַׁמּוּעַ]]</big>**, Shobab **<big>[[H7727|שׁוֹבָב]]</big>**, Nathan **<big>[[H5416|נָתָן]]</big>**, Solomon **<big>[[H8010|שְׁלֹמֹה]]</big>**, Ibhar **<big>[[H2984|יִבְחַר]]</big>**, Elishua **<big>[[H0474|אֱלִישׁוּעַ]]</big>**, Nepheg **<big>[[H5298|נֶפֶג]]</big>**, Japhia **<big>[[H3309|יָפִיעַ]]</big>**, Elishama **<big>[[H0476|אֱלִישָׁמָע]]</big>**, Eliada **<big>[[H0450|אֶלְיָדָע]]</big>**, Eliphelet **<big>[[H0467|אֱלִיפֶלֶט]]</big>**, Tamar **<big>[[H8559|תָּמָר]]</big>**, Elpelet **<big>[[H0467|אֱלִיפֶלֶט]]</big>** and Jerimoth **<big>[[H3406|יְרִימוֹת]]</big>**.
 
-Nogah was one of the sons of King David born to him in Jerusalem \([[1Chr.3.7|1 Chronicles 3:7]]; 14:6\). He was born after David had established his reign in Jerusalem and had taken more wives and concubines. The name Nogah means "brightness" or "splendor" in Hebrew.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Nogah | [<span class='tipnrLangHebrew'>נ</span>ֹ֫<span class='tipnrLangHebrew'>ג</span>ַ<span class='tipnrLangHebrew'>ה</span>ּ](H5052) | 2x | [[1Ch.3.7] & [1Ch.14.6] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nogah\*\|reference=1Ch.3.7;1Ch.14.6) |
+Nogah was one of the sons of King David born to him in Jerusalem \([[1Chr.3.7|1 Chronicles 3:7]]; [[1Chr.14.6|14:6]]\). He was born after David had established his reign in Jerusalem and had taken more wives and concubines. The name Nogah means "brightness" or "splendor" in Hebrew.
+
 All entries for **Nogah**:  **<big>[[H5052|נֹגַהּ]]</big>**
+
 #### Related Profiles:
 - **[David](H1732)** (father)
 - **[Jerusalem_wives](H0802J)** (mother)

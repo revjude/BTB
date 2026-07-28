@@ -14,10 +14,8 @@ After Jesus' arrest, He was first brought before Annas for questioning. Annas th
 Following Jesus' crucifixion and resurrection, Annas continued to oppose the early Christian church. When the apostles Peter and John were arrested for preaching in Jesus' name, they were brought before the Sanhedrin, where Annas was present as a member of the ruling council. 
 
 Annas' involvement in the events surrounding Jesus' trial and the persecution of the early church highlights the significant influence he held, even though he was no longer the official high priest. His actions demonstrate the religious establishment's opposition to Jesus and the growing Christian movement in the early days of the church.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Annas | [<span class='tipnrLangGreek'>Ἄννας</span>](G0452) | 4x | [[Luk.3.2] ... [Act.4.6] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Annas\*\|reference=Luk.3.2;Jhn.18.13;Jhn.18.24;Act.4.6) |
+
 All entries for **Annas**:  **<big>[[G0452|Ἄννας]]</big>**
+
 #### Related Profiles:
 - **[a_wife_of_Caiaphas](G2533H)** (child)

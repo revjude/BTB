@@ -9,13 +9,10 @@ Man living at the time before the Flood
 - a brother of Abel **<big>[[H1893|הֶבֶל]]</big>** and Seth **<big>[[H8352|שֵׁת]]</big>**; 
 -  father of Enoch **<big>[[H2585|חֲנוֹךְ]]</big>**.
 
-Cain was the firstborn son of Adam and Eve, and he is known for killing his brother Abel \(Gen. 4; Heb. 11:4; [[1John.3.12|1 John 3:12]]; [[Jude.1.11|Jude 1:11]]\). Cain was a farmer, while Abel was a shepherd. When both brothers brought offerings to God, the Lord accepted Abel's offering but rejected Cain's, which led to Cain's anger and jealousy. Despite God's warning to master his sinful desires, Cain lured Abel into the field and murdered him. As a result, God cursed Cain to be a restless wanderer on the earth and banished him from His presence. Cain's descendants, known as the Cainites, are mentioned in the genealogy of Genesis 4, which highlights the spread of sin and the development of civilization apart from God. The New Testament references to Cain portray him as an example of unbelief, wickedness, and rebellion against God \(Heb. 11:4; [[1John.3.12|1 John 3:12]]; [[Jude.1.11|Jude 1:11]]\). Cain's story serves as a warning about the consequences of sin, jealousy, and disobedience to God.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Cain | [<span class='tipnrLangHebrew'>ק</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ן</span>](H7014B) | 16x | [[Gen.4.1] ... [Gen.4.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cain\*\|reference=Gen.4.1;Gen.4.2;Gen.4.3;Gen.4.5;Gen.4.5;Gen.4.6;Gen.4.8;Gen.4.8;Gen.4.9;Gen.4.13;Gen.4.15;Gen.4.15;Gen.4.16;Gen.4.17;Gen.4.24;Gen.4.25) |
-| Cain | [<span class='tipnrLangGreek'>Κά</span>ϊ<span class='tipnrLangGreek'>ν</span>](G2535) | 3x | [[Heb.11.4] ... [Jud.1.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cain\*\|reference=Heb.11.4;1Jn.3.12;Jud.1.11) |
+Cain was the firstborn son of Adam and Eve, and he is known for killing his brother Abel \([[Gen.4|Gen. 4]]; [[Heb.11.4|Heb. 11:4]]; [[1John.3.12|1 John 3:12]]; [[Jude.1.11|Jude 1:11]]\). Cain was a farmer, while Abel was a shepherd. When both brothers brought offerings to God, the Lord accepted Abel's offering but rejected Cain's, which led to Cain's anger and jealousy. Despite God's warning to master his sinful desires, Cain lured Abel into the field and murdered him. As a result, God cursed Cain to be a restless wanderer on the earth and banished him from His presence. Cain's descendants, known as the Cainites, are mentioned in the genealogy of [[Gen.4|Genesis 4]], which highlights the spread of sin and the development of civilization apart from God. The New Testament references to Cain portray him as an example of unbelief, wickedness, and rebellion against God \([[Heb.11.4|Heb. 11:4]]; [[1John.3.12|1 John 3:12]]; [[Jude.1.11|Jude 1:11]]\). Cain's story serves as a warning about the consequences of sin, jealousy, and disobedience to God.
+
 All entries for **Cain**:  **<big>[[H7014|קַיִן]]</big>** ☩  **<big>[[G2535|Κάϊν]]</big>**
+
 #### Related Profiles:
 - **[Adam](H0121G)** (father)
 - **[Eve](H2332)** (mother)

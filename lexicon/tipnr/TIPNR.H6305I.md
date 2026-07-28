@@ -8,10 +8,8 @@ Man living at the time of Divided Monarchy
 -  father of Joel **<big>[[H3100|יוֹאֵל]]</big>**.
 
 Pedaiah son of Parosh was an officer over the half-tribe of Manasseh in King David's administration, according to [[1Chr.27.20|1 Chronicles 27:20]]. He was one of the twelve officers, each representing a tribe or half-tribe, who were responsible for providing resources for the king's household. Each officer was in charge of supplying provisions for one month of the year. Pedaiah's role suggests he was a trusted leader within his tribe and had organizational and administrative skills.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Pedaiah | [<span class='tipnrLangHebrew'>פ</span>ְּ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>הו</span>ּ](H6305I) | 1x | [1Ch.27.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pedaiah\*\|reference=1Ch.27.20) |
+
 All entries for **Pedaiah**:  **<big>[[H6305|פְּדָיָה]]</big>**
+
 #### Related Profiles:
 - **[Joel](H3100P)** (child)

@@ -7,11 +7,9 @@ Levite living at the time of Exile and Return
 - only referred to as Berechiah **<big>[[H1296|בֶּרֶכְיָה]]</big>**; 
 - a son of Asa **<big>[[H0609|אָסָא]]</big>**.
 
-Berechiah was a Levite who served as a gatekeeper in Jerusalem after the Babylonian exile. He was the son of Asa and a descendant of Elkanah \(1 Ch. 9:16\). As a gatekeeper, Berechiah was responsible for guarding the entrances to the temple and maintaining order within the sacred precincts. He lived in the villages of the Netophathites, a group of people who resided in the vicinity of Jerusalem. Berechiah's role as a gatekeeper highlights the importance of the Levites in preserving the sanctity and security of the temple during the post-exilic period.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Berechiah | [<span class='tipnrLangHebrew'>ב</span>ֶּ<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1296I) | 1x | [1Ch.9.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Berechiah\*\|reference=1Ch.9.16) |
+Berechiah was a Levite who served as a gatekeeper in Jerusalem after the Babylonian exile. He was the son of Asa and a descendant of Elkanah \([[1Chr.9.16|1 Ch. 9:16]]\). As a gatekeeper, Berechiah was responsible for guarding the entrances to the temple and maintaining order within the sacred precincts. He lived in the villages of the Netophathites, a group of people who resided in the vicinity of Jerusalem. Berechiah's role as a gatekeeper highlights the importance of the Levites in preserving the sanctity and security of the temple during the post-exilic period.
+
 All entries for **Berechiah**:  **<big>[[H1296|בֶּרֶכְיָה]]</big>**
+
 #### Related Profiles:
 - **[Asa](H0609H)** (father)

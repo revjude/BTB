@@ -9,12 +9,9 @@ Levite living at the time of Exile and Return
 -  father of Meshullam **<big>[[H4918|מְשֻׁלָּם]]</big>**.
 
 Meshillemith, also known as Meshillemoth, was a priest who settled in Jerusalem after the Babylonian exile. In the book of Chronicles, he is mentioned in the list of priests and Levites who resided in Jerusalem \([[1Chr.9.12|1Ch.9.12]]\). Meshillemith is described as the son of Immer, indicating his priestly lineage. In the book of Nehemiah, a priest named Meshillemoth, likely the same individual, is mentioned among the priests living in Jerusalem \([[Neh.11.13|Neh.11.13]]\).
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Meshillemith | [<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>ל</span>ֵּ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ית</span>](H4921) | 1x | [1Ch.9.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Meshillemith\*\|reference=1Ch.9.12) |
-| Meshillemoth | [<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>ל</span>ֵּ<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H4919H) | 1x | [Neh.11.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Meshillemoth\*\|reference=Neh.11.13) |
+
 All entries for **Meshillemith or Meshillemoth**:  **<big>[[H4921|מְשִׁלֵּמִית]]</big>** ☩  **<big>[[H4919|מְשִׁלֵּמוֹת]]</big>**
+
 #### Related Profiles:
 - **[Immer](H0564G)** (father)
 - **[Meshullam](H4918M)** (child)

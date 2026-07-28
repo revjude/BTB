@@ -6,7 +6,7 @@ Woman living at the time of the New Testament
 - A woman living at the time of the New Testament, only mentioned at [[Rom.16.7|Rom.16.7]]; 
 - only referred to as Junia **<big>[[G2458|Ἰουνιᾶς]]</big>**.
 
-Junia is mentioned in [[Rom.16.7|Romans 16:7]] as a prominent apostle and a relative of Paul. The context of the passage is the final chapter of Romans, where Paul extends personal greetings to various members of the Roman church \(Romans 16:1-16\). 
+Junia is mentioned in [[Rom.16.7|Romans 16:7]] as a prominent apostle and a relative of Paul. The context of the passage is the final chapter of Romans, where Paul extends personal greetings to various members of the Roman church \([[Rom.16.1|Romans 16:1-16]]\). 
 
 In his greeting, Paul mentions Andronicus and Junia, describing them as his fellow Jews, his relatives, and his fellow prisoners \([[Rom.16.7|Romans 16:7]]\). He also states that they were in Christ before him, indicating their early conversion and involvement in the Christian faith. 
 
@@ -15,8 +15,5 @@ Notably, Paul refers to Andronicus and Junia as "outstanding among the apostles"
 The fact that Junia had been imprisoned with Paul suggests that she faced persecution and hardship for her faith and ministry. Her inclusion in Paul's greetings, along with the recognition of her apostolic status, highlights her important role and leadership in the early church. 
 
 Apart from this brief mention in Paul's letter, no other information about Junia's life, ministry, or specific contributions to the church is provided in the Bible.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Junia | [<span class='tipnrLangGreek'>Ἰουνιᾶς</span>](G2458) | 1x | [Rom.16.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Junia\*\|reference=Rom.16.7) |
+
 All entries for **Junia**:  **<big>[[G2458|Ἰουνιᾶς]]</big>**

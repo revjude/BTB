@@ -15,10 +15,5 @@ Later, in [[Neh.12.16|Nehemiah 12:16]], Iddo is mentioned again, this time as th
 The fact that Iddo is also referred to as Adaia suggests that he may have had two names or that the names were used interchangeably. This was not uncommon in ancient times, especially during the post-exilic period when many Jews had both Hebrew and Babylonian names. 
 
 Iddo's involvement in the restoration of the temple and his leadership role among the priests highlight the importance of the priestly families in maintaining the religious life of the Jewish community after the exile. The mention of his name in the context of the returning priests and the priestly families also emphasizes the continuity of the priestly lineage and their dedication to serving God in the restored temple.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Iddo | [<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ](H5714K) | 1x | [Neh.12.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Iddo\*\|reference=Neh.12.4) |
-| Iddo (=Qere. Ketiv=Adaia) | [<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>א</span>](H5714K) | 1x | [Neh.12.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Iddo\*\|reference=Neh.12.16) |
-| Adaia (=Ketiv) | [<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>א</span>](H5718O) | 1x | [Neh.12.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Iddo\*\|reference=Neh.12.16) |
+
 All entries for **Iddo or Adaia**:  **<big>[[H5714|עִדּוֹ]]</big>** ☩  **<big>[[H5718|עֲדָיָה]]</big>**

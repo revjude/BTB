@@ -9,11 +9,9 @@ Man living at the time of Divided Monarchy
 -  father of Neri **<big>[[G3518|Νηρί]]</big>**.
 
 Melchi is mentioned in the genealogy of Jesus Christ found in the Gospel of Luke \([[Luke.3.28|Luk.3.28]]\). He is listed as an ancestor of Jesus, but the biblical text does not provide any further details about his life or role in the family line. Based on his inclusion in the genealogy, he was likely of Jewish heritage.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Melchi | [<span class='tipnrLangGreek'>Μελχί</span>](G3197H) | 1x | [Luk.3.28 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Melchi\*\|reference=Luk.3.28) |
+
 All entries for **Melchi**:  **<big>[[G3197|Μελχί]]</big>**
+
 #### Related Profiles:
 - **[Addi](G0078)** (father)
 - **[Neri](G3518)** (child)

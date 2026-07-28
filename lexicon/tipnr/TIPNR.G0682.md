@@ -9,8 +9,5 @@ Woman living at the time of the New Testament
 Apphia is mentioned in the opening of Paul's letter to Philemon as one of the recipients of the letter, along with Philemon and Archippus. Paul addresses her as "our sister," indicating that she was a fellow believer and likely a member of Philemon's household. Some scholars suggest that Apphia may have been Philemon's wife, but this is not explicitly stated in the text. 
 
 The letter to Philemon is a personal appeal from Paul regarding Onesimus, a runaway slave who had become a Christian under Paul's ministry. Paul sends Onesimus back to Philemon, his master, with this letter, urging Philemon to receive Onesimus back not as a slave, but as a beloved brother in Christ. By addressing the letter to Apphia and Archippus as well, Paul emphasizes the communal nature of the request and the shared responsibility of the Christian community in welcoming Onesimus. Beyond this mention in the letter to Philemon, no further details about Apphia's life or role in the early church are provided in the Bible.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Apphia | [<span class='tipnrLangGreek'>Ἀπφία</span>](G0682) | 1x | [Phm.1.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Apphia\*\|reference=Phm.1.2) |
+
 All entries for **Apphia**:  **<big>[[G0682|Ἀπφία]]</big>**

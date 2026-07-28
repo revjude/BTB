@@ -10,18 +10,16 @@ Man living at the time of Divided Monarchy
 
 Eber is mentioned briefly in [[1Chr.8.22|1 Chronicles 8:22]] as one of the sons of Shashak, a descendant of Benjamin. He is listed along with his brothers Ishpan, Heber, Eliel, Abdon, Zichri, Hanan, Hananiah, Elam, Anthothijah, Iphdeiah, and Penuel. 
 
-The genealogy in 1 Chronicles 8 traces the lineage of the tribe of Benjamin, one of the twelve tribes of Israel. Benjamin was the youngest son of Israel \(or 'Jacob'\) and Rachel, and his descendants settled in the region allotted to them in the Promised Land. 
+The genealogy in [[1Chr.8|1 Chronicles 8]] traces the lineage of the tribe of Benjamin, one of the twelve tribes of Israel. Benjamin was the youngest son of Israel \(or 'Jacob'\) and Rachel, and his descendants settled in the region allotted to them in the Promised Land. 
 
-Eber and his brothers are mentioned in the context of the descendants of Jeroham, who is listed as one of the heads of families living in Jerusalem \(1 Chronicles 8:27\). The mention of these Benjamite descendants living in Jerusalem suggests that this genealogy may have been compiled after the return from the Babylonian exile when many Israelites resettled in Jerusalem. 
+Eber and his brothers are mentioned in the context of the descendants of Jeroham, who is listed as one of the heads of families living in Jerusalem \([[1Chr.8.27|1 Chronicles 8:27]]\). The mention of these Benjamite descendants living in Jerusalem suggests that this genealogy may have been compiled after the return from the Babylonian exile when many Israelites resettled in Jerusalem. 
 
 The inclusion of Eber in this genealogy serves to highlight the importance of family lineage and tribal identity in ancient Israelite society. It also demonstrates the detailed record-keeping of the Chronicler, who sought to preserve the genealogical history of the tribes of Israel. 
 
 Apart from this brief mention, no further information is provided about Eber or his specific role within the tribe of Benjamin. His inclusion in the genealogy helps to establish the continuity of the Benjamite lineage and their connection to the larger history of Israel.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Eber (KJV= Heber) | [<span class='tipnrLangHebrew'>ע</span>ֵ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H5677J) | 1x | [1Ch.8.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eber\*\|reference=1Ch.8.22) |
+
 All entries for **Eber**:  **<big>[[H5677|עֵבֵר]]</big>**
+
 #### Related Profiles:
 - **[Shashak](H8349)** (father)
 - **[Ishpan](H3473)** (sibling)

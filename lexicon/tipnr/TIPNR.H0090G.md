@@ -7,8 +7,5 @@ King living at the time of Egypt and Wilderness
 - only referred to as Agag **<big>[[H0090|אֲגַג]]</big>**.
 
 Agag is mentioned in the oracle of Balaam, a prophet hired by Balak, king of Moab, to curse Israel. In Balaam's third oracle, he prophesies about Israel's future, stating, "Their king shall be higher than Agag, and their kingdom shall be exalted." This suggests that Agag was a well-known, powerful king at the time.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Agag | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ג</span>ָ<span class='tipnrLangHebrew'>ג</span>](H0090G) | 1x | [Num.24.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Agag\*\|reference=Num.24.7) |
+
 All entries for **Agag**:  **<big>[[H0090|אֲגַג]]</big>**

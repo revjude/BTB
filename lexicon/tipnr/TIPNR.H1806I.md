@@ -10,11 +10,8 @@ Delaiah is mentioned in [[Ezra.2.60|Ezra 2:60]] and [[Neh.7.62|Nehemiah 7:62]] a
 
 The context of these passages is the listing of the exiles who returned to Jerusalem and Judah under the leadership of Zerubbabel. The list includes the numbers of people from various families, as well as priests, Levites, and temple servants. 
 
-The inability of Delaiah's descendants to prove their priestly lineage suggests that during the exile, some families may have lost their genealogical records or had their priestly status questioned. As a result, they were not allowed to serve as priests until a priest with the Urim and Thummim could determine their status \(Ezra 2:63; Nehemiah 7:65\). 
+The inability of Delaiah's descendants to prove their priestly lineage suggests that during the exile, some families may have lost their genealogical records or had their priestly status questioned. As a result, they were not allowed to serve as priests until a priest with the Urim and Thummim could determine their status \([[Ezra.2.63|Ezra 2:63]]; [[Neh.7.65|Nehemiah 7:65]]\). 
 
 The mention of Delaiah's family in this context highlights the importance of maintaining accurate genealogical records, especially for those serving in priestly roles. It also underscores the challenges faced by some families in reestablishing their identity and roles after the exile.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Delaiah | [<span class='tipnrLangHebrew'>ד</span>ְּ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H1806I) | 2x | [[Ezr.2.60] & [Neh.7.62] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Delaiah\*\|reference=Ezr.2.60;Neh.7.62) |
+
 All entries for **Delaiah**:  **<big>[[H1806|דְּלָיָה]]</big>**

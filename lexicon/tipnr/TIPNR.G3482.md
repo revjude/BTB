@@ -17,8 +17,5 @@ Nathanael is mentioned again in [[John.21.2|John 21:2]] as one of the disciples 
 Although little is known about Nathanael's life beyond these brief mentions, his inclusion among the twelve disciples highlights his importance in Jesus' ministry. His initial skepticism and subsequent confession of faith demonstrate the transformative power of encountering Jesus and the depth of his commitment to following him. 
 
 Tradition holds that Nathanael, under the name Bartholomew, went on to preach the gospel in various regions, including India and Armenia, where he is said to have been martyred for his faith.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Nathanael | [<span class='tipnrLangGreek'>Ναθαναήλ</span>](G3482) | 6x | [[Jhn.1.45] ... [Jhn.21.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nathanael\*\|reference=Jhn.1.45;Jhn.1.46;Jhn.1.47;Jhn.1.48;Jhn.1.49;Jhn.21.2) |
+
 All entries for **Nathanael**:  **<big>[[G3482|Ναθαναήλ]]</big>**

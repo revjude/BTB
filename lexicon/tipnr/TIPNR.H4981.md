@@ -13,8 +13,5 @@ However, beyond this single reference, no additional information is provided abo
 The lack of further details about the Mithnites leaves many questions unanswered, such as whether they were a tribe, a clan, or the inhabitants of a specific city or region. It is also unclear what their relationship was to the other tribes of Israel or what role they played in the nation's history. 
 
 Despite the scarcity of information, the mention of Joshaphat the Mithnite among David's mighty warriors suggests that at least one member of this group was known for his military prowess and loyalty to the king. This inclusion also highlights the diverse backgrounds of the individuals who made up David's army and the support he received from various groups within Israel.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Mithnite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ת</span>ְ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H4981) | 1x | [1Ch.11.43 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mithnite\*\|reference=1Ch.11.43) |
+
 All entries for **Mithnites**:  **<big>[[H4981|מִתְנִי]]</big>**

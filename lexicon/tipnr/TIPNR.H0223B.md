@@ -7,11 +7,9 @@ Prophet living at the time of Divided Monarchy
 - only referred to as Uriah **<big>[[H0223|אוּרִיָּה]]</big>**; 
 - a son of Shemaiah **<big>[[H8098|שְׁמַעְיָה]]</big>**.
 
-Uriah, the son of Shemaiah from Kiriath-jearim, was a prophet who lived during the reign of King Jehoiakim of Judah \([[Jer.26.20|Jeremiah 26:20]]-23\). He prophesied against Jerusalem and Judah, speaking words similar to those of the prophet Jeremiah. When King Jehoiakim heard about Uriah's prophecies, he sought to kill him. Uriah fled to Egypt, but the king sent men to bring him back. Upon his return, Jehoiakim had Uriah executed and his body thrown into the burial place of the common people. Uriah's death illustrates the danger faced by prophets who spoke out against the sins of their nation and the resistance they encountered from those in power. His story is recounted by Jeremiah as an example of the persecution faced by true prophets of God.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Uriah (KJV= Urijah) | [<span class='tipnrLangHebrew'>או</span>ּ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0223B) | 3x | [[Jer.26.20] ... [Jer.26.23] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Uriah\*\|reference=Jer.26.20;Jer.26.21;Jer.26.23) |
+Uriah, the son of Shemaiah from Kiriath-jearim, was a prophet who lived during the reign of King Jehoiakim of Judah \([[Jer.26.20|Jeremiah 26:20-23]]\). He prophesied against Jerusalem and Judah, speaking words similar to those of the prophet Jeremiah. When King Jehoiakim heard about Uriah's prophecies, he sought to kill him. Uriah fled to Egypt, but the king sent men to bring him back. Upon his return, Jehoiakim had Uriah executed and his body thrown into the burial place of the common people. Uriah's death illustrates the danger faced by prophets who spoke out against the sins of their nation and the resistance they encountered from those in power. His story is recounted by Jeremiah as an example of the persecution faced by true prophets of God.
+
 All entries for **Uriah**:  **<big>[[H0223|אוּרִיָּה]]</big>**
+
 #### Related Profiles:
 - **[Shemaiah](H8098X)** (father)

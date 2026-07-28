@@ -19,11 +19,9 @@ Cyrene was a city in present-day Libya, and the presence of Simon and his sons i
 Apart from this brief mention, no further information is provided about Alexander's life, his reaction to his father's involvement in Jesus' crucifixion, or his subsequent role in the early Christian community. 
 
 The inclusion of Alexander and Rufus in the Gospel narrative serves to provide a historical detail and to connect the story of Jesus' crucifixion to individuals who were known to the early church.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Alexander | [<span class='tipnrLangGreek'>Ἀλέξανδρος</span>](G0223G) | 1x | [Mrk.15.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Alexander\*\|reference=Mrk.15.21) |
+
 All entries for **Alexander**:  **<big>[[G0223|Ἀλέξανδρος]]</big>**
+
 #### Related Profiles:
 - **[Simon](G4613J)** (father)
 - **[Rufus](G4504G)** (sibling)

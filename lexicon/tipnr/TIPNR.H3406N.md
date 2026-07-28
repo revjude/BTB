@@ -10,11 +10,9 @@ David's son living at the time of United Monarchy
 -  father of Mahalath **<big>[[H4258|מַחֲלַת]]</big>**.
 
 Jerimoth is mentioned in 2 Chronicles as one of the sons of King David. He was born to Abihail, the daughter of Eliab, who was David's brother. This makes Jerimoth not only David's son but also his nephew. The mention of Jerimoth in the genealogy of David's family highlights the complex family relationships within the royal household and the importance of documenting lineage in ancient Israelite society.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Jerimoth | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>ר</span>ֵ<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ת</span>, <span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ימו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H3406N) | 1x | [2Ch.11.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jerimoth\*\|reference=2Ch.11.18) |
+
 All entries for **Jerimoth**:  **<big>[[H3406|יְרִימוֹת]]</big>**
+
 #### Related Profiles:
 - **[David](H1732)** (father)
 - **[Jerusalem_wives](H0802J)** (mother)

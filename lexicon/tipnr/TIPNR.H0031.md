@@ -9,11 +9,9 @@ Man living at the time of Egypt and Wilderness
 - a brother of Ard **<big>[[H0714|אַרְדְּ]]</big>**, Naaman **<big>[[H5283|נַעֲמָן]]</big>**, Ezbon **<big>[[H0675|אֶצְבּוֹן]]</big>**, Uzzi **<big>[[H5813|עֻזִּי]]</big>**, Uzziel **<big>[[H5816|עֻזִּיאֵל]]</big>**, Jerimoth **<big>[[H3406|יְרִימוֹת]]</big>**, Iri **<big>[[H5901|עִירִי]]</big>**, Addar **<big>[[H0146|אַדָּר]]</big>**, Gera **<big>[[H1617|גֵּרָא]]</big>**, Abishua **<big>[[H0050|אֲבִישׁוּעַ]]</big>** and Ahoah **<big>[[H0265|אֲחוֹחַ]]</big>**.
 
 Abihud is mentioned briefly in [[1Chr.8.3|1 Chronicles 8:3]] as one of the sons of Bela, who was a son of Benjamin. He is listed in the genealogy of the tribe of Benjamin, which is given in the context of the descendants of King Saul, Israel's first king.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Abihud | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יהו</span>ּ<span class='tipnrLangHebrew'>ד</span>](H0031) | 1x | [1Ch.8.3 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abihud\*\|reference=1Ch.8.3) |
+
 All entries for **Abihud**:  **<big>[[H0031|אֲבִיהוּד]]</big>**
+
 #### Related Profiles:
 - **[Bela](H1106A)** (father)
 - **[Ard](H0714H)** (sibling)

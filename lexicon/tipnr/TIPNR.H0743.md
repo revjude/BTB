@@ -12,12 +12,10 @@ Aridatha is mentioned in the book of Esther as one of the ten sons of Haman, the
 
 As a result, Haman was hanged on the gallows he had prepared for Mordecai, and the king issued a decree allowing the Jews to defend themselves against their enemies. On the appointed day, the Jews throughout the empire fought against those who sought to harm them. In Susa, the capital, they killed five hundred men and also killed Haman's ten sons, including Aridatha \([[Esth.9.8|Esther 9:8]]\). 
 
-After this victory, Queen Esther requested that the bodies of Haman's sons be hanged on the gallows, further emphasizing the complete defeat of Haman and his family \(Esther 9:13-14\). The mention of Aridatha and his brothers' deaths serves to underscore the reversal of fortune and the triumph of the Jewish people over their enemies, as well as the downfall of those who sought to destroy them.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Aridatha | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>יד</span>ָ֑<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>א</span>](H0743) | 1x | [Est.9.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aridatha\*\|reference=Est.9.8) |
+After this victory, Queen Esther requested that the bodies of Haman's sons be hanged on the gallows, further emphasizing the complete defeat of Haman and his family \([[Esth.9.13|Esther 9:13-14]]\). The mention of Aridatha and his brothers' deaths serves to underscore the reversal of fortune and the triumph of the Jewish people over their enemies, as well as the downfall of those who sought to destroy them.
+
 All entries for **Aridatha**:  **<big>[[H0743|אֲרִידָתָא]]</big>**
+
 #### Related Profiles:
 - **[Haman](H2001)** (father)
 - **[Zeresh](H2238)** (mother)

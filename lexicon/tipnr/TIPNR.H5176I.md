@@ -15,11 +15,9 @@ The passage states that Amasa was the son of Jether \(or Ithra\) the Ishmaelite 
 Apart from this genealogical note, no further details are provided about Nahash's life, character, or relationship with his daughters or King David. The mention of Nahash in this context serves primarily to establish the family connection between Amasa and David, highlighting the complex web of relationships within the royal family. 
 
 The fact that Abigail and Zeruiah are referred to as David's sisters indicates that Nahash may have been married to one of Jesse's wives, or that Nahash and Jesse had children through a levirate marriage \(a custom in which a man would marry his deceased brother's widow to continue the family line\).
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Nahash | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ](H5176I) | 1x | [2Sa.17.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nahash\*\|reference=2Sa.17.25) |
+
 All entries for **Nahash**:  **<big>[[H5176|נָחָשׁ]]</big>**
+
 #### Related Profiles:
 - **[Jesse](H3448)** (spouse)
 - **[David](H1732)** (child)

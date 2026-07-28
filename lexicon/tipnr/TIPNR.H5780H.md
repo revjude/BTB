@@ -10,11 +10,9 @@ Man living at the time of the Patriarchs
 -  half-brother of: Tebah **<big>[[H2875|טֶבַח]]</big>**, Gaham **<big>[[H1514|גַּחַם]]</big>**, Tahash **<big>[[H8477|תַּחַשׁ]]</big>** and Maacah **<big>[[H4601|מַעֲכָה]]</big>**.
 
 Uz was the son of Nahor, who was the brother of Abraham. He is mentioned in the genealogy of Abraham's family, which lists the descendants of his brother Nahor. Uz was one of Nahor's sons born to his wife Milcah in Paddan-aram, the region where Abraham originally came from. As Abraham's nephew, Uz was part of the extended family that formed the early Semitic peoples living in Mesopotamia.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Uz (KJV= Huz) | [<span class='tipnrLangHebrew'>עו</span>ּ<span class='tipnrLangHebrew'>ץ</span>](H5780H) | 1x | [Gen.22.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Uz\*\|reference=Gen.22.21) |
+
 All entries for **Uz**:  **<big>[[H5780|עוּץ]]</big>**
+
 #### Related Profiles:
 - **[Nahor](H5152H)** (father)
 - **[Milcah](H4435G)** (mother)

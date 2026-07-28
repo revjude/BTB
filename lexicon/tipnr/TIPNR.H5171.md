@@ -13,8 +13,5 @@ Naharai is specifically identified as the armor-bearer of Joab, who was the comm
 The epithet "Beerothite" indicates that Naharai was from Beeroth, a town in the territory of Benjamin, north of Jerusalem. This suggests that Naharai may have been a member of the tribe of Benjamin who had joined David's forces. 
 
 Naharai's inclusion among David's mighty men highlights his exceptional skill as a warrior and his unwavering loyalty to the king. These mighty men were known for their bravery and military prowess, often accomplishing remarkable feats in battle. Naharai's presence in this elite group is a testament to his abilities and his dedication to serving King David and the kingdom of Israel.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Naharai | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>י</span>](H5171) | 2x | [[2Sa.23.37] & [1Ch.11.39] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naharai\*\|reference=2Sa.23.37;1Ch.11.39) |
+
 All entries for **Naharai**:  **<big>[[H5171|נַחֲרַי]]</big>**

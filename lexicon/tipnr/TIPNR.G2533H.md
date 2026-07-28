@@ -9,11 +9,9 @@ A reference to the unnamed wife of Caiaphas, the high priest who condemned Jesus
 - wife of Caiaphas **<big>[[G2533|Καϊάφας]]</big>**.
 
 [[John.18.13|John 18:13]] makes a passing reference to the wife of Caiaphas, the Jewish high priest at the time of Jesus' trial and crucifixion. Caiaphas presided over the Sanhedrin council that condemned Jesus and turned him over to Pontius Pilate for execution. No other details are provided in Scripture about Caiaphas' wife. As the wife of the high priest, she would have been a prominent woman in Jerusalem's aristocratic circles. However, her name and any other information about her life are unknown.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| a\ wife\ of\ Caiaphas | [.](G2533H) | 1x | [Jhn.18.13 ⌕](https://www.stepbible.org/?q=reference=Jhn.18.13) |
+
 All entries for **a wife of Caiaphas**:  **<big>[[G2533|Καϊάφας]]</big>**
+
 #### Related Profiles:
 - **[Annas](G0452)** (father)
 - **[Caiaphas](G2533G)** (spouse)

@@ -7,11 +7,9 @@ Man living at the time of Exile and Return
 - only referred to as Binnui **<big>[[H1131|בִּנּוּי]]</big>**; 
 -  father of Noadiah **<big>[[H5129|נוֹעַדְיָה]]</big>**.
 
-Binnui was a Levite who was among those appointed to weigh and record the temple vessels that were brought back from Babylon after the exile \(Ezr. 8:33\). These vessels, which had been taken by the Babylonians during the destruction of Jerusalem, were returned to the Jewish people by the decree of King Cyrus of Persia. Binnui, along with other Levites and priests, was entrusted with the responsibility of ensuring the accurate accounting and safekeeping of these sacred items. This event marked a significant moment in the restoration of Jewish worship and the rebuilding of the temple in Jerusalem.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Binnui | [<span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>נ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>י</span>](H1131H) | 1x | [Ezr.8.33 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Binnui\*\|reference=Ezr.8.33) |
+Binnui was a Levite who was among those appointed to weigh and record the temple vessels that were brought back from Babylon after the exile \([[Ezra.8.33|Ezr. 8:33]]\). These vessels, which had been taken by the Babylonians during the destruction of Jerusalem, were returned to the Jewish people by the decree of King Cyrus of Persia. Binnui, along with other Levites and priests, was entrusted with the responsibility of ensuring the accurate accounting and safekeeping of these sacred items. This event marked a significant moment in the restoration of Jewish worship and the rebuilding of the temple in Jerusalem.
+
 All entries for **Binnui**:  **<big>[[H1131|בִּנּוּי]]</big>**
+
 #### Related Profiles:
 - **[Noadiah](H5129G)** (child)

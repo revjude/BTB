@@ -9,11 +9,9 @@ Man living at the time of United Monarchy
 - a brother of Ram **<big>[[H7410|רָם]]</big>**, Bunah **<big>[[H0946|בּוּנָה]]</big>**, Oren **<big>[[H0767|אֹרֶן]]</big>**, Ozem **<big>[[H0684|אֹצֶם]]</big>** and Onam **<big>[[H0208|אוֹנָם]]</big>**.
 
 Ahijah is briefly mentioned in the genealogy of the tribe of Judah. He was one of the sons of Jerahmeel, who was a descendant of Judah through his son Hezron. The genealogy lists Ahijah among Jerahmeel's children, along with Ram, Bunah, Oren, and Ozem. No further information about Ahijah's life or role within the tribe is provided in the biblical text. \([[1Chr.2.25|1Ch.2.25]]\).
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Ahijah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0281J) | 1x | [1Ch.2.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahijah\*\|reference=1Ch.2.25) |
+
 All entries for **Ahijah**:  **<big>[[H0281|אֲחִיָּה]]</big>**
+
 #### Related Profiles:
 - **[Jerahmeel](H3396G)** (father)
 - **[a_wife_of_Jerahmeel](H3396J)** (mother)

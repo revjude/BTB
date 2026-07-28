@@ -9,11 +9,9 @@ Man living at the time of Divided Monarchy
 - a brother of Shamsherai **<big>[[H8125|שַׁמְשְׁרַי]]</big>**, Athaliah **<big>[[H6271|עֲתַלְיָה]]</big>**, Jaareshiah **<big>[[H3298|יַעֲרֶשְׁיָה]]</big>**, Elijah **<big>[[H0452|אֵלִיָּה]]</big>** and Zichri **<big>[[H2147|זִכְרִי]]</big>**.
 
 Shehariah is mentioned in [[1Chr.8.26|1 Chronicles 8:26]] as a descendant of Benjamin. He appears in the genealogy of King Saul, Israel's first king, who was from the tribe of Benjamin.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Shehariah | [<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H7841) | 1x | [1Ch.8.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shehariah\*\|reference=1Ch.8.26) |
+
 All entries for **Shehariah**:  **<big>[[H7841|שְׁחַרְיָה]]</big>**
+
 #### Related Profiles:
 - **[Jeroham](H3395H)** (father)
 - **[Shamsherai](H8125)** (sibling)

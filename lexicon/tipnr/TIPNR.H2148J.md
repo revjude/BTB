@@ -9,11 +9,9 @@ Man living at the time of Divided Monarchy
 - a brother of Jehoram **<big>[[H3088|יְהוֹרָם]]</big>**, Azariah **<big>[[H5838|עֲזַרְיָה]]</big>**, Jehiel **<big>[[H3171|יְחִיאֵל]]</big>**, Azariahu **<big>[[H5838|עֲזַרְיָה]]</big>**, Michael **<big>[[H4317|מִיכָאֵל]]</big>** and Shephatiah **<big>[[H8203|שְׁפַטְיָה]]</big>**.
 
 Zechariah was one of the sons of Jehoshaphat, the king of Judah. His brothers were Azariah, Jehiel, Michael, and Shephatiah. Jehoshaphat gave his sons many gifts of silver, gold, and valuable possessions, along with fortified cities in Judah. However, he gave the kingdom to Jehoram, Zechariah's eldest brother, because he was the firstborn.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Zechariah | [<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>כ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>הו</span>ּ](H2148J) | 1x | [2Ch.21.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zechariah\*\|reference=2Ch.21.2) |
+
 All entries for **Zechariah**:  **<big>[[H2148|זְכַרְיָה]]</big>**
+
 #### Related Profiles:
 - **[Jehoshaphat](H3092I)** (father)
 - **[Jehoram](H3088G)** (sibling)

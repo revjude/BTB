@@ -14,10 +14,8 @@ This genealogical reference to Kish establishes Mordecai's lineage within the tr
 The mention of Kish in Mordecai's ancestry provides a connection to the tribe of Benjamin and emphasizes the Jewish identity of Mordecai and his family, who were living in exile in the Persian Empire. 
 
 Apart from this brief mention in the genealogy of Mordecai, no further information is provided about this particular Kish or his life. His inclusion in the lineage serves to establish Mordecai's background and heritage as a Benjamite Jew living in the diaspora.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Kish | [<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>יש</span>ׁ](H7027J) | 1x | [Est.2.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kish\*\|reference=Est.2.5) |
+
 All entries for **Kish**:  **<big>[[H7027|קִישׁ]]</big>**
+
 #### Related Profiles:
 - **[Shimei](H8096U)** (child)

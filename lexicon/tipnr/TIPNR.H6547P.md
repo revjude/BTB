@@ -8,12 +8,10 @@ Solomon married the <span class='tipnrhighlight'>daughter of Pharaoh</span>, for
 -  unnamed daughter of: Pharaoh **<big>[[H6547|פַּרְעֹה]]</big>** and Tahpenes **<big>[[H8472|תַּחְפְּנֵיס]]</big>**; 
 - wife of Solomon **<big>[[H8010|שְׁלֹמֹה]]</big>**.
 
-Daughter of Pharaoh The daughter of Pharaoh, unnamed in the biblical text, was one of King Solomon's wives. Their marriage, mentioned in [[1Kgs.3.1|1 Kings 3:1]], was likely a political alliance between Israel and Egypt. Solomon brought her to the City of David until he finished building his palace and the Temple. The marriage to Pharaoh's daughter demonstrates Solomon's growing power and influence, as well as his willingness to form alliances with foreign nations. However, it also foreshadows Solomon's eventual downfall, as his many foreign wives led him astray from worshiping the one true God \(1 Kings 11:1-8\).
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| daughter\ of\ Pharaoh | [.](H6547P) | 1x | [1Ki.3.1 ⌕](https://www.stepbible.org/?q=reference=1Ki.3.1) |
+Daughter of Pharaoh The daughter of Pharaoh, unnamed in the biblical text, was one of King Solomon's wives. Their marriage, mentioned in [[1Kgs.3.1|1 Kings 3:1]], was likely a political alliance between Israel and Egypt. Solomon brought her to the City of David until he finished building his palace and the Temple. The marriage to Pharaoh's daughter demonstrates Solomon's growing power and influence, as well as his willingness to form alliances with foreign nations. However, it also foreshadows Solomon's eventual downfall, as his many foreign wives led him astray from worshiping the one true God \([[1Kgs.11.1|1 Kings 11:1-8]]\).
+
 All entries for **daughter of Pharaoh**:  **<big>[[H6547|פַּרְעֹה]]</big>**
+
 #### Related Profiles:
 - **[Pharaoh](H6547K)** (father)
 - **[Tahpenes](H8472G)** (mother)

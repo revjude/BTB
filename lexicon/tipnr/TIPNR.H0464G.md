@@ -2,7 +2,7 @@
 
 Edomite living at the time of the Patriarchs
 
-<span class='tipnrhighlight'>Eliphaz</span> was the firstborn son of Esau and the father of several Edomite clans \([[Gen.36.4|Gen.36.4]],10-12,15-16; [[1Chr.1.35|1Ch.1.35]]-36\).
+<span class='tipnrhighlight'>Eliphaz</span> was the firstborn son of Esau and the father of several Edomite clans \([[Gen.36.4|Gen.36.4]],[[Gen.36.10|10-12]],[[Gen.36.15|15-16]]; [[1Chr.1.35|1Ch.1.35-36]]\).
 - A man of the Edomites living at the time of the Patriarchs, first mentioned at [[Gen.36.4|Gen.36.4]]; 
 - only referred to as Eliphaz **<big>[[H0464|אֱלִיפַז]]</big>**; 
 - a son of Esau **<big>[[H6215|עֵשָׂו]]</big>** and Adah **<big>[[H5711|עָדָה]]</big>**; 
@@ -10,12 +10,10 @@ Edomite living at the time of the Patriarchs
 - husband of Timna **<big>[[H8555|תִּמְנָע]]</big>**; 
 -  father of Teman **<big>[[H8487|תֵּימָן]]</big>**, Omar **<big>[[H0201|אוֹמָר]]</big>**, Zepho **<big>[[H6825|צְפוֹ]]</big>**, Gatam **<big>[[H1609|גַּעְתָּם]]</big>**, Kenaz **<big>[[H7073|קְנַז]]</big>**, Amalek **<big>[[H6002|עֲמָלֵק]]</big>** and Korah **<big>[[H7141|קֹרַח]]</big>**.
 
-Eliphaz was the firstborn son of Esau, born to his wife Adah \([[Gen.36.4|Gen.36.4]]\). He became the father of several sons, including Teman, Omar, Zepho, Gatam, Kenaz, and Amalek \(through his concubine Timna\) \([[Gen.36.11|Gen.36.11]]-12\). These sons grew into clans within the Edomite nation, with Eliphaz's descendants being listed among the chiefs of Edom \([[Gen.36.15|Gen.36.15]]-16\). Eliphaz's lineage is also recorded in the genealogy of Esau in [[1Chr.1.35|1 Chronicles 1:35]]-36. As the firstborn of Esau, Eliphaz played a significant role in the establishment and growth of the Edomite people, who were the descendants of Esau. The Bible does not provide any further details about Eliphaz's life or personal characteristics.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Eliphaz | [<span class='tipnrLangHebrew'>א</span>ֱ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>יפ</span>ַ<span class='tipnrLangHebrew'>ז</span>](H0464G) | 9x | [[Gen.36.4] ... [1Ch.1.36] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eliphaz\*\|reference=Gen.36.4;Gen.36.10;Gen.36.11;Gen.36.12;Gen.36.12;Gen.36.15;Gen.36.16;1Ch.1.35;1Ch.1.36) |
+Eliphaz was the firstborn son of Esau, born to his wife Adah \([[Gen.36.4|Gen.36.4]]\). He became the father of several sons, including Teman, Omar, Zepho, Gatam, Kenaz, and Amalek \(through his concubine Timna\) \([[Gen.36.11|Gen.36.11-12]]\). These sons grew into clans within the Edomite nation, with Eliphaz's descendants being listed among the chiefs of Edom \([[Gen.36.15|Gen.36.15-16]]\). Eliphaz's lineage is also recorded in the genealogy of Esau in [[1Chr.1.35|1 Chronicles 1:35-36]]. As the firstborn of Esau, Eliphaz played a significant role in the establishment and growth of the Edomite people, who were the descendants of Esau. The Bible does not provide any further details about Eliphaz's life or personal characteristics.
+
 All entries for **Eliphaz**:  **<big>[[H0464|אֱלִיפַז]]</big>**
+
 #### Related Profiles:
 - **[Esau](H6215G)** (father)
 - **[Adah](H5711H)** (mother)

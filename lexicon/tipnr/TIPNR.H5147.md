@@ -18,10 +18,8 @@ Upon their return, the spies reported that the land was indeed bountiful, flowin
 The negative report from the majority of the spies, including Nahbi, led to fear and rebellion among the Israelites. As a result, God declared that the generation who had witnessed the miracles in Egypt would not enter the Promised Land, with the exception of Joshua and Caleb. 
 
 Nahbi's role in this narrative serves as a reminder of the importance of faith and trust in God, even in the face of challenging circumstances. It also highlights the consequences of allowing fear and doubt to overcome one's belief in God's promises.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Nahbi | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>י</span>](H5147) | 1x | [Num.13.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nahbi\*\|reference=Num.13.14) |
+
 All entries for **Nahbi**:  **<big>[[H5147|נַחְבִּי]]</big>**
+
 #### Related Profiles:
 - **[Vophsi](H2058)** (father)

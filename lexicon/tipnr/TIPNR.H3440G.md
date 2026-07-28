@@ -13,13 +13,9 @@ Ishvi, also known as Isui, is mentioned in three passages as a son of Asher, who
 In [[Num.26.44|Numbers 26:44]], Ishvi is referred to as Isui, which may be an alternate spelling or pronunciation of his name. This passage is part of a census of the Israelites taken in the wilderness, where the clans of Asher are listed according to their ancestors, including Ishvi \(Isui\). 
 
 No additional information is given about Ishvi's life, descendants, or role within the tribe. His inclusion in these genealogies helps to establish the family structure within the tribe of Asher and demonstrates the fulfillment of God's promise to Abraham that his descendants would multiply greatly.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Ishvi (KJV= Isui) | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ו</span>ִ<span class='tipnrLangHebrew'>י</span>](H3440G) | 2x | [[Gen.46.17] & [Num.26.44] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ishvi\*\|reference=Gen.46.17;Num.26.44) |
-| Ishvi (KJV= Ishuai) | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ו</span>ִ<span class='tipnrLangHebrew'>י</span>](H3440G) | 1x | [1Ch.7.30 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ishvi\*\|reference=1Ch.7.30) |
-| Ishvite (KJV= Jesui) <small>*(group)*</small> | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ו</span>ִ<span class='tipnrLangHebrew'>י</span>](H3441) | 1x | [Num.26.44 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ishvite\*\|reference=Num.26.44) |
+
 All entries for **Ishvi**:  **<big>[[H3440|יִשְׁוִי]]</big>** ☩  **<big>[[H3441|יִשְׁוִי]]</big>**
+
 #### Related Profiles:
 - **[Asher](H0836)** (father)
 - **[Imnah](H3232G)** (sibling)

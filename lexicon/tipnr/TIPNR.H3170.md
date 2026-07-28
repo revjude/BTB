@@ -8,12 +8,10 @@ Levite living at the time of Exile and Return
 - a son of Meshullam **<big>[[H4918|מְשֻׁלָּם]]</big>**; 
 -  father of Adiel **<big>[[H5717|עֲדִיאֵל]]</big>**.
 
-Jahzerah is mentioned in [[1Chr.9.12|1 Chronicles 9:12]] as one of the priests who resided in Jerusalem after the Babylonian exile. He was a descendant of Immer, who was a priest during the time of King David \(1 Chronicles 24:14\). The text provides no further information about Jahzerah's life or role in the postexilic community. His inclusion in the list of priests suggests that he played a part in reestablishing the temple worship and religious practices in Jerusalem following the return from exile.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Jahzerah | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>ז</span>ֵ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3170) | 1x | [1Ch.9.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jahzerah\*\|reference=1Ch.9.12) |
+Jahzerah is mentioned in [[1Chr.9.12|1 Chronicles 9:12]] as one of the priests who resided in Jerusalem after the Babylonian exile. He was a descendant of Immer, who was a priest during the time of King David \([[1Chr.24.14|1 Chronicles 24:14]]\). The text provides no further information about Jahzerah's life or role in the postexilic community. His inclusion in the list of priests suggests that he played a part in reestablishing the temple worship and religious practices in Jerusalem following the return from exile.
+
 All entries for **Jahzerah**:  **<big>[[H3170|יַחְזֵרָה]]</big>**
+
 #### Related Profiles:
 - **[Meshullam](H4918M)** (father)
 - **[Adiel](H5717H)** (child)

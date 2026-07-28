@@ -7,15 +7,13 @@ Levite living before Israel's Monarchy
 - only referred to as Jonathan **<big>[[H3083|יְהוֹנָתָן]]</big>**; 
 - a son of Gershom **<big>[[H1647|גֵּרְשֹׁם]]</big>**.
 
-Jonathan, a Levite from Bethlehem in Judah, is mentioned in the book of Judges as a priest who served the tribe of Dan. The Danites, who had not yet secured their inheritance, sent out spies to find a suitable place to settle. The spies came to the house of Micah, where they encountered Jonathan, who was serving as Micah's personal priest \(Jdg.18.3-4\). 
+Jonathan, a Levite from Bethlehem in Judah, is mentioned in the book of Judges as a priest who served the tribe of Dan. The Danites, who had not yet secured their inheritance, sent out spies to find a suitable place to settle. The spies came to the house of Micah, where they encountered Jonathan, who was serving as Micah's personal priest \([[Judg.18.3|Jdg.18.3-4]]\). 
 
-When the Danites later returned to take possession of the land, they also took Micah's carved image, ephod, household gods, and Jonathan to serve as their priest \(Jdg.18.19-20\). Jonathan, being a Levite, was likely seen as a legitimate religious authority, despite the fact that the Danites were setting up an idolatrous worship system. 
+When the Danites later returned to take possession of the land, they also took Micah's carved image, ephod, household gods, and Jonathan to serve as their priest \([[Judg.18.19|Jdg.18.19-20]]\). Jonathan, being a Levite, was likely seen as a legitimate religious authority, despite the fact that the Danites were setting up an idolatrous worship system. 
 
-The narrative in Judges 18 highlights the moral and spiritual decline of Israel during the period of the judges, as the Danites adopted false worship practices and the Levites, who were meant to serve God, became complicit in these practices. Jonathan's story serves as an example of the compromises and failures of religious leaders during this turbulent time in Israel's history.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Jonathan | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>](H3083G) | 1x | [Jdg.18.30 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jonathan\*\|reference=Jdg.18.30) |
+The narrative in [[Judg.18|Judges 18]] highlights the moral and spiritual decline of Israel during the period of the judges, as the Danites adopted false worship practices and the Levites, who were meant to serve God, became complicit in these practices. Jonathan's story serves as an example of the compromises and failures of religious leaders during this turbulent time in Israel's history.
+
 All entries for **Jonathan**:  **<big>[[H3083|יְהוֹנָתָן]]</big>**
+
 #### Related Profiles:
 - **[Gershom](H1647G)** (father)

@@ -8,12 +8,10 @@ Man living at the time of Divided Monarchy
 -  son of Ahaz **<big>[[H0271|אָחָז]]</big>**; 
 - a brother of Hezekiah **<big>[[H2396|חִזְקִיָּה]]</big>**.
 
-Maaseiah was a son of King Ahaz of Judah who was killed during a war between Judah and Israel \([[2Chr.28.7|2Ch.28.7]]\). During the reign of Ahaz, Judah faced military threats from neighboring kingdoms, including Israel and Syria \(2Ch.28.1-15\). In one battle, Zichri, a mighty warrior from the tribe of Ephraim, killed Maaseiah, along with Azrikam, the officer in charge of the palace, and Elkanah, who was second to the king. The death of Maaseiah and other high-ranking officials demonstrates the severity of the defeat suffered by Judah and the consequences of Ahaz's unfaithfulness to God \(2Ch.28.19\). This event also highlights the political and military tensions between the kingdoms of Israel and Judah during this period.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Maaseiah | [<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ש</span>ֵׂ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>הו</span>ּ](H4641J) | 1x | [2Ch.28.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Maaseiah\*\|reference=2Ch.28.7) |
+Maaseiah was a son of King Ahaz of Judah who was killed during a war between Judah and Israel \([[2Chr.28.7|2Ch.28.7]]\). During the reign of Ahaz, Judah faced military threats from neighboring kingdoms, including Israel and Syria \([[2Chr.28.1|2Ch.28.1-15]]\). In one battle, Zichri, a mighty warrior from the tribe of Ephraim, killed Maaseiah, along with Azrikam, the officer in charge of the palace, and Elkanah, who was second to the king. The death of Maaseiah and other high-ranking officials demonstrates the severity of the defeat suffered by Judah and the consequences of Ahaz's unfaithfulness to God \([[2Chr.28.19|2Ch.28.19]]\). This event also highlights the political and military tensions between the kingdoms of Israel and Judah during this period.
+
 All entries for **Maaseiah**:  **<big>[[H4641|מַעֲשֵׂיָה]]</big>**
+
 #### Related Profiles:
 - **[Ahaz](H0271G)** (father)
 - **[Abi](H0021)** (mother)

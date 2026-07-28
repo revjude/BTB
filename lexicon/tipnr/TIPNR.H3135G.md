@@ -9,11 +9,9 @@ Man living at the time of Egypt and Wilderness
 - a brother of Zemirah **<big>[[H2160|זְמִירָה]]</big>**, Eliezer **<big>[[H0461|אֱלִיעֶזֶר]]</big>**, Elioenai **<big>[[H0454|אֶלְיְהוֹעֵינַי]]</big>**, Omri **<big>[[H6018|עׇמְרִי]]</big>**, Jeremoth **<big>[[H3406|יְרִימוֹת]]</big>**, Abijah **<big>[[H0029|אֲבִיָּה]]</big>**, Anathoth **<big>[[H6068|עֲנָתוֹת]]</big>** and Alemeth **<big>[[H5964|עָלֶמֶת]]</big>**.
 
 Joash is mentioned in [[1Chr.7.8|1 Chronicles 7:8]] as one of the sons of Becher, a descendant of Benjamin. He is listed along with his brothers Zemira, Zemirah, and Eliezer. This genealogical record provides insight into the family structure within the tribe of Benjamin.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Joash | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ](H3135G) | 1x | [1Ch.7.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joash\*\|reference=1Ch.7.8) |
+
 All entries for **Joash**:  **<big>[[H3135|יוֹעָשׁ]]</big>**
+
 #### Related Profiles:
 - **[Becher](H1071G)** (father)
 - **[Zemirah](H2160)** (sibling)

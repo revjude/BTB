@@ -8,12 +8,10 @@ Woman living at the time of United Monarchy
 - wife of Pharaoh **<big>[[H6547|פַּרְעֹה]]</big>**; 
 -  mother of daughter\_of\_Pharaoh **<big>[[H6547|פַּרְעֹה]]</big>**.
 
-Tahpenes is mentioned in [[1Kgs.11.19|1 Kings 11:19]]-20 as the queen of Egypt during the time when Hadad the Edomite fled there to escape from King Solomon. Pharaoh gave Hadad his sister-in-law, the sister of Queen Tahpenes, in marriage. Queen Tahpenes raised Hadad's son Genubath in Pharaoh's palace among the princes of Egypt. No other details are provided about Tahpenes' life or reign as queen. Her actions in arranging the marriage and raising Genubath show the favor Hadad found with the Egyptian royal family.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Tahpenes | [<span class='tipnrLangHebrew'>ת</span>ַּ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>פ</span>ְּ<span class='tipnrLangHebrew'>נ</span>ֵ<span class='tipnrLangHebrew'>יס</span>](H8472G) | 3x | [[1Ki.11.19] ... [1Ki.11.20b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tahpenes\*\|reference=1Ki.11.19;1Ki.11.20;1Ki.11.20) |
+Tahpenes is mentioned in [[1Kgs.11.19|1 Kings 11:19-20]] as the queen of Egypt during the time when Hadad the Edomite fled there to escape from King Solomon. Pharaoh gave Hadad his sister-in-law, the sister of Queen Tahpenes, in marriage. Queen Tahpenes raised Hadad's son Genubath in Pharaoh's palace among the princes of Egypt. No other details are provided about Tahpenes' life or reign as queen. Her actions in arranging the marriage and raising Genubath show the favor Hadad found with the Egyptian royal family.
+
 All entries for **Tahpenes**:  **<big>[[H8472|תַּחְפְּנֵיס]]</big>**
+
 #### Related Profiles:
 - **[father_of_Tahpenes](H8472H)** (father)
 - **[Pharaoh](H6547K)** (spouse)

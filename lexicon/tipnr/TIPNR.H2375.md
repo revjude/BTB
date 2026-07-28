@@ -10,11 +10,9 @@ Man living at the time of the Patriarchs
 -  half-brother of: Tebah **<big>[[H2875|טֶבַח]]</big>**, Gaham **<big>[[H1514|גַּחַם]]</big>**, Tahash **<big>[[H8477|תַּחַשׁ]]</big>** and Maacah **<big>[[H4601|מַעֲכָה]]</big>**.
 
 Hazo is mentioned in the book of Genesis as one of the sons of Nahor, who was the brother of Abraham. Nahor and his family lived in the city of Haran, which was located in Mesopotamia. Hazo is listed among the twelve sons of Nahor and his concubine, Reumah. No further information is provided about Hazo in the Bible. \([[Gen.22.22|Gen.22.22]]\).
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Hazo | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>זו</span>ֹ](H2375) | 1x | [Gen.22.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hazo\*\|reference=Gen.22.22) |
+
 All entries for **Hazo**:  **<big>[[H2375|חֲזוֹ]]</big>**
+
 #### Related Profiles:
 - **[Nahor](H5152H)** (father)
 - **[Milcah](H4435G)** (mother)

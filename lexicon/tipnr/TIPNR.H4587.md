@@ -10,11 +10,9 @@ Man living before Israel's Monarchy
 -  father of Ophrah **<big>[[H6084|עׇפְרָה]]</big>**.
 
 Meonothai is mentioned in the genealogy of the tribe of Judah \([[1Chr.4.14|1Ch.4.14]]\). He was the son of Othniel, who was the younger brother of Caleb, the son of Jephunneh. Meonothai was the father of Ophrah, but no further information about his life or role is provided in the biblical text.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Meonothai | [<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>עו</span>ֹ<span class='tipnrLangHebrew'>נ</span>ֹ<span class='tipnrLangHebrew'>ת</span>ַ<span class='tipnrLangHebrew'>י</span>](H4587) | 1x | [1Ch.4.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Meonothai\*\|reference=1Ch.4.14) |
+
 All entries for **Meonothai**:  **<big>[[H4587|מְעוֹנֹתַי]]</big>**
+
 #### Related Profiles:
 - **[Othniel](H6274)** (father)
 - **[Achsah](H5915G)** (mother)

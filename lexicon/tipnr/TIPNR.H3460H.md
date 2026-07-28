@@ -12,10 +12,8 @@ Ishmaiah son of Obadiah is mentioned in [[1Chr.27.19|1 Chronicles 27:19]] as the
 As the leader of Zebulun, Ishmaiah would have been in charge of managing the tribe's military, economic, and social matters. He served as a liaison between the tribe and the king, ensuring that Zebulun's interests were represented and that the tribe fulfilled its obligations to the kingdom. 
 
 The text does not provide any additional information about Ishmaiah's background, family, or specific actions during his time as leader. His inclusion in this list highlights the organized structure of David's kingdom and the importance of tribal leadership in maintaining order and unity within Israel.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Ishmaiah | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ע</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H3460H) | 1x | [1Ch.27.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ishmaiah\*\|reference=1Ch.27.19) |
+
 All entries for **Ishmaiah**:  **<big>[[H3460|יִשְׁמַעְיָה]]</big>**
+
 #### Related Profiles:
 - **[Obadiah](H5662M)** (father)

@@ -10,11 +10,9 @@ Man living at the time of the Patriarchs
 -  half-brother of: Tebah **<big>[[H2875|טֶבַח]]</big>**, Gaham **<big>[[H1514|גַּחַם]]</big>**, Tahash **<big>[[H8477|תַּחַשׁ]]</big>** and Maacah **<big>[[H4601|מַעֲכָה]]</big>**.
 
 Jidlaph is mentioned in [[Gen.22.22|Genesis 22:22]] as one of the eight sons of Nahor and Milcah. Nahor was Abraham's brother, making Jidlaph Abraham's nephew. The passage lists the children born to Nahor and Milcah in Paddan Aram, providing insight into Abraham's extended family.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Jidlaph | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>ל</span>ָ֑<span class='tipnrLangHebrew'>ף</span>](H3044) | 1x | [Gen.22.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jidlaph\*\|reference=Gen.22.22) |
+
 All entries for **Jidlaph**:  **<big>[[H3044|יִדְלָף]]</big>**
+
 #### Related Profiles:
 - **[Nahor](H5152H)** (father)
 - **[Milcah](H4435G)** (mother)

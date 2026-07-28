@@ -8,10 +8,8 @@ Peter's unnamed mother-in-law, whom Jesus healed of a fever.
 -  unnamed mother-in-law of: Peter **<big>[[G4074|Πέτρος]]</big>**.
 
 The New Testament mentions an unnamed woman who was the mother-in-law of the apostle Peter. In [[Matt.8.14|Matthew 8:14]], we learn that she was suffering from a fever when Jesus visited Peter's house in Capernaum. Jesus touched her hand, and the fever left her, demonstrating His power to heal and His compassion for those who were sick. The fact that Peter had a mother-in-law living with him suggests that he was married, although no further details are given about his wife or their relationship. This brief account of Jesus healing Peter's mother-in-law highlights the personal nature of Jesus' ministry and His care for the families of His disciples.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| motherInLaw\ of\ Peter | [.](G4074I) | 3x | [[Mat.8.14] ... [Luk.4.38] ⌕](https://www.stepbible.org/?q=reference=Mat.8.14;Mrk.1.30;Luk.4.38) |
+
 All entries for **motherInLaw of Peter**:  **<big>[[G4074|Πέτρος]]</big>**
+
 #### Related Profiles:
 - **[a_wife_of_Peter](G4074H)** (child)

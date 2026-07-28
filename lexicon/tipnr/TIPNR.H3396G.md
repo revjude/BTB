@@ -11,12 +11,9 @@ Man living before Israel's Monarchy
 -  father of Ram **<big>[[H7410|רָם]]</big>**, Bunah **<big>[[H0946|בּוּנָה]]</big>**, Oren **<big>[[H0767|אֹרֶן]]</big>**, Ozem **<big>[[H0684|אֹצֶם]]</big>**, Ahijah **<big>[[H0281|אֲחִיָּה]]</big>** and Onam **<big>[[H0208|אוֹנָם]]</big>**.
 
 Jerahmeel was the son of Hezron, a descendant of Judah, and is mentioned in the genealogies of 1 Chronicles. He had two wives, Atarah and Ahijah, and several children who became the founders of various clans within the tribe of Judah. Jerahmeel's descendants, known as the Jerahmeelites, are mentioned in connection with David's time as a fugitive from King Saul. David sent gifts to the Jerahmeelites, among others, after defeating the Amalekites who had raided Ziklag. This suggests that the Jerahmeelites were a significant clan within Judah and had a friendly relationship with David. The Jerahmeelites' territory was likely located in the Negev region, south of Judah.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Jerahmeel | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3396G) | 6x | [[1Ch.2.9] ... [1Ch.2.42] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jerahmeel\*\|reference=1Ch.2.9;1Ch.2.25;1Ch.2.26;1Ch.2.27;1Ch.2.33;1Ch.2.42) |
-| Jerahmeelite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>י</span>](H3397) | 2x | [[1Sa.27.10] & [1Sa.30.29] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jerahmeelite\*\|reference=1Sa.27.10;1Sa.30.29) |
+
 All entries for **Jerahmeel**:  **<big>[[H3396|יְרַחְמְאֵל]]</big>** ☩  **<big>[[H3397|יְרַחְמְאֵלִי]]</big>** ☩  **<big>[[H3396|יְרַחְמְאֵל]]</big>**
+
 #### Related Profiles:
 - **[Hezron](H2696H)** (father)
 - **[a_wife_of_Hezron](H2696K)** (mother)

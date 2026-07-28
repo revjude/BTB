@@ -10,11 +10,9 @@ Man living at the time of Egypt and Wilderness
 -  father of Ulam **<big>[[H0198|אוּלָם]]</big>** and Rakem **<big>[[H7552|רֶקֶם]]</big>**.
 
 Sheresh is mentioned briefly in [[1Chr.7.16|1 Chronicles 7:16]] as a son of Machir and Maacah. He appears in the genealogical record of the tribe of Manasseh, which is one of the tribes of Israel. Machir, his father, was the firstborn son of Manasseh and is described as the father of Gilead.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Sheresh | [<span class='tipnrLangHebrew'>ש</span>ָׁ֑<span class='tipnrLangHebrew'>ר</span>ֶ<span class='tipnrLangHebrew'>ש</span>ׁ](H8329) | 1x | [1Ch.7.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sheresh\*\|reference=1Ch.7.16) |
+
 All entries for **Sheresh**:  **<big>[[H8329|שֶׁרֶשׁ]]</big>**
+
 #### Related Profiles:
 - **[Machir](H4353G)** (father)
 - **[Maacah](H4601M)** (mother)

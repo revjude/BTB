@@ -10,11 +10,9 @@ Man living at the time of the Patriarchs
 -  half-brother of: Uz **<big>[[H5780|עוּץ]]</big>**, Buz **<big>[[H0938|בּוּז]]</big>**, Kemuel **<big>[[H7055|קְמוּאֵל]]</big>**, Chesed **<big>[[H3777|כֶּשֶׂד]]</big>**, Hazo **<big>[[H2375|חֲזוֹ]]</big>**, Pildash **<big>[[H6394|פִּלְדָּשׁ]]</big>**, Jidlaph **<big>[[H3044|יִדְלָף]]</big>** and Bethuel **<big>[[H1328|בְּתוּאֵל]]</big>**.
 
 Maacah was a concubine of Nahor, who was the brother of Abraham \([[Gen.22.24|Gen.22.24]]\). She is mentioned in the genealogy of Abraham's family, which lists the children born to Nahor and his wife Milcah, as well as his concubine Reumah. Maacah is identified as the mother of Tebah, one of Nahor's sons. No further information is provided about Maacah or her son Tebah in the biblical record. Her inclusion in the genealogy highlights the complex family structures of the patriarchal period and the importance of documenting lineage in the ancient Near East.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Maacah (KJV= Maachah; NIV= Maakah) | [<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>כ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H4601G) | 1x | [Gen.22.24 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Maacah\*\|reference=Gen.22.24) |
+
 All entries for **Maacah**:  **<big>[[H4601|מַעֲכָה]]</big>**
+
 #### Related Profiles:
 - **[Nahor](H5152H)** (father)
 - **[Reumah](H7208)** (mother)

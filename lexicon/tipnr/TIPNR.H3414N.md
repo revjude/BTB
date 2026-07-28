@@ -13,11 +13,9 @@ Jeremiah, the son of Habazziniah, is mentioned in the book of Jeremiah as a memb
 The prophet Jeremiah was instructed by God to test the Rechabites' obedience. He brought them into the temple and offered them wine to drink. However, the Rechabites, including Jeremiah son of Habazziniah, refused to drink the wine, stating that they were following the commands of their ancestor Jonadab. 
 
 The prophet Jeremiah then used the Rechabites' obedience as a contrast to the disobedience of the people of Judah. He praised the Rechabites for their faithfulness and declared that they would always have a descendant to serve God because of their commitment to their ancestor's commands. This event highlights the importance of obedience and faithfulness to God, even in the face of societal pressure to conform.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Jeremiah | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H3414N) | 1x | [Jer.35.3 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jeremiah\*\|reference=Jer.35.3) |
+
 All entries for **Jeremiah**:  **<big>[[H3414|יִרְמְיָה]]</big>**
+
 #### Related Profiles:
 - **[Habazziniah](H2262)** (father)
 - **[Jaazaniah](H2970G)** (child)

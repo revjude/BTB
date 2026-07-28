@@ -11,11 +11,9 @@ The <span class='tipnrhighlight'>daughter of Machir</span> married Hezron and ga
 -  mother of Segub **<big>[[H7687|שְׂגוּב]]</big>**.
 
 The daughter of Machir is mentioned in [[1Chr.2.21|1 Chronicles 2:21]] as the wife of Hezron, who married her in his old age. Machir was the son of Manasseh, and his daughter's marriage to Hezron, a descendant of Judah, represents an inter-tribal union. She gave birth to a son named Segub. This brief mention in the genealogy of Judah highlights the connection between the tribes of Judah and Manasseh through this marriage.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| daughter\ of\ Machir | [.](H4353I) | 1x | [1Ch.2.21 ⌕](https://www.stepbible.org/?q=reference=1Ch.2.21) |
+
 All entries for **daughter of Machir**:  **<big>[[H4353|מָכִיר]]</big>**
+
 #### Related Profiles:
 - **[Machir](H4353G)** (father)
 - **[Maacah](H4601M)** (mother)

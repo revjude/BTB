@@ -12,11 +12,9 @@ Man living at the time of Divided Monarchy
 - founder of Ge-harashim **<big>[[H1516|גַּיְא]]</big>**.
 
 Tehinnah is mentioned in [[1Chr.4.12|1 Chronicles 4:12]] as the father of Ir-nahash. He was a descendant of Chelub from the tribe of Judah. The name Ir-nahash means "city of serpents," but it is unclear whether this refers to an actual city or is a symbolic name. No other details are provided about Tehinnah's life or role in the tribe. He is listed in the genealogy of Judah, which traces the descendants of Jacob's son Judah.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Tehinnah | [<span class='tipnrLangHebrew'>ת</span>ְּ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>נ</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H8468) | 1x | [1Ch.4.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tehinnah\*\|reference=1Ch.4.12) |
+
 All entries for **Tehinnah**:  **<big>[[H8468|תְּחִנָּה]]</big>**
+
 #### Related Profiles:
 - **[Eshton](H0850)** (father)
 - **[Beth-rapha](Beth)** (sibling)

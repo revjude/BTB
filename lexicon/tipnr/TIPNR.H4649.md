@@ -15,14 +15,9 @@ In [[Num.26.39|Numbers 26:39]], the name Shephupham appears in the context of a 
 In [[1Chr.8.5|1 Chronicles 8:5]], the name Shephuphan is used in a genealogy of the Benjamites who lived in Jerusalem. This passage provides a more detailed record of the descendants of Benjamin, tracing the lineage of several prominent families within the tribe. 
 
 The variations in the name \(Muppim, Shephupham, Shephuphan, and Shuphamite\) likely reflect differences in pronunciation or spelling over time, or they may indicate different branches of the same family. Despite these variations, the references to this individual in the genealogies of Benjamin consistently affirm his place as a son of Benjamin and an ancestor of a significant clan within the tribe.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Muppim | [<span class='tipnrLangHebrew'>מ</span>ֻ<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H4649) | 1x | [Gen.46.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Muppim\*\|reference=Gen.46.21) |
-| Shephupham (KJV, NIV= Shupham) | [<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>פו</span>ּ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>ם</span>](H8197A) | 1x | [Num.26.39 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shephupham\*\|reference=Num.26.39) |
-| Shephuphan | [<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>פו</span>ּ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>ן</span>](H8197B) | 1x | [1Ch.8.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shephuphan\*\|reference=1Ch.8.5) |
-| Shuphamite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>פ</span>ָ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>י</span>](H7781) | 1x | [Num.26.39 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shuphamite\*\|reference=Num.26.39) |
+
 All entries for **Muppim or Shephupham or Shephuphan or Shuphamite**:  **<big>[[H4649|מֻפִּים]]</big>** ☩  **<big>[[H8197|שְׁפוּפָם]]</big>** ☩  **<big>[[H8197|שְׁפוּפָם]]</big>** ☩  **<big>[[H7781|שׁוּפָמִי]]</big>**
+
 #### Related Profiles:
 - **[Benjamin](H1144G)** (father)
 - **[Bela](H1106A)** (sibling)

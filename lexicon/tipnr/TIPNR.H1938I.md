@@ -15,11 +15,9 @@ The Benjamites were one of the twelve tribes of Israel, descended from Benjamin,
 The resettlement of Jerusalem was a significant event in the history of Israel, as it marked the beginning of the restoration of the nation and the rebuilding of the temple. As one of the first to return, Hodaviah would have played a role in the reestablishment of the Jewish community in the city. 
 
 The mention of Hodaviah and other Benjamites in this passage underscores the importance of all the tribes of Israel in the life and history of the nation, even after the exile.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Hodaviah | [<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ַ<span class='tipnrLangHebrew'>ו</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1938I) | 1x | [1Ch.9.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hodaviah\*\|reference=1Ch.9.7) |
+
 All entries for **Hodaviah**:  **<big>[[H1938|הוֹדַוְיָה]]</big>**
+
 #### Related Profiles:
 - **[Hassenuah](H5574)** (father)
 - **[Meshullam](H4918K)** (child)

@@ -12,16 +12,14 @@ Igal is mentioned briefly in [[1Chr.3.22|1 Chronicles 3:22]] as one of the desce
 
 In the genealogy, Igal is mentioned as one of the six sons of Shecaniah, who was a descendant of Jeconiah. The other sons of Shecaniah mentioned in the verse are Shemaiah, Hattush, Bariah, Neariah, and Shaphat. 
 
-The genealogical record in 1 Chronicles 3 traces the royal line of David, focusing on his descendants who were kings of Judah, as well as those who continued the lineage after the Babylonian exile. The inclusion of Igal in this genealogy suggests that he was part of the royal family and held a place of importance in the lineage of David. 
+The genealogical record in [[1Chr.3|1 Chronicles 3]] traces the royal line of David, focusing on his descendants who were kings of Judah, as well as those who continued the lineage after the Babylonian exile. The inclusion of Igal in this genealogy suggests that he was part of the royal family and held a place of importance in the lineage of David. 
 
 However, apart from this brief mention, no other details are provided about Igal's life, his role within the family, or any significant events or accomplishments associated with him. The purpose of the genealogy is primarily to establish the continuity of David's lineage and to highlight the enduring significance of the Davidic dynasty in the history of Israel. 
 
 The name Igal means "he redeems" or "God redeems" in Hebrew, reflecting the spiritual heritage and hope of redemption that was associated with the Davidic line.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Igal (KJV= Igeal) | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ג</span>ְ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ל</span>](H3008I) | 1x | [1Ch.3.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Igal\*\|reference=1Ch.3.22) |
+
 All entries for **Igal**:  **<big>[[H3008|יִגְאָל]]</big>**
+
 #### Related Profiles:
 - **[Shemaiah](H8098B)** (father)
 - **[Hattush](H2407G)** (sibling)

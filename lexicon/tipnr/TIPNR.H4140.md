@@ -17,11 +17,9 @@ Apart from being named as the son of Abisur and Abihail, no additional informati
 The inclusion of Molid in this genealogy highlights the importance of family heritage and tribal identity in ancient Israelite society. It also demonstrates the meticulous record-keeping of the chronicler in preserving the names and relationships of even the lesser-known members of the tribe. 
 
 As with many of the individuals mentioned in these genealogies, Molid's contribution to the overall narrative of Israel's history may be limited, but his presence in the record helps to paint a more complete picture of the people and families that made up the nation.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Molid | [<span class='tipnrLangHebrew'>מו</span>ֹ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>יד</span>](H4140) | 1x | [1Ch.2.29 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Molid\*\|reference=1Ch.2.29) |
+
 All entries for **Molid**:  **<big>[[H4140|מוֹלִיד]]</big>**
+
 #### Related Profiles:
 - **[Abishur](H0051)** (father)
 - **[Abihail](H0032H)** (mother)

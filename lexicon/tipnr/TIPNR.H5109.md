@@ -13,8 +13,5 @@ As part of the spiritual renewal that accompanied the physical restoration, the 
 Nebai was among the leaders who signed and sealed this covenant, along with priests, Levites, and other officials. By affixing their seals to the document, these leaders demonstrated their commitment to upholding the covenant and their willingness to lead the people in obedience to God's law. 
 
 Apart from this single mention, no further information is provided about Nebai's background, family, or specific role within the community. However, his inclusion in the list of leaders who sealed the covenant indicates that he held a position of influence and responsibility among the Israelites during this important time of renewal and reformation.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Nebai (=Qere. Ketiv= Nobai) | [<span class='tipnrLangHebrew'>נו</span>ֹ<span class='tipnrLangHebrew'>ב</span>ָ֑<span class='tipnrLangHebrew'>י</span>](H5109) | 1x | [Neh.10.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nebai\*\|reference=Neh.10.19) |
+
 All entries for **Nebai**:  **<big>[[H5109|נוֹבַי]]</big>**

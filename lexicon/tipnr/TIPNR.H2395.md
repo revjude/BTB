@@ -11,11 +11,9 @@ Man living at the time of Divided Monarchy
 Hizki is mentioned in [[1Chr.8.17|1 Chronicles 8:17]] as one of the descendants of Elpaal, who was a member of the tribe of Benjamin. He is listed among the sons of Elpaal, along with his brothers Meshullam, Heber, and Ishmerai. 
 
 No further information is provided about Hizki in the Bible, but his inclusion in the genealogy of Benjamin suggests that he was part of an important family line within the tribe. The genealogies in Chronicles were often used to establish the legitimacy and authority of certain individuals or families, particularly in relation to their roles in religious or political leadership.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Hizki (KJV= Hezeki) | [<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>י</span>](H2395) | 1x | [1Ch.8.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hizki\*\|reference=1Ch.8.17) |
+
 All entries for **Hizki**:  **<big>[[H2395|חִזְקִי]]</big>**
+
 #### Related Profiles:
 - **[Elpaal](H0508)** (father)
 - **[Eber](H5677I)** (sibling)

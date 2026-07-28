@@ -17,11 +17,9 @@ The Levites were responsible for ensuring that these offerings were properly sto
 
 Imnah's specific role as an overseer of the freewill offerings highlights the importance of the Levites in the administration and functioning of the temple. It also underscores the significance of the people's willingness to contribute to the temple service and support the religious life of the community. 
 
-Apart from this brief mention in 2 Chronicles 31, no other details are provided about Imnah's life or his other responsibilities as a Levite. However, his inclusion in the narrative of Hezekiah's reforms indicates that he was a trusted and reliable figure who played a significant role in the restoration of proper worship in Judah.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Imnah | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3232H) | 1x | [2Ch.31.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Imnah\*\|reference=2Ch.31.14) |
+Apart from this brief mention in [[2Chr.31|2 Chronicles 31]], no other details are provided about Imnah's life or his other responsibilities as a Levite. However, his inclusion in the narrative of Hezekiah's reforms indicates that he was a trusted and reliable figure who played a significant role in the restoration of proper worship in Judah.
+
 All entries for **Imnah**:  **<big>[[H3232|יִמְנָה]]</big>**
+
 #### Related Profiles:
 - **[Kore](H6981H)** (child)

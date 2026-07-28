@@ -8,18 +8,16 @@ Woman living at the time before the Flood
 - wife of Lamech **<big>[[H3929|לֶמֶךְ]]</big>**; 
 -  mother of Jabal **<big>[[H2989|יָבָל]]</big>** and Jubal **<big>[[H3106|יוּבַל]]</big>**.
 
-Adah was one of the two wives of Lamech, a descendant of Cain, who is mentioned in the genealogy of Cain in Genesis 4. Lamech is the first recorded polygamist in the Bible, having taken both Adah and Zillah as his wives \([[Gen.4.19|Genesis 4:19]]\). 
+Adah was one of the two wives of Lamech, a descendant of Cain, who is mentioned in the genealogy of Cain in [[Gen.4|Genesis 4]]. Lamech is the first recorded polygamist in the Bible, having taken both Adah and Zillah as his wives \([[Gen.4.19|Genesis 4:19]]\). 
 
-Adah gave birth to two sons, Jabal and Jubal \([[Gen.4.20|Genesis 4:20]]-21\). Jabal was described as the father of those who dwell in tents and have livestock, indicating that he was the first to adopt a nomadic pastoral lifestyle \([[Gen.4.20|Genesis 4:20]]\). Jubal was the father of all those who play the lyre and pipe, suggesting that he was the first to develop musical instruments \(Genesis 4:21\). 
+Adah gave birth to two sons, Jabal and Jubal \([[Gen.4.20|Genesis 4:20-21]]\). Jabal was described as the father of those who dwell in tents and have livestock, indicating that he was the first to adopt a nomadic pastoral lifestyle \([[Gen.4.20|Genesis 4:20]]\). Jubal was the father of all those who play the lyre and pipe, suggesting that he was the first to develop musical instruments \([[Gen.4.21|Genesis 4:21]]\). 
 
-In Lamech's speech to his wives \([[Gen.4.23|Genesis 4:23]]-24\), he mentions Adah by name, along with Zillah, as he boasts about his violent actions and asserts his own form of justice. This speech provides insight into the increasing wickedness and violence among the descendants of Cain. 
+In Lamech's speech to his wives \([[Gen.4.23|Genesis 4:23-24]]\), he mentions Adah by name, along with Zillah, as he boasts about his violent actions and asserts his own form of justice. This speech provides insight into the increasing wickedness and violence among the descendants of Cain. 
 
 Adah's mention in the genealogy of Cain highlights the development of various aspects of human culture and civilization, such as nomadic pastoralism and music, as well as the spread of polygamy and violence in the early generations of humanity.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Adah | [<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ה</span>](H5711G) | 3x | [[Gen.4.19] ... [Gen.4.23] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adah\*\|reference=Gen.4.19;Gen.4.20;Gen.4.23) |
+
 All entries for **Adah**:  **<big>[[H5711|עָדָה]]</big>**
+
 #### Related Profiles:
 - **[Lamech](H3929G)** (spouse)
 - **[Jabal](H2989)** (child)

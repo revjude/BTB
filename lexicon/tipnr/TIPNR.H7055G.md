@@ -12,16 +12,14 @@ Man living at the time of the Patriarchs
 
 Kemuel is mentioned in [[Gen.22.21|Genesis 22:21]] as one of the sons of Nahor and Milcah. Nahor was Abraham's brother, making Kemuel Abraham's nephew. 
 
-In the genealogy of Nahor's family, Kemuel is listed alongside his brothers Huz, Buz, Chesed, Hazo, Pildash, and Jidlaph \(Genesis 22:20-21\). He is specifically identified as the father of Aram. 
+In the genealogy of Nahor's family, Kemuel is listed alongside his brothers Huz, Buz, Chesed, Hazo, Pildash, and Jidlaph \([[Gen.22.20|Genesis 22:20-21]]\). He is specifically identified as the father of Aram. 
 
 The mention of Kemuel and his lineage is part of the broader narrative of Abraham's family and the descendants of his brother Nahor. It provides insight into the family background and the relatives of Abraham. 
 
 Apart from this genealogical note, no further information is given about Kemuel's life, his relationship with Abraham, or any significant events involving him.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Kemuel | [<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>מו</span>ּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H7055G) | 1x | [Gen.22.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kemuel\*\|reference=Gen.22.21) |
+
 All entries for **Kemuel**:  **<big>[[H7055|קְמוּאֵל]]</big>**
+
 #### Related Profiles:
 - **[Nahor](H5152H)** (father)
 - **[Milcah](H4435G)** (mother)

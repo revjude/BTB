@@ -8,18 +8,16 @@ Man living at the time of Egypt and Wilderness
 -  son of Anak **<big>[[H6061|עָנָק]]</big>**; 
 - a brother of Sheshai **<big>[[H8344|שֵׁשַׁי]]</big>** and Talmai **<big>[[H8526|תַּלְמַי]]</big>**.
 
-Ahiman was one of the three sons of Anak, a group of giants who inhabited the city of Hebron in the land of Canaan. When Moses sent twelve spies to scout out the land, they reported seeing the descendants of Anak, including Ahiman, who appeared as giants in their eyes. This report discouraged the Israelites from entering the land. \([[Num.13.22|Num.13.22]],28,33\) 
+Ahiman was one of the three sons of Anak, a group of giants who inhabited the city of Hebron in the land of Canaan. When Moses sent twelve spies to scout out the land, they reported seeing the descendants of Anak, including Ahiman, who appeared as giants in their eyes. This report discouraged the Israelites from entering the land. \([[Num.13.22|Num.13.22]],[[Num.13.28|28]],[[Num.13.33|33]]\) 
 
-During the conquest of Canaan under Joshua's leadership, Caleb, one of the faithful spies, was given Hebron as his inheritance. He drove out the three sons of Anak, including Ahiman, from the city. \(Jos.15.13,14\). 
+During the conquest of Canaan under Joshua's leadership, Caleb, one of the faithful spies, was given Hebron as his inheritance. He drove out the three sons of Anak, including Ahiman, from the city. \([[Josh.15.13|Jos.15.13]],[[Josh.15.14|14]]\). 
 
 The book of Judges reiterates that Judah and Simeon fought against the Canaanites in Hebron and defeated Sheshai, Ahiman, and Talmai, the descendants of Anak. \([[Judg.1.10|Jdg.1.10]]\) 
 
 Ahiman and his brothers were known for their great stature and strength, which initially intimidated the Israelites. However, with God's help, they were eventually defeated, allowing the Israelites to claim the land promised to them.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Ahiman | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ימ</span>ַ<span class='tipnrLangHebrew'>ן</span>](H0289G) | 3x | [[Num.13.22] ... [Jdg.1.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahiman\*\|reference=Num.13.22;Jos.15.14;Jdg.1.10) |
+
 All entries for **Ahiman**:  **<big>[[H0289|אֲחִימַן]]</big>**
+
 #### Related Profiles:
 - **[Anak](H6061)** (father)
 - **[Sheshai](H8344)** (sibling)

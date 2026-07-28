@@ -11,8 +11,5 @@ Nathan is mentioned in [[Ezra.8.16|Ezra 8:16]] as one of the leaders summoned by
 Upon arriving in Jerusalem, Ezra discovered that many of the Israelites, including priests and Levites, had not been following the Law of Moses and had intermarried with the neighboring pagan peoples. Ezra took steps to address this issue and to restore proper worship and obedience to God's commands. 
 
 As part of this effort, Ezra assembled a group of leaders, including Nathan, to help instruct the people in the Law. These leaders were chosen for their understanding and ability to teach others. Ezra "sent for Eliezer, Ariel, Shemaiah, Elnathan, Jarib, Elnathan, Nathan, Zechariah and Meshullam, who were leaders, and for Joiarib and Elnathan, who were men of learning" \([[Ezra.8.16|Ezra 8:16]]\).
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Nathan | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>](H5416K) | 1x | [Ezr.8.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nathan\*\|reference=Ezr.8.16) |
+
 All entries for **Nathan**:  **<big>[[H5416|נָתָן]]</big>**

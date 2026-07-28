@@ -10,11 +10,9 @@ Man living at the time of Divided Monarchy
 -  half-brother of: Zereth **<big>[[H6889|צֶרֶת]]</big>**, Izhar **<big>[[H3328|יִצְחַר]]</big>**, Ethnan **<big>[[H0869|אֶתְנַן]]</big>** and Koz **<big>[[H6976|קוֹץ]]</big>**.
 
 Temeni is mentioned in [[1Chr.4.6|1 Chronicles 4:6]] as one of the sons of Ashhur \(or 'Ashur'\). He was a descendant of Judah through Hezron and is described as the "father of Tekoa," likely referring to his role as the founder or leader of the city. Temeni is listed along with his brothers Haahashtari, Hepher, and Ahuzzam.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Temeni | [<span class='tipnrLangHebrew'>ת</span>ֵּ<span class='tipnrLangHebrew'>ימ</span>ְ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H8488) | 1x | [1Ch.4.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Temeni\*\|reference=1Ch.4.6) |
+
 All entries for **Temeni**:  **<big>[[H8488|תֵּימְנִי]]</big>**
+
 #### Related Profiles:
 - **[Ashhur](H0806)** (father)
 - **[Naarah](H5292B)** (mother)

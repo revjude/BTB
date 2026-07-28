@@ -6,15 +6,12 @@ Man living at the time of the New Testament
 - A man living at the time of the New Testament, only mentioned at [[3John.1.9|3Jn.1.9]]; 
 - only referred to as Diotrephes **<big>[[G1361|Διοτρεφής]]</big>**.
 
-Diotrephes is mentioned in [[3John.1.9|3 John 1:9]]-10 as a church leader who opposed the apostle John and his associates. John describes Diotrephes as someone "who loves to be first" among the church members, suggesting that he had a dominant and controlling personality. 
+Diotrephes is mentioned in [[3John.1.9|3 John 1:9-10]] as a church leader who opposed the apostle John and his associates. John describes Diotrephes as someone "who loves to be first" among the church members, suggesting that he had a dominant and controlling personality. 
 
-According to John, Diotrephes refused to welcome him and his companions and even went so far as to speak maliciously against them. Moreover, Diotrephes would not receive other believers who were associated with John and would expel from the church those who did welcome them \(3 John 1:10\). 
+According to John, Diotrephes refused to welcome him and his companions and even went so far as to speak maliciously against them. Moreover, Diotrephes would not receive other believers who were associated with John and would expel from the church those who did welcome them \([[3John.1.10|3 John 1:10]]\). 
 
-John's letter to Gaius, in which Diotrephes is mentioned, was written to commend Gaius for his faithfulness and hospitality towards traveling ministers \(3 John 1:5-8\). By contrast, Diotrephes' behavior was a hindrance to the spread of the gospel and the unity of the church. 
+John's letter to Gaius, in which Diotrephes is mentioned, was written to commend Gaius for his faithfulness and hospitality towards traveling ministers \([[3John.1.5|3 John 1:5-8]]\). By contrast, Diotrephes' behavior was a hindrance to the spread of the gospel and the unity of the church. 
 
-John declared his intention to confront Diotrephes about his actions when he visited the church \(3 John 1:10\).
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Diotrephes | [<span class='tipnrLangGreek'>Διοτρεφής</span>](G1361) | 1x | [3Jn.1.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Diotrephes\*\|reference=3Jn.1.9) |
+John declared his intention to confront Diotrephes about his actions when he visited the church \([[3John.1.10|3 John 1:10]]\).
+
 All entries for **Diotrephes**:  **<big>[[G1361|Διοτρεφής]]</big>**

@@ -13,8 +13,5 @@ In the New King James Version, for example, the verse reads, "Josheb-Basshebeth 
 However, other translations, such as the New International Version, render the verse differently: "Josheb-Basshebeth, a Tahkemonite, was chief of the Three; he raised his spear against eight hundred men, whom he killed in one encounter." In this translation, the phrase "Adino the Eznite" is not present, and the focus is on Josheb-Basshebeth's feat of killing eight hundred men. 
 
 Due to the ambiguity in the Hebrew text, it is difficult to determine conclusively whether Adino is a separate individual or a description of Josheb-Basshebeth's actions. As a result, Adino's identity and role remain uncertain.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| wielded (KJV= Adino; NIV= raised) | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>ינו</span>ֹ](H5722) | 1x | [2Sa.23.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text="wielded"\*\|reference=2Sa.23.8) |
+
 All entries for **Adino or "wielded"**:  **<big>[[H5722|עֲדִינוֹ]]</big>**

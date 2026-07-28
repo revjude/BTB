@@ -10,11 +10,9 @@ Man living at the time of Divided Monarchy
 -  half-brother of: Jeush **<big>[[H3266|יְעוּשׁ]]</big>**, Shemariah **<big>[[H8114|שְׁמַרְיָה]]</big>** and Zaham **<big>[[H2093|זַהַם]]</big>**.
 
 Ziza was a son of King Rehoboam of Judah and his wife Maacah, who was the granddaughter of Absalom. He is mentioned in the list of Rehoboam's sons and grandsons in [[2Chr.11.20|2 Chronicles 11:20]]. Rehoboam, the son of Solomon, was the first king of Judah after the division of the kingdom. The passage notes that Rehoboam had many wives and concubines, and he fathered twenty-eight sons and sixty daughters. Ziza is listed among the sons born to Rehoboam and Maacah, indicating his royal lineage. However, no further information is provided about Ziza's life, position, or role within the royal family.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Ziza | [<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>יז</span>ָ<span class='tipnrLangHebrew'>א</span>](H2124H) | 1x | [2Ch.11.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ziza\*\|reference=2Ch.11.20) |
+
 All entries for **Ziza**:  **<big>[[H2124|זִיזָא]]</big>**
+
 #### Related Profiles:
 - **[Rehoboam](H7346)** (father)
 - **[Maacah](H4601K)** (mother)

@@ -8,16 +8,14 @@ Edomite living at the time of the Patriarchs
 -  son of Dishon **<big>[[H1787|דִּישׁוֹן]]</big>**; 
 - a brother of Hemdan **<big>[[H2533|חֶמְדָּן]]</big>**, Eshban **<big>[[H0790|אֶשְׁבָּן]]</big>** and Cheran **<big>[[H3763|כְּרָן]]</big>**.
 
-Ithran is mentioned in two genealogical lists in the Bible as a descendant of Esau, the son of Isaac and twin brother of Israel \(or 'Jacob'\) \([[Gen.36.26|Gen.36.26]]; [[1Chr.1.41|1Ch.1.41]]\). He was the son of Dishon, who was a Horite, one of the inhabitants of the land of Seir before Esau's descendants settled there \(Gen.36.20-21\). 
+Ithran is mentioned in two genealogical lists in the Bible as a descendant of Esau, the son of Isaac and twin brother of Israel \(or 'Jacob'\) \([[Gen.36.26|Gen.36.26]]; [[1Chr.1.41|1Ch.1.41]]\). He was the son of Dishon, who was a Horite, one of the inhabitants of the land of Seir before Esau's descendants settled there \([[Gen.36.20|Gen.36.20-21]]\). 
 
-The genealogies in Genesis 36 and 1 Chronicles 1 record the descendants of Esau, also known as Edom, and the Horite tribes that intermarried with them. These lists demonstrate the fulfillment of God's promise to Abraham that he would be the father of many nations \(Gen.17.4-5\). 
+The genealogies in [[Gen.36|Genesis 36]] and [[1Chr.1|1 Chronicles 1]] record the descendants of Esau, also known as Edom, and the Horite tribes that intermarried with them. These lists demonstrate the fulfillment of God's promise to Abraham that he would be the father of many nations \([[Gen.17.4|Gen.17.4-5]]\). 
 
 No other details are provided about Ithran's life or role within the clan. His inclusion in these genealogies serves to trace the lineage of Esau and the Edomites and to highlight the connection between the Israelites and their neighboring nations.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Ithran | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ת</span>ְ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ן</span>](H3506G) | 2x | [[Gen.36.26] & [1Ch.1.41] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ithran\*\|reference=Gen.36.26;1Ch.1.41) |
+
 All entries for **Ithran**:  **<big>[[H3506|יִתְרָן]]</big>**
+
 #### Related Profiles:
 - **[Dishon](H1787G)** (father)
 - **[Hemdan](H2533)** (sibling)

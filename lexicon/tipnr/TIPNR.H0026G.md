@@ -12,12 +12,10 @@ Abigail was a wise and beautiful woman who was initially married to a wealthy bu
 
 Impressed by her wisdom and courage, David accepted her appeal and spared Nabal's life. When Abigail told Nabal about this incident, he had a heart attack and died ten days later. After Nabal's death, David sent for Abigail and married her. 
 
-Abigail became one of David's wives and bore him a son named Chileab, who is also known as Daniel \([[2Sam.3.3|2 Samuel 3:3]]; [[1Chr.3.1|1 Chronicles 3:1]]\). She accompanied David during his time in Ziklag, where he sought refuge from King Saul \([[1Sam.27.3|1 Samuel 27:3]]; 30:5\). Abigail's story demonstrates her wisdom, diplomacy, and faith in God.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Abigail | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יג</span>ַ֫<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ל</span>, <span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יג</span>ַ֫<span class='tipnrLangHebrew'>ל</span>](H0026G) | 14x | [[1Sa.25.3] ... [1Ch.3.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abigail\*\|reference=1Sa.25.3;1Sa.25.14;1Sa.25.18;1Sa.25.23;1Sa.25.32;1Sa.25.36;1Sa.25.39;1Sa.25.40;1Sa.25.42;1Sa.27.3;1Sa.30.5;2Sa.2.2;2Sa.3.3;1Ch.3.1) |
+Abigail became one of David's wives and bore him a son named Chileab, who is also known as Daniel \([[2Sam.3.3|2 Samuel 3:3]]; [[1Chr.3.1|1 Chronicles 3:1]]\). She accompanied David during his time in Ziklag, where he sought refuge from King Saul \([[1Sam.27.3|1 Samuel 27:3]]; [[1Sam.30.5|30:5]]\). Abigail's story demonstrates her wisdom, diplomacy, and faith in God.
+
 All entries for **Abigail**:  **<big>[[H0026|אֲבִיגַיִל]]</big>**
+
 #### Related Profiles:
 - **[David](H1732)** (spouse)
 - **[Nabal](H5037)** (spouse)

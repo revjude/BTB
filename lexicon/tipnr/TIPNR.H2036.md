@@ -13,8 +13,5 @@ When the Israelites, led by Joshua, were attacking the city of Lachish, Horam ca
 The defeat of Horam and the capture of Gezer were part of Joshua's campaign to conquer the southern cities of Canaan. The victory over Gezer and its king demonstrated the power of God fighting on behalf of the Israelites and the fulfillment of His promise to give them the land. 
 
 The brief mention of Horam in the Bible serves to highlight the Israelites' success in conquering the Canaanite cities and the faithfulness of God in helping them achieve their goal of settling in the Promised Land.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Horam | [<span class='tipnrLangHebrew'>ה</span>ֹ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ם</span>](H2036) | 1x | [Jos.10.33 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Horam\*\|reference=Jos.10.33) |
+
 All entries for **Horam**:  **<big>[[H2036|הֹרָם]]</big>**

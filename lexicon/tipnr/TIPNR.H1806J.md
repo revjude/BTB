@@ -12,14 +12,12 @@ Delaiah is mentioned in [[Neh.6.10|Nehemiah 6:10]] as the father of Shemaiah, a 
 
 Shemaiah invited Nehemiah to meet with him at the house of Shemaiah son of Delaiah, the son of Mehetabel, who was confined to his home. The fact that Shemaiah was confined to his home suggests that he may have been a prophet or a man of some religious significance. 
 
-However, Nehemiah perceived that Shemaiah's prophecy was not from God and that he had been hired by Nehemiah's enemies to intimidate him and cause him to sin by entering the temple, which was forbidden for someone in Nehemiah's position \(Nehemiah 6:11-13\). 
+However, Nehemiah perceived that Shemaiah's prophecy was not from God and that he had been hired by Nehemiah's enemies to intimidate him and cause him to sin by entering the temple, which was forbidden for someone in Nehemiah's position \([[Neh.6.11|Nehemiah 6:11-13]]\). 
 
 The mention of Delaiah in this context serves to identify Shemaiah and to highlight the opposition and deception Nehemiah faced while rebuilding the walls of Jerusalem. It also demonstrates Nehemiah's discernment and faith in God, which enabled him to resist the schemes of his enemies and complete the work of rebuilding the city's defenses.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Delaiah | [<span class='tipnrLangHebrew'>ד</span>ְּ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H1806J) | 1x | [Neh.6.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Delaiah\*\|reference=Neh.6.10) |
+
 All entries for **Delaiah**:  **<big>[[H1806|דְּלָיָה]]</big>**
+
 #### Related Profiles:
 - **[Mehetabel](H4105H)** (father)
 - **[Shemaiah](H8098S)** (child)

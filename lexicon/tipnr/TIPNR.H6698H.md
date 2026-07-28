@@ -7,8 +7,5 @@ Man living at the time of Egypt and Wilderness
 - only referred to as Zur **<big>[[H6698|צוּר]]</big>**.
 
 Zur Zur was one of the five kings of Midian who fought against Israel during the conquest of Canaan. He is described as one of the "kings of Midian" and "princes of Sihon" \([[Josh.13.21|Joshua 13:21]]\). During the war against the Midianites, the Israelites killed Zur along with the other Midianite kings \([[Num.31.8|Numbers 31:8]]\). After the conquest of the region, the Israelites allocated the former territory of these Midianite kings, including Zur, to the tribes of Reuben and Gad \([[Josh.13.21|Joshua 13:21]]\).
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Zur | [<span class='tipnrLangHebrew'>צו</span>ּ<span class='tipnrLangHebrew'>ר</span>](H6698H) | 2x | [[Num.31.8] & [Jos.13.21] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zur\*\|reference=Num.31.8;Jos.13.21) |
+
 All entries for **Zur**:  **<big>[[H6698|צוּר]]</big>**

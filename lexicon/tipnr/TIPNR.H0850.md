@@ -8,12 +8,10 @@ Man living at the time of Divided Monarchy
 - a son of Mehir **<big>[[H4243|מְחִיר]]</big>**; 
 -  father of Beth-rapha **<big>[[H1051|בֵּית רָפָא]]</big>**, Paseah **<big>[[H6454|פָּסֵחַ]]</big>**, Tehinnah **<big>[[H8468|תְּחִנָּה]]</big>**.
 
-Eshton was a descendant of Judah through Chelub, mentioned in [[1Chr.4.11|1 Chronicles 4:11]]-12. He was the son of Mehir and the father of Beth-rapha, Paseah, and Tehinnah. Tehinnah was noted as the father of Ir-nahash.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Eshton | [<span class='tipnrLangHebrew'>א</span>ֶ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ת</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H0850) | 2x | [[1Ch.4.11] & [1Ch.4.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eshton\*\|reference=1Ch.4.11;1Ch.4.12) |
+Eshton was a descendant of Judah through Chelub, mentioned in [[1Chr.4.11|1 Chronicles 4:11-12]]. He was the son of Mehir and the father of Beth-rapha, Paseah, and Tehinnah. Tehinnah was noted as the father of Ir-nahash.
+
 All entries for **Eshton**:  **<big>[[H0850|אֶשְׁתּוֹן]]</big>**
+
 #### Related Profiles:
 - **[Mehir](H4243)** (father)
 - **[Beth-rapha](Beth)** (child)

@@ -9,11 +9,9 @@ Levite living at the time of Divided Monarchy
 -  father of Hashabiah **<big>[[H2811|חֲשַׁבְיָה]]</big>**.
 
 Amaziah was a Levite who belonged to the family of Merari. He was the son of Hilkiah and lived during the reign of King David. As a Levite, Amaziah would have been involved in the religious duties and services in the tabernacle or temple. The Merarites were responsible for the tabernacle's structural components, such as its frames, crossbars, posts, and bases.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Amaziah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0558I) | 1x | [1Ch.6.45 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amaziah\*\|reference=1Ch.6.45) |
+
 All entries for **Amaziah**:  **<big>[[H0558|אֲמַצְיָה]]</big>**
+
 #### Related Profiles:
 - **[Hilkiah](H2518I)** (father)
 - **[Hashabiah](H2811G)** (child)

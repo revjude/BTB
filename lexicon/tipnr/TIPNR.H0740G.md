@@ -11,8 +11,5 @@ Ariel is mentioned in [[Ezra.8.16|Ezra 8:16]] as one of the leaders summoned by 
 In preparation for the journey, Ezra gathered leading men to accompany him. Ariel is listed among these leaders, along with Shemaiah, Elnathan, Jarib, Elnathan, Nathan, Zechariah, and Meshullam. Ezra sent these men to Iddo, the leader at Casiphia, to request the assistance of Levites and temple servants for the house of God in Jerusalem. 
 
 The mention of Ariel in this context highlights his role as a trusted leader among the exiles and his willingness to support Ezra in the important task of restoring worship and religious practices in Jerusalem. However, beyond this brief mention, no further details about Ariel's background, family, or specific contributions are provided in the biblical text.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Ariel | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H0740G) | 1x | [Ezr.8.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ariel\*\|reference=Ezr.8.16) |
+
 All entries for **Ariel**:  **<big>[[H0740|אֲרִיאֵל]]</big>**

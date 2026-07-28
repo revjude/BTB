@@ -2,7 +2,7 @@
 
 Man living at the time of the Patriarchs
 
-<span class='tipnrhighlight'>Isaac</span> was the son of Abraham and Sarah, and the father of Jacob and Esau. God made a covenant with him, renewing the promises given to Abraham \(Gen.26.2-5\).
+<span class='tipnrhighlight'>Isaac</span> was the son of Abraham and Sarah, and the father of Jacob and Esau. God made a covenant with him, renewing the promises given to Abraham \([[Gen.26.2|Gen.26.2-5]]\).
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.17.19|Gen.17.19]]; 
 - referred to as Isaac **<big>[[H3327|יִצְחָק]]</big>**, or Isaac **<big>[[H3446|יִשְׂחָק]]</big>**, or Isaac **<big>[[G2464|Ἰσαάκ]]</big>**; 
 - a son of Abraham **<big>[[H0085|אַבְרָהָם]]</big>** and Sarah **<big>[[H8283|שָׂרָה]]</big>**; 
@@ -10,22 +10,18 @@ Man living at the time of the Patriarchs
 - husband of Rebekah **<big>[[H7259|רִבְקָה]]</big>**; 
 -  father of Esau **<big>[[H6215|עֵשָׂו]]</big>** and Israel **<big>[[H3478|יִשְׂרָאֵל]]</big>**.
 
-Isaac was the long-promised son born to Abraham and Sarah in their old age, as recorded in Genesis. He was the child of the covenant, through whom God had promised to fulfill his purposes for Abraham's descendants \([[Gen.17.19|Gen.17.19]],21\). Isaac was circumcised on the eighth day \([[Gen.21.4|Gen.21.4]]\) and grew up as Abraham's heir. 
+Isaac was the long-promised son born to Abraham and Sarah in their old age, as recorded in Genesis. He was the child of the covenant, through whom God had promised to fulfill his purposes for Abraham's descendants \([[Gen.17.19|Gen.17.19]],[[Gen.17.21|21]]\). Isaac was circumcised on the eighth day \([[Gen.21.4|Gen.21.4]]\) and grew up as Abraham's heir. 
 
-When he was a youth, God tested Abraham by commanding him to offer Isaac as a sacrifice \(Gen.22\). Abraham obeyed, but at the last moment God provided a ram as a substitute. This event foreshadowed God's provision of his own Son as the ultimate sacrifice. 
+When he was a youth, God tested Abraham by commanding him to offer Isaac as a sacrifice \([[Gen.22|Gen.22]]\). Abraham obeyed, but at the last moment God provided a ram as a substitute. This event foreshadowed God's provision of his own Son as the ultimate sacrifice. 
 
-Isaac married Rebekah, and they had twin sons, Esau and Israel \(or 'Jacob'\) \([[Gen.25.21|Gen.25.21]]-26\). Isaac favored Esau, while Rebekah favored Jacob, leading to family conflict. Jacob deceived Isaac into giving him the firstborn blessing \(Gen.27\). 
+Isaac married Rebekah, and they had twin sons, Esau and Israel \(or 'Jacob'\) \([[Gen.25.21|Gen.25.21-26]]\). Isaac favored Esau, while Rebekah favored Jacob, leading to family conflict. Jacob deceived Isaac into giving him the firstborn blessing \([[Gen.27|Gen.27]]\). 
 
-Isaac settled in Gerar, where God confirmed to him the covenant promises \([[Gen.26.1|Gen.26.1]]-5\). Like his father, he passed off his wife as his sister out of fear \(Gen.26.7-11\). He reopened Abraham's wells and dug new ones, showing his claim to the land. 
+Isaac settled in Gerar, where God confirmed to him the covenant promises \([[Gen.26.1|Gen.26.1-5]]\). Like his father, he passed off his wife as his sister out of fear \([[Gen.26.7|Gen.26.7-11]]\). He reopened Abraham's wells and dug new ones, showing his claim to the land. 
 
-Isaac died at the age of 180 and was buried by his sons \([[Gen.35.29|Gen.35.29]]\). God is identified as the God of Abraham, Isaac and Jacob, linking Isaac to the patriarchal promises \([[Exod.3.6|Exo.3.6]]\). The New Testament upholds Isaac as an example of faith \([[Heb.11.20|Heb.11.20]]\) and miraculous birth \([[Gal.4.28|Gal.4.28]]-29\).
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Isaac | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ק</span>](H3327) | 108x | [[Gen.17.19] ... [2Ch.30.6] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Isaac\*\|reference=Gen.17.19;Gen.17.21;Gen.21.3;Gen.21.4;Gen.21.5;Gen.21.8;Gen.21.10;Gen.21.12;Gen.22.2;Gen.22.3;Gen.22.6;Gen.22.7;Gen.22.9;Gen.24.4;Gen.24.14;Gen.24.62;Gen.24.63;Gen.24.64;Gen.24.66;Gen.24.67;Gen.24.67;Gen.25.5;Gen.25.6;Gen.25.9;Gen.25.11;Gen.25.11;Gen.25.19;Gen.25.19;Gen.25.20;Gen.25.21;Gen.25.26;Gen.25.28;Gen.26.1;Gen.26.6;Gen.26.8;Gen.26.9;Gen.26.9;Gen.26.12;Gen.26.16;Gen.26.17) |
-| Isaac | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׂ<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ק</span>](H3446) | 4x | [[Psa.105.9] ... [Amo.7.16] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Isaac\*\|reference=Psa.105.9;Jer.33.26;Amo.7.9;Amo.7.16) |
-| Isaac | [<span class='tipnrLangGreek'>Ἰσαάκ</span>](G2464) | 20x | [[Mat.1.2a] ... [Jas.2.21] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Isaac\*\|reference=Mat.1.2;Mat.1.2;Mat.8.11;Mat.22.32;Mrk.12.26;Luk.3.34;Luk.13.28;Luk.20.37;Act.3.13;Act.7.8;Act.7.8;Act.7.32;Rom.9.7;Rom.9.10;Gal.4.28;Heb.11.9;Heb.11.17;Heb.11.18;Heb.11.20;Jas.2.21) |
+Isaac died at the age of 180 and was buried by his sons \([[Gen.35.29|Gen.35.29]]\). God is identified as the God of Abraham, Isaac and Jacob, linking Isaac to the patriarchal promises \([[Exod.3.6|Exo.3.6]]\). The New Testament upholds Isaac as an example of faith \([[Heb.11.20|Heb.11.20]]\) and miraculous birth \([[Gal.4.28|Gal.4.28-29]]\).
+
 All entries for **Isaac**:  **<big>[[H3327|יִצְחָק]]</big>** ☩  **<big>[[H3446|יִשְׂחָק]]</big>** ☩  **<big>[[G2464|Ἰσαάκ]]</big>**
+
 #### Related Profiles:
 - **[Abraham](H0085)** (father)
 - **[Sarah](H8283)** (mother)

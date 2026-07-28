@@ -8,10 +8,8 @@ Man living at the time of Egypt and Wilderness
 - a son of Ammihud **<big>[[H5989|עַמִּיהוּד]]</big>**.
 
 Pedahel son of Ammihud was the leader from the tribe of Naphtali appointed to help divide the land of Canaan among the Israelites, according to [[Num.34.28|Numbers 34:28]]. He was one of the twelve leaders, one from each tribe, chosen to assist Eleazar the priest and Joshua in allocating the tribal territories after the conquest of Canaan. Pedahel's inclusion in this group suggests he was a respected leader within his tribe.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Pedahel | [<span class='tipnrLangHebrew'>פ</span>ְּ<span class='tipnrLangHebrew'>ד</span>ַ<span class='tipnrLangHebrew'>ה</span>ְ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H6300) | 1x | [Num.34.28 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pedahel\*\|reference=Num.34.28) |
+
 All entries for **Pedahel**:  **<big>[[H6300|פְּדַהְאֵל]]</big>**
+
 #### Related Profiles:
 - **[Ammihud](H5989I)** (father)

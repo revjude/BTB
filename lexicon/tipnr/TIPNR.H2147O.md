@@ -7,11 +7,9 @@ Man living at the time of Divided Monarchy
 - only referred to as Zichri **<big>[[H2147|זִכְרִי]]</big>**; 
 -  father of Elishaphat **<big>[[H0478|אֱלִישָׁפָט]]</big>**.
 
-Zichri is mentioned in 2 Chronicles 23 as the father of Elishaphat, one of the commanders who allied with Jehoiada the priest to overthrow Queen Athaliah and restore the rightful king, Joash, to the throne of Judah. Athaliah had usurped the throne and promoted the worship of Baal. Jehoiada, with the support of military leaders like Elishaphat, organized a coup to remove Athaliah and reinstate the Davidic line. The mention of Zichri as Elishaphat's father suggests that he may have held a position of influence or leadership, which his son then followed. The successful overthrow of Athaliah and the restoration of the temple worship marked a significant moment in Judah's history, and Zichri's family played a role in this important event.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Zichri (NIV= Zikri) | [<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>](H2147O) | 1x | [2Ch.23.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zichri\*\|reference=2Ch.23.1) |
+Zichri is mentioned in [[2Chr.23|2 Chronicles 23]] as the father of Elishaphat, one of the commanders who allied with Jehoiada the priest to overthrow Queen Athaliah and restore the rightful king, Joash, to the throne of Judah. Athaliah had usurped the throne and promoted the worship of Baal. Jehoiada, with the support of military leaders like Elishaphat, organized a coup to remove Athaliah and reinstate the Davidic line. The mention of Zichri as Elishaphat's father suggests that he may have held a position of influence or leadership, which his son then followed. The successful overthrow of Athaliah and the restoration of the temple worship marked a significant moment in Judah's history, and Zichri's family played a role in this important event.
+
 All entries for **Zichri**:  **<big>[[H2147|זִכְרִי]]</big>**
+
 #### Related Profiles:
 - **[Elishaphat](H0478)** (child)

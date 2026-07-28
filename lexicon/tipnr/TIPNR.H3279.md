@@ -13,9 +13,5 @@ Solomon's servants were likely a group of people who had been assigned to work i
 The mention of Jaalah and the other descendants of Solomon's servants in these lists highlights the diverse composition of the returning exiles, which included not only priests, Levites, and ordinary Israelites but also those from various occupational groups. 
 
 No further information is provided about Jaalah's specific role or family. The inclusion of the descendants of Solomon's servants in the return from exile demonstrates God's faithfulness in preserving and restoring His people according to His promises.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Jaalah (NIV= Jaala) | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>א</span>](H3279) | 1x | [Ezr.2.56 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jaalah\*\|reference=Ezr.2.56) |
-| Jaala | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>א</span>](H3279) | 1x | [Neh.7.58 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jaala\*\|reference=Neh.7.58) |
+
 All entries for **Jaalah or Jaala**:  **<big>[[H3279|יַעֲלָא]]</big>**

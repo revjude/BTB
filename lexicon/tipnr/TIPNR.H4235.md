@@ -8,11 +8,9 @@ Man living at the time of United Monarchy
 -  father of Ethan **<big>[[H0387|אֵיתָן]]</big>**, Heman **<big>[[H1968|הֵימָן]]</big>**, Calcol **<big>[[H3633|כַּלְכֹּל]]</big>**, Darda **<big>[[H1862|דַּרְדַּע]]</big>**.
 
 Mahol is mentioned in the context of describing King Solomon's wisdom. He was the father of Ethan the Ezrahite, Heman, Calcol, and Darda, who were known for their wisdom. However, Solomon's wisdom surpassed that of these men and all the wisdom of Egypt.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Mahol | [<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>חו</span>ֹ<span class='tipnrLangHebrew'>ל</span>](H4235) | 1x | [1Ki.4.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mahol\*\|reference=1Ki.4.31) |
+
 All entries for **Mahol**:  **<big>[[H4235|מָחוֹל]]</big>**
+
 #### Related Profiles:
 - **[Ethan](H0387G)** (child)
 - **[Heman](H1968G)** (child)

@@ -13,8 +13,5 @@ During Hezekiah's reign, the king initiated a series of religious reforms aimed 
 Nahath, along with several other Levites, was entrusted with the responsibility of overseeing the storehouses where the offerings were kept and managing the distribution of these resources to the priests and their families. This task required integrity, organization, and fairness to ensure that all the priests and Levites received their rightful share. 
 
 The mention of Nahath in this context highlights the importance of the Levites' role in maintaining the Temple's functions and the significance of proper resource management within the religious community. It also demonstrates King Hezekiah's commitment to restoring and supporting the religious institutions of Judah.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Nahath | [<span class='tipnrLangHebrew'>נ</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ת</span>](H5184H) | 1x | [2Ch.31.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nahath\*\|reference=2Ch.31.13) |
+
 All entries for **Nahath**:  **<big>[[H5184|נַחַת]]</big>**

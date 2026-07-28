@@ -10,11 +10,9 @@ Woman living at the time of Divided Monarchy
 -  mother of Josiah **<big>[[H2977|יֹאשִׁיָּה]]</big>**.
 
 Jedidah is mentioned in [[2Kgs.22.1|2 Kings 22:1]] as the mother of King Josiah of Judah. She was the daughter of Adaiah from Bozkath, a town in the Shephelah region of Judah. Jedidah's son, Josiah, became king at the age of eight and reigned for thirty-one years in Jerusalem. He is known for his religious reforms and his efforts to restore the worship of the Lord in Judah. The text does not provide any further information about Jedidah's life or her role in Josiah's upbringing. However, her mention as the mother of a significant king in Judah's history highlights the importance of maternal lineage in the royal succession.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Jedidah | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>יד</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3040) | 1x | [2Ki.22.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jedidah\*\|reference=2Ki.22.1) |
+
 All entries for **Jedidah**:  **<big>[[H3040|יְדִידָה]]</big>**
+
 #### Related Profiles:
 - **[Adaiah](H5718G)** (father)
 - **[Amon](H0526H)** (spouse)

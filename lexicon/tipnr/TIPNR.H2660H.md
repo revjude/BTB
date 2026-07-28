@@ -7,8 +7,5 @@ Man living at the time of Divided Monarchy
 - only referred to as Hepher **<big>[[H2660|חֵפֶר]]</big>**.
 
 Hepher the Mecherathite is mentioned in the list of David's mighty men in 1 Chronicles. He is described as one of the valiant warriors who supported David and fought alongside him \([[1Chr.11.36|1Ch.11.36]]\). The term "Mecherathite" likely refers to his place of origin or clan affiliation, although the exact location is unknown. Being included in the list of David's mighty men suggests that Hepher was a skilled and loyal soldier who played a significant role in David's military campaigns. No further details about his specific accomplishments or life events are provided in the Bible. \([[1Chr.11.36|1Ch.11.36]]\).
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Hepher | [<span class='tipnrLangHebrew'>ח</span>ֵ֫<span class='tipnrLangHebrew'>פ</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H2660H) | 1x | [1Ch.11.36 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hepher\*\|reference=1Ch.11.36) |
+
 All entries for **Hepher**:  **<big>[[H2660|חֵפֶר]]</big>**

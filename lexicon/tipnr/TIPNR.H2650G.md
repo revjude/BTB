@@ -17,11 +17,9 @@ In [[1Chr.7.15|1 Chronicles 7:15]], Huppim is mentioned again, this time in rela
 The exact relationship between Huppim, Shuppim, Ir, Aher, and Machir is not entirely clear from the text. It is possible that Huppim and Shuppim were descendants of Manasseh through Ir or Aher, and that Machir, as the son of Manasseh, arranged their marriages. 
 
 Despite the ambiguity in the genealogical details, the inclusion of Huppim in the record of Manasseh's descendants highlights the importance of family lineage and tribal identity in ancient Israelite society. The genealogies in 1 Chronicles serve to establish the connections between individuals and their ancestral tribes.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Huppim | [<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>פ</span>ִּ<span class='tipnrLangHebrew'>ים</span>](H2650G) | 2x | [[1Ch.7.12] & [1Ch.7.15] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Huppim\*\|reference=1Ch.7.12;1Ch.7.15) |
+
 All entries for **Huppim**:  **<big>[[H2650|חֻפִּים]]</big>**
+
 #### Related Profiles:
 - **[Ir](H5893G)** (father)
 - **[Shuppim](H8206G)** (sibling)

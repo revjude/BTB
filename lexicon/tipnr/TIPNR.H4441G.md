@@ -9,11 +9,9 @@ Levite living at the time of Divided Monarchy
 -  father of Baaseiah **<big>[[H1202|בַּעֲשֵׂיָה]]</big>**.
 
 Malchijah was a Levite who belonged to the Gershonite clan, one of the three main divisions of the Levites. He was the son of Ethni and is mentioned in the genealogy of the Levites \([[1Chr.6.40|1 Chronicles 6:40]]\).
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Malchijah (KJV= Malchiah; NIV= Malkijah) | [<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>הו</span>ּ](H4441G) | 1x | [1Ch.6.40 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Malchijah\*\|reference=1Ch.6.40) |
+
 All entries for **Malchijah**:  **<big>[[H4441|מַלְכִּיָּה]]</big>**
+
 #### Related Profiles:
 - **[Jeatherai](H2979)** (father)
 - **[Baaseiah](H1202)** (child)

@@ -2,7 +2,7 @@
 
 Jacob's son living at the time of the Patriarchs
 
-<span class='tipnrhighlight'>Dan</span> was the fifth son of Jacob and the founder of the Israelite tribe bearing his name. \([[Gen.30.6|Gen.30.6]]; 35.25; 46.23; 49.16,17; [[1Chr.2.2|1Ch.2.2]]\)
+<span class='tipnrhighlight'>Dan</span> was the fifth son of Jacob and the founder of the Israelite tribe bearing his name. \([[Gen.30.6|Gen.30.6]]; [[Gen.35.25|35.25]]; [[Gen.46.23|46.23]]; [[Gen.49.16|49.16]],[[Gen.49.17|17]]; [[1Chr.2.2|1Ch.2.2]]\)
 - Jacob's son who founded the tribe of Dan  living at the time of the Patriarchs, first mentioned at [[Gen.30.6|Gen.30.6]]; 
 - only referred to as Dan **<big>[[H1835|דָּן]]</big>**; 
 -  son of Israel **<big>[[H3478|יִשְׂרָאֵל]]</big>** and Bilhah **<big>[[H1090|בִּלְהָה]]</big>**; 
@@ -14,16 +14,14 @@ Dan was the fifth son of Israel \(or 'Jacob'\) and the firstborn of Bilhah, Rach
 
 As one of Israel's twelve sons, Dan became the founder of the Israelite tribe bearing his name. In [[Gen.46.23|Genesis 46:23]], when Israel and his family moved to Egypt, Dan's son Hushim is mentioned as part of the household. 
 
-In Israel's blessing to his sons before his death \([[Gen.49.16|Genesis 49:16]]-17\), Dan is described as one who will provide justice for his people as one of the tribes of Israel. Jacob also compares Dan to a serpent by the roadside, an adder along the path, foreshadowing the tribe's future role in the Promised Land. 
+In Israel's blessing to his sons before his death \([[Gen.49.16|Genesis 49:16-17]]\), Dan is described as one who will provide justice for his people as one of the tribes of Israel. Jacob also compares Dan to a serpent by the roadside, an adder along the path, foreshadowing the tribe's future role in the Promised Land. 
 
-The tribe of Dan was allocated territory in the northern part of Canaan during the conquest under Joshua. However, they later migrated northward and settled in the city of Laish, which they renamed Dan \(Judges 18\). 
+The tribe of Dan was allocated territory in the northern part of Canaan during the conquest under Joshua. However, they later migrated northward and settled in the city of Laish, which they renamed Dan \([[Judg.18|Judges 18]]\). 
 
 In [[1Chr.2.2|1 Chronicles 2:2]], Dan is listed among the twelve tribes of Israel, confirming his status as one of the founding fathers of the nation. Throughout the Old Testament, the tribe of Dan is mentioned alongside the other Israelite tribes, although they are sometimes associated with idolatry and apostasy.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Dan | [<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ן</span>](H1835H) | 6x | [[Gen.30.6] ... [1Ch.2.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dan\*\|reference=Gen.30.6;Gen.35.25;Gen.46.23;Gen.49.16;Gen.49.17;1Ch.2.2) |
+
 All entries for **Dan**:  **<big>[[H1835|דָּן]]</big>**
+
 #### Related Profiles:
 - **[Israel](H3478)** (father)
 - **[Bilhah](H1090A)** (mother)

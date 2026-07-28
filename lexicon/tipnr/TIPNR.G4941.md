@@ -7,8 +7,5 @@ Woman living at the time of the New Testament
 - only referred to as Syntyche **<big>[[G4941|Συντύχη]]</big>**.
 
 Syntyche was a woman in the church at Philippi. In [[Phil.4.2|Philippians 4:2]], Paul specifically names her and Euodia, and urges them to reconcile and be of the same mind in the Lord. This exhortation suggests the two women may have been in a conflict of some kind. That they are named and addressed personally indicates Syntyche and Euodia were prominent members of the Philippian congregation. Paul describes them as women who labored with him in the gospel.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Syntyche | [<span class='tipnrLangGreek'>Συντύχη</span>](G4941) | 1x | [Php.4.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Syntyche\*\|reference=Php.4.2) |
+
 All entries for **Syntyche**:  **<big>[[G4941|Συντύχη]]</big>**

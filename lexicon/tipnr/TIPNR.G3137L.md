@@ -2,18 +2,16 @@
 
 Barnabus' relative living at the time of the New Testament
 
-<span class='tipnrhighlight'>Mary</span>, the mother of John Mark, hosted a prayer meeting in her house \([[John.12.2|Act.12.12]]\).
-- Barnabus' relative living at the time of the New Testament, only mentioned at [[John.12.2|Act.12.12]]; 
+<span class='tipnrhighlight'>Mary</span>, the mother of John Mark, hosted a prayer meeting in her house \([[Acts.12.12|Act.12.12]]\).
+- Barnabus' relative living at the time of the New Testament, only mentioned at [[Acts.12.12|Act.12.12]]; 
 - only referred to as Mary **<big>[[G3137|Μαρία]]</big>**; 
 - a sister of Barnabas **<big>[[G0921|Βαρνάβας]]</big>**; 
 -  mother of Mark **<big>[[G3138|Μάρκος]]</big>**.
 
-Mary was a woman living in Jerusalem and the mother of John Mark, who later became a companion of Paul and Barnabas. When Peter was miraculously released from prison, he went to Mary's house, where many believers had gathered to pray for him. This indicates that Mary's home served as a meeting place for the early church in Jerusalem \(Acts 12:12\). Her son, John Mark, would later accompany Paul and Barnabas on their missionary journeys and was a source of disagreement between the two leaders \(Acts 12:25; 15:37-39\). Tradition holds that John Mark wrote the Gospel that bears his name based on Peter's teachings.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Mary | [<span class='tipnrLangGreek'>Μαρία</span>](G3137L) | 1x | [Act.12.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mary\*\|reference=Act.12.12) |
+Mary was a woman living in Jerusalem and the mother of John Mark, who later became a companion of Paul and Barnabas. When Peter was miraculously released from prison, he went to Mary's house, where many believers had gathered to pray for him. This indicates that Mary's home served as a meeting place for the early church in Jerusalem \([[Acts.12.12|Acts 12:12]]\). Her son, John Mark, would later accompany Paul and Barnabas on their missionary journeys and was a source of disagreement between the two leaders \([[Acts.12.25|Acts 12:25]]; [[Acts.15.37|15:37-39]]\). Tradition holds that John Mark wrote the Gospel that bears his name based on Peter's teachings.
+
 All entries for **Mary**:  **<big>[[G3137|Μαρία]]</big>**
+
 #### Related Profiles:
 - **[father_of_Barnabas](G0921H)** (father)
 - **[husband_of_Mary](G3137N)** (spouse)

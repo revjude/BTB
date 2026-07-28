@@ -8,11 +8,9 @@ People from Lehab
 - descended from Egypt **<big>[[H4714|מִצְרַיִם]]</big>** along with Ludim **<big>[[H3866|לוּדִי]]</big>**, Anamim **<big>[[H6047|עֲנָמִים]]</big>**, Naphtuhim **<big>[[H5320|נַפְתֻּחִים]]</big>**, Pathrusim **<big>[[H6625|פַּתְרֻסִי]]</big>**, Casluhim **<big>[[H3695|כַּסְלֻחִים]]</big>** and Caphtorim **<big>[[H3732|כַּפְתֹּרִי]]</big>**.
 
 Lehabim was one of the sons of Mizraim, who was a son of Ham \([[Gen.10.13|Gen.10.13]]; [[1Chr.1.11|1Ch.1.11]]\). He is mentioned in the Table of Nations, which records the descendants of Noah's sons after the flood. Lehabim is listed among the descendants of Ham, specifically as a son of Mizraim, who is associated with Egypt. The Lehabim are believed to be the ancestors of the Libyans, a people group that inhabited the region west of Egypt in North Africa. However, the exact relationship between the Lehabim and the historical Libyans is not certain.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Lehabim <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>ים</span>](H3853) | 2x | [[Gen.10.13] & [1Ch.1.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Lehabim\*\|reference=Gen.10.13;1Ch.1.11) |
+
 All entries for **Lehabim**:  **<big>[[H3853|לְהָבִים]]</big>**
+
 #### Related Profiles:
 - **[Egypt](H4714H)** (father)
 - **[Ludim](H3866G)** (sibling)

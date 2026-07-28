@@ -11,16 +11,14 @@ Aaron's compatriot living at the time of Egypt and Wilderness
 
 Hur was a significant figure in the early history of Israel, particularly during the Israelites' journey in the wilderness after their exodus from Egypt. He is mentioned several times in the books of Exodus and Chronicles. 
 
-In [[Exod.17.10|Exodus 17:10]]-12, Hur is described as one of the two men who accompanied Moses to the top of a hill during the battle against the Amalekites. Along with Aaron, Hur supported Moses' arms, which were holding the staff of God. As long as Moses' hands were raised, Israel prevailed in the battle. Hur's presence and assistance were crucial in securing the victory. 
+In [[Exod.17.10|Exodus 17:10-12]], Hur is described as one of the two men who accompanied Moses to the top of a hill during the battle against the Amalekites. Along with Aaron, Hur supported Moses' arms, which were holding the staff of God. As long as Moses' hands were raised, Israel prevailed in the battle. Hur's presence and assistance were crucial in securing the victory. 
 
 Later, in [[Exod.24.14|Exodus 24:14]], Moses appointed Hur, along with Aaron, to oversee the people while he went up to Mount Sinai to receive the tablets of the law from God. This indicates that Hur was a trusted and respected leader among the Israelites. 
 
 Hur is also mentioned in the context of the construction of the tabernacle. In [[Exod.31.2|Exodus 31:2]] and 35:30, God appointed Bezalel, the son of Uri, the son of Hur, as the chief artisan responsible for crafting the tabernacle and its furnishings. This connection suggests that Hur's family was skilled in craftsmanship and held a prominent position within the tribe of Judah.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Hur | [<span class='tipnrLangHebrew'>חו</span>ּ<span class='tipnrLangHebrew'>ר</span>](H2354G) | 12x | [[Exo.17.10] ... [2Ch.1.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hur\*\|reference=Exo.17.10;Exo.17.12;Exo.24.14;Exo.31.2;Exo.35.30;Exo.38.22;1Ch.2.19;1Ch.2.20;1Ch.2.50;1Ch.4.1;1Ch.4.4;2Ch.1.5) |
+
 All entries for **Hur**:  **<big>[[H2354|חוּר]]</big>**
+
 #### Related Profiles:
 - **[Caleb](H3612H)** (father)
 - **[Ephrathah](H0672G)** (mother)

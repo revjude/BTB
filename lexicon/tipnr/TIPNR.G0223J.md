@@ -15,8 +15,5 @@ In the second letter to Timothy, written near the end of Paul's life, he mention
 Paul warns Timothy to be on guard against Alexander, suggesting that he posed a significant threat to the church and its teachings. Paul also expresses his trust in God's justice, stating that the Lord will repay Alexander for his actions. \([[2Tim.4.14|2Ti.4.14]]\) 
 
 These passages highlight the challenges and opposition that Paul and the early church faced from individuals who sought to undermine the gospel message and promote false teachings. They also demonstrate Paul's commitment to maintaining the purity of the church's doctrine and his willingness to take disciplinary action when necessary.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Alexander | [<span class='tipnrLangGreek'>Ἀλέξανδρος</span>](G0223J) | 2x | [[1Ti.1.20] & [2Ti.4.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Alexander\*\|reference=1Ti.1.20;2Ti.4.14) |
+
 All entries for **Alexander**:  **<big>[[G0223|Ἀλέξανδρος]]</big>**

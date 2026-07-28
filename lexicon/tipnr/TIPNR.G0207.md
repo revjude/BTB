@@ -3,7 +3,7 @@
 Man living at the time of the New Testament
 
 <span class='tipnrhighlight'>Aquila</span>, along with his wife Priscilla, was a Jewish Christian who worked as a tentmaker and played a significant role in the early church, partnering with Paul in his ministry.
-- A man living at the time of the New Testament, first mentioned at [[Phlm.1.2|Act.18.2]]; 
+- A man living at the time of the New Testament, first mentioned at [[Acts.18.2|Act.18.2]]; 
 - only referred to as Aquila **<big>[[G0207|Ἀκύλας]]</big>**; 
 - husband of Priscilla **<big>[[G4252|Πρίσκιλλα]]</big>**.
 
@@ -14,10 +14,8 @@ When Paul left Corinth, Aquila and Priscilla accompanied him to Ephesus. There, 
 In Paul's letter to the Romans, he sends greetings to Aquila and Priscilla, commending them as his co-workers in Christ Jesus who risked their lives for him. Paul also mentions that the church met in their house, indicating their significant role in hosting and supporting the local Christian community. 
 
 Aquila and Priscilla are mentioned again in Paul's first letter to the Corinthians, where he sends greetings from them and the church that meets at their house. Finally, in Paul's second letter to Timothy, he asks Timothy to greet Aquila and Priscilla, demonstrating their ongoing involvement in the ministry and their close relationship with Paul and his associates.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Aquila | [<span class='tipnrLangGreek'>Ἀκύλας</span>](G0207) | 6x | [[Act.18.2] ... [2Ti.4.19] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aquila\*\|reference=Act.18.2;Act.18.18;Act.18.26;Rom.16.3;1Co.16.19;2Ti.4.19) |
+
 All entries for **Aquila**:  **<big>[[G0207|Ἀκύλας]]</big>**
+
 #### Related Profiles:
 - **[Priscilla](G4252)** (spouse)

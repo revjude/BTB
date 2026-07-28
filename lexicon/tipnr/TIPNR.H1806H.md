@@ -13,8 +13,5 @@ Each division was responsible for serving in the temple for a specific period, a
 The organization of the priests into divisions allowed for a fair distribution of duties and responsibilities, ensuring that the temple service ran smoothly and efficiently. This system also allowed the priests to balance their temple duties with their other responsibilities, such as teaching the law and ministering to the people. 
 
 Apart from this mention in the context of the priestly divisions, no other details are provided about Delaiah's life or specific role. His inclusion in this list highlights the importance of the priestly order and the organization of the temple service during the reign of King David.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Delaiah | [<span class='tipnrLangHebrew'>ד</span>ְּ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H1806H) | 1x | [1Ch.24.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Delaiah\*\|reference=1Ch.24.18) |
+
 All entries for **Delaiah**:  **<big>[[H1806|דְּלָיָה]]</big>**

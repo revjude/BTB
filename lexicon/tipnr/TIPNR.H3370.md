@@ -2,7 +2,7 @@
 
 Man living at the time of the Patriarchs
 
-<span class='tipnrhighlight'>Jokshan</span> was one of the sons born to Abraham and his wife Keturah after the death of Sarah \([[Gen.25.2|Gen.25.2]],3; 1Ch.1.32,32\).
+<span class='tipnrhighlight'>Jokshan</span> was one of the sons born to Abraham and his wife Keturah after the death of Sarah \([[Gen.25.2|Gen.25.2]],[[Gen.25.3|3]]; [[1Chr.1.32|1Ch.1.32]],[[1Chr.1.32|32]]\).
 - A man living at the time of the Patriarchs, first mentioned at [[Gen.25.2|Gen.25.2]]; 
 - only referred to as Jokshan **<big>[[H3370|יׇקְשָׁן]]</big>**; 
 -  son of Abraham **<big>[[H0085|אַבְרָהָם]]</big>** and Keturah **<big>[[H6989|קְטוּרָה]]</big>**; 
@@ -10,20 +10,18 @@ Man living at the time of the Patriarchs
 -  father of Sheba **<big>[[H7614|שְׁבָא]]</big>** and Dedan **<big>[[H1719|דְּדָן]]</big>**; 
 -  half-brother of: Ishmael **<big>[[H3458|יִשְׁמָעֵאל]]</big>** and Isaac **<big>[[H3327|יִצְחָק]]</big>**.
 
-Jokshan is mentioned in the Old Testament as one of the sons of Abraham and his wife Keturah. After the death of Sarah, Abraham took Keturah as his wife, and she bore him several children, including Jokshan \(Gen.25.1-2; 1Ch.1.32\). 
+Jokshan is mentioned in the Old Testament as one of the sons of Abraham and his wife Keturah. After the death of Sarah, Abraham took Keturah as his wife, and she bore him several children, including Jokshan \([[Gen.25.1|Gen.25.1-2]]; [[1Chr.1.32|1Ch.1.32]]\). 
 
 The biblical record provides little information about Jokshan beyond his lineage. In [[Gen.25.3|Genesis 25:3]], it is stated that Jokshan became the father of Sheba and Dedan, suggesting that he had descendants who formed tribes or clans. The names Sheba and Dedan are associated with regions in Arabia, indicating that Jokshan's descendants may have settled in that area. 
 
-Jokshan's mention in the genealogies of Abraham serves to highlight the fulfillment of God's promise to make Abraham the father of many nations \(Gen.17.4-6\). Although the covenant line would pass through Isaac and Israel \(or 'Jacob'\), Abraham's other sons, including Jokshan, are not forgotten in the biblical narrative. 
+Jokshan's mention in the genealogies of Abraham serves to highlight the fulfillment of God's promise to make Abraham the father of many nations \([[Gen.17.4|Gen.17.4-6]]\). Although the covenant line would pass through Isaac and Israel \(or 'Jacob'\), Abraham's other sons, including Jokshan, are not forgotten in the biblical narrative. 
 
 The fact that Jokshan and his brothers are listed in both Genesis and 1 Chronicles underscores the importance of genealogical records in ancient Israelite society. These records served to establish family ties, document the fulfillment of divine promises, and trace the origins of various tribes and nations. 
 
 Beyond these details, the Bible does not provide any further information about Jokshan's life, his relationship with his father Abraham, or the specific history of his descendants. His inclusion in the biblical record serves primarily to paint a more complete picture of Abraham's family and the nations that descended from him.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Jokshan | [<span class='tipnrLangHebrew'>י</span>ׇ<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ן</span>](H3370) | 4x | [[Gen.25.2] ... [1Ch.1.32b] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jokshan\*\|reference=Gen.25.2;Gen.25.3;1Ch.1.32;1Ch.1.32) |
+
 All entries for **Jokshan**:  **<big>[[H3370|יׇקְשָׁן]]</big>**
+
 #### Related Profiles:
 - **[Abraham](H0085)** (father)
 - **[Keturah](H6989)** (mother)

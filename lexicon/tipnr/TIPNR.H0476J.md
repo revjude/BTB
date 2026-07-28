@@ -7,11 +7,9 @@ Man living at the time of Divided Monarchy
 - only referred to as Elishama **<big>[[H0476|אֱלִישָׁמָע]]</big>**; 
 - a son of Jekamiah **<big>[[H3359|יְקַמְיָה]]</big>**.
 
-Elishama is mentioned in the genealogy of Jerahmeel, a clan from the tribe of Judah \([[1Chr.2.41|1Ch.2.41]]\). He was the son of Jekamiah and is listed among the descendants of Judah. The genealogy in 1 Chronicles 2 traces the lineage of Judah, focusing on the clans of Jerahmeel, Hezron, and others. Apart from being mentioned in this genealogical record, no further information is provided about Elishama's life or role within the clan of Jerahmeel or the tribe of Judah.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Elishama | [<span class='tipnrLangHebrew'>א</span>ֱ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>יש</span>ָׁ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ע</span>](H0476J) | 1x | [1Ch.2.41 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Elishama\*\|reference=1Ch.2.41) |
+Elishama is mentioned in the genealogy of Jerahmeel, a clan from the tribe of Judah \([[1Chr.2.41|1Ch.2.41]]\). He was the son of Jekamiah and is listed among the descendants of Judah. The genealogy in [[1Chr.2|1 Chronicles 2]] traces the lineage of Judah, focusing on the clans of Jerahmeel, Hezron, and others. Apart from being mentioned in this genealogical record, no further information is provided about Elishama's life or role within the clan of Jerahmeel or the tribe of Judah.
+
 All entries for **Elishama**:  **<big>[[H0476|אֱלִישָׁמָע]]</big>**
+
 #### Related Profiles:
 - **[Jekamiah](H3359G)** (father)

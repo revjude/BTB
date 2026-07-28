@@ -9,11 +9,9 @@ Levite living at the time of Divided Monarchy
 - a brother of Othni **<big>[[H6273|עׇתְנִי]]</big>**, Rephael **<big>[[H7501|רְפָאֵל]]</big>**, Obed **<big>[[H5744|עוֹבֵד]]</big>**, Elzabad **<big>[[H0443|אֶלְזָבָד]]</big>** and Elihu **<big>[[H0453|אֱלִיהוּ]]</big>**.
 
 Semachiah is mentioned in [[1Chr.26.7|1 Chronicles 26:7]] as one of the sons of Shemaiah, who was a descendant of Obed-Edom. Obed-Edom and his descendants were entrusted with the responsibility of serving as gatekeepers in the temple during the reign of King David. Semachiah, along with his brothers, who were described as capable men with strength for the service, were assigned the task of guarding the temple entrances. The gatekeepers played a crucial role in maintaining the sanctity and security of the temple. They ensured that only authorized individuals entered the sacred premises and that the temple remained protected from any potential threats.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Semachiah | [<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>כ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>הו</span>ּ](H5565) | 1x | [1Ch.26.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Semachiah\*\|reference=1Ch.26.7) |
+
 All entries for **Semachiah**:  **<big>[[H5565|סְמַכְיָהוּ]]</big>**
+
 #### Related Profiles:
 - **[Shemaiah](H8098I)** (father)
 - **[Othni](H6273)** (sibling)

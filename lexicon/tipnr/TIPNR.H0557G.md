@@ -8,12 +8,10 @@ Levite living at the time of Divided Monarchy
 - a son of Bani **<big>[[H1137|בָּנִי]]</big>**; 
 -  father of Hilkiah **<big>[[H2518|חִלְקִיָּה]]</big>**.
 
-Amzi was a Levite who belonged to the family of Merari, one of the three main divisions of the Levites. He is mentioned in the genealogy of the Levites in 1 Chronicles 6. As a descendant of Merari, Amzi would have been responsible for the musical duties in the temple, such as singing and playing instruments during worship services.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Amzi | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>צ</span>ִ<span class='tipnrLangHebrew'>י</span>](H0557G) | 1x | [1Ch.6.46 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amzi\*\|reference=1Ch.6.46) |
+Amzi was a Levite who belonged to the family of Merari, one of the three main divisions of the Levites. He is mentioned in the genealogy of the Levites in [[1Chr.6|1 Chronicles 6]]. As a descendant of Merari, Amzi would have been responsible for the musical duties in the temple, such as singing and playing instruments during worship services.
+
 All entries for **Amzi**:  **<big>[[H0557|אַמְצִי]]</big>**
+
 #### Related Profiles:
 - **[Bani](H1137H)** (father)
 - **[Hilkiah](H2518I)** (child)

@@ -7,8 +7,5 @@ Man living at the time of Exile and Return
 - only referred to as Hashum **<big>[[H2828|חָשֻׁם]]</big>**.
 
 Hashum is mentioned in the book of Nehemiah as one of the men who stood with Ezra the scribe during the public reading of the Law. This event took place after the completion of Jerusalem's wall when the people gathered to hear the Law read and explained. Hashum, along with several other men, stood on a wooden platform with Ezra as he read from the Book of the Law of Moses. This event marked a significant moment of spiritual renewal for the people of Israel. \([[Neh.8.4|Neh.8.4]]\).
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Hashum | [<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ש</span>ֻׁ<span class='tipnrLangHebrew'>ם</span>](H2828H) | 1x | [Neh.8.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hashum\*\|reference=Neh.8.4) |
+
 All entries for **Hashum**:  **<big>[[H2828|חָשֻׁם]]</big>**

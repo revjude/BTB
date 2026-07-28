@@ -7,8 +7,5 @@ Man living at the time of Divided Monarchy
 - only referred to as Hezir **<big>[[H2387|חֵזִיר]]</big>**.
 
 Hezir is mentioned in [[1Chr.24.15|1 Chronicles 24:15]] as a priest during the reign of King David. He was the head of the 17th division of the priestly service, which was established by David when he organized the priests into 24 divisions for their service in the temple. Each division was responsible for serving in the temple for a week at a time, twice a year.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Hezir | [<span class='tipnrLangHebrew'>ח</span>ֵ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>יר</span>](H2387G) | 1x | [1Ch.24.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hezir\*\|reference=1Ch.24.15) |
+
 All entries for **Hezir**:  **<big>[[H2387|חֵזִיר]]</big>**

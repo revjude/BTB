@@ -2,13 +2,11 @@
 
 The <span class='tipnrhighlight'>Foundation Gate</span>, a gate in Jerusalem's wall, where a third of the Levite singers were positioned during the coronation of Joash.
 - A location in Jerusalem **<big>[[H3389|יְרוּשָׁלַ͏ִם]]</big>** only mentioned at [[2Chr.23.5|2Ch.23.5]]; 
-- only referred to as Foundation\_Gate **<big>[[H3247|יְסוֹד]]</big>**.
-<br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
+- only referred to as Foundation\_Gate **<big>[[H3247|יְסוֹד]]</big>**.<br>
+
+<iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.777444,35.234935&zoom=10&maptype=satellite"></iframe>
 
 
 The Foundation Gate is mentioned in [[2Chr.23.5|2 Chronicles 23:5]] as one of the locations where Levite singers were stationed during the coronation of Joash, the young king of Judah. This event took place during the reign of Athaliah, who had usurped the throne after the death of her son, Ahaziah.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| (Gate of the )Foundation | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>סו</span>ֹ<span class='tipnrLangHebrew'>ד</span>](H3247G) | 1x | [2Ch.23.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Foundation\*\|reference=2Ch.23.5) |
+
 All entries for **Foundation Gate**:  **<big>[[H3247|יְסוֹד]]</big>**

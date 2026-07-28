@@ -10,14 +10,12 @@ Man living at the time of Divided Monarchy
 
 Adaiah is briefly mentioned in the genealogy of the tribe of Benjamin \([[1Chr.8.21|1 Chronicles 8:21]]\). He is listed as one of the sons of Shimei, who was a descendant of Benjamin through his son Bela. 
 
-The genealogy in 1 Chronicles 8 traces the lineage of Benjamin, providing a detailed account of his descendants. The mention of Adaiah within this context serves to highlight the family lines within the tribe of Benjamin. 
+The genealogy in [[1Chr.8|1 Chronicles 8]] traces the lineage of Benjamin, providing a detailed account of his descendants. The mention of Adaiah within this context serves to highlight the family lines within the tribe of Benjamin. 
 
 No further information is given about Adaiah's life, his role within the family, or any significant events associated with him. His inclusion in the genealogy primarily serves to provide a comprehensive record of Benjamin's descendants and to establish the lineage of the tribe.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Adaiah | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H5718H) | 1x | [1Ch.8.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adaiah\*\|reference=1Ch.8.21) |
+
 All entries for **Adaiah**:  **<big>[[H5718|עֲדָיָה]]</big>**
+
 #### Related Profiles:
 - **[Shimei](H8096N)** (father)
 - **[Jakim](H3356G)** (sibling)

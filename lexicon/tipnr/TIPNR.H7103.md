@@ -12,14 +12,12 @@ Keziah is mentioned in [[Job.42.14|Job 42:14]] as the name of Job's second daugh
 
 The context of Keziah's mention is the conclusion of the Book of Job, where God blessed Job abundantly after his period of suffering and testing. Job's restoration included not only material wealth but also a new family. He had seven sons and three daughters, and Keziah was the second of the daughters. 
 
-The Bible notes that Job's daughters were the most beautiful in all the land, and he gave them an inheritance along with their brothers \(Job 42:15\). This was unusual in ancient Near Eastern culture and demonstrates Job's love and respect for his daughters. 
+The Bible notes that Job's daughters were the most beautiful in all the land, and he gave them an inheritance along with their brothers \([[Job.42.15|Job 42:15]]\). This was unusual in ancient Near Eastern culture and demonstrates Job's love and respect for his daughters. 
 
 The mention of Keziah and her sisters highlights the completeness of Job's restoration and the blessing of family in his life after enduring great trials. It also emphasizes the value and dignity given to women in this narrative.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Keziah (KJV= Kezia) | [<span class='tipnrLangHebrew'>ק</span>ְ<span class='tipnrLangHebrew'>צ</span>ִ<span class='tipnrLangHebrew'>יע</span>ָ<span class='tipnrLangHebrew'>ה</span>](H7103) | 1x | [Job.42.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Keziah\*\|reference=Job.42.14) |
+
 All entries for **Keziah**:  **<big>[[H7103|קְצִיעָה]]</big>**
+
 #### Related Profiles:
 - **[Job](H0347)** (father)
 - **[Jemimah](H3224)** (sibling)

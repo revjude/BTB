@@ -8,12 +8,9 @@ Priest living at the time of Divided Monarchy
 - a son of Jehoiada **<big>[[H3077|יְהוֹיָדָע]]</big>**.
 
 Zechariah was the son of Jehoiada the priest during the reign of Joash, king of Judah. After the death of Jehoiada, Joash listened to the princes of Judah and they abandoned the house of the Lord. Zechariah was filled with the Spirit of God and stood above the people, admonishing them for forsaking God. However, the people conspired against Zechariah and, at the king's command, stoned him to death in the court of the temple. Jesus later references the murder of Zechariah, son of Berechiah \(likely referring to Jehoiada\), as an example of the persecution of the prophets.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Zechariah | [<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>כ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>הו</span>ּ](H2148w) | 1x | [2Ch.24.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zechariah\*\|reference=2Ch.24.20) |
-| Zechariah (KJV= Zacharias) | [<span class='tipnrLangGreek'>Ζαχαρίας</span>](G2197G) | 2x | [[Mat.23.35] & [Luk.11.51] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zechariah\*\|reference=Mat.23.35;Luk.11.51) |
+
 All entries for **Zechariah**:  **<big>[[H2148|זְכַרְיָה]]</big>** ☩  **<big>[[G2197|Ζαχαρίας]]</big>**
+
 #### Related Profiles:
 - **[Jehoiada](H3077H)** (father)
 - **[Jehosheba](H3089)** (mother)

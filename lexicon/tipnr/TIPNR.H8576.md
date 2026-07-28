@@ -8,10 +8,8 @@ Man living at the time of Divided Monarchy
 -  father of Seraiah **<big>[[H8304|שְׂרָיָה]]</big>**.
 
 Tanhumeth the Netophathite is mentioned in [[2Kgs.25.23|2 Kings 25:23]] and [[Jer.40.8|Jeremiah 40:8]] as one of the leaders of the forces who came to Gedaliah at Mizpah after the fall of Jerusalem. Along with Ishmael, Johanan, Seraiah, and the sons of Ephai, Tanhumeth supported Gedaliah, whom the Babylonians had appointed governor over Judah.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Tanhumeth | [<span class='tipnrLangHebrew'>ת</span>ַּ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ח</span>ֻ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ת</span>](H8576) | 2x | [[2Ki.25.23] & [Jer.40.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tanhumeth\*\|reference=2Ki.25.23;Jer.40.8) |
+
 All entries for **Tanhumeth**:  **<big>[[H8576|תַּנְחֻמֶת]]</big>**
+
 #### Related Profiles:
 - **[Seraiah](H8304I)** (child)

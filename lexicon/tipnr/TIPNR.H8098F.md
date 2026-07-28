@@ -13,12 +13,9 @@ Shemaiah, also known as Shammua, was a Levite who lived in Jerusalem after the B
 According to [[1Chr.9.16|1 Chronicles 9:16]], Shemaiah was the son of Galal, the son of Jeduthun. He served as a gatekeeper for the Levites, responsible for guarding the entrances to the temple precincts. The Nehemiah passage provides additional information, stating that Shemaiah was the son of Galal, the son of Jeduthun, and that he was the second among his brothers to give thanks in prayer. This suggests that Shemaiah also had a role in leading worship and singing psalms in the temple. 
 
 The presence of Levites like Shemaiah in Jerusalem was crucial for maintaining the temple services and the spiritual life of the community after the exile. However, no further details are provided about Shemaiah's specific contributions or the duration of his service.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Shemaiah | [<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ע</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H8098F) | 1x | [1Ch.9.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shemaiah\*\|reference=1Ch.9.16) |
-| Shammua | [<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>מ</span>ּ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ַ](H8051J) | 1x | [Neh.11.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shammua\*\|reference=Neh.11.17) |
+
 All entries for **Shemaiah or Shammua**:  **<big>[[H8098|שְׁמַעְיָה]]</big>** ☩  **<big>[[H8051|שַׁמּוּעַ]]</big>**
+
 #### Related Profiles:
 - **[Galal](H1559H)** (father)
 - **[Obadiah](H5662K)** (child)

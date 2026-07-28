@@ -8,11 +8,9 @@ Man living at the time of Divided Monarchy
 -  father of Ziph **<big>[[H2128|זִיף]]</big>**, Ziphah **<big>[[H2129|זִיפָה]]</big>**, Tiria **<big>[[H8493|תִּירְיָא]]</big>**, Asarel **<big>[[H0840|אֲשַׂרְאֵל]]</big>**.
 
 Jehallelel is briefly mentioned in [[1Chr.4.16|1 Chronicles 4:16]] as one of the sons of Elah, who was a descendant of Judah. The genealogy in this chapter traces the lineage of some of the clans and families within the tribe of Judah. Jehallelel is listed along with his brothers Ziph, Ziphah, Tiria, and Asarel. No further information is provided about Jehallelel's life, his occupation, or his role within the clan. The mention of his name in this genealogical record serves to document the family lines and the descendants of Judah.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Jehallelel (KJV= Jehaleleel) | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>ה</span>ַ<span class='tipnrLangHebrew'>ל</span>ֶּ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3094G) | 1x | [1Ch.4.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jehallelel\*\|reference=1Ch.4.16) |
+
 All entries for **Jehallelel**:  **<big>[[H3094|יְהַלֶּלְאֵל]]</big>**
+
 #### Related Profiles:
 - **[Elah](H0425J)** (father)
 - **[Kenaz](H7073H)** (sibling)

@@ -2,7 +2,7 @@
 
 Levite living at the time of Exile and Return
 
-<span class='tipnrhighlight'>Joiarib</span> \(or Jehoiarib\) was a priestly family that returned from the Babylonian exile and settled in Jerusalem \([[Neh.11.10|Neh.11.10]]; 12.6,19; [[1Chr.9.10|1Ch.9.10]]\).
+<span class='tipnrhighlight'>Joiarib</span> \(or Jehoiarib\) was a priestly family that returned from the Babylonian exile and settled in Jerusalem \([[Neh.11.10|Neh.11.10]]; [[Neh.12.6|12.6]],[[Neh.12.19|19]]; [[1Chr.9.10|1Ch.9.10]]\).
 - A priest from the tribe of Levi  living at the time of Exile and Return, first mentioned at [[1Chr.9.10|1Ch.9.10]]; 
 - referred to as Joiarib **<big>[[H3114|יוֹיָרִיב]]</big>**, or Jehoiarib **<big>[[H3080|יְהוֹיָרִיב]]</big>**; 
 -  father of Jedaiah **<big>[[H3048|יְדַעְיָה]]</big>**.
@@ -14,11 +14,8 @@ Joiarib is also listed in [[Neh.12.6|Nehemiah 12:6]] as one of the priestly fami
 In [[Neh.12.19|Nehemiah 12:19]], Joiarib is mentioned again in the context of the organization of the priestly divisions during the time of Joiakim, the son of Jeshua. This indicates that the family of Joiarib continued to serve as priests in the restored temple and played a role in the religious leadership of the post-exilic Jewish community. 
 
 The repeated mentions of Joiarib in these genealogical and historical records emphasize the significance of this priestly family in the religious life of the Jews after the Babylonian exile. They were among those who helped to restore and maintain the temple worship and preserve the religious traditions of Israel.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Joiarib | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>יב</span>](H3114G) | 3x | [[Neh.11.10] ... [Neh.12.19] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joiarib\*\|reference=Neh.11.10;Neh.12.6;Neh.12.19) |
-| Jehoiarib | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>יב</span>](H3080H) | 1x | [1Ch.9.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jehoiarib\*\|reference=1Ch.9.10) |
+
 All entries for **Joiarib or Jehoiarib**:  **<big>[[H3114|יוֹיָרִיב]]</big>** ☩  **<big>[[H3080|יְהוֹיָרִיב]]</big>**
+
 #### Related Profiles:
 - **[Jedaiah](H3048G)** (child)

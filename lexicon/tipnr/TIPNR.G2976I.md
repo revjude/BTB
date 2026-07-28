@@ -7,12 +7,10 @@ The unnamed father of Mary, Martha and Lazarus, who lived in Bethany.
 - only referred to as father\_of\_Lazarus **<big>[[G2976|Λάζαρος]]</big>**; 
 -  unnamed father of: Martha **<big>[[G3136|Μάρθα]]</big>**, Mary **<big>[[G3137|Μαρία]]</big>** and Lazarus **<big>[[G2976|Λάζαρος]]</big>**.
 
-The father of Mary, Martha and Lazarus is mentioned only once in the Bible, in Luke 10:38-42. This passage records Jesus visiting the home of Martha in Bethany. It notes that Martha had a sister named Mary. John 11:1-2 specifies that Mary, Martha and Lazarus were siblings. Therefore, the unnamed man was the father of these three. No other details are provided about him in Scripture. He likely lived in Bethany along with his children.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| father\ of\ Lazarus | [.](G2976I) | 1x | [Luk.10.39 ⌕](https://www.stepbible.org/?q=reference=Luk.10.39) |
+The father of Mary, Martha and Lazarus is mentioned only once in the Bible, in [[Luke.10.38|Luke 10:38-42]]. This passage records Jesus visiting the home of Martha in Bethany. It notes that Martha had a sister named Mary. [[John.11.1|John 11:1-2]] specifies that Mary, Martha and Lazarus were siblings. Therefore, the unnamed man was the father of these three. No other details are provided about him in Scripture. He likely lived in Bethany along with his children.
+
 All entries for **father of Lazarus**:  **<big>[[G2976|Λάζαρος]]</big>**
+
 #### Related Profiles:
 - **[Martha](G3136)** (child)
 - **[Mary](G3137J)** (child)

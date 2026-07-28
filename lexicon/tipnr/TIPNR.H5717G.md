@@ -8,13 +8,10 @@ Man living at the time of Divided Monarchy
 
 Adiel is mentioned in [[1Chr.4.36|1 Chronicles 4:36]] as one of the leaders of the tribe of Simeon during the reign of King Hezekiah of Judah. He is listed among the Simeonites who attacked the Hamites and Meunites in the valley of Gedor, east of Gerar. 
 
-The Simeonites, led by Adiel and others, defeated the Hamites and Meunites, who had been living in the area. They completely destroyed them and settled in their lands because there was abundant pasture for their flocks \(1 Chronicles 4:39-41\). 
+The Simeonites, led by Adiel and others, defeated the Hamites and Meunites, who had been living in the area. They completely destroyed them and settled in their lands because there was abundant pasture for their flocks \([[1Chr.4.39|1 Chronicles 4:39-41]]\). 
 
-This event took place during the reign of Hezekiah, a godly king who initiated religious reforms in Judah \(2 Chronicles 29-31\). The Simeonites' victory and settlement in the new territory may have been a result of Hezekiah's efforts to strengthen and expand his kingdom. 
+This event took place during the reign of Hezekiah, a godly king who initiated religious reforms in Judah \([[2Chr.29|2 Chronicles 29-31]]\). The Simeonites' victory and settlement in the new territory may have been a result of Hezekiah's efforts to strengthen and expand his kingdom. 
 
 Apart from this brief account, no other details are provided about Adiel's life, family, or role within the tribe of Simeon. His mention in the narrative highlights the military success and territorial expansion of the Simeonites during Hezekiah's reign.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Adiel | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H5717G) | 1x | [1Ch.4.36 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adiel\*\|reference=1Ch.4.36) |
+
 All entries for **Adiel**:  **<big>[[H5717|עֲדִיאֵל]]</big>**

@@ -6,13 +6,10 @@ The ark of the covenant was placed on a rock in the field of <span class='tipnrh
 - A man living at the time of United Monarchy, first mentioned at [[1Sam.6.14|1Sa.6.14]]; 
 - only referred to as Joshua **<big>[[H3091|יְהוֹשׁוּעַ]]</big>**.
 
-Joshua is mentioned in [[1Sam.6.14|1 Samuel 6:14]] and 6:18 as a resident of Beth-shemesh, a town in Judah. The context of the passage is the return of the ark of the covenant to Israel after it had been captured by the Philistines \(1 Samuel 4-6\). The Philistines, afflicted by plagues because of the ark's presence, sent it back to Israel on a cart pulled by two cows \(1 Samuel 6:7-12\). 
+Joshua is mentioned in [[1Sam.6.14|1 Samuel 6:14]] and 6:18 as a resident of Beth-shemesh, a town in Judah. The context of the passage is the return of the ark of the covenant to Israel after it had been captured by the Philistines \([[1Sam.4|1 Samuel 4-6]]\). The Philistines, afflicted by plagues because of the ark's presence, sent it back to Israel on a cart pulled by two cows \([[1Sam.6.7|1 Samuel 6:7-12]]\). 
 
-The cart carrying the ark came to the field of Joshua in Beth-shemesh, where the people were reaping their wheat harvest \(1 Samuel 6:13\). The cows pulling the cart stopped beside a large rock in Joshua's field \([[1Sam.6.14|1 Samuel 6:14]]\). The people of Beth-shemesh then split up the wood of the cart and offered the cows as a burnt offering to the Lord \([[1Sam.6.14|1 Samuel 6:14]]\). 
+The cart carrying the ark came to the field of Joshua in Beth-shemesh, where the people were reaping their wheat harvest \([[1Sam.6.13|1 Samuel 6:13]]\). The cows pulling the cart stopped beside a large rock in Joshua's field \([[1Sam.6.14|1 Samuel 6:14]]\). The people of Beth-shemesh then split up the wood of the cart and offered the cows as a burnt offering to the Lord \([[1Sam.6.14|1 Samuel 6:14]]\). 
 
 The large rock in Joshua's field, where the ark was placed, is mentioned again in [[1Sam.6.18|1 Samuel 6:18]] as a marker or boundary stone.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Joshua | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ׁ<span class='tipnrLangHebrew'>ו</span>ּ<span class='tipnrLangHebrew'>ע</span>ַ](H3091H) | 2x | [[1Sa.6.14] & [1Sa.6.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joshua\*\|reference=1Sa.6.14;1Sa.6.18) |
+
 All entries for **Joshua**:  **<big>[[H3091|יְהוֹשׁוּעַ]]</big>**

@@ -11,11 +11,9 @@ Man living at the time of Divided Monarchy
 - father or founder of Zanoah **<big>[[H2182|זָנוֹחַ]]</big>**.
 
 Jekuthiel is mentioned in the genealogy of Judah in 1 Chronicles. He was the son of Mered, who was a descendant of Judah. Jekuthiel's mother was Jehudijah \(or the Judahite woman\), one of Mered's wives. Jekuthiel is described as the  father \(or founder\) of Zanoah, which probably refers to a town associated with his descendants.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Jekuthiel | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>קו</span>ּ<span class='tipnrLangHebrew'>ת</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3354) | 1x | [1Ch.4.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jekuthiel\*\|reference=1Ch.4.18) |
+
 All entries for **Jekuthiel**:  **<big>[[H3354|יְקוּתִיאֵל]]</big>**
+
 #### Related Profiles:
 - **[Mered](H4778)** (father)
 - **[Jehudijah](H3057)** (mother)

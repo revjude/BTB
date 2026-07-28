@@ -17,13 +17,9 @@ The territory allotted to Zebulun was in the northern part of Canaan, bordered b
 Notable members of the tribe of Zebulun include Elon, who judged Israel for ten years, and Ibzan of Bethlehem, who was buried in the territory of Zebulun. The prophet Jonah also hailed from Gath-hepher, a town within Zebulun's borders. 
 
 In the future distribution of the land described by Ezekiel, Zebulun is allocated a portion in the far north of Israel, with its boundaries stretching from the Mediterranean Sea to the Jordan River. The tribe of Zebulun is also mentioned in the book of Revelation as one of the twelve tribes sealed by God.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Zebulun | [<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>בו</span>ּ<span class='tipnrLangHebrew'>ל</span>ֻ<span class='tipnrLangHebrew'>ן</span>](H2074) | 45x | [[Gen.30.20] ... [Ezk.48.33] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zebulun\*\|reference=Gen.30.20;Gen.35.23;Gen.46.14;Gen.49.13;Exo.1.3;Num.1.9;Num.1.30;Num.1.31;Num.2.7;Num.2.7;Num.7.24;Num.10.16;Num.13.10;Num.26.26;Num.34.25;Deu.27.13;Deu.33.18;Deu.33.18;Jos.19.10;Jos.19.16;Jos.19.27;Jos.19.34;Jos.21.7;Jos.21.34;Jdg.1.30;Jdg.4.6;Jdg.4.10;Jdg.5.14;Jdg.5.18;Jdg.6.35;Jdg.12.12;1Ch.2.1;1Ch.6.63;1Ch.6.77;1Ch.12.33;1Ch.12.40;1Ch.27.19;2Ch.30.10;2Ch.30.11;2Ch.30.18) |
-| Zebulunite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>בו</span>ּ<span class='tipnrLangHebrew'>ל</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H2075) | 3x | [[Num.26.27] ... [Jdg.12.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zebulunite\*\|reference=Num.26.27;Jdg.12.11;Jdg.12.12) |
-| Zebulun (KJV= Zabulon) | [<span class='tipnrLangGreek'>Ζαβουλών</span>](G2194) | 3x | [[Mat.4.13] ... [Rev.7.8] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zebulun\*\|reference=Mat.4.13;Mat.4.15;Rev.7.8) |
+
 All entries for **Zebulun**:  **<big>[[H2074|זְבוּלוּן]]</big>** ☩  **<big>[[H2075|זְבוּלֹנִי]]</big>** ☩  **<big>[[G2194|Ζαβουλών]]</big>**
+
 #### Related Profiles:
 - **[Israel](H3478)** (father)
 - **[Leah](H3812)** (mother)

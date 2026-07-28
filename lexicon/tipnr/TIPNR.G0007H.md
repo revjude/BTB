@@ -8,10 +8,6 @@ Man living at the time of Divided Monarchy
 
 Abijah was the head of one of the twenty-four priestly divisions established during the reign of King David \([[1Chr.24.10|1 Chronicles 24:10]]\). These divisions were responsible for serving in the temple in rotation. The priests were divided into twenty-four groups, each headed by a leading priest, and they would serve in the temple for a week at a time, twice a year. 
 
-In the New Testament, Zechariah, the father of John the Baptist, is mentioned as belonging to the priestly division of Abijah \([[Luke.1.5|Luke 1:5]]\). This indicates that the priestly division named after Abijah continued to function even during the time of Jesus, several centuries after its establishment. Zechariah was serving in the temple when he received the announcement from the angel Gabriel that his wife Elizabeth would bear a son, John the Baptist, who would prepare the way for the Messiah \(Luke 1:8-17\).
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Abijah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H0029L) | 1x | [1Ch.24.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abijah\*\|reference=1Ch.24.10) |
-| Abijah (KJV= Abia) | [<span class='tipnrLangGreek'>Ἀβιά</span>](G0007H) | 1x | [Luk.1.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abijah\*\|reference=Luk.1.5) |
+In the New Testament, Zechariah, the father of John the Baptist, is mentioned as belonging to the priestly division of Abijah \([[Luke.1.5|Luke 1:5]]\). This indicates that the priestly division named after Abijah continued to function even during the time of Jesus, several centuries after its establishment. Zechariah was serving in the temple when he received the announcement from the angel Gabriel that his wife Elizabeth would bear a son, John the Baptist, who would prepare the way for the Messiah \([[Luke.1.8|Luke 1:8-17]]\).
+
 All entries for **Abijah**:  **<big>[[H0029|אֲבִיָּה]]</big>** ☩  **<big>[[G0007|Ἀβιά]]</big>**

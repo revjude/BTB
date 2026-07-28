@@ -13,10 +13,5 @@ In [[Ezra.2.40|Ezra 2:40]] and [[Neh.7.43|Nehemiah 7:43]], Hodaviah is listed am
 In [[Ezra.3.9|Ezra 3:9]], Hodaviah \(under the name Judah\) is mentioned as one of the Levites who assisted in laying the foundation of the temple. Along with his fellow Levites, Hodaviah played a crucial role in the rebuilding of the temple and the restoration of worship in Jerusalem. 
 
 The variations in the name \(Hodaviah, Hodevah, and Judah\) may indicate different spellings or pronunciations used in the biblical text, but they all refer to the same individual.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Hodaviah | [<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ַ<span class='tipnrLangHebrew'>ו</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1938J) | 1x | [Ezr.2.40 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hodaviah\*\|reference=Ezr.2.40) |
-| Hodevah | [<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H1937) | 1x | [Neh.7.43 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hodevah\*\|reference=Neh.7.43) |
-| Judah (NIV= Hodaviah) | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>הו</span>ּ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3063L) | 1x | [Ezr.3.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Judah\*\|reference=Ezr.3.9) |
+
 All entries for **Hodaviah or Hodevah or Judah**:  **<big>[[H1938|הוֹדַוְיָה]]</big>** ☩  **<big>[[H1937|הוֹדְוָה]]</big>** ☩  **<big>[[H3063|יְהוּדָה]]</big>**

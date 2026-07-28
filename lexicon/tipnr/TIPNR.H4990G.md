@@ -15,8 +15,5 @@ Mithredath carried out the king's command and carefully counted the Temple artic
 As the treasurer, Mithredath held a position of great trust and responsibility in the Persian court. His involvement in the return of the Temple articles highlights the administrative role played by Persian officials in facilitating the restoration of Jewish life and worship in their homeland. 
 
 Although no further details are provided about Mithredath's life or career, his brief mention in the book of Ezra serves to underscore the significant political and logistical support provided by the Persian Empire in the early stages of the Jewish return from exile.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Mithredath | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ת</span>ְ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ת</span>](H4990G) | 1x | [Ezr.1.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mithredath\*\|reference=Ezr.1.8) |
+
 All entries for **Mithredath**:  **<big>[[H4990|מִתְרְדָת]]</big>**

@@ -15,8 +15,5 @@ In [[Ezra.10.20|Ezra 10:20]], some of the descendants of Immer are mentioned amo
 The Immerites are also mentioned in [[Jer.20.1|Jeremiah 20:1]], where Pashhur, the son of Immer, is identified as a priest and a temple official. Pashhur had Jeremiah beaten and put in stocks for prophesying against Jerusalem and the temple. This incident highlights the tension between the prophetic message and the religious establishment during the time of Jeremiah. 
 
 The repeated mention of the Immerites in various contexts throughout the Old Testament suggests that they were a significant priestly family that played a role in the religious life of Israel, both before and after the Babylonian exile. As priests, they would have been responsible for conducting temple services, offering sacrifices, and teaching the people the Law of God.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Immer | [<span class='tipnrLangHebrew'>א</span>ִ<span class='tipnrLangHebrew'>מ</span>ֵּ<span class='tipnrLangHebrew'>ר</span>](H0564H) | 5x | [[1Ch.24.14] ... [Jer.20.1] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Immer\*\|reference=1Ch.24.14;Ezr.2.37;Ezr.10.20;Neh.7.40;Jer.20.1) |
+
 All entries for **Immer**:  **<big>[[H0564|אִמֵּר]]</big>**

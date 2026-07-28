@@ -6,15 +6,12 @@ King living before Israel's Monarchy
 - A king in Canaan living before Israel's Monarchy, only mentioned at [[Josh.10.3|Jos.10.3]]; 
 - only referred to as Hoham **<big>[[H1944|הוֹהָם]]</big>**.
 
-Hoham was the Amorite king of Hebron during the time of Joshua's conquest of Canaan, as mentioned in [[Josh.10.3|Joshua 10:3]]. When the Gibeonites made a peace treaty with Israel, Hoham formed an alliance with four other Amorite kings—Adoni-Zedek of Jerusalem, Piram of Jarmuth, Japhia of Lachish, and Debir of Eglon—to attack Gibeon \(Joshua 10:1-5\). 
+Hoham was the Amorite king of Hebron during the time of Joshua's conquest of Canaan, as mentioned in [[Josh.10.3|Joshua 10:3]]. When the Gibeonites made a peace treaty with Israel, Hoham formed an alliance with four other Amorite kings—Adoni-Zedek of Jerusalem, Piram of Jarmuth, Japhia of Lachish, and Debir of Eglon—to attack Gibeon \([[Josh.10.1|Joshua 10:1-5]]\). 
 
-In response to the Gibeonites' request for help, Joshua and the Israelite army marched through the night and launched a surprise attack on the Amorite forces. With the help of God, who sent large hailstones and caused the sun to stand still, the Israelites defeated the Amorite kings and their armies \(Joshua 10:6-11\). 
+In response to the Gibeonites' request for help, Joshua and the Israelite army marched through the night and launched a surprise attack on the Amorite forces. With the help of God, who sent large hailstones and caused the sun to stand still, the Israelites defeated the Amorite kings and their armies \([[Josh.10.6|Joshua 10:6-11]]\). 
 
-The five Amorite kings, including Hoham, fled and hid in a cave at Makkedah. Joshua ordered the cave to be sealed until the battle was finished. After the victory, the kings were brought out of the cave, and Joshua instructed his commanders to put their feet on the kings' necks, symbolizing their complete defeat. The kings were then executed and hanged on trees until evening \(Joshua 10:16-27\). 
+The five Amorite kings, including Hoham, fled and hid in a cave at Makkedah. Joshua ordered the cave to be sealed until the battle was finished. After the victory, the kings were brought out of the cave, and Joshua instructed his commanders to put their feet on the kings' necks, symbolizing their complete defeat. The kings were then executed and hanged on trees until evening \([[Josh.10.16|Joshua 10:16-27]]\). 
 
 Hoham's story illustrates the power and faithfulness of God in fulfilling His promise to give the Israelites the land of Canaan. It also demonstrates the consequences of opposing God's people and the ultimate victory of those who trust in Him.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Hoham | [<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>ם</span>](H1944) | 1x | [Jos.10.3 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hoham\*\|reference=Jos.10.3) |
+
 All entries for **Hoham**:  **<big>[[H1944|הוֹהָם]]</big>**

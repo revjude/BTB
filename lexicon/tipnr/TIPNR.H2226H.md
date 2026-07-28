@@ -7,11 +7,9 @@ King living at the time of the Patriarchs
 - only referred to as Zerah **<big>[[H2226|זֶרַח]]</big>**; 
 -  father of Jobab **<big>[[H3103|יוֹבָב]]</big>**.
 
-Zerah was a king of Edom, mentioned in the lists of Edomite kings in Genesis 36 and 1 Chronicles 1. He was from the city of Bozrah, an important Edomite center. The list of kings in which Zerah appears is chronologically placed before the time of Israel's monarchy, indicating that he ruled during the period of the judges. The Edomites were the descendants of Esau who settled in the region of Seir.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Zerah | [<span class='tipnrLangHebrew'>ז</span>ֶ֫<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ח</span>](H2226H) | 2x | [[Gen.36.33] & [1Ch.1.44] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zerah\*\|reference=Gen.36.33;1Ch.1.44) |
+Zerah was a king of Edom, mentioned in the lists of Edomite kings in [[Gen.36|Genesis 36]] and [[1Chr.1|1 Chronicles 1]]. He was from the city of Bozrah, an important Edomite center. The list of kings in which Zerah appears is chronologically placed before the time of Israel's monarchy, indicating that he ruled during the period of the judges. The Edomites were the descendants of Esau who settled in the region of Seir.
+
 All entries for **Zerah**:  **<big>[[H2226|זֶרַח]]</big>**
+
 #### Related Profiles:
 - **[Jobab](H3103H)** (child)

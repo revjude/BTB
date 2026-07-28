@@ -1,3 +1,5 @@
+## The BTB is now online at https://bruhman.bible
+
 ## Bruhman Translator's Bible (BTB)
 
 A Bible compiled in Markdown for the [Obsidian](https://obsidian.md) platform. This Bible provides English-speaking users access to study the scriptures in their original Greek and Hebrew.
@@ -10,9 +12,6 @@ This Bible can be studied individually or in a group setting.
 This work builds on the efforts of many scholars, theologians, and scribes whose painstaking digitization, analysis, and correction of ancient publications began years before modern tools made such tasks easier. The groups and individuals listed in the [Acknowledgments](#acknowledgments) section below generously made their work freely available and provided the foundation for this project.
 
 **Important:** Initial setup requires patience. After cloning the repository or downloading the archive of almost 150,000 individual "notes", it takes Obsidian up to an hour to build a database and index all the connections. Once complete, navigation is quick.  In spite of the wait, it's still faster than same-day Prime, and it's free.
-
-![Animated Intro](/lexicon/views/BTB.gif)
-
 #### Interlinear Verses with Translation Notes
 
 ![Verse View](/lexicon/views/TranslatorsNotes.PNG)
@@ -34,11 +33,6 @@ Search over 20,000 topics and sub-topics
 ![Chapter View](/lexicon/views/Concordance1.PNG)
 More than 100,000 cross-references
 ![Chapter View](/lexicon/views/Concordance2.PNG)
-
-#### Powerful Bible and Lexicon Search Capabilities
-
-![Bible Search](/lexicon/views/Search.gif)
-
 ## Features
 
 - **Chapter View**: Full chapters from the majority text with Jesus' words in red letters, pericope headings with cross-references, and over 500,000 footnotes

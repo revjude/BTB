@@ -8,12 +8,10 @@ David's brother living at the time of United Monarchy
 -  son of Jesse **<big>[[H3448|יִשַׁי]]</big>**; 
 - a brother of David **<big>[[H1732|דָּוִד]]</big>**, Eliab **<big>[[H0446|אֱלִיאָב]]</big>**, Abinadab **<big>[[H0041|אֲבִינָדָב]]</big>**, Shimeah **<big>[[H8093|שִׁמְעָה]]</big>**, Nethanel **<big>[[H5417|נְתַנְאֵל]]</big>**, Raddai **<big>[[H7288|רַדַּי]]</big>**, Zeruiah **<big>[[H6870|צְרוּיָה]]</big>**, Abigail **<big>[[H0026|אֲבִיגַיִל]]</big>** and Elihu **<big>[[H0453|אֱלִיהוּ]]</big>**.
 
-Ozem was one of the sons of Jesse and a brother of King David \([[1Chr.2.15|1 Chronicles 2:15]]\). He is mentioned in the genealogy of Judah, which lists the descendants of Jesse. Ozem is named as the sixth son of Jesse, with his brothers being Eliab, Abinadab, Shimea, Nethanel, Raddai, and David \(1 Chronicles 2:13-15\). The genealogy in 1 Chronicles 2 provides insight into the family background of David, Israel's most famous king. However, no further details about Ozem's life or role are provided in the Bible.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Ozem | [<span class='tipnrLangHebrew'>א</span>ֹ֫<span class='tipnrLangHebrew'>צ</span>ֶ<span class='tipnrLangHebrew'>ם</span>](H0684G) | 1x | [1Ch.2.15 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ozem\*\|reference=1Ch.2.15) |
+Ozem was one of the sons of Jesse and a brother of King David \([[1Chr.2.15|1 Chronicles 2:15]]\). He is mentioned in the genealogy of Judah, which lists the descendants of Jesse. Ozem is named as the sixth son of Jesse, with his brothers being Eliab, Abinadab, Shimea, Nethanel, Raddai, and David \([[1Chr.2.13|1 Chronicles 2:13-15]]\). The genealogy in [[1Chr.2|1 Chronicles 2]] provides insight into the family background of David, Israel's most famous king. However, no further details about Ozem's life or role are provided in the Bible.
+
 All entries for **Ozem**:  **<big>[[H0684|אֹצֶם]]</big>**
+
 #### Related Profiles:
 - **[Jesse](H3448)** (father)
 - **[Nahash](H5176I)** (mother)

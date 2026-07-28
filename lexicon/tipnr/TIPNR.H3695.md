@@ -9,11 +9,9 @@ The <span class='tipnrhighlight'>Casluhim</span>, descendants of Mizraim, were t
 -  progenitors of the Philistine **<big>[[H6430|פְּלִשְׁתִּי]]</big>**.
 
 The Casluhim are mentioned in [[Gen.10.14|Genesis 10:14]] and [[1Chr.1.12|1 Chronicles 1:12]] as descendants of Mizraim, who was a son of Ham and grandson of Noah. They are listed among the peoples who descended from Egypt \(Mizraim is the Hebrew name for Egypt\). According to [[Gen.10.14|Genesis 10:14]], the Casluhim were the ancestors of the Philistines, a prominent enemy of the Israelites in the Old Testament. The Philistines are known to have migrated from the region of the Aegean Sea to the coastal plain of Canaan, where they established a powerful confederation of city-states. The connection between the Casluhim and the Philistines suggests a possible Egyptian origin or influence on the Philistine people. However, the exact nature of this relationship is not clearly defined in the biblical text.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Casluhim (NIV= Kasluhites) <small>*(group)*</small> | [<span class='tipnrLangHebrew'>כ</span>ַּ<span class='tipnrLangHebrew'>ס</span>ְ<span class='tipnrLangHebrew'>ל</span>ֻ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ים</span>](H3695) | 2x | [[Gen.10.14] & [1Ch.1.12] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Casluhim\*\|reference=Gen.10.14;1Ch.1.12) |
+
 All entries for **Casluhim**:  **<big>[[H3695|כַּסְלֻחִים]]</big>**
+
 #### Related Profiles:
 - **[Egypt](H4714H)** (father)
 - **[Ludim](H3866G)** (sibling)

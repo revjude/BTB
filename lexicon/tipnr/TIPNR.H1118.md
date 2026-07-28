@@ -8,12 +8,10 @@ Man living before Israel's Monarchy
 -  son of Japhlet **<big>[[H3310|יַפְלֵט]]</big>**; 
 - a brother of Pasach **<big>[[H6457|פָּסַךְ]]</big>** and Ashvath **<big>[[H6220|עַשְׁוָת]]</big>**.
 
-Bimhal is mentioned in the genealogy of the tribe of Asher as a son of Japhlet \(1 Ch. 7:33\). Asher was one of the twelve sons of Israel \(or 'Jacob'\) and the founder of the tribe that bore his name. No further details about Bimhal's life or role are provided in the biblical text. His inclusion in the genealogy highlights the importance of family lineage and the preservation of ancestral records among the Israelites, particularly within the tribe of Asher.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Bimhal | [<span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ה</span>ָ<span class='tipnrLangHebrew'>ל</span>](H1118) | 1x | [1Ch.7.33 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Bimhal\*\|reference=1Ch.7.33) |
+Bimhal is mentioned in the genealogy of the tribe of Asher as a son of Japhlet \([[1Chr.7.33|1 Ch. 7:33]]\). Asher was one of the twelve sons of Israel \(or 'Jacob'\) and the founder of the tribe that bore his name. No further details about Bimhal's life or role are provided in the biblical text. His inclusion in the genealogy highlights the importance of family lineage and the preservation of ancestral records among the Israelites, particularly within the tribe of Asher.
+
 All entries for **Bimhal**:  **<big>[[H1118|בִּמְהָל]]</big>**
+
 #### Related Profiles:
 - **[Japhlet](H3310)** (father)
 - **[Pasach](H6457)** (sibling)

@@ -18,11 +18,9 @@ After the conquest of Canaan under Joshua, the Amorites were among the groups th
 The Amorites are mentioned throughout the historical books of the Old Testament as one of the primary enemies of Israel. Their presence in the land was a result of the Israelites' disobedience to God's command to completely remove them. 
 
 The prophets Ezekiel and Amos also refer to the Amorites, using them as an example of the wickedness that Israel had adopted. The complete destruction of the Amorites was a sign of God's judgment against their sinful practices.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Amorite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>א</span>ֱ<span class='tipnrLangHebrew'>מ</span>ֹ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>](H0567) | 87x | [[Gen.10.16] ... [Amo.2.10] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amorite\*\|reference=Gen.10.16;Gen.14.7;Gen.14.13;Gen.15.16;Gen.15.21;Gen.48.22;Exo.3.8;Exo.3.17;Exo.13.5;Exo.23.23;Exo.33.2;Exo.34.11;Num.13.29;Num.21.13;Num.21.13;Num.21.21;Num.21.25;Num.21.26;Num.21.29;Num.21.31;Num.21.32;Num.21.34;Num.22.2;Num.32.33;Num.32.39;Deu.1.4;Deu.1.7;Deu.1.19;Deu.1.20;Deu.1.27;Deu.1.44;Deu.2.24;Deu.3.2;Deu.3.8;Deu.3.9;Deu.4.46;Deu.4.47;Deu.7.1;Deu.20.17;Deu.31.4) |
+
 All entries for **Amorites**:  **<big>[[H0567|אֱמֹרִי]]</big>**
+
 #### Related Profiles:
 - **[Canaan](H3667G)** (father)
 - **[Sidon](H6721G)** (sibling)

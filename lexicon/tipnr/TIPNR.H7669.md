@@ -10,11 +10,9 @@ Man living at the time of Egypt and Wilderness
 -  half-brother of: Hur **<big>[[H2354|חוּר]]</big>**, Jesher **<big>[[H3475|יֵשֶׁר]]</big>**, Shobab **<big>[[H7727|שׁוֹבָב]]</big>**, Ardon **<big>[[H0715|אַרְדּוֹן]]</big>**, Mesha **<big>[[H4337|מֵישָׁע]]</big>**, Haran **<big>[[H2771|חָרָן]]</big>**, Moza **<big>[[H4162|מוֹצָא]]</big>**, Gazez **<big>[[H1495|גָּזֵז]]</big>** and Achsah **<big>[[H5915|עַכְסָה]]</big>**.
 
 Sheber, mentioned in [[1Chr.2.48|1 Chronicles 2:48]], was one of the sons of Caleb, a prominent figure in the tribe of Judah, born to his concubine Maacah. Sheber is listed among Caleb's descendants in the genealogy of Judah, which traces the lineage of the tribe from its early ancestors. The text does not provide any further details about Sheber's life, his role within the tribe, or any specific achievements. His mention in the genealogy serves to highlight the importance of family lineage and the recording of descendants in the biblical narrative. The inclusion of Sheber, along with his brothers, in the list of Caleb's sons born to his concubine Maacah, also sheds light on the social and familial practices of the time, where it was not uncommon for men to have multiple wives and concubines.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Sheber | [<span class='tipnrLangHebrew'>ש</span>ֶׁ֫<span class='tipnrLangHebrew'>ב</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H7669) | 1x | [1Ch.2.48 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sheber\*\|reference=1Ch.2.48) |
+
 All entries for **Sheber**:  **<big>[[H7669|שֶׁבֶר]]</big>**
+
 #### Related Profiles:
 - **[Caleb](H3612H)** (father)
 - **[Maacah](H4601L)** (mother)

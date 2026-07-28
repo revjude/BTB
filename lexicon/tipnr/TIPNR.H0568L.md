@@ -6,17 +6,14 @@ Man living at the time of Exile and Return
 - A man living at the time of Exile and Return, only mentioned at [[Ezra.10.42|Ezr.10.42]]; 
 - only referred to as Amariah **<big>[[H0568|אֲמַרְיָה]]</big>**.
 
-Amariah is mentioned in the context of Ezra's reforms in Jerusalem after the return from the Babylonian exile. Ezra, a priest and scribe, was deeply troubled upon learning that many Israelites, including priests and Levites, had intermarried with the neighboring peoples and adopted their practices. \(Ezr.9.1-2\) 
+Amariah is mentioned in the context of Ezra's reforms in Jerusalem after the return from the Babylonian exile. Ezra, a priest and scribe, was deeply troubled upon learning that many Israelites, including priests and Levites, had intermarried with the neighboring peoples and adopted their practices. \([[Ezra.9.1|Ezr.9.1-2]]\) 
 
-Ezra saw this intermarriage as a violation of God's commands and a threat to the purity and identity of the Israelite community. He prayed and confessed the sins of the people, acknowledging their unfaithfulness to God. \(Ezr.9.3-15\). 
+Ezra saw this intermarriage as a violation of God's commands and a threat to the purity and identity of the Israelite community. He prayed and confessed the sins of the people, acknowledging their unfaithfulness to God. \([[Ezra.9.3|Ezr.9.3-15]]\). 
 
-In response to Ezra's prayer, the people assembled and agreed to make a covenant with God to put away their foreign wives and children. \(Ezr.10.1-5\) A proclamation was issued, calling all the exiles to gather in Jerusalem, and those who refused to come would forfeit their property and be excluded from the community. \(Ezr.10.6-8\) 
+In response to Ezra's prayer, the people assembled and agreed to make a covenant with God to put away their foreign wives and children. \([[Ezra.10.1|Ezr.10.1-5]]\) A proclamation was issued, calling all the exiles to gather in Jerusalem, and those who refused to come would forfeit their property and be excluded from the community. \([[Ezra.10.6|Ezr.10.6-8]]\) 
 
 Amariah is listed among the Israelites who had married foreign women and pledged to put them away. \([[Ezra.10.42|Ezr.10.42]]\) This action was part of a larger effort to purify the community and restore obedience to God's laws. 
 
 The mention of Amariah in this context highlights the importance of maintaining the purity and identity of the Israelite community, especially in the face of foreign influences.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Amariah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0568L) | 1x | [Ezr.10.42 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amariah\*\|reference=Ezr.10.42) |
+
 All entries for **Amariah**:  **<big>[[H0568|אֲמַרְיָה]]</big>**

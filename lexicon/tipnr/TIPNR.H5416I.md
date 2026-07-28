@@ -17,11 +17,9 @@ Apart from being listed among David's mighty men and being identified as Joel's 
 The mighty men were known for their extraordinary feats in battle and their unwavering devotion to King David. They played a significant role in helping David consolidate his power and expand his kingdom, facing numerous challenges and enemies along the way. 
 
 Although details about Nathan's life and achievements are limited, his presence among David's mighty men highlights the importance of these warriors in the establishment and defense of the Israelite monarchy under David's leadership.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Nathan | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ת</span>ָ<span class='tipnrLangHebrew'>ן</span>](H5416I) | 2x | [[2Sa.23.36] & [1Ch.11.38] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nathan\*\|reference=2Sa.23.36;1Ch.11.38) |
+
 All entries for **Nathan**:  **<big>[[H5416|נָתָן]]</big>**
+
 #### Related Profiles:
 - **[father_of_Nathan](H5416M)** (father)
 - **[Joel](H3100M)** (sibling)

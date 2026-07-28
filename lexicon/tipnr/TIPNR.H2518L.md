@@ -11,8 +11,5 @@ Hilkiah is mentioned in [[Neh.12.7|Nehemiah 12:7]] and 12:21 as one of the pries
 In [[Neh.12.7|Nehemiah 12:7]], Hilkiah is recorded as one of the chief priests during the time of Jeshua, suggesting that he held a leadership role among the priests. Later, in [[Neh.12.21|Nehemiah 12:21]], Hilkiah is mentioned again as one of the priests serving during the high priesthood of Joiakim, who was the son of Jeshua. 
 
 Hilkiah's presence in both lists indicates that he served as a priest in Jerusalem for an extended period, from the early days of the return from exile through the next generation of high priestly leadership. His service as a priest during this crucial time in Israel's history contributed to the restoration of temple worship and the spiritual renewal of the people after the Babylonian captivity.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Hilkiah | [<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>הו</span>ּ](H2518L) | 2x | [[Neh.12.7] & [Neh.12.21] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hilkiah\*\|reference=Neh.12.7;Neh.12.21) |
+
 All entries for **Hilkiah**:  **<big>[[H2518|חִלְקִיָּה]]</big>**

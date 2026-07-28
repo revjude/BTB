@@ -15,11 +15,9 @@ In the genealogy, Hod is identified as the son of Shamma, who was the son of Zop
 No other information is provided about Hod in the Bible, apart from his mention in this genealogy. The purpose of the genealogies in Chronicles was to establish the lineage and inheritance rights of the tribes and families of Israel, particularly in relation to their roles in religious and political leadership. 
 
 As a descendant of Asher, Hod would have been part of the tribe that settled in the coastal region of Canaan, north of Mount Carmel, after the Israelites conquered the Promised Land under the leadership of Joshua.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Hod | [<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ד</span>](H1936) | 1x | [1Ch.7.37 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hod\*\|reference=1Ch.7.37) |
+
 All entries for **Hod**:  **<big>[[H1936|הוֹד]]</big>**
+
 #### Related Profiles:
 - **[Zophah](H6690)** (father)
 - **[Suah](H5477)** (sibling)

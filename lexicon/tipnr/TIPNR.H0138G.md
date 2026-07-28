@@ -10,20 +10,18 @@ David's son living at the time of United Monarchy
 
 Adonijah was the fourth son of King David, born to him in Hebron \([[2Sam.3.4|2 Samuel 3:4]]; [[1Chr.3.2|1 Chronicles 3:2]]\). He was the son of Haggith and was born after Absalom, who had also rebelled against David. 
 
-When King David was old and frail, Adonijah exalted himself, declaring, "I will be king" \([[1Kgs.1.5|1 Kings 1:5]]\). He prepared chariots, horses, and fifty men to run before him, and he conferred with Joab, the commander of the army, and Abiathar the priest, who followed and supported him. However, he did not invite Nathan the prophet, Benaiah, the mighty men, or his brother Solomon to his coronation \([[1Kgs.1.7|1 Kings 1:7]]-10\). 
+When King David was old and frail, Adonijah exalted himself, declaring, "I will be king" \([[1Kgs.1.5|1 Kings 1:5]]\). He prepared chariots, horses, and fifty men to run before him, and he conferred with Joab, the commander of the army, and Abiathar the priest, who followed and supported him. However, he did not invite Nathan the prophet, Benaiah, the mighty men, or his brother Solomon to his coronation \([[1Kgs.1.7|1 Kings 1:7-10]]\). 
 
-Nathan, aware of Adonijah's actions, advised Bathsheba, Solomon's mother, to inform David and remind him of his oath to make Solomon king after him. David, upon hearing this, confirmed his choice of Solomon and ordered his anointing and proclamation as king \([[1Kgs.1.11|1 Kings 1:11]]-40\). 
+Nathan, aware of Adonijah's actions, advised Bathsheba, Solomon's mother, to inform David and remind him of his oath to make Solomon king after him. David, upon hearing this, confirmed his choice of Solomon and ordered his anointing and proclamation as king \([[1Kgs.1.11|1 Kings 1:11-40]]\). 
 
-When Adonijah and his supporters heard that Solomon had been anointed king, they fled in fear. Adonijah took hold of the horns of the altar, seeking protection. Solomon spared his life on the condition that he would show himself to be a worthy man \([[1Kgs.1.5|1 Kings 1:5]]0-53\). 
+When Adonijah and his supporters heard that Solomon had been anointed king, they fled in fear. Adonijah took hold of the horns of the altar, seeking protection. Solomon spared his life on the condition that he would show himself to be a worthy man \([[1Kgs.1.50|1 Kings 1:50-53]]\). 
 
-However, after David's death, Adonijah made a request through Bathsheba to be given Abishag the Shunammite, who had been David's companion in his old age, as his wife. Solomon perceived this request as a claim to the throne and ordered Benaiah to execute Adonijah \([[1Kgs.2.13|1 Kings 2:13]]-25\). 
+However, after David's death, Adonijah made a request through Bathsheba to be given Abishag the Shunammite, who had been David's companion in his old age, as his wife. Solomon perceived this request as a claim to the throne and ordered Benaiah to execute Adonijah \([[1Kgs.2.13|1 Kings 2:13-25]]\). 
 
 Adonijah's story serves as a warning against ambition and rebellion, highlighting the importance of submitting to God's chosen leadership and the consequences of seeking power through illegitimate means.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Adonijah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ד</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0138G) | 24x | [[2Sa.3.4] ... [1Ch.3.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adonijah\*\|reference=2Sa.3.4;1Ki.1.5;1Ki.1.7;1Ki.1.8;1Ki.1.9;1Ki.1.11;1Ki.1.13;1Ki.1.18;1Ki.1.24;1Ki.1.25;1Ki.1.41;1Ki.1.42;1Ki.1.43;1Ki.1.49;1Ki.1.50;1Ki.1.51;1Ki.2.13;1Ki.2.19;1Ki.2.21;1Ki.2.22;1Ki.2.23;1Ki.2.24;1Ki.2.28;1Ch.3.2) |
+
 All entries for **Adonijah**:  **<big>[[H0138|אֲדֹנִיָּה]]</big>**
+
 #### Related Profiles:
 - **[David](H1732)** (father)
 - **[Haggith](H2294)** (mother)

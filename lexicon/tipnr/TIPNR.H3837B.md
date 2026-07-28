@@ -1,14 +1,12 @@
 <small>*Laban • A place Moses spoke to Israel*</small>
 
-<span class='tipnrhighlight'>Laban</span>, a place where Moses spoke to the Israelites \(Deuteronomy 1:1\).
+<span class='tipnrhighlight'>Laban</span>, a place where Moses spoke to the Israelites \([[Deut.1.1|Deuteronomy 1:1]]\).
 - A location near Ashnah **<big>[[H0823|אַשְׁנָה]]</big>** only mentioned at [[Deut.1.1|Deu.1.1]]; 
-- only referred to as Laban **<big>[[H3837|לָבָן]]</big>**.
-<br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.8099,34.9365&zoom=10&maptype=satellite"></iframe>
+- only referred to as Laban **<big>[[H3837|לָבָן]]</big>**.<br>
+
+<iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.8099,34.9365&zoom=10&maptype=satellite"></iframe>
 
 
-Laban is mentioned in Deuteronomy 1:1 as one of the places where Moses spoke to the Israelites, along with Suph, between Paran, Tophel, Dizahab, and Hazeroth. The verse provides a geographical context for Moses' address to the people before they entered the Promised Land.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Laban | [<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>ן</span>](H3837B) | 1x | [Deu.1.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Laban\*\|reference=Deu.1.1) |
+Laban is mentioned in [[Deut.1.1|Deuteronomy 1:1]] as one of the places where Moses spoke to the Israelites, along with Suph, between Paran, Tophel, Dizahab, and Hazeroth. The verse provides a geographical context for Moses' address to the people before they entered the Promised Land.
+
 All entries for **Laban**:  **<big>[[H3837|לָבָן]]</big>**

@@ -7,11 +7,9 @@ Man living at the time of United Monarchy
 - only referred to as Eliam **<big>[[H0463|אֱלִיעָם]]</big>**; 
 - a son of Ahithophel **<big>[[H0302|אֲחִיתֹפֶל]]</big>**.
 
-Eliam is mentioned in [[2Sam.23.34|2 Samuel 23:34]] as one of David's mighty men. He was the son of Ahithophel the Gilonite. The mighty men were an elite group of warriors known for their exceptional military skills and bravery. They played a crucial role in David's military campaigns and helped establish his kingdom. Eliam's father, Ahithophel, later became a counselor to David but ultimately betrayed him by siding with Absalom during his rebellion \(2 Samuel 15:12\).
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Eliam | [<span class='tipnrLangHebrew'>א</span>ֱ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>יע</span>ָ<span class='tipnrLangHebrew'>ם</span>](H0463H) | 1x | [2Sa.23.34 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eliam\*\|reference=2Sa.23.34) |
+Eliam is mentioned in [[2Sam.23.34|2 Samuel 23:34]] as one of David's mighty men. He was the son of Ahithophel the Gilonite. The mighty men were an elite group of warriors known for their exceptional military skills and bravery. They played a crucial role in David's military campaigns and helped establish his kingdom. Eliam's father, Ahithophel, later became a counselor to David but ultimately betrayed him by siding with Absalom during his rebellion \([[2Sam.15.12|2 Samuel 15:12]]\).
+
 All entries for **Eliam**:  **<big>[[H0463|אֱלִיעָם]]</big>**
+
 #### Related Profiles:
 - **[Ahithophel](H0302)** (father)

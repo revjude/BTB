@@ -14,10 +14,8 @@ During his brief reign, Zechariah did evil in the sight of the Lord, following i
 Zechariah's reign came to a violent end when he was conspired against and assassinated by Shallum, son of Jabesh. This assassination fulfilled the prophecy given to Jehu, stating that his descendants would sit on the throne of Israel for four generations. 
 
 The death of Zechariah marked the end of the dynasty of Jehu and the beginning of a period of political instability in the northern kingdom. Shallum, who had killed Zechariah, assumed the throne but was himself assassinated just one month later. This turmoil and the lack of a stable leadership contributed to the eventual downfall and captivity of the northern kingdom at the hands of the Assyrians.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Zechariah (KJV= Zachariah) | [<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>כ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>הו</span>ּ](H2148P) | 3x | [[2Ki.14.29] ... [2Ki.15.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zechariah\*\|reference=2Ki.14.29;2Ki.15.8;2Ki.15.11) |
+
 All entries for **Zechariah**:  **<big>[[H2148|זְכַרְיָה]]</big>**
+
 #### Related Profiles:
 - **[Jeroboam](H3379H)** (father)

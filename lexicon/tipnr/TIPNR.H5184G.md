@@ -8,18 +8,16 @@ Edomite living at the time of the Patriarchs
 -  son of Reuel **<big>[[H7467|רְעוּאֵל]]</big>**; 
 - a brother of Zerah **<big>[[H2226|זֶרַח]]</big>**, Shammah **<big>[[H8048|שַׁמָּה]]</big>** and Mizzah **<big>[[H4199|מִזָּה]]</big>**.
 
-Nahath is mentioned in [[Gen.36.13|Genesis 36:13]],17 and [[1Chr.1.37|1 Chronicles 1:37]] as one of the descendants of Esau and a chief of Edom. He was the son of Reuel, who was one of Esau's sons by his wife Basemath, the daughter of Ishmael. 
+Nahath is mentioned in [[Gen.36.13|Genesis 36:13]],[[Gen.36.17|17]] and [[1Chr.1.37|1 Chronicles 1:37]] as one of the descendants of Esau and a chief of Edom. He was the son of Reuel, who was one of Esau's sons by his wife Basemath, the daughter of Ishmael. 
 
 The genealogical records in these passages provide insight into the family lines of Esau, who was the brother of Israel \(or 'Jacob'\) and the ancestor of the Edomites. Esau settled in the region of Seir, south of the Dead Sea, and his descendants became the rulers and chiefs of Edom. 
 
 As a chief of Edom, Nahath would have held a position of authority and leadership within the Edomite tribal structure. The chiefs of Edom were likely responsible for governing their respective clans, making decisions on behalf of their people, and representing their interests in dealings with other tribes or nations. 
 
 Apart from being listed in these genealogies, no additional information is provided about Nahath's life, character, or specific actions. His inclusion in the record serves to highlight the development and growth of Esau's descendants into a significant nation, as well as to provide a historical context for the relationship between the Israelites and the Edomites.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Nahath | [<span class='tipnrLangHebrew'>נ</span>ַ֫<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ת</span>](H5184G) | 3x | [[Gen.36.13] ... [1Ch.1.37] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nahath\*\|reference=Gen.36.13;Gen.36.17;1Ch.1.37) |
+
 All entries for **Nahath**:  **<big>[[H5184|נַחַת]]</big>**
+
 #### Related Profiles:
 - **[Reuel](H7467G)** (father)
 - **[Zerah](H2226G)** (sibling)

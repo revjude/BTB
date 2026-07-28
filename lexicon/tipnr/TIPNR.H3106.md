@@ -15,11 +15,9 @@ The context of the passage is the genealogy of Cain, Adam and Eve's firstborn so
 As the father of musicians, Jubal's influence likely extended to the invention or popularization of stringed and wind instruments. His legacy suggests that music played a significant role in ancient societies, even in the earliest stages of human history. 
 
 No further details are provided about Jubal's life, family, or specific musical achievements. His brief mention serves to demonstrate the development of human skills and the diversification of occupations among the descendants of Cain.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Jubal | [<span class='tipnrLangHebrew'>יו</span>ּ<span class='tipnrLangHebrew'>ב</span>ָ֑<span class='tipnrLangHebrew'>ל</span>](H3106) | 1x | [Gen.4.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jubal\*\|reference=Gen.4.21) |
+
 All entries for **Jubal**:  **<big>[[H3106|יוּבַל]]</big>**
+
 #### Related Profiles:
 - **[Lamech](H3929G)** (father)
 - **[Adah](H5711G)** (mother)

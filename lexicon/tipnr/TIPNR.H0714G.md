@@ -13,11 +13,9 @@ Ard is mentioned in the genealogy of Benjamin, one of the twelve sons of Israel 
 The mention of Ard in this genealogy serves to highlight the growth and development of the Israelite clan, even as they prepared to leave their homeland for Egypt. It also emphasizes the continuity of God's promise to Abraham, Isaac, and Jacob, as their descendants multiplied and began to fulfill the divine plan for their nation. 
 
 Apart from this mention in the genealogy, no further information is provided about Ard in the biblical text. His inclusion in the record of Benjamin's descendants suggests that he was part of the foundation for the future tribe of Benjamin within the nation of Israel.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Ard | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ְּ](H0714G) | 1x | [Gen.46.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ard\*\|reference=Gen.46.21) |
+
 All entries for **Ard**:  **<big>[[H0714|אַרְדְּ]]</big>**
+
 #### Related Profiles:
 - **[Benjamin](H1144G)** (father)
 - **[Bela](H1106A)** (sibling)

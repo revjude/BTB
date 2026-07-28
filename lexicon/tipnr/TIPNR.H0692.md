@@ -13,12 +13,9 @@ Areli is mentioned in the Old Testament as one of the sons of Gad, who was one o
 Areli is also mentioned in the book of Numbers, during the census of the Israelites taken in the wilderness of Moab, near the end of their forty years of wandering. In [[Num.26.17|Numbers 26:17]], the descendants of Areli are listed as a clan within the tribe of Gad. This census was taken to determine the military strength of each tribe and to prepare for the allocation of the Promised Land among the tribes. 
 
 Apart from these mentions in the genealogical records and census, no further details about Areli's life or his descendants are provided in the biblical text. His inclusion in these lists highlights the continuity of the Israelite tribes and their growth as a nation, in fulfillment of God's promises to their forefathers.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Areli | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>י</span>](H0692) | 2x | [[Gen.46.16] & [Num.26.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Areli\*\|reference=Gen.46.16;Num.26.17) |
-| Arelite | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>י</span>](H0692) | 1x | [Num.26.17 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Arelite\*\|reference=Num.26.17) |
+
 All entries for **Areli**:  **<big>[[H0692|אַרְאֵלִי]]</big>**
+
 #### Related Profiles:
 - **[Gad](H1410G)** (father)
 - **[Ziphion](H6837)** (sibling)

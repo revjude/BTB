@@ -11,22 +11,16 @@ Jacob's son living at the time of the Patriarchs
 - husband of Canaanite\_woman **<big>[[H3669|כְּנַעַנִי]]</big>**; 
 -  father of Jemuel **<big>[[H3223|יְמוּאֵל]]</big>**, Jamin **<big>[[H3226|יָמִין]]</big>**, Ohad **<big>[[H0161|אֹהַד]]</big>**, Jachin **<big>[[H3199|יָכִין]]</big>**, Zerah **<big>[[H2226|זֶרַח]]</big>** and Shaul **<big>[[H7586|שָׁאוּל]]</big>**.
 
-Simeon was the second son of Israel \(or 'Jacob'\) and Leah, born after Reuben \([[Gen.29.33|Genesis 29:33]]\). He was one of the twelve sons of Jacob who became the founders of the twelve tribes of Israel. Simeon, along with his brother Levi, took violent revenge against the Shechemites for the rape of their sister Dinah \([[Gen.34.25|Genesis 34:25]]-30\). This action was condemned by their father, Jacob \([[Gen.49.5|Genesis 49:5]]-7\). 
+Simeon was the second son of Israel \(or 'Jacob'\) and Leah, born after Reuben \([[Gen.29.33|Genesis 29:33]]\). He was one of the twelve sons of Jacob who became the founders of the twelve tribes of Israel. Simeon, along with his brother Levi, took violent revenge against the Shechemites for the rape of their sister Dinah \([[Gen.34.25|Genesis 34:25-30]]\). This action was condemned by their father, Jacob \([[Gen.49.5|Genesis 49:5-7]]\). 
 
-When Joseph's brothers went to Egypt during the famine, Joseph took Simeon as a hostage until they brought their youngest brother, Benjamin \([[Gen.42.24|Genesis 42:24]],36; 43:23\). Simeon was later released and returned to Canaan with his brothers \([[Gen.46.10|Genesis 46:10]]\). 
+When Joseph's brothers went to Egypt during the famine, Joseph took Simeon as a hostage until they brought their youngest brother, Benjamin \([[Gen.42.24|Genesis 42:24]],[[Gen.42.36|36]]; [[Gen.43.23|43:23]]\). Simeon was later released and returned to Canaan with his brothers \([[Gen.46.10|Genesis 46:10]]\). 
 
-The tribe of Simeon, descended from Simeon, was one of the twelve tribes of Israel. During the wilderness wanderings, the tribe of Simeon was led by Shelumiel, son of Zurishaddai \([[Num.1.6|Numbers 1:6]]; 2:12; 7:36; 10:19\). The tribe's territory was located within the boundaries of Judah in the Negev \(Joshua 19:1,9; Judges 1:3,17\). 
+The tribe of Simeon, descended from Simeon, was one of the twelve tribes of Israel. During the wilderness wanderings, the tribe of Simeon was led by Shelumiel, son of Zurishaddai \([[Num.1.6|Numbers 1:6]]; [[Num.2.12|2:12]]; [[Num.7.36|7:36]]; [[Num.10.19|10:19]]\). The tribe's territory was located within the boundaries of Judah in the Negev \([[Josh.19.1|Joshua 19:1]],[[Josh.19.9|9]]; [[Judg.1.3|Judges 1:3]],[[Judg.1.17|17]]\). 
 
-In later history, some from the tribe of Simeon migrated to Edom during the reign of Hezekiah \([[1Chr.4.42|1 Chronicles 4:42]]-43\). The tribe is mentioned in the visions of Ezekiel \([[Ezek.48.24|Ezekiel 48:24]],25,33\) and in the list of the sealed from the twelve tribes in Revelation \([[Rev.7.7|Revelation 7:7]]\).
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Simeon | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>עו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H8095G) | 41x | [[Gen.29.33] ... [Ezk.48.33] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Simeon\*\|reference=Gen.29.33;Gen.34.25;Gen.34.30;Gen.35.23;Gen.42.24;Gen.42.36;Gen.43.23;Gen.46.10;Gen.48.5;Gen.49.5;Exo.1.2;Exo.6.15;Exo.6.15;Num.1.6;Num.1.22;Num.1.23;Num.2.12;Num.2.12;Num.7.36;Num.10.19;Num.13.5;Num.26.12;Num.34.20;Deu.27.12;Jos.19.1;Jos.19.1;Jos.19.8;Jos.19.9;Jos.19.9;Jos.21.9;Jdg.1.3;Jdg.1.3;Jdg.1.17;1Ch.2.1;1Ch.4.24;1Ch.6.65;2Ch.15.9;2Ch.34.6;Ezk.48.24;Ezk.48.25) |
-| Simeonite | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>עו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H8095G) | 2x | [[1Ch.4.42] & [1Ch.12.25] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Simeonite\*\|reference=1Ch.4.42;1Ch.12.25) |
-| Simeon | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ע</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H8099) | 1x | [Jos.21.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Simeon\*\|reference=Jos.21.4) |
-| Simeonite | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ע</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>](H8099) | 3x | [[Num.25.14] ... [1Ch.27.16] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Simeonite\*\|reference=Num.25.14;Num.26.14;1Ch.27.16) |
-| Simeon | [<span class='tipnrLangGreek'>Συμεών</span>](G4826J) | 1x | [Rev.7.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Simeon\*\|reference=Rev.7.7) |
+In later history, some from the tribe of Simeon migrated to Edom during the reign of Hezekiah \([[1Chr.4.42|1 Chronicles 4:42-43]]\). The tribe is mentioned in the visions of Ezekiel \([[Ezek.48.24|Ezekiel 48:24]],[[Ezek.48.25|25]],[[Ezek.48.33|33]]\) and in the list of the sealed from the twelve tribes in Revelation \([[Rev.7.7|Revelation 7:7]]\).
+
 All entries for **Simeon**:  **<big>[[H8095|שִׁמְעוֹן]]</big>** ☩  **<big>[[H8099|שִׁמְעֹנִי]]</big>** ☩  **<big>[[G4826|Συμεών]]</big>**
+
 #### Related Profiles:
 - **[Israel](H3478)** (father)
 - **[Leah](H3812)** (mother)

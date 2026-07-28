@@ -10,11 +10,9 @@ Man living at the time of the Patriarchs
 -  half-brother of: Tebah **<big>[[H2875|טֶבַח]]</big>**, Gaham **<big>[[H1514|גַּחַם]]</big>**, Tahash **<big>[[H8477|תַּחַשׁ]]</big>** and Maacah **<big>[[H4601|מַעֲכָה]]</big>**.
 
 Chesed is mentioned in [[Gen.22.22|Genesis 22:22]] as one of the eight sons of Nahor and Milcah. Nahor was Abraham's brother, making Chesed Abraham's nephew. The passage lists the descendants of Nahor, providing context for the family background of Abraham.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Chesed (NIV= Kesed) | [<span class='tipnrLangHebrew'>כ</span>ֶּ֫<span class='tipnrLangHebrew'>ש</span>ֶׂ<span class='tipnrLangHebrew'>ד</span>](H3777) | 1x | [Gen.22.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chesed\*\|reference=Gen.22.22) |
+
 All entries for **Chesed**:  **<big>[[H3777|כֶּשֶׂד]]</big>**
+
 #### Related Profiles:
 - **[Nahor](H5152H)** (father)
 - **[Milcah](H4435G)** (mother)

@@ -13,8 +13,5 @@ In [[1Tim.1.20|1 Timothy 1:20]], Paul states that he had handed Hymenaeus and Al
 In [[2Tim.2.17|2 Timothy 2:17]], Hymenaeus is mentioned along with Philetus as individuals who had departed from the truth and were promoting the false teaching that the resurrection had already taken place. This heretical view was undermining the faith of some believers. Paul compares their false teaching to gangrene, emphasizing its destructive nature and the need to confront it. 
 
 These passages highlight the importance of maintaining sound doctrine and the need to address false teachings that can lead people astray. They also demonstrate the role of church discipline in correcting those who persist in promoting views that are contrary to the gospel.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Hymenaeus | [<span class='tipnrLangGreek'>Ὑμεναῖος</span>](G5211) | 2x | [[1Ti.1.20] & [2Ti.2.17] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hymenaeus\*\|reference=1Ti.1.20;2Ti.2.17) |
+
 All entries for **Hymenaeus**:  **<big>[[G5211|Ὑμεναῖος]]</big>**

@@ -13,8 +13,5 @@ The letter was written in Aramaic and translated, indicating that it was an offi
 As a result of this letter, King Artaxerxes issued a decree ordering the Jews to stop their work on the city walls. This opposition from Mithredath and the other officials effectively halted the rebuilding efforts in Jerusalem for a time, until the reign of King Darius when the Jews were allowed to resume their work. 
 
 Mithredath's actions demonstrate the political challenges faced by the Jewish people as they sought to rebuild their homeland and restore their religious practices in the face of opposition from local officials and neighboring peoples.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Mithredath | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ת</span>ְ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ת</span>](H4990H) | 1x | [Ezr.4.7 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mithredath\*\|reference=Ezr.4.7) |
+
 All entries for **Mithredath**:  **<big>[[H4990|מִתְרְדָת]]</big>**

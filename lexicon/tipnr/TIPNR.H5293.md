@@ -14,10 +14,8 @@ The mighty warriors, also known as David's "mighty men" or "heroes," were an eli
 Naarai's inclusion in this list indicates that he was recognized for his exceptional abilities as a warrior and his dedication to serving King David. Being named among such a distinguished group of soldiers suggests that Naarai had proven himself in battle and earned the respect and trust of his fellow warriors and the king himself. 
 
 However, beyond being listed as one of David's mighty warriors and the son of Ezbai, no further details are provided about Naarai's specific accomplishments, background, or the role he played in David's military campaigns. His mention in this context serves primarily to highlight the strength and loyalty of the men who supported David during his reign as king of Israel.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Naarai | [<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>י</span>](H5293) | 1x | [1Ch.11.37 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naarai\*\|reference=1Ch.11.37) |
+
 All entries for **Naarai**:  **<big>[[H5293|נַעֲרַי]]</big>**
+
 #### Related Profiles:
 - **[Ezbai](H0229)** (father)

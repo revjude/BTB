@@ -7,8 +7,5 @@ Woman living at the time of the New Testament
 - only referred to as Mary **<big>[[G3137|Μαρία]]</big>**.
 
 Mary was a woman mentioned by Paul in his letter to the Romans. He commended her for working very hard for the church in Rome, indicating that she was a dedicated and diligent member of the Christian community there.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Mary | [<span class='tipnrLangGreek'>Μαρία</span>](G3137M) | 1x | [Rom.16.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mary\*\|reference=Rom.16.6) |
+
 All entries for **Mary**:  **<big>[[G3137|Μαρία]]</big>**

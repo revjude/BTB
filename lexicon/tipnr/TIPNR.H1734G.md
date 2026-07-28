@@ -13,11 +13,9 @@ Dodo judged Israel for 23 years, indicating a period of relative stability and p
 
 The book of Judges records a cyclical pattern of the Israelites falling into sin, being oppressed by foreign nations, crying out to God, and then being delivered by a judge whom God raised up. Dodo's role as a judge would have included providing military leadership, settling disputes, and guiding the people in religious and political matters. 
 
-After Dodo's death, he was buried in Shamir, and the narrative shifts to the next judge, Jair the Gileadite \(Judges 10:2\).
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Dodo | [<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>דו</span>ֹ](H1734G) | 1x | [Jdg.10.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dodo\*\|reference=Jdg.10.1) |
+After Dodo's death, he was buried in Shamir, and the narrative shifts to the next judge, Jair the Gileadite \([[Judg.10.2|Judges 10:2]]\).
+
 All entries for **Dodo**:  **<big>[[H1734|דּוֹדוֹ]]</big>**
+
 #### Related Profiles:
 - **[Puah](H6312H)** (child)

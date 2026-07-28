@@ -15,11 +15,9 @@ As one of David's mighty men, Elhanan would have been recognized for his excepti
 
 However, beyond mentioning Elhanan as the son of Dodo the Bethlehemite, the Bible does not provide any further information about Dodo himself. His inclusion in the text serves primarily to identify Elhanan and to highlight the fact that he came from Bethlehem. 
 
-It is worth noting that there is another Elhanan mentioned in 2 Samuel 21:19, who is credited with killing Goliath the Gittite. However, this Elhanan is identified as the son of Jaare-oregim, not Dodo, and there is some debate among scholars as to whether this is the same person or a different individual with the same name.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Dodo | [<span class='tipnrLangHebrew'>ד</span>ּ<span class='tipnrLangHebrew'>ו</span>ֹ<span class='tipnrLangHebrew'>דו</span>ֹ](H1734I) | 2x | [[2Sa.23.24] & [1Ch.11.26] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Dodo\*\|reference=2Sa.23.24;1Ch.11.26) |
+It is worth noting that there is another Elhanan mentioned in [[2Sam.21.19|2 Samuel 21:19]], who is credited with killing Goliath the Gittite. However, this Elhanan is identified as the son of Jaare-oregim, not Dodo, and there is some debate among scholars as to whether this is the same person or a different individual with the same name.
+
 All entries for **Dodo**:  **<big>[[H1734|דּוֹדוֹ]]</big>**
+
 #### Related Profiles:
 - **[Elhanan](H0445H)** (child)

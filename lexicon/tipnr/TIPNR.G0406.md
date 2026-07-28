@@ -15,11 +15,9 @@ Throughout the Gospels, Andrew is mentioned several times, often in connection w
 After Jesus' ascension, Andrew continued to play a role in the early church. He was present in the upper room with the other disciples as they waited for the outpouring of the Holy Spirit on the Day of Pentecost. 
 
 According to church tradition, Andrew preached the gospel in various regions, including Greece and Asia Minor, and was martyred by crucifixion on an X-shaped cross, which has become known as St. Andrew's Cross. His faithfulness and dedication to spreading the message of Christ have made him an important figure in Christian history.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Andrew | [<span class='tipnrLangGreek'>Ἀνδρέας</span>](G0406) | 13x | [[Mat.4.18] ... [Act.1.13] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Andrew\*\|reference=Mat.4.18;Mat.10.2;Mrk.1.16;Mrk.1.29;Mrk.3.18;Mrk.13.3;Luk.6.14;Jhn.1.40;Jhn.1.44;Jhn.6.8;Jhn.12.22;Jhn.12.22;Act.1.13) |
+
 All entries for **Andrew**:  **<big>[[G0406|Ἀνδρέας]]</big>**
+
 #### Related Profiles:
 - **[John](G2491K)** (father)
 - **[Peter](G4074G)** (sibling)

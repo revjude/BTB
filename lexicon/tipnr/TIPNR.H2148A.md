@@ -15,11 +15,9 @@ Zechariah's musical abilities were recognized, and he was among the Levites chos
 In addition to his musical duties, Zechariah was entrusted with the responsibility of distributing the offerings and tithes among his fellow Levites. He was known for his integrity and fairness in this role. 
 
 Zechariah's descendants continued to serve as gatekeepers in the temple, with his son Meshelemiah being appointed as the chief gatekeeper during David's reign. The faithful service of Zechariah and his family in the tabernacle and temple highlights the important role the Levites played in maintaining the worship and service of God.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Zechariah | [<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>כ</span>ַ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>הו</span>ּ](H2148A) | 7x | [[1Ch.9.21] ... [1Ch.26.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zechariah\*\|reference=1Ch.9.21;1Ch.15.18;1Ch.15.20;1Ch.15.24;1Ch.16.5;1Ch.26.2;1Ch.26.14) |
+
 All entries for **Zechariah**:  **<big>[[H2148|זְכַרְיָה]]</big>**
+
 #### Related Profiles:
 - **[Meshelemiah](H4920)** (father)
 - **[Jediael](H3043J)** (sibling)

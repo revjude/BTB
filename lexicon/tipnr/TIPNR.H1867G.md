@@ -13,8 +13,5 @@ The mention of Darius in this context serves as a historical marker, indicating 
 The inclusion of Darius' name in this list demonstrates the continuity of the priestly and Levitical service in the Temple, even under Persian rule. It also shows that the Jewish community in Jerusalem maintained their religious practices and recorded their history during this period. 
 
 
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Darius | [<span class='tipnrLangHebrew'>ד</span>ָּֽ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>ו</span>ֶ<span class='tipnrLangHebrew'>ש</span>ׁ](H1867G) | 1x | [Neh.12.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Darius\*\|reference=Neh.12.22) |
+
 All entries for **Darius**:  **<big>[[H1867|דָּֽרְיָוֵשׁ]]</big>**

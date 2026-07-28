@@ -10,11 +10,9 @@ Man living at the time of Egypt and Wilderness
 -  father or founder of Lecah **<big>[[H3922|לֵכָה]]</big>**.
 
 Er was the son of Shelah, son of Judah. Unlike his uncle with the same name, he had descendants, and these became the linen workers at Beth-ashbea.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Er | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>ר</span>](H6147H) | 1x | [1Ch.4.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Er\*\|reference=1Ch.4.21) |
+
 All entries for **Er**:  **<big>[[H6147|עֵר]]</big>**
+
 #### Related Profiles:
 - **[Shelah](H7956)** (father)
 - **[Laadah](H3935)** (sibling)

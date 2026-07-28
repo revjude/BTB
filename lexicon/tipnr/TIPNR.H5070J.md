@@ -10,12 +10,10 @@ Man living at the time of United Monarchy
 
 Nadab is mentioned in [[1Chr.8.30|1 Chronicles 8:30]] and 9:36 as one of the sons of Abiel, a descendant of Benjamin. These references appear in genealogical records that trace the lineage of the tribe of Benjamin, providing insight into the family lines within the tribe. 
 
-In both passages, Nadab is listed alongside his brothers Zur, Kish, Baal, Ner, Gedor, Ahio, Zechariah, and Mikloth as the sons of Abiel \([[1Chr.8.30|1 Chronicles 8:30]]; 9:36\). Abiel, also known as Jeiel, is identified as the father of this family and is described as living in Gibeon, a city within the territory of Benjamin \(1 Chronicles 9:35\). The repetition of Nadab's name in both 1 Chronicles 8 and 9 reinforces the significance of these genealogical records in the chronicler's account of Israel's history.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Nadab | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>ב</span>](H5070J) | 2x | [[1Ch.8.30] & [1Ch.9.36] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nadab\*\|reference=1Ch.8.30;1Ch.9.36) |
+In both passages, Nadab is listed alongside his brothers Zur, Kish, Baal, Ner, Gedor, Ahio, Zechariah, and Mikloth as the sons of Abiel \([[1Chr.8.30|1 Chronicles 8:30]]; [[1Chr.9.36|9:36]]\). Abiel, also known as Jeiel, is identified as the father of this family and is described as living in Gibeon, a city within the territory of Benjamin \([[1Chr.9.35|1 Chronicles 9:35]]\). The repetition of Nadab's name in both [[1Chr.8|1 Chronicles 8]] and 9 reinforces the significance of these genealogical records in the chronicler's account of Israel's history.
+
 All entries for **Nadab**:  **<big>[[H5070|נָדָב]]</big>**
+
 #### Related Profiles:
 - **[Abiel](H0022G)** (father)
 - **[Maacah](H4601N)** (mother)

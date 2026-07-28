@@ -11,11 +11,9 @@ Man living at the time of Egypt and Wilderness
 -  father or founder of Machbenah **<big>[[H4343|מַכְבֵּנָא]]</big>** and Gibea **<big>[[H1388|גִּבְעָא]]</big>**.
 
 Sheva is briefly mentioned in [[1Chr.2.49|1 Chronicles 2:49]] as a son of Caleb's concubine Maacah. He appears in the genealogical record of the tribe of Judah, specifically within the family line of Caleb.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Sheva | [<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ו</span>ָ<span class='tipnrLangHebrew'>א</span>](H7724G) | 1x | [1Ch.2.49 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sheva\*\|reference=1Ch.2.49) |
+
 All entries for **Sheva**:  **<big>[[H7724|שְׁוָא]]</big>**
+
 #### Related Profiles:
 - **[Caleb](H3612H)** (father)
 - **[Maacah](H4601L)** (mother)

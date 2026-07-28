@@ -13,12 +13,10 @@ The gospels record that as Jesus was being led out of the city to be crucified, 
 
 Mark's gospel provides an additional detail, mentioning that Simon was the father of Alexander and Rufus \([[Mark.15.21|Mark 15:21]]\). This suggests that Simon's sons were known to the early Christian community, possibly as believers themselves. 
 
-Simon's role in carrying Jesus' cross has been seen as a symbolic representation of the Christian call to take up one's cross and follow Christ \(Matthew 16:24; Luke 9:23\). His brief but significant appearance in the gospel narrative has made him a figure of contemplation and veneration in Christian tradition.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Simon | [<span class='tipnrLangGreek'>Σίμων</span>](G4613J) | 3x | [[Mat.27.32] ... [Luk.23.26] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Simon\*\|reference=Mat.27.32;Mrk.15.21;Luk.23.26) |
+Simon's role in carrying Jesus' cross has been seen as a symbolic representation of the Christian call to take up one's cross and follow Christ \([[Matt.16.24|Matthew 16:24]]; [[Luke.9.23|Luke 9:23]]\). His brief but significant appearance in the gospel narrative has made him a figure of contemplation and veneration in Christian tradition.
+
 All entries for **Simon**:  **<big>[[G4613|Σίμων]]</big>**
+
 #### Related Profiles:
 - **[Alexander](G0223G)** (child)
 - **[Rufus](G4504G)** (child)

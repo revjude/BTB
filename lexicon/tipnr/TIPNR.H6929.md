@@ -17,12 +17,9 @@ Nodab, on the other hand, is mentioned in [[1Chr.5.19|1 Chronicles 5:19]] as one
 The Hagrites were a nomadic people who lived in the region east of Gilead. The mention of Nodab alongside the Hagrites suggests that they were likely a subgroup or an allied tribe of the Hagrites. 
 
 Apart from this brief mention in the context of the Israelite tribes' victory over the Hagrites, no other information is provided about the Nodab tribe in the Bible.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Kedemah | [<span class='tipnrLangHebrew'>ק</span>ֵ֑<span class='tipnrLangHebrew'>ד</span>ְ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H6929) | 2x | [[Gen.25.15] & [1Ch.1.31] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kedemah\*\|reference=Gen.25.15;1Ch.1.31) |
-| Nodab | [<span class='tipnrLangHebrew'>נו</span>ֹ<span class='tipnrLangHebrew'>ד</span>ָ֑<span class='tipnrLangHebrew'>ב</span>](H5114) | 1x | [1Ch.5.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nodab\*\|reference=1Ch.5.19) |
+
 All entries for **Kedemah or Nodab**:  **<big>[[H6929|קֵדְמָה]]</big>** ☩  **<big>[[H5114|נוֹדָב]]</big>**
+
 #### Related Profiles:
 - **[Ishmael](H3458G)** (father)
 - **[Nebaioth](H5032)** (sibling)

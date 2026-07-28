@@ -9,11 +9,9 @@ Man living at the time of Divided Monarchy
 -  father of Mehir **<big>[[H4243|מְחִיר]]</big>**.
 
 Chelub, mentioned in [[1Chr.4.11|1 Chronicles 4:11]], was the brother of Caleb and the son of Hezron. He was the father of Mehir.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Chelub (NIV= Kelub) | [<span class='tipnrLangHebrew'>כ</span>ְּ<span class='tipnrLangHebrew'>לו</span>ּ<span class='tipnrLangHebrew'>ב</span>](H3620G) | 1x | [1Ch.4.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Chelub\*\|reference=1Ch.4.11) |
+
 All entries for **Chelub**:  **<big>[[H3620|כְּלוּב]]</big>**
+
 #### Related Profiles:
 - **[Shuhah](H7746)** (sibling)
 - **[Mehir](H4243)** (child)

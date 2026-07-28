@@ -6,10 +6,6 @@ The descendants of <span class='tipnrhighlight'>Jorah</span> \(or Hariph\) were 
 - A man living at the time of Exile and Return, first mentioned at [[Ezra.2.18|Ezr.2.18]]; 
 - referred to as Jorah **<big>[[H3139|יוֹרָה]]</big>**, or Hariph **<big>[[H2756|חָרִיף]]</big>**.
 
-Jorah, also called Hariph, was the ancestor of a group of exiles who returned to Jerusalem and Judah from Babylon \([[Ezra.2.18|Ezra 2:18]]; [[Neh.7.24|Nehemiah 7:24]]\). The return likely took place around 538 BC after the Persian king Cyrus issued a decree allowing the Jews to return to their homeland \(Ezra 1:1-4\). In the lists of returning exiles, 112 people are identified as descendants of Jorah/Hariph. The different names may reflect variant spellings or perhaps two related family groups. Apart from being listed among the returning exiles, no other details are provided about Jorah/Hariph or his/their descendants.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Jorah | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3139) | 1x | [Ezr.2.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jorah\*\|reference=Ezr.2.18) |
-| Hariph | [<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>יף</span>](H2756H) | 1x | [Neh.7.24 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hariph\*\|reference=Neh.7.24) |
+Jorah, also called Hariph, was the ancestor of a group of exiles who returned to Jerusalem and Judah from Babylon \([[Ezra.2.18|Ezra 2:18]]; [[Neh.7.24|Nehemiah 7:24]]\). The return likely took place around 538 BC after the Persian king Cyrus issued a decree allowing the Jews to return to their homeland \([[Ezra.1.1|Ezra 1:1-4]]\). In the lists of returning exiles, 112 people are identified as descendants of Jorah/Hariph. The different names may reflect variant spellings or perhaps two related family groups. Apart from being listed among the returning exiles, no other details are provided about Jorah/Hariph or his/their descendants.
+
 All entries for **Jorah or Hariph**:  **<big>[[H3139|יוֹרָה]]</big>** ☩  **<big>[[H2756|חָרִיף]]</big>**

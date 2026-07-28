@@ -12,14 +12,12 @@ Naphish was one of the twelve sons of Ishmael, the son of Abraham and Hagar \([[
 
 In [[1Chr.5.19|1 Chronicles 5:19]], Naphish is mentioned in the context of a war between the Israelite tribes of Reuben, Gad, and the half-tribe of Manasseh against the Hagrites, Jetur, Naphish, and Nodab. These tribes were likely Ishmaelite clans living east of the Jordan River. 
 
-The Israelite tribes, trusting in God's help, went to war against these Hagrite tribes and were victorious. They captured a large number of livestock and took many people captive. The victory was attributed to God's intervention, as the Israelites had cried out to Him during the battle \(1 Chronicles 5:20\). 
+The Israelite tribes, trusting in God's help, went to war against these Hagrite tribes and were victorious. They captured a large number of livestock and took many people captive. The victory was attributed to God's intervention, as the Israelites had cried out to Him during the battle \([[1Chr.5.20|1 Chronicles 5:20]]\). 
 
 Apart from these brief mentions, little else is known about Naphish or his specific role in the events described. His inclusion in the biblical record serves to highlight the ongoing interactions and conflicts between the Israelites and the surrounding tribes, as well as to demonstrate God's faithfulness to His people when they sought His help.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Naphish | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>פ</span>ִ<span class='tipnrLangHebrew'>יש</span>ׁ](H5305) | 3x | [[Gen.25.15] ... [1Ch.5.19] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Naphish\*\|reference=Gen.25.15;1Ch.1.31;1Ch.5.19) |
+
 All entries for **Naphish**:  **<big>[[H5305|נָפִישׁ]]</big>**
+
 #### Related Profiles:
 - **[Ishmael](H3458G)** (father)
 - **[Nebaioth](H5032)** (sibling)

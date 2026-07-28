@@ -9,13 +9,11 @@ Man living at the time of Egypt and Wilderness
 
 Hori, the son of Shaphat, was a member of the tribe of Simeon who was chosen as one of the twelve spies sent by Moses to explore the land of Canaan \([[Num.13.5|Numbers 13:5]]\). This event took place during the Israelites' journey through the wilderness after their exodus from Egypt. 
 
-Moses selected one man from each of the twelve tribes to survey the Promised Land and bring back a report about its inhabitants, cities, and agricultural potential \(Numbers 13:1-2, 17-20\). Hori was the representative chosen from the tribe of Simeon. 
+Moses selected one man from each of the twelve tribes to survey the Promised Land and bring back a report about its inhabitants, cities, and agricultural potential \([[Num.13.1|Numbers 13:1-2]], [[Num.13.17|17-20]]\). Hori was the representative chosen from the tribe of Simeon. 
 
-The twelve spies, including Hori, spent forty days exploring the land of Canaan \(Numbers 13:25\). Upon their return, they brought back samples of the land's produce, including a cluster of grapes so large that it had to be carried on a pole between two men \(Numbers 13:23\). However, ten of the spies, excluding Caleb and Joshua, gave a discouraging report, emphasing the difficulties.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Hori | [<span class='tipnrLangHebrew'>ח</span>ֹ<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>י</span>](H2753G) | 1x | [Num.13.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hori\*\|reference=Num.13.5) |
+The twelve spies, including Hori, spent forty days exploring the land of Canaan \([[Num.13.25|Numbers 13:25]]\). Upon their return, they brought back samples of the land's produce, including a cluster of grapes so large that it had to be carried on a pole between two men \([[Num.13.23|Numbers 13:23]]\). However, ten of the spies, excluding Caleb and Joshua, gave a discouraging report, emphasing the difficulties.
+
 All entries for **Hori**:  **<big>[[H2753|חֹרִי]]</big>**
+
 #### Related Profiles:
 - **[Shaphat](H8202G)** (child)

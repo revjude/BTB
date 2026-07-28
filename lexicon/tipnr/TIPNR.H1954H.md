@@ -14,10 +14,8 @@ As the leader of Ephraim, Hoshea would have been responsible for overseeing the 
 The tribe of Ephraim, descended from Joseph's second son, was one of the most prominent and influential tribes in Israel. They were known for their military prowess and played a significant role in the nation's history. 
 
 
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Hoshea | [<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ש</span>ֵׁ<span class='tipnrLangHebrew'>ע</span>ַ](H1954H) | 1x | [1Ch.27.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hoshea\*\|reference=1Ch.27.20) |
+
 All entries for **Hoshea**:  **<big>[[H1954|הוֹשֵׁעַ]]</big>**
+
 #### Related Profiles:
 - **[Azaziah](H5812H)** (father)

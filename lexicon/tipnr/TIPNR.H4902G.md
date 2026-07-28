@@ -9,11 +9,9 @@ Man living at the time of the Patriarchs
 - a brother of Gomer **<big>[[H1586|גֹּמֶר]]</big>**, Magog **<big>[[H4031|מָגוֹג]]</big>**, Madai **<big>[[H4074|מָדַי]]</big>**, Javan **<big>[[H3120|יָוָן]]</big>**, Tubal **<big>[[H8422|תּוּבַל]]</big>** and Tiras **<big>[[H8494|תִּירָס]]</big>**.
 
 Meshech was one of the sons of Japheth and a grandson of Noah, mentioned in the Table of Nations \([[Gen.10.2|Gen.10.2]]; [[1Chr.1.5|1Ch.1.5]]\). The Table of Nations is a genealogical record of the descendants of Noah's three sons—Shem, Ham, and Japheth—and their dispersal after the Tower of Babel. Meshech is listed among the sons of Japheth, along with his brothers Gomer, Magog, Madai, Javan, Tubal, and Tiras. These sons and their descendants are generally associated with the peoples of the northern and western regions, including Asia Minor and Europe.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Meshech (NIV= Meshek) | [<span class='tipnrLangHebrew'>מ</span>ֶ֫<span class='tipnrLangHebrew'>ש</span>ֶׁ<span class='tipnrLangHebrew'>ך</span>ְ](H4902G) | 2x | [[Gen.10.2] & [1Ch.1.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Meshech\*\|reference=Gen.10.2;1Ch.1.5) |
+
 All entries for **Meshech**:  **<big>[[H4902|מֶשֶׁךְ]]</big>**
+
 #### Related Profiles:
 - **[Japheth](H3315)** (father)
 - **[Gomer](H1586G)** (sibling)

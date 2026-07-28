@@ -9,11 +9,9 @@ Man living at the time of Divided Monarchy
 - a brother of Eber **<big>[[H5677|עֵבֵר]]</big>**, Misham **<big>[[H4936|מִשְׁעָם]]</big>**, Beriah **<big>[[H1283|בְּרִיעָה]]</big>**, Shema **<big>[[H8087|שֶׁמַע]]</big>**, Zebadiah **<big>[[H2069|זְבַדְיָה]]</big>**, Meshullam **<big>[[H4918|מְשֻׁלָּם]]</big>**, Hizki **<big>[[H2395|חִזְקִי]]</big>**, Heber **<big>[[H2268|חֶבֶר]]</big>**, Ishmerai **<big>[[H3461|יִשְׁמְרַי]]</big>**, Izliah **<big>[[H3152|יִזְלִיאָה]]</big>** and Jobab **<big>[[H3103|יוֹבָב]]</big>**.
 
 Shemed was a Benjamite, the son of Elpaal, mentioned in [[1Chr.8.12|1 Chronicles 8:12]]. He is credited with building the cities of Ono and Lod, along with their surrounding towns. This brief mention of Shemed highlights the role of certain individuals in the development and expansion of settlements during the time of the chronicler's account.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Shemed (KJV= Shamed) | [<span class='tipnrLangHebrew'>ש</span>ָׁ֫<span class='tipnrLangHebrew'>מ</span>ֶ<span class='tipnrLangHebrew'>ד</span>](H8106B) | 1x | [1Ch.8.12 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shemed\*\|reference=1Ch.8.12) |
+
 All entries for **Shemed**:  **<big>[[H8106|שֶׁמֶר]]</big>**
+
 #### Related Profiles:
 - **[Elpaal](H0508)** (father)
 - **[Eber](H5677I)** (sibling)

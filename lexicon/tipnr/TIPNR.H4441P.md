@@ -7,8 +7,5 @@ Man living at the time of Exile and Return
 - only referred to as Malchijah **<big>[[H4441|מַלְכִּיָּה]]</big>**.
 
 Malchijah was a priest who lived during the time of Ezra and Nehemiah. When Ezra read the Book of the Law to the assembled people in Jerusalem, Malchijah was one of the priests who stood beside him on the platform. This event took place during the Feast of Tabernacles, after the Jews had returned from Babylonian exile \([[Neh.8.4|Nehemiah 8:4]]\).
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Malchijah (KJV= Malchiah; NIV= Malkijah) | [<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>כ</span>ִּ<span class='tipnrLangHebrew'>י</span>ָּ<span class='tipnrLangHebrew'>הו</span>ּ](H4441P) | 1x | [Neh.8.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Malchijah\*\|reference=Neh.8.4) |
+
 All entries for **Malchijah**:  **<big>[[H4441|מַלְכִּיָּה]]</big>**

@@ -9,11 +9,9 @@ Man living at the time of Divided Monarchy
 - a brother of Zerubbabel **<big>[[H2216|זְרֻבָּבֶל]]</big>**.
 
 Shimei is mentioned in [[1Chr.3.19|1 Chronicles 3:19]] as a son of Pedaiah and a brother of Zerubbabel. He is listed in the genealogy of King David's descendants, particularly in the line of King Jeconiah \(also known as Jehoiachin\). This genealogy traces the royal lineage after the Babylonian exile, suggesting that Shimei was born during or after the exile.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Shimei | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>י</span>](H8096J) | 1x | [1Ch.3.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shimei\*\|reference=1Ch.3.19) |
+
 All entries for **Shimei**:  **<big>[[H8096|שִׁמְעִי]]</big>**
+
 #### Related Profiles:
 - **[Pedaiah](H6305H)** (father)
 - **[Zerubbabel](H2216)** (sibling)

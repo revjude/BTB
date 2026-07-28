@@ -10,11 +10,9 @@ Woman living at the time of Divided Monarchy
 -  half-sister of: Jeush **<big>[[H3266|יְעוּשׁ]]</big>**, Shemariah **<big>[[H8114|שְׁמַרְיָה]]</big>** and Zaham **<big>[[H2093|זַהַם]]</big>**.
 
 Shelomith was a daughter of King Rehoboam, the son of Solomon. According to [[2Chr.11.20|2 Chronicles 11:20]], she was a daughter of the daughter of Absalom, likely referring to Absalom, the third son of King David. Rehoboam married Mahalath, the daughter of David's son Jerimoth, and Abihail, the daughter of David's brother Eliab. He also married Maacah, the daughter of Absalom, who bore him Abijah, Attai, Ziza, and Shelomith.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Shelomith | [<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ל</span>ֹ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ית</span>](H8019G) | 1x | [2Ch.11.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shelomith\*\|reference=2Ch.11.20) |
+
 All entries for **Shelomith**:  **<big>[[H8019|שְׁלֹמִית]]</big>**
+
 #### Related Profiles:
 - **[Rehoboam](H7346)** (father)
 - **[Maacah](H4601K)** (mother)

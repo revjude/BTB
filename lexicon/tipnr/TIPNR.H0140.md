@@ -15,8 +15,5 @@ In [[Ezra.8.13|Ezra 8:13]], the descendants of Adonikam are mentioned again amon
 The variations in the numbers of Adonikam's descendants between the lists in Ezra and Nehemiah may be due to different counting methods or the inclusion of additional family members in one of the lists. 
 
 The repeated mention of Adonikam's descendants in these lists emphasizes the continuity of the Jewish community and the importance of recording the genealogies of those who returned from exile. It also highlights the multi-generational impact of the exile and the restoration of the Jewish people to their homeland.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Adonikam | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ד</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>יק</span>ָ<span class='tipnrLangHebrew'>ם</span>](H0140) | 3x | [[Ezr.2.13] ... [Neh.7.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adonikam\*\|reference=Ezr.2.13;Ezr.8.13;Neh.7.18) |
+
 All entries for **Adonikam**:  **<big>[[H0140|אֲדֹנִיקָם]]</big>**

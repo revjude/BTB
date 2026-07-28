@@ -15,8 +15,5 @@ The mention of Nathan-melech's living quarters in connection with the idolatrous
 The fact that Nathan-melech is specifically named and identified as a court official indicates that he held a position of some significance within the royal administration. Court officials were often responsible for various aspects of the king's household, including management of resources, diplomatic relations, and religious matters. 
 
 Apart from this single mention, no further information is given about Nathan-melech's life, family, or other duties. His inclusion in the narrative serves to provide context for the location of the idolatrous objects and to highlight the thoroughness of Josiah's reforms in removing all traces of pagan worship from the temple and its surroundings.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Nathan-melech (NIV= Nathan Melek) | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ת</span>ַ<span class='tipnrLangHebrew'>ן</span>־<span class='tipnrLangHebrew'>מ</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ך</span>ְ](H5419) | 1x | [2Ki.23.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nathan\*\|reference=2Ki.23.11) |
+
 All entries for **Nathan-melech**:  **<big>[[H5419|נְתַן־מֶלֶךְ]]</big>**

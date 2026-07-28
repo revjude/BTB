@@ -13,11 +13,9 @@ Ishpah is mentioned in a genealogy of the tribe of Benjamin in [[1Chr.8.16|1 Chr
 The genealogy in this chapter focuses on the descendants of Benjamin who lived in Jerusalem and the surrounding areas. Ishpah's mention helps to establish the family connections and the continuity of the Benjamite lineage. 
 
 No additional information is given about Ishpah's life, occupation, or role within the clan. His inclusion in the genealogy serves to highlight the importance of family records and the preservation of tribal heritage among the Israelites.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Ishpah (KJV= Ispah) | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>פ</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H3472) | 1x | [1Ch.8.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ishpah\*\|reference=1Ch.8.16) |
+
 All entries for **Ishpah**:  **<big>[[H3472|יִשְׁפָּה]]</big>**
+
 #### Related Profiles:
 - **[Beriah](H1283I)** (father)
 - **[Arad](H6166B)** (sibling)

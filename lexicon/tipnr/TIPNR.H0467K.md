@@ -7,8 +7,5 @@ Man living at the time of Exile and Return
 - only referred to as Eliphelet **<big>[[H0467|אֱלִיפֶלֶט]]</big>**.
 
 Eliphelet is mentioned in the list of the descendants of Adonikam who returned to Jerusalem from the Babylonian exile \([[Ezra.8.13|Ezr.8.13]]\). He was part of the group that accompanied Ezra, the priest and scribe, on his journey from Babylon to Jerusalem. This return was part of the larger Jewish restoration to their homeland following the decree of King Cyrus of Persia. The Bible does not provide any additional details about Eliphelet's life, family, or role in the community of the returned exiles.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Eliphelet | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ל</span>ִ<span class='tipnrLangHebrew'>יפ</span>ֶ֫<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ט</span>](H0467K) | 1x | [Ezr.8.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Eliphelet\*\|reference=Ezr.8.13) |
+
 All entries for **Eliphelet**:  **<big>[[H0467|אֱלִיפֶלֶט]]</big>**

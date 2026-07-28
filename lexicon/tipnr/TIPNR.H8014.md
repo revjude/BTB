@@ -7,9 +7,5 @@ Man living at the time of Exile and Return
 - referred to as Shalmai **<big>[[H8014|שַׂלְמַי]]</big>**, or Shamlai \(=Ketiv. Qere, KJV, NIV= Shalmai\)  **<big>[[H8073|שַׁמְלַי]]</big>**.
 
 Shalmai \(or Shamlai\), mentioned in [[Neh.7.48|Nehemiah 7:48]] and [[Ezra.2.46|Ezra 2:46]], was an ancestor of the Nethinim, a group of temple servants who assisted the Levites in their duties. The Nethinim were descendants of the Gibeonites who had been assigned by Joshua to serve in the tabernacle and later in the temple. Shalmai's descendants were among the Nethinim who returned to Jerusalem from the Babylonian exile, as recorded in the lists provided by both Nehemiah and Ezra. These lists were compiled to document the individuals and families who had returned to Judah to resettle and rebuild the city and the temple. The inclusion of Shalmai's descendants in these records highlights the importance of the Nethinim in the restoration of Jerusalem and the continuity of their service in the temple.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Shalmai | [<span class='tipnrLangHebrew'>ש</span>ַׂ<span class='tipnrLangHebrew'>ל</span>ְ<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>י</span>](H8014) | 1x | [Neh.7.48 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shalmai\*\|reference=Neh.7.48) |
-| Shamlai (=Ketiv. Qere, KJV, NIV= Shalmai) | [<span class='tipnrLangHebrew'>ש</span>ַׁ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>י</span>](H8073) | 1x | [Ezr.2.46 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shamlai\*\|reference=Ezr.2.46) |
+
 All entries for **Shalmai or Shamlai**:  **<big>[[H8014|שַׂלְמַי]]</big>** ☩  **<big>[[H8073|שַׁמְלַי]]</big>**

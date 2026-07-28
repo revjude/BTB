@@ -9,11 +9,9 @@ Man living at the time ofExile and return
 -  father of Maath **<big>[[G3092|Μαάθ]]</big>**.
 
 Mattathias is mentioned in the genealogy of Jesus Christ, as recorded in the Gospel of Luke. He is listed as the son of Semein and the father of Maath \([[Luke.3.26|Luke 3:26]]\). This genealogy traces Jesus' lineage through His mother, Mary, back to David and ultimately to Adam. Mattathias' inclusion in this genealogy highlights the human ancestry of Jesus and His connection to the royal line of David.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Mattathias | [<span class='tipnrLangGreek'>Ματταθίας</span>](G3161H) | 1x | [Luk.3.26 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mattathias\*\|reference=Luk.3.26) |
+
 All entries for **Mattathias**:  **<big>[[G3161|Ματταθίας]]</big>**
+
 #### Related Profiles:
 - **[Semein](G4584)** (father)
 - **[Maath](G3092)** (child)

@@ -9,11 +9,9 @@ Man living at the time of Exile and Return
 - a brother of Jeshua **<big>[[H3442|יֵשׁוּעַ]]</big>**.
 
 Joab is mentioned in [[Ezra.2.6|Ezra 2:6]] and [[Neh.7.11|Nehemiah 7:11]] as the ancestor of a family that returned to Judah from Babylonian exile. The descendants of Joab are listed among the returnees who settled in Jerusalem and the surrounding towns. The count of Joab's descendants varies slightly between the two passages, with Ezra recording 2,812 and Nehemiah listing 2,818.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Joab | [<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ב</span>](H3097I) | 2x | [[Ezr.2.6] & [Neh.7.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Joab\*\|reference=Ezr.2.6;Neh.7.11) |
+
 All entries for **Joab**:  **<big>[[H3097|יוֹאָב]]</big>**
+
 #### Related Profiles:
 - **[Pahath-moab](Pahath)** (father)
 - **[Jeshua](H3442I)** (sibling)

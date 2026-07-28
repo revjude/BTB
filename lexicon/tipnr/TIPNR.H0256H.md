@@ -7,11 +7,9 @@ Man living at the time of Divided Monarchy
 - only referred to as Ahab **<big>[[H0256|אַחְאָב]]</big>**; 
 - a son of Kolaiah **<big>[[H6964|קוֹלָיָה]]</big>**.
 
-Ahab, the son of Kolaiah, was a false prophet among the Judean exiles in Babylon during the time of Jeremiah. The Lord declared that He would deliver Ahab and another false prophet, Zedekiah, into the hands of Nebuchadnezzar, king of Babylon, who would execute them. Their fate would become a curse used by the exiles, saying, "May the Lord make you like Zedekiah and Ahab, whom the king of Babylon roasted in the fire." This judgment was due to their wickedness and adultery committed in the Lord's name. \([[Jer.29.21|Jer.29.21]],22\).
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Ahab | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>א</span>ָ<span class='tipnrLangHebrew'>ב</span>](H0256H) | 2x | [[Jer.29.21] & [Jer.29.22] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahab\*\|reference=Jer.29.21;Jer.29.22) |
+Ahab, the son of Kolaiah, was a false prophet among the Judean exiles in Babylon during the time of Jeremiah. The Lord declared that He would deliver Ahab and another false prophet, Zedekiah, into the hands of Nebuchadnezzar, king of Babylon, who would execute them. Their fate would become a curse used by the exiles, saying, "May the Lord make you like Zedekiah and Ahab, whom the king of Babylon roasted in the fire." This judgment was due to their wickedness and adultery committed in the Lord's name. \([[Jer.29.21|Jer.29.21]],[[Jer.29.22|22]]\).
+
 All entries for **Ahab**:  **<big>[[H0256|אַחְאָב]]</big>**
+
 #### Related Profiles:
 - **[Kolaiah](H6964H)** (father)

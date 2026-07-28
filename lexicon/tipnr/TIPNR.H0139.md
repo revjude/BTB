@@ -10,15 +10,12 @@ Adoni-zedek was the king of Jerusalem during the time of Joshua's conquest of Ca
 
 When Adoni-zedek heard that Joshua had captured Ai and destroyed it, and that the inhabitants of Gibeon had made a peace treaty with Israel, he became greatly alarmed. Gibeon was a significant city, and its alliance with Israel posed a threat to the other Amorite kings in the region. 
 
-Adoni-zedek formed an alliance with four other Amorite kings: Hoham of Hebron, Piram of Jarmuth, Japhia of Lachish, and Debir of Eglon. Together, they attacked Gibeon to punish them for making peace with Israel \([[Josh.10.3|Joshua 10:3]]-4\). 
+Adoni-zedek formed an alliance with four other Amorite kings: Hoham of Hebron, Piram of Jarmuth, Japhia of Lachish, and Debir of Eglon. Together, they attacked Gibeon to punish them for making peace with Israel \([[Josh.10.3|Joshua 10:3-4]]\). 
 
-The Gibeonites sent word to Joshua, requesting help, and Joshua marched all night with his army to come to their aid. In the ensuing battle, the Lord threw the Amorite kings into confusion, and Israel defeated them with a great slaughter. The five kings fled and hid in a cave at Makkedah \(Joshua 10:5-16\). 
+The Gibeonites sent word to Joshua, requesting help, and Joshua marched all night with his army to come to their aid. In the ensuing battle, the Lord threw the Amorite kings into confusion, and Israel defeated them with a great slaughter. The five kings fled and hid in a cave at Makkedah \([[Josh.10.5|Joshua 10:5-16]]\). 
 
-Joshua commanded that the cave be sealed until the battle was finished. After the victory, he brought the five kings out of the cave, and the Israelite commanders put their feet on the kings' necks, symbolizing their complete defeat. Joshua then struck and killed the kings, hanging their bodies on trees until evening \([[Josh.10.1|Joshua 10:1]]7-27\). 
+Joshua commanded that the cave be sealed until the battle was finished. After the victory, he brought the five kings out of the cave, and the Israelite commanders put their feet on the kings' necks, symbolizing their complete defeat. Joshua then struck and killed the kings, hanging their bodies on trees until evening \([[Josh.10.17|Joshua 10:17-27]]\). 
 
 The defeat of Adoni-zedek and the other Amorite kings was a significant victory for Israel, demonstrating God's power and faithfulness in giving them the Promised Land. It also served as a warning to the other Canaanite kings who would oppose Israel's advance.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Adoni-zedek | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ד</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>־<span class='tipnrLangHebrew'>צ</span>ֶ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ק</span>](H0139) | 2x | [[Jos.10.1] & [Jos.10.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adoni\*\|reference=Jos.10.1;Jos.10.3) |
+
 All entries for **Adoni-zedek**:  **<big>[[H0139|אֲדֹנִי־צֶדֶק]]</big>**

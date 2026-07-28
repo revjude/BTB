@@ -9,11 +9,9 @@ Man living at the time ofExile and return
 -  father of Mattathias **<big>[[G3161|Ματταθίας]]</big>**.
 
 Amos is mentioned in [[Luke.3.25|Luke 3:25]] as an ancestor of Jesus Christ in his genealogy. He was the son of Naum.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Amos | [<span class='tipnrLangGreek'>Ἀμώς</span>](G0301G) | 1x | [Luk.3.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Amos\*\|reference=Luk.3.25) |
+
 All entries for **Amos**:  **<big>[[G0301|Ἀμώς]]</big>**
+
 #### Related Profiles:
 - **[Nahum](G3486)** (father)
 - **[Mattathias](G3161G)** (child)

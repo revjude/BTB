@@ -9,11 +9,9 @@ Edomite living at the time of the Patriarchs
 - a brother of Teman **<big>[[H8487|תֵּימָן]]</big>**, Omar **<big>[[H0201|אוֹמָר]]</big>**, Zepho **<big>[[H6825|צְפוֹ]]</big>**, Gatam **<big>[[H1609|גַּעְתָּם]]</big>**, Kenaz **<big>[[H7073|קְנַז]]</big>** and Amalek **<big>[[H6002|עֲמָלֵק]]</big>**.
 
 Korah was an Edomite chief, a descendant of Eliphaz, the son of Esau \([[Gen.36.16|Gen.36.16]]\). He was one of the clan leaders of Edom.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Korah | [<span class='tipnrLangHebrew'>ק</span>ֹ֫<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ח</span>](H7141H) | 1x | [Gen.36.16 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Korah\*\|reference=Gen.36.16) |
+
 All entries for **Korah**:  **<big>[[H7141|קֹרַח]]</big>**
+
 #### Related Profiles:
 - **[Eliphaz](H0464G)** (father)
 - **[a_wife_of_Eliphaz](H0464I)** (mother)

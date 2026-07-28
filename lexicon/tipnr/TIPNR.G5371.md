@@ -11,9 +11,5 @@ Philemon was a Christian from the city of Colossae to whom the Apostle Paul wrot
 In the letter, Paul appeals to Philemon to receive Onesimus back, not as a slave, but as a beloved brother in Christ. Paul emphasizes the transformation that has taken place in Onesimus' life and urges Philemon to demonstrate forgiveness and reconciliation. 
 
 Although the specific outcome of Paul's request is not recorded in the Bible, the letter provides valuable insights into the early Christian church's approach to social issues, such as slavery, and the transformative power of the gospel in personal relationships. The letter also demonstrates Paul's pastoral concern for both Onesimus and Philemon and his desire to see the principles of Christian love and unity applied in their situation.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Philemon | [<span class='tipnrLangGreek'>Φιλήμων</span>](G5371) | 1x | [Phm.1.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Philemon\*\|reference=Phm.1.1) |
-| [ ] (KJV= Philemon) | [<span class='tipnrLangGreek'>Φιλήμων</span>](G5371) | 1x | [Phm.1.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|reference=Phm.1.25) |
+
 All entries for **Philemon**:  **<big>[[G5371|Φιλήμων]]</big>**

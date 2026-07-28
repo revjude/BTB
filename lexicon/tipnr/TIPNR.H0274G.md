@@ -8,18 +8,16 @@ King living at the time of Divided Monarchy
 -  son of Ahab **<big>[[H0256|אַחְאָב]]</big>** and Jezebel **<big>[[H0348|אִיזֶבֶל]]</big>**; 
 - a brother of Joash **<big>[[H3101|יוֹאָשׁ]]</big>**, Joram **<big>[[H3141|יוֹרָם]]</big>** and Athaliah **<big>[[H6271|עֲתַלְיָה]]</big>**.
 
-Ahaziah was the son of Ahab and the eighth king of Israel. He reigned for two years in Samaria, doing evil in the sight of the Lord and following the ways of his father and mother, Jezebel. \([[1Kgs.22.51|1Ki.22.51]]-53\) 
+Ahaziah was the son of Ahab and the eighth king of Israel. He reigned for two years in Samaria, doing evil in the sight of the Lord and following the ways of his father and mother, Jezebel. \([[1Kgs.22.51|1Ki.22.51-53]]\) 
 
-During his reign, Ahaziah formed an alliance with Jehoshaphat, king of Judah, to build ships to go to Tarshish. However, the ships were wrecked, and the venture failed. \(1Ki.22.48-49; [[2Chr.20.35|2Ch.20.35]]-37\). 
+During his reign, Ahaziah formed an alliance with Jehoshaphat, king of Judah, to build ships to go to Tarshish. However, the ships were wrecked, and the venture failed. \([[1Kgs.22.48|1Ki.22.48-49]]; [[2Chr.20.35|2Ch.20.35-37]]\). 
 
-Ahaziah suffered a severe injury when he fell through the lattice of his upper room. He sent messengers to inquire of Baal-zebub, the god of Ekron, about his recovery. The prophet Elijah confronted the messengers and prophesied that Ahaziah would die due to his idolatry. Ahaziah sent captains with their fifties to seize Elijah, but fire from heaven consumed them. Elijah then went to Ahaziah and delivered the message of his impending death. \([[2Kgs.1.2|2Ki.1.2]]-17\) 
+Ahaziah suffered a severe injury when he fell through the lattice of his upper room. He sent messengers to inquire of Baal-zebub, the god of Ekron, about his recovery. The prophet Elijah confronted the messengers and prophesied that Ahaziah would die due to his idolatry. Ahaziah sent captains with their fifties to seize Elijah, but fire from heaven consumed them. Elijah then went to Ahaziah and delivered the message of his impending death. \([[2Kgs.1.2|2Ki.1.2-17]]\) 
 
-Ahaziah died according to the word of the Lord spoken by Elijah, and his brother Jehoram succeeded him as king, as Ahaziah had no son. \(2Ki.1.17-18\).
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Ahaziah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ַ<span class='tipnrLangHebrew'>ז</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0274G) | 7x | [[1Ki.22.40] ... [2Ch.20.37] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahaziah\*\|reference=1Ki.22.40;1Ki.22.49;1Ki.22.51;2Ki.1.2;2Ki.1.18;2Ch.20.35;2Ch.20.37) |
+Ahaziah died according to the word of the Lord spoken by Elijah, and his brother Jehoram succeeded him as king, as Ahaziah had no son. \([[2Kgs.1.17|2Ki.1.17-18]]\).
+
 All entries for **Ahaziah**:  **<big>[[H0274|אֲחַזְיָה]]</big>**
+
 #### Related Profiles:
 - **[Ahab](H0256G)** (father)
 - **[Jezebel](H0348)** (mother)

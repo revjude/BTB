@@ -10,18 +10,16 @@ Man living at the time of Egypt and Wilderness
 
 Nemuel is briefly mentioned in [[Num.26.9|Numbers 26:9]] as one of the sons of Eliab, who was a descendant of Reuben, the firstborn son of Israel \(or 'Jacob'\). This reference occurs in the context of the census taken by Moses and Eleazar in the plains of Moab, near the end of the Israelites' forty years of wandering in the wilderness. 
 
-The census was conducted to determine the number of men aged twenty and above who were able to serve in the army \(Numbers 26:2\). The results of the census were also used to allocate the land of Canaan among the tribes of Israel. 
+The census was conducted to determine the number of men aged twenty and above who were able to serve in the army \([[Num.26.2|Numbers 26:2]]\). The results of the census were also used to allocate the land of Canaan among the tribes of Israel. 
 
 In the listing of the clans and families of the tribe of Reuben, Nemuel is identified as one of the sons of Eliab, along with his brothers Dathan and Abiram. However, no further details are provided about Nemuel's life or role within the tribe. 
 
-It is worth noting that Nemuel's brothers, Dathan and Abiram, are infamously known for their rebellion against Moses and Aaron, as recorded in Numbers 16. They, along with Korah, challenged the leadership of Moses and Aaron and were ultimately punished by God for their insubordination. 
+It is worth noting that Nemuel's brothers, Dathan and Abiram, are infamously known for their rebellion against Moses and Aaron, as recorded in [[Num.16|Numbers 16]]. They, along with Korah, challenged the leadership of Moses and Aaron and were ultimately punished by God for their insubordination. 
 
 The mention of Nemuel in the genealogical record of Reuben serves to provide a complete account of the families within the tribe and to highlight the importance of lineage in the organization and inheritance of the Israelite community.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Nemuel | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>מו</span>ּ<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H5241G) | 1x | [Num.26.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nemuel\*\|reference=Num.26.9) |
+
 All entries for **Nemuel**:  **<big>[[H5241|נְמוּאֵל]]</big>**
+
 #### Related Profiles:
 - **[Eliab](H0446H)** (father)
 - **[Dathan](H1885)** (sibling)

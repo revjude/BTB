@@ -8,18 +8,16 @@ Levite living at the time of Divided Monarchy
 -  son of Heman **<big>[[H1968|הֵימָן]]</big>**; 
 - a brother of Bukkiah **<big>[[H1232|בֻּקִּיָּה]]</big>**, Mattaniah **<big>[[H4983|מַתַּנְיָה]]</big>**, Uzziel **<big>[[H5816|עֻזִּיאֵל]]</big>**, Shebuel **<big>[[H7619|שְׁבוּאֵל]]</big>**, Jerimoth **<big>[[H3406|יְרִימוֹת]]</big>**, Hananiah **<big>[[H2608|חֲנַנְיָה]]</big>**, Hanani **<big>[[H2607|חֲנָנִי]]</big>**, Eliathah **<big>[[H0448|אֱלִיאָתָה]]</big>**, Giddalti **<big>[[H1437|גִּדַּלְתִּי]]</big>**, Romamti-ezer **<big>[[H7320|רוֹמַמְתִּי עֶזֶר]]</big>**, Joshbekashah **<big>[[H3436|יׇשְׁבְּקָשָׁה]]</big>**, Mallothi **<big>[[H4413|מַלּוֹתִי]]</big>**, Mahazioth **<big>[[H4238|מַחֲזִיאוֹת]]</big>**.
 
-Hothir is mentioned in [[1Chr.25.4|1 Chronicles 25:4]] and 25:28 as one of the sons of Heman, a prominent musician and prophet in King David's court. Heman, along with Asaph and Jeduthun, was appointed by David to lead the music and worship in the temple \(1 Chronicles 25:1\). 
+Hothir is mentioned in [[1Chr.25.4|1 Chronicles 25:4]] and 25:28 as one of the sons of Heman, a prominent musician and prophet in King David's court. Heman, along with Asaph and Jeduthun, was appointed by David to lead the music and worship in the temple \([[1Chr.25.1|1 Chronicles 25:1]]\). 
 
-Hothir was one of Heman's fourteen sons, all of whom were set apart for the ministry of music in the temple. They were described as "under the supervision of their father Heman, the king's seer, in the music of the temple of the Lord" \(1 Chronicles 25:6\). 
+Hothir was one of Heman's fourteen sons, all of whom were set apart for the ministry of music in the temple. They were described as "under the supervision of their father Heman, the king's seer, in the music of the temple of the Lord" \([[1Chr.25.6|1 Chronicles 25:6]]\). 
 
 In [[1Chr.25.28|1 Chronicles 25:28]], Hothir is mentioned again in the context of the division of the musicians into twenty-four groups, each responsible for serving in the temple for a specific period. Hothir and his sons and relatives were assigned the twenty-first turn of service. 
 
 The inclusion of Hothir and his family in the temple music ministry highlights the importance of worship and the role of music in ancient Israelite culture. It also demonstrates the organization and structure of the temple service during the reign of King David.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Hothir | [<span class='tipnrLangHebrew'>הו</span>ֹ<span class='tipnrLangHebrew'>ת</span>ִ<span class='tipnrLangHebrew'>יר</span>](H1956) | 2x | [[1Ch.25.4] & [1Ch.25.28] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hothir\*\|reference=1Ch.25.4;1Ch.25.28) |
+
 All entries for **Hothir**:  **<big>[[H1956|הוֹתִיר]]</big>**
+
 #### Related Profiles:
 - **[Heman](H1968I)** (father)
 - **[Bukkiah](H1232)** (sibling)

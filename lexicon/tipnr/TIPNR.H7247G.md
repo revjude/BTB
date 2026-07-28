@@ -1,14 +1,12 @@
 <small>*Riblah\_2 • Place on the eastern border of the Promised Land*</small>
 
-<span class='tipnrhighlight'>Riblah</span> was a place mentioned in the description of the eastern border of the Promised Land \(Num. 34:11\).
+<span class='tipnrhighlight'>Riblah</span> was a place mentioned in the description of the eastern border of the Promised Land \([[Num.34.11|Num. 34:11]]\).
 - A location near Ain **<big>[[H5871|עַיִן]]</big>** only mentioned at [[Num.34.11|Num.34.11]]; 
-- only referred to as Riblah **<big>[[H7247|רִבְלָה]]</big>**.
-<br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=34.353071,36.385705&zoom=10&maptype=satellite"></iframe>
+- only referred to as Riblah **<big>[[H7247|רִבְלָה]]</big>**.<br>
+
+<iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=34.353071,36.385705&zoom=10&maptype=satellite"></iframe>
 
 
-Riblah is mentioned in the Bible as a place on the eastern border of the Promised Land, as described in the book of Numbers. It is listed between Shepham and the Sea of Chinnereth \(Galilee\) \(Num. 34:11\). The exact location of this Riblah is uncertain, but it was likely situated in the region east of the Jordan River, in modern-day Syria or Lebanon. It should not be confused with the more well-known Riblah in the land of Hamath, where the Babylonians set up their headquarters during their campaigns against Judah \(2 Ki. 23:33; 25:6, 20-21; Jer. 39:5-6; 52:9-10, 26-27\).
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Riblah | [<span class='tipnrLangHebrew'>ר</span>ִ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>ה</span>](H7247G) | 1x | [Num.34.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Riblah\*\|reference=Num.34.11) |
+Riblah is mentioned in the Bible as a place on the eastern border of the Promised Land, as described in the book of Numbers. It is listed between Shepham and the Sea of Chinnereth \(Galilee\) \([[Num.34.11|Num. 34:11]]\). The exact location of this Riblah is uncertain, but it was likely situated in the region east of the Jordan River, in modern-day Syria or Lebanon. It should not be confused with the more well-known Riblah in the land of Hamath, where the Babylonians set up their headquarters during their campaigns against Judah \([[2Kgs.23.33|2 Ki. 23:33]]; [[2Kgs.25.6|25:6]], [[2Kgs.25.20|20-21]]; [[Jer.39.5|Jer. 39:5-6]]; [[Jer.52.9|52:9-10]], [[Jer.52.26|26-27]]\).
+
 All entries for **Riblah**:  **<big>[[H7247|רִבְלָה]]</big>**

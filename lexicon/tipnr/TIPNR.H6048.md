@@ -11,8 +11,5 @@ Anammelech was an Assyrian deity mentioned in the Bible as one of the gods worsh
 The worship of Anammelech involved child sacrifice, as the Sepharvites were known to "burn their children in the fire" as part of their religious practices. This abhorrent act was strongly condemned by God and was one of the reasons for His judgment against the foreign nations who had been settled in Samaria. 
 
 The name "Anammelech" is believed to mean "Anu is king" or "Anu is prince," referring to the Mesopotamian sky god Anu. This connection suggests that Anammelech may have been a local deity or a manifestation of Anu worshiped by the Sepharvites. The worship of foreign gods, including Anammelech, was a violation of God's covenant with Israel and demonstrated the syncretistic practices that led to the downfall of the Northern Kingdom.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Anammelech (NIV= Anammelek) | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>נ</span>ַ<span class='tipnrLangHebrew'>מ</span>ֶּ֫<span class='tipnrLangHebrew'>ל</span>ֶ<span class='tipnrLangHebrew'>ך</span>ְ](H6048) | 1x | [2Ki.17.31 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Anammelech\*\|reference=2Ki.17.31) |
+
 All entries for **Anammelech**:  **<big>[[H6048|עֲנַמֶּלֶךְ]]</big>**

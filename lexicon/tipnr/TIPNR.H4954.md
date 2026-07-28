@@ -11,8 +11,5 @@ The Mishraites are mentioned in [[1Chr.2.53|1 Chronicles 2:53]] as one of the cl
 Apart from being listed as a clan descended from Shobal, no additional information is given about the Mishraites. The genealogy does not specify any notable individuals within the clan or provide details about their specific roles, occupations, or contributions to the tribe of Judah. 
 
 The mention of the Mishraites in this genealogical context serves to highlight the complex family structures within the tribe of Judah and the importance of tracing lineage in ancient Israelite society. It also demonstrates the thoroughness of the chronicler in recording even the smaller clans and families within the larger tribal framework, preserving their names and place in history.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Mishraite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>י</span>](H4954) | 1x | [1Ch.2.53 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mishraite\*\|reference=1Ch.2.53) |
+
 All entries for **Mishraites**:  **<big>[[H4954|מִשְׁרָעִי]]</big>**

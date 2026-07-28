@@ -8,10 +8,8 @@ Man living at the time of Exile and Return
 - father of Zabdiel **<big>[[H2068|זַבְדִּיאֵל]]</big>**.
 
 Haggedolim is mentioned briefly in [[Neh.11.14|Nehemiah 11:14]] as one of the priests who lived in Jerusalem during the time of Nehemiah, after the Babylonian exile. He is described as a leader among his fellow priests. The name Haggedolim means "the great ones" or "the mighty ones" in Hebrew.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Haggedolim (KJV= the great man) | [<span class='tipnrLangHebrew'>ג</span>ָּ<span class='tipnrLangHebrew'>דו</span>ֹ<span class='tipnrLangHebrew'>ל</span>](H1419B) | 1x | [Neh.11.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Haggedolim\*\|reference=Neh.11.14) |
+
 All entries for **Haggedolim**:  **<big>[[H1419|גָּדוֹל]]</big>**
+
 #### Related Profiles:
 - **[Zabdiel](H2068H)** (child)

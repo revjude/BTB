@@ -16,10 +16,8 @@ As an overseer of the royal treasuries, Adiel would have been a trusted official
 No further details are provided about Adiel's background, his family, or any specific events or challenges he may have faced in his role as an overseer of the treasuries. His mention in the list of David's officials serves to highlight the structure and organization of the kingdom during David's reign and the importance of capable administrators in managing the kingdom's resources. 
 
 The fact that Adiel is specifically named in this context suggests that he was a notable figure in David's administration, entrusted with a significant responsibility in overseeing the royal treasuries.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Adiel | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H5717I) | 1x | [1Ch.27.25 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adiel\*\|reference=1Ch.27.25) |
+
 All entries for **Adiel**:  **<big>[[H5717|עֲדִיאֵל]]</big>**
+
 #### Related Profiles:
 - **[Azmaveth](H5820J)** (child)

@@ -8,10 +8,8 @@ Man living at the time of United Monarchy
 -  father of Jashobeam **<big>[[H3434|יָשׇׁבְעָם]]</big>**.
 
 Zabdiel is mentioned as the father of Jashobeam, who was a commander in King David's army. Jashobeam was in charge of the first division of 24,000 men, serving the king in the first month of each year. He is described as a mighty warrior and a leader among David's "Thirty" elite soldiers. Zabdiel's son played a significant role in maintaining the military strength and security of David's kingdom, although no further details are provided about Zabdiel himself.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Zabdiel | [<span class='tipnrLangHebrew'>ז</span>ַ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ד</span>ִּ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H2068G) | 1x | [1Ch.27.2 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Zabdiel\*\|reference=1Ch.27.2) |
+
 All entries for **Zabdiel**:  **<big>[[H2068|זַבְדִּיאֵל]]</big>**
+
 #### Related Profiles:
 - **[Jashobeam](H3434G)** (child)

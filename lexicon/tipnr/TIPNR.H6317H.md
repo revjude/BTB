@@ -10,11 +10,9 @@ The <span class='tipnrhighlight'>daughter of Putiel</span> was the wife of Eleaz
 -  mother of Phinehas **<big>[[H6372|פִּינְחָס]]</big>**.
 
 Daughter of Putiel The daughter of Putiel, whose name is not given in the biblical text, was the wife of Eleazar, the son of Aaron the priest \([[Exod.6.25|Exodus 6:25]]\). Eleazar was one of the first priests of Israel, serving alongside his father Aaron and his brothers Nadab, Abihu, and Ithamar. The only information provided about Putiel's daughter is her marriage to Eleazar, which highlights the priestly lineage of Aaron's family.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| daughter\ of\ Putiel | [.](H6317H) | 1x | [Exo.6.25 ⌕](https://www.stepbible.org/?q=reference=Exo.6.25) |
+
 All entries for **daughter of Putiel**:  **<big>[[H6317|פּוּטִיאֵל]]</big>**
+
 #### Related Profiles:
 - **[Putiel](H6317G)** (father)
 - **[Eleazar](H0499G)** (spouse)

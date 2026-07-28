@@ -9,11 +9,9 @@ The <span class='tipnrhighlight'>daughter of Meshullam</span> was married to Jeh
 - wife of Jehohanan **<big>[[H3076|יְהוֹחָנָן]]</big>**.
 
 The daughter of Meshullam is mentioned in [[Neh.6.18|Nehemiah 6:18]] as the wife of Jehohanan, the son of Tobiah the Ammonite. Tobiah was one of the adversaries who opposed Nehemiah's efforts to rebuild the walls of Jerusalem. The marriage between Meshullam's daughter and Tobiah's son highlights the complex relationships and alliances that existed among the Jewish nobles and their neighboring tribes. This connection likely contributed to the challenges Nehemiah faced in his mission to restore Jerusalem and its community.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| daughter\ of\ Meshullam | [.](H4918z) | 1x | [Neh.6.18 ⌕](https://www.stepbible.org/?q=reference=Neh.6.18) |
+
 All entries for **daughter of Meshullam**:  **<big>[[H4918|מְשֻׁלָּם]]</big>**
+
 #### Related Profiles:
 - **[Meshullam](H4918R)** (father)
 - **[Jehohanan](H3076O)** (spouse)

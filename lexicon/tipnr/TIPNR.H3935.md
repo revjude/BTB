@@ -10,11 +10,9 @@ Man living at the time of Egypt and Wilderness
 -  father or founder of Mareshah **<big>[[H4762|מַרְאֵשָׁה]]</big>**.
 
 Laadah was a son of Shelah and a descendant of Judah \([[1Chr.4.21|1Ch.4.21]]\). He is mentioned in the genealogy of Judah, specifically in the family line of Shelah. Laadah was likely born in the land of Canaan during the period of the patriarchs or the early settlement of the tribes.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Laadah | [<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ע</span>ְ<span class='tipnrLangHebrew'>ד</span>ָּ<span class='tipnrLangHebrew'>ה</span>](H3935) | 1x | [1Ch.4.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Laadah\*\|reference=1Ch.4.21) |
+
 All entries for **Laadah**:  **<big>[[H3935|לַעְדָּה]]</big>**
+
 #### Related Profiles:
 - **[Shelah](H7956)** (father)
 - **[Er](H6147H)** (sibling)

@@ -11,8 +11,5 @@ Sotai is mentioned in [[Ezra.2.55|Ezra 2:55]] and [[Neh.7.57|Nehemiah 7:57]] as 
 The descendants of Sotai are listed among the exiles who returned to Jerusalem under the leadership of Zerubbabel, the governor of Judah, and Jeshua, the high priest. This return took place around 538 BC, after the Persian king Cyrus issued a decree allowing the Jews to return to their homeland and rebuild the temple in Jerusalem. 
 
 The mention of Sotai and his descendants in the lists of returning exiles highlights the importance of maintaining family records and genealogies among the Israelites, even during the Babylonian captivity. It also shows that not only the prominent families but also the servants and workers were included in the return to Jerusalem and the rebuilding of the Jewish community.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Sotai | [<span class='tipnrLangHebrew'>סו</span>ֹ<span class='tipnrLangHebrew'>ט</span>ַ<span class='tipnrLangHebrew'>י</span>](H5479) | 2x | [[Ezr.2.55] & [Neh.7.57] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Sotai\*\|reference=Ezr.2.55;Neh.7.57) |
+
 All entries for **Sotai**:  **<big>[[H5479|סוֹטַי]]</big>**

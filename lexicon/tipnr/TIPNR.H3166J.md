@@ -7,17 +7,15 @@ Man living at the time of Divided Monarchy
 - only referred to as Jahaziel **<big>[[H3166|יַחֲזִיאֵל]]</big>**; 
 - a son of Zechariah **<big>[[H2148|זְכַרְיָה]]</big>**.
 
-Jahaziel, son of Zechariah, is mentioned in [[2Chr.20.14|2 Chronicles 20:14]] as a Levite who prophesied during the reign of King Jehoshaphat of Judah. When Jehoshaphat and his people were faced with a great multitude of enemies from Ammon, Moab, and Mount Seir, they gathered to seek the Lord's help \(2Ch.20.1-13\). 
+Jahaziel, son of Zechariah, is mentioned in [[2Chr.20.14|2 Chronicles 20:14]] as a Levite who prophesied during the reign of King Jehoshaphat of Judah. When Jehoshaphat and his people were faced with a great multitude of enemies from Ammon, Moab, and Mount Seir, they gathered to seek the Lord's help \([[2Chr.20.1|2Ch.20.1-13]]\). 
 
-As the people were assembled before the Lord, the Spirit of the Lord came upon Jahaziel, who was a descendant of Asaph, a prominent Levitical musician and psalmist \(1Ch.6.39\). In the midst of the assembly, Jahaziel delivered a prophetic message, assuring Jehoshaphat and the people of Judah that the battle belonged to the Lord and that they would not need to fight in this battle \(2Ch.20.15-17\). 
+As the people were assembled before the Lord, the Spirit of the Lord came upon Jahaziel, who was a descendant of Asaph, a prominent Levitical musician and psalmist \([[1Chr.6.39|1Ch.6.39]]\). In the midst of the assembly, Jahaziel delivered a prophetic message, assuring Jehoshaphat and the people of Judah that the battle belonged to the Lord and that they would not need to fight in this battle \([[2Chr.20.15|2Ch.20.15-17]]\). 
 
-Jahaziel's prophecy encouraged Jehoshaphat and the people, who responded with worship and praise to the Lord \(2Ch.20.18-19\). The following day, as they went out to face their enemies, Jehoshaphat appointed singers to praise the Lord, and as they began to sing and praise, the Lord set ambushes against their enemies, causing them to be defeated \(2Ch.20.20-24\). 
+Jahaziel's prophecy encouraged Jehoshaphat and the people, who responded with worship and praise to the Lord \([[2Chr.20.18|2Ch.20.18-19]]\). The following day, as they went out to face their enemies, Jehoshaphat appointed singers to praise the Lord, and as they began to sing and praise, the Lord set ambushes against their enemies, causing them to be defeated \([[2Chr.20.20|2Ch.20.20-24]]\). 
 
 The prophecy of Jahaziel played a crucial role in this victory, as it reassured the people of God's presence and power, and encouraged them to trust in Him. As a Levite and descendant of Asaph, Jahaziel's prophetic role highlights the diverse ways in which the Levites served in the worship and guidance of the people of Israel.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Jahaziel | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3166J) | 1x | [2Ch.20.14 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jahaziel\*\|reference=2Ch.20.14) |
+
 All entries for **Jahaziel**:  **<big>[[H3166|יַחֲזִיאֵל]]</big>**
+
 #### Related Profiles:
 - **[Zechariah](H2148I)** (father)

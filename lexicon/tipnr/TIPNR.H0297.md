@@ -15,14 +15,9 @@ In the census taken in the wilderness, the descendants of Ahiram are listed as t
 The variations in his name \(Aharah in [[1Chr.8.1|1 Chronicles 8:1]] and Ehi in [[Gen.46.21|Genesis 46:21]]\) may be due to different traditions or textual transmissions. However, all three names refer to the same individual, a son of Benjamin. 
 
 Apart from being mentioned in the genealogies, no further details about Ahiram's life or specific role within the tribe of Benjamin are provided in the biblical text. His significance lies in his place in the family line of Benjamin and his role as the progenitor of the Ahiramite clan.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Ahiram | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יר</span>ָ<span class='tipnrLangHebrew'>ם</span>](H0297) | 1x | [Num.26.38 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahiram\*\|reference=Num.26.38) |
-| Ahiramite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יר</span>ָ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>י</span>](H0298) | 1x | [Num.26.38 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahiramite\*\|reference=Num.26.38) |
-| Aharah | [<span class='tipnrLangHebrew'>א</span>ַ<span class='tipnrLangHebrew'>ח</span>ְ<span class='tipnrLangHebrew'>ר</span>ַ<span class='tipnrLangHebrew'>ח</span>](H0315) | 1x | [1Ch.8.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Aharah\*\|reference=1Ch.8.1) |
-| Ehi | [<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>י</span>](H0278) | 1x | [Gen.46.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ehi\*\|reference=Gen.46.21) |
+
 All entries for **Ahiram or Aharah or Ehi**:  **<big>[[H0297|אֲחִירָם]]</big>** ☩  **<big>[[H0298|אֲחִירָמִי]]</big>** ☩  **<big>[[H0315|אַחְרַח]]</big>** ☩  **<big>[[H0278|אֵחִי]]</big>**
+
 #### Related Profiles:
 - **[Benjamin](H1144G)** (father)
 - **[Bela](H1106A)** (sibling)

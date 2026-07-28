@@ -9,12 +9,10 @@ Man living before Israel's Monarchy
 -  half-brother of: Ram **<big>[[H7410|רָם]]</big>**, Jerahmeel **<big>[[H3396|יְרַחְמְאֵל]]</big>**, Caleb **<big>[[H3612|כָּלֵב]]</big>** and Ashhur **<big>[[H0806|אַשְׁחוּר]]</big>**; 
 -  father of Jair **<big>[[H2971|יָאִיר]]</big>**.
 
-Segub, mentioned in [[1Chr.2.21|1 Chronicles 2:21]]-22, was the son of Hezron and the father of Jair. Hezron, at the age of sixty, married the daughter of Machir, the father of Gilead. This marriage produced Segub. Segub's son, Jair, became a prominent figure who possessed twenty-three cities in the land of Gilead. The passage highlights the genealogical connection between Hezron, Segub, and Jair, emphasizing Jair's significance as a possessor of many cities in Gilead. This information is part of the larger genealogical record of the tribe of Judah.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Segub | [<span class='tipnrLangHebrew'>ש</span>ְׂ<span class='tipnrLangHebrew'>גו</span>ּ<span class='tipnrLangHebrew'>ב</span>](H7687H) | 2x | [[1Ch.2.21] & [1Ch.2.22] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Segub\*\|reference=1Ch.2.21;1Ch.2.22) |
+Segub, mentioned in [[1Chr.2.21|1 Chronicles 2:21-22]], was the son of Hezron and the father of Jair. Hezron, at the age of sixty, married the daughter of Machir, the father of Gilead. This marriage produced Segub. Segub's son, Jair, became a prominent figure who possessed twenty-three cities in the land of Gilead. The passage highlights the genealogical connection between Hezron, Segub, and Jair, emphasizing Jair's significance as a possessor of many cities in Gilead. This information is part of the larger genealogical record of the tribe of Judah.
+
 All entries for **Segub**:  **<big>[[H7687|שְׂגוּב]]</big>**
+
 #### Related Profiles:
 - **[Hezron](H2696H)** (father)
 - **[daughter_of_Machir](H4353I)** (mother)

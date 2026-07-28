@@ -7,8 +7,5 @@ Man living at the time of Exile and Return
 - only referred to as Jeuel **<big>[[H3273|יְעִיאֵל]]</big>**.
 
 Jeuel is briefly mentioned in [[Ezra.8.13|Ezra 8:13]] as one of the descendants of Adonikam who returned to Jerusalem from Babylonian exile. He is listed among the men who accompanied Ezra on his journey to Jerusalem, which took place during the reign of King Artaxerxes of Persia.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Jeuel (KJV= Jeiel) | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>יא</span>ֵ<span class='tipnrLangHebrew'>ל</span>](H3273N) | 1x | [Ezr.8.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jeuel\*\|reference=Ezr.8.13) |
+
 All entries for **Jeuel**:  **<big>[[H3273|יְעִיאֵל]]</big>**

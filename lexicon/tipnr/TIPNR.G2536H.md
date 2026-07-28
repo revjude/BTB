@@ -8,13 +8,10 @@ Man living at the time before the Flood
 - a son of Enosh **<big>[[H0583|אֱנוֹשׁ]]</big>**; 
 -  father of Mahalalel **<big>[[H4111|מַהֲלַלְאֵל]]</big>**.
 
-Kenan, also known as Cainan, was a descendant of Seth, the third son of Adam and Eve \(Gen. 5:9, 10, 12, 13, 14; 1 Chr. 1:2; [[Luke.3.37|Luke 3:37]]\). He was the son of Enosh and the father of Mahalalel. The genealogy in Genesis 5 provides the ages at which Kenan and other pre-flood patriarchs had children and the total length of their lives. Kenan was 70 years old when he became the father of Mahalalel, and he lived a total of 910 years \(Gen. 5:12-14\). The long lifespans of the pre-flood patriarchs are a distinctive feature of this genealogy and may indicate a different environment or a closer genetic connection to the original creation. Kenan's inclusion in the genealogies of both Genesis and 1 Chronicles highlights the importance of tracing the lineage from Adam to Noah, and ultimately to Abraham, the father of the Israelites. His name also appears in the genealogy of Jesus Christ in [[Luke.3.37|Luke 3:37]], emphasizing the connection between Jesus and the ancestral line of humanity.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Kenan (KJV= Cainan) | [<span class='tipnrLangHebrew'>ק</span>ֵ<span class='tipnrLangHebrew'>ינ</span>ָ<span class='tipnrLangHebrew'>ן</span>](H7018) | 6x | [[Gen.5.9] ... [1Ch.1.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kenan\*\|reference=Gen.5.9;Gen.5.10;Gen.5.12;Gen.5.13;Gen.5.14;1Ch.1.2) |
-| Cainan (KJV= Kenan) | [<span class='tipnrLangGreek'>Κα</span>ϊ<span class='tipnrLangGreek'>νάν</span>, <span class='tipnrLangGreek'>Κα</span>ϊ<span class='tipnrLangGreek'>νάμ</span>](G2536H) | 1x | [Luk.3.37 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Cainan\*\|reference=Luk.3.37) |
+Kenan, also known as Cainan, was a descendant of Seth, the third son of Adam and Eve \([[Gen.5.9|Gen. 5:9]], [[Gen.5.10|10]], [[Gen.5.12|12]], [[Gen.5.13|13]], [[Gen.5.14|14]]; [[1Chr.1.2|1 Chr. 1:2]]; [[Luke.3.37|Luke 3:37]]\). He was the son of Enosh and the father of Mahalalel. The genealogy in [[Gen.5|Genesis 5]] provides the ages at which Kenan and other pre-flood patriarchs had children and the total length of their lives. Kenan was 70 years old when he became the father of Mahalalel, and he lived a total of 910 years \([[Gen.5.12|Gen. 5:12-14]]\). The long lifespans of the pre-flood patriarchs are a distinctive feature of this genealogy and may indicate a different environment or a closer genetic connection to the original creation. Kenan's inclusion in the genealogies of both Genesis and 1 Chronicles highlights the importance of tracing the lineage from Adam to Noah, and ultimately to Abraham, the father of the Israelites. His name also appears in the genealogy of Jesus Christ in [[Luke.3.37|Luke 3:37]], emphasizing the connection between Jesus and the ancestral line of humanity.
+
 All entries for **Kenan or Cainan**:  **<big>[[H7018|קֵינָן]]</big>** ☩  **<big>[[G2536|Καϊνάν]]</big>**
+
 #### Related Profiles:
 - **[Enosh](H0583)** (father)
 - **[Mahalalel](H4111G)** (child)

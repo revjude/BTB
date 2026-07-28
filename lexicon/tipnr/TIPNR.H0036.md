@@ -10,12 +10,10 @@ Man living at the time of Divided Monarchy
 
 Abitub is mentioned briefly in [[1Chr.8.11|1 Chronicles 8:11]] as one of the sons of Shaharaim, a descendant of Benjamin. Shaharaim had two wives, Hushim and Baara, and Abitub is listed among the children born to him in the land of Moab after he had sent away his previous wives. 
 
-The genealogy in 1 Chronicles 8 traces the descendants of Benjamin, providing insight into the growth and development of the tribe. However, no further details are given about Abitub's life, his role within the tribe, or any significant events or accomplishments associated with him. His mention serves primarily to document the lineage of the Benjaminites.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Abitub | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ב</span>ִ<span class='tipnrLangHebrew'>יטו</span>ּ<span class='tipnrLangHebrew'>ב</span>](H0036) | 1x | [1Ch.8.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Abitub\*\|reference=1Ch.8.11) |
+The genealogy in [[1Chr.8|1 Chronicles 8]] traces the descendants of Benjamin, providing insight into the growth and development of the tribe. However, no further details are given about Abitub's life, his role within the tribe, or any significant events or accomplishments associated with him. His mention serves primarily to document the lineage of the Benjaminites.
+
 All entries for **Abitub**:  **<big>[[H0036|אֲבִיטוּב]]</big>**
+
 #### Related Profiles:
 - **[Shaharaim](H7842)** (father)
 - **[Hushim](H2366A)** (mother)

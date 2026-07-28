@@ -13,11 +13,9 @@ Hodesh is mentioned in [[1Chr.8.9|1 Chronicles 8:9]] as one of the wives of Shah
 The passage lists the children born to Shaharaim and Hodesh, including Jobab, Zibia, Mesha, Malcam, Jeuz, Sachia, and Mirmah. These sons were described as heads of their families, indicating that they became leaders within the tribe of Benjamin. 
 
 The mention of Hodesh in this genealogy highlights the importance of family lineage and the role of women in the history of Israel. Although little is known about Hodesh herself, her inclusion in the biblical record signifies her contribution to the growth and development of the Benjamite clan.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Hodesh | [<span class='tipnrLangHebrew'>ח</span>ֹ֫<span class='tipnrLangHebrew'>ד</span>ֶ<span class='tipnrLangHebrew'>ש</span>ׁ](H2321) | 1x | [1Ch.8.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hodesh\*\|reference=1Ch.8.9) |
+
 All entries for **Hodesh**:  **<big>[[H2321|חֹדֶשׁ]]</big>**
+
 #### Related Profiles:
 - **[Shaharaim](H7842)** (spouse)
 - **[Jobab](H3103J)** (child)

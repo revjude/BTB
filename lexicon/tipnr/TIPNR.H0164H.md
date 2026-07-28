@@ -12,12 +12,10 @@ Ehud is mentioned briefly in [[1Chr.7.10|1 Chronicles 7:10]] as one of the sons 
 
 The name Ehud means "united" or "strong" in Hebrew. Apart from this genealogical reference, no other details about this particular Ehud are provided in the Bible. 
 
-It is important to note that this Ehud is not the same person as the judge Ehud, son of Gera, who is mentioned in Judges 3:12-30. The judge Ehud delivered Israel from the oppression of the Moabites, but he is not the same individual as the Ehud mentioned in the genealogy of Benjamin in 1 Chronicles 7.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Ehud | [<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>הו</span>ּ<span class='tipnrLangHebrew'>ד</span>](H0164H) | 1x | [1Ch.7.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ehud\*\|reference=1Ch.7.10) |
+It is important to note that this Ehud is not the same person as the judge Ehud, son of Gera, who is mentioned in [[Judg.3.12|Judges 3:12-30]]. The judge Ehud delivered Israel from the oppression of the Moabites, but he is not the same individual as the Ehud mentioned in the genealogy of Benjamin in [[1Chr.7|1 Chronicles 7]].
+
 All entries for **Ehud**:  **<big>[[H0164|אֵהוּד]]</big>**
+
 #### Related Profiles:
 - **[Bilhan](H1092H)** (father)
 - **[Jeush](H3266H)** (sibling)

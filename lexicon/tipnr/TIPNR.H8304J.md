@@ -9,12 +9,10 @@ Man living before Israel's Monarchy
 - a brother of Othniel **<big>[[H6274|עׇתְנִיאֵל]]</big>**; 
 -  father of Joab **<big>[[H3097|יוֹאָב]]</big>**.
 
-Seraiah, mentioned in [[1Chr.4.13|1 Chronicles 4:13]]-14, was the son of Kenaz and the father of Joab. He is listed in the genealogy of the tribe of Judah. Seraiah's son, Joab, is described as the father of Ge-harashim, which means "Valley of Craftsmen." This suggests that Joab and his descendants were skilled artisans or craftsmen, possibly renowned for their expertise in a particular trade. The mention of Seraiah and Joab in this genealogical record highlights the importance of family lineage and occupational heritage within the tribe of Judah.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Seraiah | [<span class='tipnrLangHebrew'>ש</span>ְׂ<span class='tipnrLangHebrew'>ר</span>ָ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>הו</span>ּ](H8304J) | 2x | [[1Ch.4.13] & [1Ch.4.14] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Seraiah\*\|reference=1Ch.4.13;1Ch.4.14) |
+Seraiah, mentioned in [[1Chr.4.13|1 Chronicles 4:13-14]], was the son of Kenaz and the father of Joab. He is listed in the genealogy of the tribe of Judah. Seraiah's son, Joab, is described as the father of Ge-harashim, which means "Valley of Craftsmen." This suggests that Joab and his descendants were skilled artisans or craftsmen, possibly renowned for their expertise in a particular trade. The mention of Seraiah and Joab in this genealogical record highlights the importance of family lineage and occupational heritage within the tribe of Judah.
+
 All entries for **Seraiah**:  **<big>[[H8304|שְׂרָיָה]]</big>**
+
 #### Related Profiles:
 - **[Kenaz](H7073I)** (father)
 - **[Othniel](H6274)** (sibling)

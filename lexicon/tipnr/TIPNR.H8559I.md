@@ -10,11 +10,9 @@ Absalom's daughter living at the time of United Monarchy
 -  mother of Maacah **<big>[[H4601|מַעֲכָה]]</big>**.
 
 Tamar is mentioned in [[2Sam.14.27|2 Samuel 14:27]] as the beautiful daughter of Absalom. She was likely named after Absalom's full sister Tamar, who was tragically raped by their half-brother Amnon.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Tamar | [<span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>מ</span>ָ<span class='tipnrLangHebrew'>ר</span>](H8559I) | 1x | [2Sa.14.27 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Tamar\*\|reference=2Sa.14.27) |
+
 All entries for **Tamar**:  **<big>[[H8559|תָּמָר]]</big>**
+
 #### Related Profiles:
 - **[Absalom](H0053)** (father)
 - **[Uriel](H0222I)** (spouse)

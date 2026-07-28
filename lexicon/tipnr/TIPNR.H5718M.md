@@ -15,11 +15,9 @@ The context of Adaiah's mention is the listing of the leaders and prominent figu
 Adaiah's inclusion in the genealogy of Maaseiah suggests that he was a significant figure in the family lineage, although no specific details are provided about his life or role. The mention of his name serves to establish the ancestry of Maaseiah and to highlight the importance of family lineage in the records of the post-exilic community. 
 
 As an ancestor of a prominent leader in Jerusalem, Adaiah's legacy would have been remembered and celebrated by his descendants. However, beyond this brief mention, no further information is given about his personal life or contributions to the community.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Adaiah | [<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ד</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H5718M) | 1x | [Neh.11.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adaiah\*\|reference=Neh.11.5) |
+
 All entries for **Adaiah**:  **<big>[[H5718|עֲדָיָה]]</big>**
+
 #### Related Profiles:
 - **[Joiarib](H3114I)** (father)
 - **[Hazaiah](H2382)** (child)

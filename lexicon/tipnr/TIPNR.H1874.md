@@ -13,8 +13,5 @@ In both passages, the descendants of Darkon are listed among the Nethinim who re
 The mention of Darkon's family in these lists highlights the importance of the Nethinim in the restoration of Temple worship after the exile. Although they were not Levites, they played a vital role in supporting the Temple's functions and were considered part of the Jewish community. 
 
 Apart from being named as the ancestor of a family of temple servants, no other information about Darkon himself is provided in the Bible.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Darkon | [<span class='tipnrLangHebrew'>ד</span>ַּ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>קו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H1874) | 2x | [[Ezr.2.56] & [Neh.7.58] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Darkon\*\|reference=Ezr.2.56;Neh.7.58) |
+
 All entries for **Darkon**:  **<big>[[H1874|דַּרְקוֹן]]</big>**

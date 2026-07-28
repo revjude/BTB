@@ -17,8 +17,5 @@ In [[1Chr.27.11|1 Chronicles 27:11]], Sibbecai the Hushathite is mentioned as th
 Another Hushathite, Mebunnai, is mentioned in [[2Sam.23.27|2 Samuel 23:27]] as one of David's mighty warriors. However, in the parallel passage in [[1Chr.11.29|1 Chronicles 11:29]], he is called Sibbecai, suggesting that Mebunnai may have been another name for Sibbecai or a scribal variation. 
 
 The Hushathites' repeated mention in the context of David's mighty warriors and military leaders indicates that they were a family or clan known for their skill in battle and their loyalty to the king. Their contributions to David's military success helped to establish and maintain his kingdom.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Hushathite <small>*(group)*</small> | [<span class='tipnrLangHebrew'>ח</span>ֻ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>ת</span>ִ<span class='tipnrLangHebrew'>י</span>](H2843) | 5x | [[2Sa.21.18] ... [1Ch.27.11] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hushathite\*\|reference=2Sa.21.18;2Sa.23.27;1Ch.11.29;1Ch.20.4;1Ch.27.11) |
+
 All entries for **Hushathites**:  **<big>[[H2843|חֻשָׁתִי]]</big>**

@@ -2,13 +2,11 @@
 
 <span class='tipnrhighlight'>Jeshanah</span>, a town captured by King Abijah of Judah from Jeroboam of Israel \([[2Chr.13.19|2 Chronicles 13:19]]\).
 - A location only mentioned at [[2Chr.13.19|2Ch.13.19]]; 
-- only referred to as Jeshanah **<big>[[H3466|יְשָׁנָה]]</big>**.
-<br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.980029,35.229709&zoom=10&maptype=satellite"></iframe>
+- only referred to as Jeshanah **<big>[[H3466|יְשָׁנָה]]</big>**.<br>
+
+<iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.980029,35.229709&zoom=10&maptype=satellite"></iframe>
 
 
 Jeshanah was a town that was captured by King Abijah of Judah during his war against Jeroboam, king of Israel \([[2Chr.13.19|2 Chronicles 13:19]]\). The town was taken along with Bethel and Ephron, indicating that it was likely located in the northern part of Judah, near the border with Israel. No further information about Jeshanah is provided in the Bible, and its exact location is unknown. The capture of Jeshanah, along with the other towns, was a significant victory for Abijah and demonstrated God's support for the king of Judah in the conflict against Israel.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Jeshanah | [<span class='tipnrLangHebrew'>י</span>ְ<span class='tipnrLangHebrew'>ש</span>ָׁ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ה</span>](H3466G) | 1x | [2Ch.13.19 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jeshanah\*\|reference=2Ch.13.19) |
+
 All entries for **Jeshanah**:  **<big>[[H3466|יְשָׁנָה]]</big>**

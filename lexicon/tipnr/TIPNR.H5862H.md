@@ -2,17 +2,15 @@
 
 <span class='tipnrhighlight'>Etam</span>, a village associated with the tribe of Simeon and the home of a Judahite clan.
 - A location near Ain **<big>[[H5871|עַיִן]]</big>** first mentioned at [[1Chr.4.3|1Ch.4.3]]; 
-- only referred to as Etam **<big>[[H5862|עֵיטָם]]</big>**.
-<br><iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.370835,34.860665&zoom=10&maptype=satellite"></iframe>
+- only referred to as Etam **<big>[[H5862|עֵיטָם]]</big>**.<br>
+
+<iframe width="100%" height="250" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/view?key=[GoogleAPIKey]&center=31.370835,34.860665&zoom=10&maptype=satellite"></iframe>
 
 
 Etam is mentioned twice in 1 Chronicles in different contexts. In [[1Chr.4.3|1 Chronicles 4:3]], Etam is listed among the descendants of Judah, specifically as part of the clan of Hur. The text states that the sons of Etam were Jezreel, Ishma, and Idbash, suggesting that Etam was either an individual or a place associated with this Judahite clan. 
 
-In [[1Chr.4.3|1 Chronicles 4:3]]2, Etam appears as one of the villages belonging to the tribe of Simeon, along with Ain, Rimmon, Tochen, and Ashan. These villages were part of Simeon's inheritance within the territory of Judah \(Joshua 19:1-9\). 
+In [[1Chr.4.32|1 Chronicles 4:32]], Etam appears as one of the villages belonging to the tribe of Simeon, along with Ain, Rimmon, Tochen, and Ashan. These villages were part of Simeon's inheritance within the territory of Judah \([[Josh.19.1|Joshua 19:1-9]]\). 
 
 The exact location of Etam in both contexts is uncertain, and it is possible that there were two different places named Etam. The Etam associated with Simeon was likely situated in the Negev region, south of Judah, while the Etam connected to the clan of Hur may have been located elsewhere in Judah's territory.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Etam | [<span class='tipnrLangHebrew'>ע</span>ֵ<span class='tipnrLangHebrew'>יט</span>ָ<span class='tipnrLangHebrew'>ם</span>](H5862H) | 2x | [[1Ch.4.3] & [1Ch.4.32] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Etam\*\|reference=1Ch.4.3;1Ch.4.32) |
+
 All entries for **Etam**:  **<big>[[H5862|עֵיטָם]]</big>**

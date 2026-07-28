@@ -13,8 +13,5 @@ Adonijah, along with other Levites, priests, and officials, was entrusted with t
 The inclusion of Adonijah in this group of teachers highlights the importance of the Levites' role in preserving and transmitting the knowledge of God's Law to the people. As a Levite, Adonijah would have been well-versed in the scriptures and equipped to teach others. 
 
 Apart from this brief mention, no other details are provided about Adonijah's background, family, or personal life. His participation in this teaching mission, however, underscores the significance of religious education and the collaborative effort between the king and the Levites to promote spiritual renewal in Judah.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Adonijah | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ד</span>ֹ<span class='tipnrLangHebrew'>נ</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ֫<span class='tipnrLangHebrew'>הו</span>ּ](H0138H) | 1x | [2Ch.17.8 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Adonijah\*\|reference=2Ch.17.8) |
+
 All entries for **Adonijah**:  **<big>[[H0138|אֲדֹנִיָּה]]</big>**

@@ -7,8 +7,5 @@ Man living at the time of Divided Monarchy
 - only referred to as Shecaniah **<big>[[H7935|שְׁכַנְיָה]]</big>**.
 
 Shecaniah was a Levite priest who served during the reign of King David. He was the head of the tenth priestly division as organized by David for service in the temple \([[1Chr.24.11|1 Chronicles 24:11]]\).
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Shecaniah (NIV= Shekaniah) | [<span class='tipnrLangHebrew'>ש</span>ְׁ<span class='tipnrLangHebrew'>כ</span>ַ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>הו</span>ּ](H7935H) | 1x | [1Ch.24.11 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shecaniah\*\|reference=1Ch.24.11) |
+
 All entries for **Shecaniah**:  **<big>[[H7935|שְׁכַנְיָה]]</big>**

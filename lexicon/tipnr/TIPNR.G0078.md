@@ -17,11 +17,9 @@ However, little is known about Addi beyond his mention in the genealogy. The Bib
 The presence of Addi in the genealogy of Jesus serves to affirm the historical reality of Christ's human ancestry and His connection to the Davidic line. It also emphasizes the faithfulness of God in preserving the lineage of the Messiah throughout the generations, from Abraham to David, and ultimately to Jesus Christ. 
 
 As with many of the individuals mentioned in biblical genealogies, Addi's significance lies primarily in his place within the larger narrative of God's redemptive plan, rather than in the details of his personal life or achievements.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Addi | [<span class='tipnrLangGreek'>Ἀδδί</span>](G0078) | 1x | [Luk.3.28 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Addi\*\|reference=Luk.3.28) |
+
 All entries for **Addi**:  **<big>[[G0078|Ἀδδί]]</big>**
+
 #### Related Profiles:
 - **[Cosam](G2973)** (father)
 - **[Melchi](G3197H)** (child)

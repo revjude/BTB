@@ -11,11 +11,9 @@ Man living at the time of Egypt and Wilderness
 -  father of Madmannah **<big>[[H4089|מַדְמַנָּה]]</big>** or founder of Madmannah **<big>[[H4089|מַדְמַנָּה]]</big>**.
 
 Shaaph, mentioned in [[1Chr.2.49|1 Chronicles 2:49]], was a son of Maacah, who was Caleb's concubine. Caleb, the son of Hezron, had children with his wife Azubah and also with his concubine Maacah. Shaaph is listed among the children born to Maacah. The text further states that Shaaph was the father of Madmannah, suggesting that he founded or ruled over the city or region bearing that name.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Shaaph | [<span class='tipnrLangHebrew'>ש</span>ַׁ֫<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>ף</span>](H8174H) | 1x | [1Ch.2.49 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shaaph\*\|reference=1Ch.2.49) |
+
 All entries for **Shaaph**:  **<big>[[H8174|שַׁעַף]]</big>**
+
 #### Related Profiles:
 - **[Caleb](H3612H)** (father)
 - **[Maacah](H4601L)** (mother)

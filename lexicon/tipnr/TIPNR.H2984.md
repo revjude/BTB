@@ -15,11 +15,9 @@ David, the second king of Israel, had several wives and concubines, and the Bibl
 The mention of Ibhar in these genealogical records highlights the importance of family lineage in ancient Israelite society. The chronicling of David's descendants, including Ibhar, serves to establish the royal line and emphasize the continuity of the Davidic dynasty. 
 
 Apart from being listed among David's sons, no further information is provided about Ibhar in the Bible. His inclusion in the genealogies suggests that he was part of David's large family and that his birth was considered significant enough to be recorded in the scriptural accounts of David's life and reign.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Ibhar | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ב</span>ְ<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ר</span>](H2984) | 3x | [[2Sa.5.15] ... [1Ch.14.5] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ibhar\*\|reference=2Sa.5.15;1Ch.3.6;1Ch.14.5) |
+
 All entries for **Ibhar**:  **<big>[[H2984|יִבְחַר]]</big>**
+
 #### Related Profiles:
 - **[David](H1732)** (father)
 - **[Jerusalem_wives](H0802J)** (mother)

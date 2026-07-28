@@ -8,10 +8,8 @@ Man living at the time of United Monarchy
 -  father of Shimei **<big>[[H8096|שִׁמְעִי]]</big>**.
 
 Ela, mentioned in [[1Kgs.4.18|1 Kings 4:18]], was the son of Uzzi and served as an official during the reign of King Solomon. He was appointed as one of the twelve officers responsible for providing supplies for the king and the royal household, each for one month of the year.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Ela (KJV= Elah) | [<span class='tipnrLangHebrew'>א</span>ֵ<span class='tipnrLangHebrew'>ל</span>ָ<span class='tipnrLangHebrew'>א</span>](H0414) | 1x | [1Ki.4.18 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ela\*\|reference=1Ki.4.18) |
+
 All entries for **Ela**:  **<big>[[H0414|אֵלָא]]</big>**
+
 #### Related Profiles:
 - **[Shimei](H8096I)** (child)

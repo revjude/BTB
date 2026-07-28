@@ -7,8 +7,5 @@ Man living at the time of Divided Monarchy
 - only referred to as Benaiah **<big>[[H1141|בְּנָיָה]]</big>**.
 
 Benaiah is mentioned in [[2Chr.31.13|2 Chronicles 31:13]] as one of the overseers appointed by King Hezekiah to distribute the contributions, tithes, and dedicated gifts to the priests and Levites in the temple. The context of the passage is Hezekiah's reform of the temple worship and his efforts to restore proper support for the priests and Levites. Benaiah, along with other trusted officials, was responsible for ensuring that the contributions were fairly and accurately distributed among the temple personnel according to their divisions and duties. This appointment demonstrates Benaiah's trustworthiness and administrative skills, as well as Hezekiah's commitment to maintaining the temple worship and supporting the religious leaders.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Benaiah | [<span class='tipnrLangHebrew'>ב</span>ְּ<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H1141M) | 1x | [2Ch.31.13 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Benaiah\*\|reference=2Ch.31.13) |
+
 All entries for **Benaiah**:  **<big>[[H1141|בְּנָיָה]]</big>**

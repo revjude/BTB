@@ -13,6 +13,7 @@ WILLIAM GESENIUS<br>
 <small>as translated by</small><br>
 Edward Robinson<br><br>
 <i>Edited with constant reference to the Thesaurus of Gesenius as completed by E. Rödiger, and with authorized use of the latest German editions of Gesenius' Handwörterbuch über das Alte Testament</i>
+</p>
 
 
 <p align="center">
@@ -116,1376 +117,2046 @@ Hebrew Symbol: <big>**י׳**</big> Yahweh.
 
 ## ABBREVIATIONS
 
-
-##### 1 Ch, 2 Ch
+**1 Ch, 2 Ch**
 <span id="1 Ch"><span id="2 Ch">
     1 & 2 Chronicles.
 </span></span>
-##### 1 R, 2 R, 3 R, 4 R, 5 R
+
+**1 R, 2 R, 3 R, 4 R, 5 R**
 <span id="1 R"><span id="2 R"><span id="3 R"><span id="4 R"><span id="5 R">
     Cuneiform Inscr. of Western Asia (H. Rawlinson).
 </span></span></span></span></span>
-##### 1 S, 2 S
+
+**1 S, 2 S**
 <span id="1 S"><span id="2 S">
     1 & 2 Samuel.
 </span></span>
-##### 1K, 2K
+
+**1K, 2K**
 <span id="1K"><span id="2K">
     1 & 2 Kings.
 </span></span>
-##### A.T.
+
+**A.T.**
 <span id="A.T.">Altes Testament.</span>
-##### A&W
-<span id="A&W">Abel & Winckler, Keilschrifttexte, Glossary.</span>
-##### A
+
+**A&W**
+<span id="A&W"><span id="a&amp;w">Abel & Winckler, Keilschrifttexte, Glossary.</span></span>
+
+**A**
 <span id="A">Alexandrine MS. of Septuagint.</span>
-##### ABA
+
+**ABA**
 <span id="ABA">Abhandlungen d. Berliner Akademie d. Wissenschaften.</span>
-##### abs.
+
+**abs.**
 <span id="abs.">absolute.</span>
-##### abstr.
+
+**abstr.**
 <span id="abstr.">abstract.</span>
-##### Abulf
+
+**Abulf**
 <span id="Abulf">Abulfeda.</span>
-##### Ac
+
+**Ac**
 <span id="Ac">Academy (London).</span>
-##### acc. cogn.
+
+**acc. cogn.**
 <span id="acc. cogn.">acc. of cognate meaning with verb.</span>
-##### acc. pers.
+
+**acc. pers.**
 <span id="acc. pers.">acc. of person.</span>
-##### acc. rei
+
+**acc. rei**
 <span id="acc. rei">acc. of thing.</span>
-##### acc. to
+
+**acc. to**
 <span id="acc. to">according to.</span>
-##### acc.
+
+**acc.**
 <span id="acc.">accusative (direct obj. etc.).</span>
-##### act.
+
+**act.**
 <span id="act.">active.</span>
-##### adj.
+
+**adj.**
 <span id="adj.">adjective.</span>
-##### adv.
+
+**adv.**
 <span id="adv.">adverb.</span>
-##### AE
+
+**AE**
 <span id="AE">Aben Ezra.</span>
-##### AGG
+
+**AGG**
 <span id="AGG">Abhandlungen d. Göottinger Gesellsch. d. Wissenschaften.</span>
-##### AGI
+
+**AGI**
 <span id="AGI">Assyrian & English Glossary, Johns Hopkins University.</span>
-##### AJPh
+
+**AJPh**
 <span id="AJPh">American Journal of Philology.</span>
-##### AJSL
+
+**AJSL**
 <span id="AJSL">American Journal of Semitic Languages.</span>
-##### Ak
+
+**Ak**
 <span id="Ak">Akkadian.</span>
-##### al.
+
+**al.**
 <span id="al.">et aliter, and elsewhere; also et alii, and others.</span>
-##### Albr
-<span id="Albr">K. Albrecht.</span>
-##### alttest(am).
+
+**Albr**
+<span id="Albr"><span id="albr.">K. Albrecht.</span></span>
+
+**alttest(am).**
 <span id="alttest(am).">alttestamentliche(r,s).</span>
-##### alw.
+
+**alw.**
 <span id="alw.">always.</span>
-##### Am.J.Sera.Lang.
+
+**Am.J.Sera.Lang.**
 <span id="Am.J.Sera.Lang.">AJSL, q.v. (which see)</span>
-##### Am
+
+**Am**
 <span id="Am">Amos.</span>
-##### AmRV
+
+**AmRV**
 <span id="AmRV">American RV.</span>
-##### Andr
+
+**Andr**
 <span id="Andr">Andreas. AndrM = Id. in Marti's Aram. Grammatik.</span>
-##### Aq
+
+**Aq**
 <span id="Aq">Aquila.</span>
-##### Ar.
+
+**Ar.**
 <span id="Ar.">Arabic.</span>
-##### AR
+
+**AR**
 <span id="AR">Andover Review.</span>
-##### Aram.
+
+**Aram.**
 <span id="Aram.">Aramaic, Aramaism.</span>
-##### Arch.
+
+**Arch.**
 <span id="Arch.">Archaeology.</span>
-##### ARSK
+
+**ARSK**
 <span id="ARSK">A. R. S. Kennedy.</span>
-##### As.
+
+**As.**
 <span id="As.">Assyrian.</span>
-##### Asrb.
+
+**Asrb.**
 <span id="Asrb.">Assurbanipal.</span>
-##### Asrn.
+
+**Asrn.**
 <span id="Asrn.">Assurbanipal.</span>
-##### Ath.
+
+**Ath.**
 <span id="Ath.">Athenaeum (London).</span>
-##### Av.
+
+**Av.**
 <span id="Av.">Avesta, Avestan.</span>
-##### AV
+
+**AV**
 <span id="AV">Authorized Version.</span>
-##### AW
+
+**AW**
 <span id="AW">Abu'l Walid.</span>
-##### ÄZ
-<span id="ÄZ">Ägyptische Zeitschrift.</span>
-##### B. Aram.
+
+**ÄZ**
+<span id="ÄZ"><span id="h_äz">Ägyptische Zeitschrift.</span></span>
+
+**B. Aram.**
 <span id="B. Aram.">Biblical Aramaic.</span>
-##### B
+
+**B**
 <span id="B">Vatican MS. of Septuagint.</span>
-##### Ba
+
+**Ba**
 <span id="Ba">J. Barth. BaErkl. d. Jes. = Id., Erklärung des Jesaias; BaES = Id., Etymologische Studien; BaNB = Id., Nominalbildung.</span>
-##### Bä
+
+**Bä**
 <span id="Bä">K.C. Bahr.</span>
-##### Bab.
+
+**Bab.**
 <span id="Bab.">Babylonian.</span>
-##### Bacher
+
+**Bacher**
 <span id="Bacher">W. Bacher. BacherTerminol. = Id. Älteste Terminologie der Jüdischen Schriftauslegung.</span>
-##### Bachm
+
+**Bachm**
 <span id="Bachm">J. Bachmann.</span>
-##### Bäd
+
+**Bäd**
 <span id="Bäd">K. Bädeker. BädEg. = Bädeker's Egypt; BädPal. = Badeker's Palestine.</span>
-##### Bae
+
+**Bae**
 <span id="Bae">F. Baethgen. BaeRel., or BaeSem. Rel. = Beiträge zur Semitischen Religionsge schichte.</span>
-##### Baen
+
+**Baen**
 <span id="Baen">B. Baentsch.</span>
-##### Baer
+
+**Baer**
 <span id="Baer">K. C. Bahr. BährSymb. = Bähr, Symbolik des Mosaischen Cultus.</span>
-##### BAL
+
+**BAL**
 <span id="BAL">C. Bezold, Babylonisch-Assyrische Literatur.</span>
-##### BarHeb
+
+**BarHeb**
 <span id="BarHeb">Bar Hebraeus.</span>
-##### BAS
+
+**BAS**
 <span id="BAS">Beiträige zur Assyriologie u. Semit. Sprachwissenschaft, edd. Dl. & Hpt.</span>
-##### Bau
+
+**Bau**
 <span id="Bau">W. von Baudissin. BauRel = Id., Studien zur Semitischen Religionsgeschichte; BauPriest. = Id., Geschichte des Alttestamentlichen Priesterthums.</span>
-##### Bd.
+
+**Bd.**
 <span id="Bd.">Bäd, q.v.</span>
-##### BD
+
+**BD**
 <span id="BD">Baer & Delitzach, Heb. Text.</span>
-##### Be
+
+**Be**
 <span id="Be">E. Bertheau.</span>
-##### beg.
+
+**beg.**
 <span id="beg.">beginning.</span>
-##### Behrm
+
+**Behrm**
 <span id="Behrm">G. Behrmann.</span>
-##### Belsh.
+
+**Belsh.**
 <span id="Belsh.">Belshazzar.</span>
-##### Benn
+
+**Benn**
 <span id="Benn">W. H. Bennett.</span>
-##### Benz
+
+**Benz**
 <span id="Benz">J. Benzinger. Benz Arch = Id., Hebräische Archaeologie.</span>
-##### Berggren
+
+**Berggren**
 <span id="Berggren">J. Berggren, Guide Français-Arabe Vulgaire.</span>
-##### Berliner T.Onk
+
+**Berliner T.Onk**
 <span id="Berliner T.Onk">A. Berliner, Trgum of Onkelos.</span>
-##### Berthol
+
+**Berthol**
 <span id="Berthol">A. Bertholet.</span>
-##### BeRy
+
+**BeRy**
 <span id="BeRy">Bertheau's Comm., ed. by Rywel.</span>
-##### Bev
+
+**Bev**
 <span id="Bev">A. A. Bevan.</span>
-##### Bez
+
+**Bez**
 <span id="Bez">C. Bezold.</span>
-##### BH
+
+**BH**
 <span id="BH">Biblical Hebrew.</span>
-##### Bi
+
+**Bi**
 <span id="Bi">G. Bickell.</span>
-##### Bl
+
+**Bl**
 <span id="Bl">F. Bleek.</span>
-##### Bla
+
+**Bla**
 <span id="Bla">J.S. Black.</span>
-##### Bloch
+
+**Bloch**
 <span id="Bloch">A. Bloch Phönizisches Glossar.</span>
-##### Bmg
+
+**Bmg**
 <span id="Bmg">A. J. Baumgartner.</span>
-##### Bö
+
+**Bö**
 <span id="Bö">F. Böttcher. Bö§, or Böi, ii = Id., Lehrbuch d. Hebr. Sprache; or BöÄ or NA. = Id., Ährenlese, or NeueÄhrenlese; BöInf = Id. De Inferis; BöProb. = Id. Proben alttest. Schrifterklärung.</span>
-##### Bo
-<span id="Bo">S. Bchart. BoHieroz. = Id., Hierozoicon.</span>
-##### Bondi
+
+**Bo**
+<span id="Bo"><span id="bo">S. Bchart. BoHieroz. = Id., Hierozoicon.</span></span>
+
+**Bondi**
 <span id="Bondi">J. H. Bondi, Hebr. Lehnwörter in Hieroglyphischen. Texten.</span>
-##### BOR
+
+**BOR**
 <span id="BOR">Babylonian & Oriental Record.</span>
-##### Br
+
+**Br**
 <span id="Br">C. A. Briggs. BrGen. Intr. = Id., General Introduction to the Study of Holy Scripture; BrHex. = Id., Higher Criticism of the Hexateuch; Br MP = Id., Messianic Prophecy.</span>
-##### Braun
+
+**Braun**
 <span id="Braun">Braunius, Vestitus, Sacerdotum Hebraeorum.</span>
-##### Brd
+
+**Brd**
 <span id="Brd">C. Bredenkamp.</span>
-##### Brock
+
+**Brock**
 <span id="Brock">C. Brockelmann, esp. = Id., Lexicon Syriacum.</span>
-##### Bu
+
+**Bu**
 <span id="Bu">K. Budde. BuRS = Id., Richter u. Samuel; BuUrg = Id., Die biblische Urgeschichte.</span>
-##### Buhl
+
+**Buhl**
 <span id="Buhl">Frants Buhl, esp. as editor of eds.12-14 of Gesenius's Handwörterbuch über das A. T.; BuhlG(eogr.), Geographic des Alten Palästina; BuhlEdom. = Id., Geschichte der Edomiter.</span>
-##### Bur
+
+**Bur**
 <span id="Bur">C. F. Burney.</span>
-##### Burckh
+
+**Burckh**
 <span id="Burckh">J. L. Bnrckhardt, esp. = Id., Travels in Syria, etc.</span>
-##### Bux
+
+**Bux**
 <span id="Bux">J. Buxtorf.</span>
-##### Bz
+
+**Bz**
 <span id="Bz">C. Bezold.</span>
-##### c.
+
+**c.**
 <span id="c.">circa, about; also cum, with.</span>
-##### Ca
+
+**Ca**
 <span id="Ca">C. P. Caspari.</span>
-##### Calv
+
+**Calv**
 <span id="Calv">John Calvin.</span>
-##### Cappad.
+
+**Cappad.**
 <span id="Cappad.">Cappadocia.</span>
-##### Castell
+
+**Castell**
 <span id="Castell">Edward Castell.</span>
-##### Castl
+
+**Castl**
 <span id="Castl">Castell.</span>
-##### caus.
+
+**caus.**
 <span id="caus.">causative.</span>
-##### Cels
+
+**Cels**
 <span id="Cels">O. Celsius, Hierobotanicon.</span>
-##### cf.
+
+**cf.**
 <span id="cf.">confer, compare.</span>
-##### Champoll
+
+**Champoll**
 <span id="Champoll">J. F. Champollion.</span>
-##### Che
+
+**Che**
 <span id="Che">T. K. Cheyne. Che Founders = Id., Founders of Old Testament Criticism; Che(Heb.) Hpt = Id., Isaiah, in Hpt.'s Sacred Books of the O. T. ('Polychrome Bible'), Eng. Trans., and Heb. Text; CheIntr. Is. = Id., Introduction to lsaiah; CheOP = Id., Origin and Religious Contents of the Psalter.</span>
-##### ChGn
+
+**ChGn**
 <span id="ChGn">G. Smith's Chald. Genesis, Germ. ed.</span>
-##### Chr-Pal.
+
+**Chr-Pal.**
 <span id="Chr-Pal.">Christian-Palestinian Aramaic.</span>
-##### ChWB
+
+**ChWB**
 <span id="ChWB">J. Levy,Chaldäisches Wörterbuch.</span>
-##### Cilic.
+
+**Cilic.**
 <span id="Cilic.">Cilician (Aramaic).</span>
-##### CIS
+
+**CIS**
 <span id="CIS">Corpus Inscript. Semiticarum.</span>
-##### ClGann
+
+**ClGann**
 <span id="ClGann">Clermont-Ganneau.</span>
-##### Co
+
+**Co**
 <span id="Co">C. H. Cornill.</span>
-##### coll.
+
+**coll.**
 <span id="coll.">collective.</span>
-##### Comm.
+
+**Comm.**
 <span id="Comm.">Commentary, Commentaries, Commentators.</span>
-##### comp.
+
+**comp.**
 <span id="comp.">compare, compares, comparative.</span>
-##### concr.
+
+**concr.**
 <span id="concr.">concrete.</span>
-##### conj.
+
+**conj.**
 <span id="conj.">conjecture(s); also conjunction.</span>
-##### consec.
+
+**consec.**
 <span id="consec.">consecutive.</span>
-##### constr.
+
+**constr.**
 <span id="constr.">construction.</span>
-##### contr.
+
+**contr.**
 <span id="contr.">contract, contracted.</span>
-##### Cook
+
+**Cook**
 <span id="Cook">Stanley A. Cook.</span>
-##### Cooke
+
+**Cooke**
 <span id="Cooke">G. A. Cooke.</span>
-##### COT
+
+**COT**
 <span id="COT">The Cuneiform Inscr. & the Old Test. (Eng. Trans, of KAT2, by O. H. Whitehouse).</span>
-##### Cowley
+
+**Cowley**
 <span id="Cowley">A. E. Cowley.</span>
-##### cp.
+
+**cp.**
 <span id="cp.">compare.</span>
-##### cpd.
+
+**cpd.**
 <span id="cpd.">compound, compounded.</span>
-##### CR
+
+**CR**
 <span id="CR">Comptes Rendus.</span>
-##### cstr.
+
+**cstr.**
 <span id="cstr.">construct.</span>
-##### Ct
+
+**Ct**
 <span id="Ct">Canticles = Song of Solomon.</span>
-##### Cuche
+
+**Cuche**
 <span id="Cuche">Id., Dictionnaire Arabe-Français.</span>
-##### D (in BAram. Appendix)
+
+**D (in BAram. Appendix)**
 <span id="D (in BAram. Appendix)">G. Dalman, usu. = Id., Aramäisches-Neuhebräisches Wörterbuch; D§ = Id., Grammatik des Jüidisch-Aramäischen (2nd ed., 1905).</span>
-##### D
+
+**D**
 <span id="D">Deuteronomist in Dt., in other books Deuteronomic author or redactor.</span>
-##### Da
+
+**Da**
 <span id="Da">A. B. Davidson. DaSynt. = Id., Hebrew Syntax.</span>
-##### Dalm
+
+**Dalm**
 <span id="Dalm">G. Dalman. DalmWB = Id., Aramäisches-Neuhebräisches Wörterbuch.</span>
-##### Dan.
+
+**Dan.**
 <span id="Dan.">Daniel.</span>
-##### DB
+
+**DB**
 <span id="DB">Dictionary of the Bible, ed. J. Hastings.</span>
-##### De W
-<span id="De W">W. M. L. De Wette.</span>
-##### De
+
+**De W**
+<span id="De W"><span id="de-w">W. M. L. De Wette.</span></span>
+
+**De**
 <span id="De">Franz Delitzsch. DeCompl. Var. = Id., Complutensische Varianten zum alttestamentlichen Texte; DeHL und Koheleth = Id., Comm. über das Hohelied und Koheleth.</span>
-##### del.
+
+**del.**
 <span id="del.">dele, strike out (also delet, delent).</span>
-##### Derenb
+
+**Derenb**
 <span id="Derenb">(usu.) H. Derenbourg; sts. J. Derenbourg; DerenbEtudes = Id. Etudes sur l'Épigraphie du Yémen.</span>
-##### DHM
+
+**DHM**
 <span id="DHM">D. H. Müller. DHMBS = Id., Burgen u. Schlösser Süd Arabiens; DHMEpigr. Denkm. (Ar., or aus Abess.) = Id., Epigraphische Denkmäler, or Epigr. Denkm. aus Arabien, or Epigr. Denkm. aus Abessinien; DHMHofmus. = Id., Inschriften des Hofmuseums; DHMSendsch. = Id., Inschriften von Sendschirli; DHMStud. = Id., Süidarabische Studien; DHMSMB = Id., Sab. Alterthümer in d. Kön. Museen zu Berlin.</span>
-##### Di
+
+**Di**
 <span id="Di">A. Dillmann.</span>
-##### Dietr
+
+**Dietr**
 <span id="Dietr">F. E. C. Dietrich, esp. = Id., Abhandlungen für semit. Wortforachung.</span>
-##### Diod
+
+**Diod**
 <span id="Diod">Diodorus Siculus.</span>
-##### Dioscor
+
+**Dioscor**
 <span id="Dioscor">Dioscorides; DioscorDe Mater. Med. = Id., De Materia Medica.</span>
-##### div.
+
+**div.**
 <span id="div.">dixinum, divinitatis.</span>
-##### Dl
+
+**Dl**
 <span id="Dl">Friedrich Delitzsch. Dl§ = Id., Assyrian Grammar; DlH = Id., Hebrew & Assyrian; DlHWB = Id., Assyrisches Handwörterbuch; DlK = Id., Sprache d. Kossäer; DlL = Id., Assyrische Lesestücke; DlPa(r) = Id., Wo lag das Paradies? DlPr(ol) = Id., Prolegomena; Dl8 = Id., Assyrische Studien; DlW = Id., Assyrisches Wörterbuch.</span>
-##### DLZ
+
+**DLZ**
 <span id="DLZ">Deutsche Literatur-Zeitung.</span>
-##### Dn
+
+**Dn**
 <span id="Dn">Daniel.</span>
-##### Door
+
+**Door**
 <span id="Door">A. van Doorninck.</span>
-##### Doughty
+
+**Doughty**
 <span id="Doughty">C. M. Doughty, Travels in Arabia Deserta.</span>
-##### Dozy
+
+**Dozy**
 <span id="Dozy">R. Dozy, (usu.) Suppl. aux Diet. Arabes.</span>
-##### DPV
+
+**DPV**
 <span id="DPV">Deutscher Palästina-Verein.</span>
-##### Dr-Wh
+
+**Dr-Wh**
 <span id="Dr-Wh">Driver and White, Leviticus (Hpt.).</span>
-##### Dr
-<span id="Dr">S. R. Driver. Dr§ = Id., Hebrew Tenses; Drlntr = Id., Introduction to Literature of O. T.; DrPsalt. = Id., Psalter; DrSm, or Sam = Id., Text of Samuel.</span>
-##### Dt
+
+**Dr**
+<span id="Dr"><span id="dr">S. R. Driver. Dr§ = Id., Hebrew Tenses; Drlntr = Id., Introduction to Literature of O. T.; DrPsalt. = Id., Psalter; DrSm, or Sam = Id., Text of Samuel.</span></span>
+
+**Dt**
 <span id="Dt">Deuteronomy.</span>
-##### Du
+
+**Du**
 <span id="Du">B. Duhm.</span>
-##### dub.
+
+**dub.**
 <span id="dub.">dubious, doubtful.</span>
-##### Dvd
+
+**Dvd**
 <span id="Dvd">David.</span>
-##### DWAk
+
+**DWAk**
 <span id="DWAk">Denkschriften der Wiener Akademie d. Wiss.</span>
-##### Dy
+
+**Dy**
 <span id="Dy">J. Dyserinck.</span>
-##### E.T.
+
+**E.T.**
 <span id="E.T.">Eng. Trans.</span>
-##### E
+
+**E**
 <span id="E">Elohist.</span>
-##### EB
+
+**EB**
 <span id="EB">Encyclopaedia Biblica, edd. Black and Cheyne.</span>
-##### Eb
+
+**Eb**
 <span id="Eb">G. Ebers. EbAgM = Id., Aegypten u. d. Bücher Mosis; EbGs = Id., Durch Gosen zum Sinai.</span>
-##### EC
+
+**EC**
 <span id="EC">Ecclesiastes.</span>
-##### Ecclus
+
+**Ecclus**
 <span id="Ecclus">Ecclesiasticus; Ecclus, Oxford ed., = Heb. Fragments of Ecclesiasticus, edd. Neubauer and Cowley.</span>
-##### Eg.
+
+**Eg.**
 <span id="Eg.">Egyptian.</span>
-##### elsewh.
+
+**elsewh.**
 <span id="elsewh.">elsewhere.</span>
-##### EMey
+
+**EMey**
 <span id="EMey">Eduard Meyer, EMeyEntstehung = Id., Entstehung des Judenthums, = Id., Entstehung J., etc.</span>
-##### Enc.Brit.
+
+**Enc.Brit.**
 <span id="Enc.Brit.">Encyclopaedia Brittanica, 9th ed.</span>
-##### Ency.Bib.
+
+**Ency.Bib.**
 <span id="Ency.Bib.">EB(i), q. v.</span>
-##### Eng.Tr(ans).
+
+**Eng.Tr(ans).**
 <span id="Eng.Tr(ans).">English Translation.</span>
-##### Ephr.
+
+**Ephr.**
 <span id="Ephr.">Ephraimitic source.</span>
-##### Ephr.
+
+**Ephr.**
 <span id="Ephr.">Ephrem Syrus.</span>
-##### Esar.
+
+**Esar.**
 <span id="Esar.">Esarhaddon.</span>
-##### Esdr.
+
+**Esdr.**
 <span id="Esdr.">Esdras.</span>
-##### esp.
+
+**esp.**
 <span id="esp.">especially.</span>
-##### Est
+
+**Est**
 <span id="Est">Esther.</span>
-##### Eth.
+
+**Eth.**
 <span id="Eth.">Ethiopic.</span>
-##### Euseb
+
+**Euseb**
 <span id="Euseb">Chronicles; also Chronicon (e.g., EusebChron.).</span>
-##### Eut
+
+**Eut**
 <span id="Eut">J. Euting. EutK = Id., Sammlund Karthag. Inschriften; EutNab = Id., Nabatäische Inschriften; EutSin = Id., Sinaitische Inschriften.</span>
-##### EV
+
+**EV**
 <span id="EV">English Version(s).</span>
-##### Ew
+
+**Ew**
 <span id="Ew">H. Ewald. Ew§ = Id., Heb. Gram.; EwG(esch.) = Id., Geschichte d. Volkes Israel; EwH = Id., History of Israel; (Eng. Trans, EwG(esch.)); EwJBW, or EwJahrb. = Id., Jahrb. d. bibl. Wissenschaft; EwBTh = Id., BiblischeTheologie; EwAnt = Id., Antiquities.</span>
-##### Ex
+
+**Ex**
 <span id="Ex">Exodus.</span>
-##### exc.
+
+**exc.**
 <span id="exc.">except.</span>
-##### exil.
+
+**exil.**
 <span id="exil.">exile.</span>
-##### Ez
+
+**Ez**
 <span id="Ez">Ezekiel.</span>
-##### Ezr
+
+**Ezr**
 <span id="Ezr">Ezra.</span>
-##### f, or ff
+
+**f, or ff**
 <span id="f"><span id="ff">
     and following.
 </span></span>
-##### f., f
+
+**f., f**
 <span id="f.">feminine.</span>
-##### F.B.
+
+**F.B.**
 <span id="F.B.">F. Brown.</span>
-##### fem.
+
+**fem.**
 <span id="fem.">feminine, feminae.</span>
-##### FFP
+
+**FFP**
 <span id="FFP">Flora and Fauna of Palestine (Survey).</span>
-##### Fi
+
+**Fi**
 <span id="Fi">Frederick Field, esp. = Id., Origenis Hexaploruin quae supersunt.</span>
-##### fig.
+
+**fig.**
 <span id="fig.">figurative.</span>
-##### fin.
+
+**fin.**
 <span id="fin.">finite, finitivum.</span>
-##### FJB
+
+**FJB**
 <span id="FJB">F.J. Bliss.</span>
-##### Fl
+
+**Fl**
 <span id="Fl">H.L. Fleischer. FlKl. Schr. = Id., Kleine Schriftcn.</span>
-##### Flora
+
+**Flora**
 <span id="Flora">Post, Flora of Syria.</span>
-##### fr.
+
+**fr.**
 <span id="fr.">from.</span>
-##### Fr
+
+**Fr**
 <span id="Fr">S. Frensdorff. FrMM = Id., Massora Magna.</span>
-##### Frä
+
+**Frä**
 <span id="Frä">S. Fränkel, and (usu.) = Id., Aramäische Freingwörter in Arabischen.</span>
-##### Frankenb
+
+**Frankenb**
 <span id="Frankenb">W. Frankenberg. FrankenbSpr = Id., Comm. Sprüche (ed. Nowack).</span>
-##### Frey
+
+**Frey**
 <span id="Frey">G. W. Freytag, Lex. Arab.; FreyProv. Ar. or Prov. = Id., Arabum Proverbia.</span>
-##### fs.
+
+**fs.**
 <span id="fs.">feminine singular.</span>
-##### Fü
+
+**Fü**
 <span id="Fü">J. Fürst.</span>
-##### GACooke
+
+**GACooke**
 <span id="GACooke">(usu.) G. A. Cooke, North Semitic Inscriptions; = GACookeInscr.</span>
-##### Gal
+
+**Gal**
 <span id="Gal">Galilee</span>
-##### Gann
+
+**Gann**
 <span id="Gann">Clermont-Ganneau.</span>
-##### GASm
+
+**GASm**
 <span id="GASm">George Adam Smith. GASmG(eogr.) = Id., Historical Geography of the Holy Land.</span>
-##### Gei
+
+**Gei**
 <span id="Gei">A. Geiger. GeiUrschr. = Id., Historical Geography of the Holy Land.</span>
-##### gent.
+
+**gent.**
 <span id="gent.">gentis, of a people, gentilicum.</span>
-##### geogr.
+
+**geogr.**
 <span id="geogr.">geography</span>
-##### Gerber
+
+**Gerber**
 <span id="Gerber">W T. Gerber, Verba Denominativa.</span>
-##### Ges
+
+**Ges**
 <span id="Ges">W. Gesenius. Ges§ = Id., Heb. Gram. ed. by Kautzsch; GesLbg = Id., Lehrgebäude d. Heb. Sprache.</span>
-##### Gesch.
+
+**Gesch.**
 <span id="Gesch.">Geschichte</span>
-##### Gf
+
+**Gf**
 <span id="Gf">K. H. Graf.</span>
-##### GFM
+
+**GFM**
 <span id="GFM">G. F. Moore.</span>
-##### GGA
+
+**GGA**
 <span id="GGA">Göttingsche Gelehrte Anzeigen</span>
-##### GGAbh.
+
+**GGAbh.**
 <span id="GGAbh.">Gött. Gel. Abhandlungen.</span>
-##### GGN
+
+**GGN**
 <span id="GGN">Gött. Nachrichten.</span>
-##### Gi
+
+**Gi**
 <span id="Gi">C. D. Ginsburg.</span>
-##### Gie
+
+**Gie**
 <span id="Gie">F. Giesebrecht.</span>
-##### Gl
+
+**Gl**
 <span id="Gl">E. Glaser; GlMSI = Id., Mittheilungen über Sab. Inschriften; GlSkizze = Id., Skizze der Geschichte u. Geographie Arabiens.</span>
-##### Gloss., gl.
+
+**Gloss., gl.**
 <span id="Gloss."><span id="gl.">
     glossary, rarely = a gloss
 </span></span>
-##### Gn
+
+**Gn**
 <span id="Gn">Genesis</span>
-##### Gr
+
+**Gr**
 <span id="Gr">H. Grätz.</span>
-##### Gray
+
+**Gray**
 <span id="Gray">G. B. Gray. GrayProp. N. = Id., Hebrew Proper Names.</span>
-##### Gu
+
+**Gu**
 <span id="Gu">H. Guthe, rarely Stan. Guyard. Gu§ = Guyard, Notes de lexicogr. assyrienne.</span>
-##### Guérin
+
+**Guérin**
 <span id="Guérin">V Guérin, Description géographique de la Palestine.</span>
-##### Guidi
+
+**Guidi**
 <span id="Guidi">Ignazio Guidi; GuidiDella Sede = Id., Della Sede Primitiva dei Popoli Semitici.</span>
-##### Gunk
+
+**Gunk**
 <span id="Gunk">H. Gunkel. GunkSchöp = Id., Schöpfung u. Chaos.</span>
-##### Guy
+
+**Guy**
 <span id="Guy">Stan. Guyard.</span>
-##### H
+
+**H**
 <span id="H">Code of Holiness</span>
-##### Haev
+
+**Haev**
 <span id="Haev">Haevernick</span>
-##### Hal.
-<span id="Hal.">J. Halévy. HalM = Id., Mélanges; HalDR = Id., Documents Religieux; HalMA = Id., Mission Archéol. dans le Yémen; HalÉS, or Et. Sab. = Id., Études Sabéennes.</span>
-##### Hamm
+
+**Hal.**
+<span id="Hal."><span id="hal">J. Halévy. HalM = Id., Mélanges; HalDR = Id., Documents Religieux; HalMA = Id., Mission Archéol. dans le Yémen; HalÉS, or Et. Sab. = Id., Études Sabéennes.</span></span>
+
+**Hamm**
 <span id="Hamm">Ḫammurabi, esp. Id., Code of Laws.</span>
-##### Hartmann
+
+**Hartmann**
 <span id="Hartmann">M. Hartmann, Pluriliteralbindungen in den semitischen Sprachen.</span>
-##### Hast
+
+**Hast**
 <span id="Hast">James Hastings. Hast(ings)DB, or Dict. Bib. = Dictionary of the Bible, ed. James Hastings.</span>
-##### Hb
+
+**Hb**
 <span id="Hb">Habakkuk.</span>
-##### Hbr
+
+**Hbr**
 <span id="Hbr">Hebraica.</span>
-##### HDerenb
+
+**HDerenb**
 <span id="HDerenb">H. Derenbourg.</span>
-##### He
+
+**He**
 <span id="He">E. Hengstenberg.</span>
-##### Heb.
+
+**Heb.**
 <span id="Heb.">Hebrew</span>
-##### Herod
+
+**Herod**
 <span id="Herod">Herodotus.</span>
-##### Hex
+
+**Hex**
 <span id="Hex">Hexateuch.</span>
-##### Hg
+
+**Hg**
 <span id="Hg">Haggai.</span>
-##### Hi
+
+**Hi**
 <span id="Hi">F. Hitzig.</span>
-##### Hilg
+
+**Hilg**
 <span id="Hilg">A. Hilgenfeld.</span>
-##### Hilpr
+
+**Hilpr**
 <span id="Hilpr">H. V. Hilprecht.</span>
-##### Hir
+
+**Hir**
 <span id="Hir">L. Hirzel.</span>
-##### Ho
+
+**Ho**
 <span id="Ho">Hosea.</span>
-##### Hoffm
+
+**Hoffm**
 <span id="Hoffm">G. Hoffmann.</span>
-##### Hollenb
+
+**Hollenb**
 <span id="Hollenb">W. A. Hollenberg.</span>
-##### Holz
+
+**Holz**
 <span id="Holz">H. Holzinger.</span>
-##### Hom
+
+**Hom**
 <span id="Hom">F. Hommel. HomAA, or A. u. A, or Aufsätze = Id., Aufsätze u. Abhandlungen; HomChr, or Chest(om.) or Südar. Chrest. = Id., Südarabische Chrestomathie; HomNS = Id., Namen der Säugethiere.</span>
-##### Houb
+
+**Houb**
 <span id="Houb">C. F. Houbigant.</span>
-##### HPS
+
+**HPS**
 <span id="HPS">H. P. Smith.</span>
-##### Hpt
+
+**Hpt**
 <span id="Hpt">Paul Haupt. HptC = Id., Akkadische Sprache; HptD = Id., Über einen Dialekt der Sumerischen Sprache [GGN. 1880, Nr. 17]; HptE = Id., E. vowel; HptF = Id., Sumer. Familiengesetze; HptL = Id., Beiträge z. Ass. Lautlehre; HptN = Id., Nimrodepos; HptProl As. Gr. = Id., Prolegomena to an Assyrian Grammar; HptS = Id., Sintfluthbericht; HptT = Id., ASKT, Akkad. & Sum. Keilschrifttexte; Hpt, or Hpt (CheHpt, &c.) usu. = Sacred Books of the O.T., ed. Hpt (Polychrome Bible).</span>
-##### HSch
+
+**HSch**
 <span id="HSch">H. Schultz.</span>
-##### HT
+
+**HT**
 <span id="HT">Hebrew (Consonantal Text).</span>
-##### Hultsch
+
+**Hultsch**
 <span id="Hultsch">F. Hultsch, Griechische u. Römische Metrologie.</span>
-##### Hup
+
+**Hup**
 <span id="Hup">H. Hupfeld. HupRi, HupRiNow, Hup-Now = Id., Psalmen, edd. Riehm, Nowack.</span>
-##### i.q.
+
+**i.q.**
 <span id="i.q.">id quod, i.e. the same with.</span>
-##### Idiot.
+
+**Idiot.**
 <span id="Idiot.">Idioticon</span>
-##### Impf.
+
+**Impf.**
 <span id="Impf.">Imperfect.</span>
-##### Imv.
+
+**Imv.**
 <span id="Imv.">Imperative.</span>
-##### ind.
+
+**ind.**
 <span id="ind.">indirect.</span>
-##### indef.
+
+**indef.**
 <span id="indef.">indefinite.</span>
-##### Inf.
+
+**Inf.**
 <span id="Inf.">Infinitive.</span>
-##### infr., infr
+
+**infr., infr**
 <span id="infr."><span id="infr">
     infra, below.
 </span></span>
-##### Inschr.
+
+**Inschr.**
 <span id="Inschr.">Inschrift, Inschriften.</span>
-##### inscr.
+
+**inscr.**
 <span id="inscr.">inscription(s); Inscr. of Carpentr. = Inscription of Carpentras.</span>
-##### intr(ans).
+
+**intr(ans).**
 <span id="intr(ans).">intransitive</span>
-##### Isa
+
+**Isa**
 <span id="Isa">Isaiah</span>
-##### J. Aram
+
+**J. Aram**
 <span id="J. Aram">Jewish-Aramaic (Jüdisch-Aramäische).</span>
-##### J
+
+**J**
 <span id="J">Jehovist.</span>
-##### JA
+
+**JA**
 <span id="JA">Journ. of the Royal Asiatic Society.</span>
-##### Jacob
+
+**Jacob**
 <span id="Jacob">G. Jacob. JacobAr(ab.) Dichter = Id., Studien in Arab. Dichtern; Id.Bed. Leben = Id., Leben der vorislamischen Beduinen.</span>
-##### JAs
+
+**JAs**
 <span id="JAs">Journal Asiatique.</span>
-##### Jastr
+
+**Jastr**
 <span id="Jastr">Marcus Jastrow, Dict. of Targummim, Talmud, etc.; also Morris Jastrow, Jr.; JastrRel. Bab. = M. Jastrow, Jr., Religion of Babylonia and Assyria.</span>
-##### JAT. im Licht d. AO
+
+**JAT. im Licht d. AO**
 <span id="JAT. im Licht d. AO">A. Jeremias, Das Alte Tastament im Licht des Alten Orients.</span>
-##### Jb
+
+**Jb**
 <span id="Jb">Job.</span>
-##### JBL
+
+**JBL**
 <span id="JBL">Journal of Biblical Literature.</span>
-##### JBTh
+
+**JBTh**
 <span id="JBTh">Jahrbücher f. deutsche Theologie.</span>
-##### JDMich
+
+**JDMich**
 <span id="JDMich">J. D. Michaelis.</span>
-##### Je
+
+**Je**
 <span id="Je">Jeremiah.</span>
-##### Jen
+
+**Jen**
 <span id="Jen">P. Jensen. JenCosmol. = Id., Cosmologie der Babylonier.</span>
-##### Jer
+
+**Jer**
 <span id="Jer">Jerome; also Jerusalem.</span>
-##### Jerem
+
+**Jerem**
 <span id="Jerem">A. Jeremias.</span>
-##### Jerus.
+
+**Jerus.**
 <span id="Jerus.">Jerusalem.</span>
-##### Jes
+
+**Jes**
 <span id="Jes">Jesaias.</span>
-##### JHC
+
+**JHC**
 <span id="JHC">John Hopkins Univ. Circulars.</span>
-##### JHMich
+
+**JHMich**
 <span id="JHMich">J. H. Michaelis.</span>
-##### JLZ
+
+**JLZ**
 <span id="JLZ">Jenaer Lit.-Zeitung.</span>
-##### Jo
+
+**Jo**
 <span id="Jo">Joel.</span>
-##### Jon
+
+**Jon**
 <span id="Jon">Jonah.</span>
-##### Jos
+
+**Jos**
 <span id="Jos">Joshua.</span>
-##### JosAnt, JosBJ
+
+**JosAnt, JosBJ**
 <span id="JosAnt"><span id="JosBJ">
     Fl. Josephus, Antiquities, or Bell. Jud.
 </span></span>
-##### Joseph
+
+**Joseph**
 <span id="Joseph">Fl. Josephus (sts).</span>
-##### JosKi
+
+**JosKi**
 <span id="JosKi">Joseph Kimchi.</span>
-##### JPh(il).
+
+**JPh(il).**
 <span id="JPh(il).">Journal of Philology (Engl.).</span>
-##### JQ
+
+**JQ**
 <span id="JQ">Jewish Quarterly.</span>
-##### Jr
+
+**Jr**
 <span id="Jr">A. Jeremias, Leben nach dem Tode.</span>
-##### JThS
+
+**JThS**
 <span id="JThS">Journal of Theological Studies.</span>
-##### Ju
+
+**Ju**
 <span id="Ju">Judges.</span>
-##### Jüd. Zeitschr.
+
+**Jüd. Zeitschr.**
 <span id="Jüd. Zeitschr.">Monatsschrift für Gesch. u. Wiss. des Judenthums.</span>
-##### Jud.
+
+**Jud.**
 <span id="Jud.">Judaea, Judaean.</span>
-##### juss.
+
+**juss.**
 <span id="juss.">jussive.</span>
-##### K
+
+**K**
 <span id="K">E. Kautzsch (in B. Aram. Appendix). K§ = Id., Gramm. d. bibl. Aram; KAram. = Id., Aramaismen im A.T.</span>
-##### Kam.
-<span id="Kam.">al-Ḳamus (Arab. Dict.), by al-Fīrūzābādi.</span>
-##### KAT
+
+**Kam.**
+<span id="Kam."><span id="kam">al-Ḳamus (Arab. Dict.), by al-Fīrūzābādi.</span></span>
+
+**KAT**
 <span id="KAT">E. Schrader, Keilinschr. u. d. Alte Testament. KAT3 = Id., 3rd ed. by H. Winckler and H. Zimmern.</span>
-##### Kau
+
+**Kau**
 <span id="Kau">E. Kautzsch; Kau§ = Id., Gram. d. bibl. Aram; KauAram(aismen)(im AT) = KAram.; KauAT = Die Heiligen Schriften d. Alten Testaments, ed. Kau.; KauMN = Id., Mittheilungen u. Nachrichten d. DPV, 1904; Kau (SoKau, etc.) = KauAT.</span>
-##### Kay
+
+**Kay**
 <span id="Kay">W Kay.</span>
-##### KB
+
+**KB**
 <span id="KB">E. Schrader, Keilinschriftl. Bibliothek.</span>
-##### Ke
+
+**Ke**
 <span id="Ke">C. F. Keil.</span>
-##### Kenn
+
+**Kenn**
 <span id="Kenn">B. Kennicott.</span>
-##### Kennedy
+
+**Kennedy**
 <span id="Kennedy">(usu.) A. R. S. Kennedy.</span>
-##### kg.
+
+**kg.**
 <span id="kg.">king.</span>
-##### KG
+
+**KG**
 <span id="KG">E. Schrader, Die Keilinschr. und die Geschichtsforschung.</span>
-##### Kgs.
+
+**Kgs.**
 <span id="Kgs.">Kings.</span>
-##### Ki
+
+**Ki**
 <span id="Ki">David Kimchi (Qamchi).</span>
-##### Kiep
+
+**Kiep**
 <span id="Kiep">H. Kiepert.</span>
-##### Kirkp
+
+**Kirkp**
 <span id="Kirkp">A. F. Kirkpatrick.</span>
-##### Kit-Di
+
+**Kit-Di**
 <span id="Kit-Di">KitDi = Dillmann's Comm. (Isaiah), ed. by Kit.</span>
-##### Kit
+
+**Kit**
 <span id="Kit">R. Kittel. KitDi = Di, Jesaia, ed. Kit; KitGesch. (or Hist.) = Kit, Geschicthe der Hebräer (or Eng. Trans.).</span>
-##### Klo
+
+**Klo**
 <span id="Klo">A. Klostermann. KlS = Die Bücher Sam. u. d. Könige.</span>
-##### Kmp
+
+**Kmp**
 <span id="Kmp">A. Kamphausen.</span>
-##### Kn
+
+**Kn**
 <span id="Kn">A. Knobel.</span>
-##### Knudtzon
+
+**Knudtzon**
 <span id="Knudtzon">J. A. Knudtzon, Assyrische Gebete an den Sonnengott.</span>
-##### Kö
+
+**Kö**
 <span id="Kö">E. König. Köi, ii, iii = Id., Heb. Gram.; KöSynt. = Köiii; Kö§ = Id., Heb. Gram.; KöEinl = Id., Einleitung in d. A.T.</span>
-##### Köh
+
+**Köh**
 <span id="Köh">A. Köhler.</span>
-##### Kohut-Memorial
+
+**Kohut-Memorial**
 <span id="Kohut-Memorial">Studies in Memory of A. Kohut; Kohut-Studies = Id..</span>
-##### Kosters
+
+**Kosters**
 <span id="Kosters">Het Herstel van Israël in het Perzische Tijdvak.</span>
-##### Kp
+
+**Kp**
 <span id="Kp">A. F. Kirkpatrick.</span>
-##### Krae
+
+**Krae**
 <span id="Krae">R. Kraetzschmar.</span>
-##### Krauss
+
+**Krauss**
 <span id="Krauss">S. Krauss, esp. Id., Griechische und Leteinische Lehnwörter im Talmud, etc.</span>
-##### Kremer
+
+**Kremer**
 <span id="Kremer">A. Kremer. KremerBeitr. = Id., Beträge.</span>
-##### Krochm
+
+**Krochm**
 <span id="Krochm">A. Krochmal.</span>
-##### KSGW
+
+**KSGW**
 <span id="KSGW">Königl. Sächs. Ak. d. Wiss.</span>
-##### Kt
+
+**Kt**
 <span id="Kt">Kethibh.</span>
-##### Kue
+
+**Kue**
 <span id="Kue">A. Kuenen. KueGes. Abh. = Id., Gesammelte Abhandlungen.</span>
-##### l.c.
+
+**l.c.**
 <span id="l.c.">in loco citato [in the place cited].</span>
-##### La
+
+**La**
 <span id="La">Lamentations.</span>
-##### Lag
+
+**Lag**
 <span id="Lag">P. de Lagarde. LagAgathang. = Id., Agathangelus; LagArm. Stud., or AS = Id., Armenische Studien; LagBN = Id., Bildung d. Nomina; LagM, or Mitth. = Id., Mittheilungen; LagNovi Psalt. spec. = Id., Novi Psalterii Specim.; LagOnom. = Id., Onomastica Sacra; LagOr = Id., Orientalia; LagPers. Stud. = Id. Persische Studien; LagSe = Id., Semitica; LagSy, or Sym(m.) = Id., Symmicta.</span>
-##### Landberg
+
+**Landberg**
 <span id="Landberg">C. Landberg. LandbergProv. = Id., Proverbes et Dictons.</span>
-##### Lane
+
+**Lane**
 <span id="Lane">E. W. Lane; usu. Id., Arabic Dictionary. Lane(Mod.) Egypt = Id., Modern Egyptians.</span>
-##### Lay
+
+**Lay**
 <span id="Lay">A. H. Layard.</span>
-##### LCB
+
+**LCB**
 <span id="LCB">Litterarisches Centralblatt.</span>
-##### Ldzb
+
+**Ldzb**
 <span id="Ldzb">M. Lidzbarski; usu. Id., Nordsemitische Inschriften.</span>
-##### Len
+
+**Len**
 <span id="Len">F. Lenormant. LenBeginnings = Id., Beginnings of History (Eng. Trans. of Origines de l'Histoire, I). LenOr(ig.) = Id., Les Origenes de l'Histoire.</span>
-##### Leng
+
+**Leng**
 <span id="Leng">C. von Lengerke.</span>
-##### Levy
+
+**Levy**
 <span id="Levy">Jacob Levy.</span>
-##### Lewy
+
+**Lewy**
 <span id="Lewy">H. Lewy, Semitische Fremdwörter im Griechischen.</span>
-##### Liḥy
+
+**Liḥy**
 <span id="Liḥy">Liḥyanian (language).</span>
-##### Lindberg
+
+**Lindberg**
 <span id="Lindberg">Lindverg, Vergleichende semitische Grammatik.</span>
-##### Linn
+
+**Linn**
 <span id="Linn">C. Linnaeus (Carl von Linné).</span>
-##### Littm
+
+**Littm**
 <span id="Littm">Enno Littmann.</span>
-##### Lo
+
+**Lo**
 <span id="Lo">R. Lowth.</span>
-##### loc.
+
+**loc.**
 <span id="loc.">local, locality.</span>
-##### Loft
+
+**Loft**
 <span id="Loft">W. K. Loftus, esp. LoftCS = Id., Chaldaea and Susiana.</span>
-##### LOPh
+
+**LOPh**
 <span id="LOPh">Literaturblatt für Orientalische Philologie.</span>
-##### Löw
+
+**Löw**
 <span id="Löw">J. Löw, Aramäische Pflanzennamen.</span>
-##### Lu
+
+**Lu**
 <span id="Lu">Martin Luther.</span>
-##### Luz
+
+**Luz**
 <span id="Luz">S. D. Luzzatto.</span>
-##### Lv
+
+**Lv**
 <span id="Lv">Leviticus.</span>
-##### LXX
+
+**LXX**
 <span id="LXX">Greek Version of the LXX.</span>
-##### Lyon
+
+**Lyon**
 <span id="Lyon">D. G. Lyon.</span>
-##### Lzb
+
+**Lzb**
 <span id="Lzb">M. Lidzbarski (v. Ldzb). LzbEph(em). = Id., Ephemeris für semitische Epigraphik.</span>
-##### M-A
+
+**M-A**
 <span id="M-A">W. Muss-Arnolt. M-ACD= Id., Compendious Assyr. Dict.</span>
-##### M, M§
+
+**M, M§**
 <span id="M"><span id="M§">
     (in BAram, Appendix) K. Marti, Gram. d. bibl. Aram.
 </span></span>
-##### m. m.
+
+**m. m.**
 <span id="m. m.">masculine.</span>
-##### Mal
+
+**Mal**
 <span id="Mal">Malachi.</span>
-##### Mand.
+
+**Mand.**
 <span id="Mand.">Mandean.</span>
-##### Marquart
+
+**Marquart**
 <span id="Marquart">J. Marquart. Marquart Id., Fundamente = Id., Fundamente israelitischer u. jüdischer Geschichte.</span>
-##### Marti
+
+**Marti**
 <span id="Marti">K. Marti.</span>
-##### Mas(s)
+
+**Mas(s)**
 <span id="Mas(s)">Masora.</span>
-##### MBAk
+
+**MBAk**
 <span id="MBAk">Monatsbericht d. Berliner Akad. d. Wissenschaften.</span>
-##### MDPV
+
+**MDPV**
 <span id="MDPV">Mittheilungen d. Deutschen Palästina-Vereins.</span>
-##### Me
+
+**Me**
 <span id="Me">A. Merx.</span>
-##### Meier
+
+**Meier**
 <span id="Meier">E. Meier, Hebräisches Wurzelwörterbuch.</span>
-##### Meinh
+
+**Meinh**
 <span id="Meinh">J. Meinhold.</span>
-##### Meissn
+
+**Meissn**
 <span id="Meissn">B. Meissner. MeissnSuppl. = Id., Supplement zum Assyr. Wörterb.</span>
-##### Mem.
+
+**Mem.**
 <span id="Mem.">Survey of W. Palestine, Memoirs.</span>
-##### metaph.
+
+**metaph.**
 <span id="metaph.">metaphor, metaphorically.</span>
-##### Mey
+
+**Mey**
 <span id="Mey">E. Meyer. MeyE. Jud., or Entstehung, or Enst. J., or Entstehung d. Jud., or Judenth(um) = Id., die Entstehung des Judenthums.</span>
-##### MGWJ
+
+**MGWJ**
 <span id="MGWJ">Monatsschr., q. v.</span>
-##### MI
+
+**MI**
 <span id="MI">Mesha-Inscription.</span>
-##### Mi
+
+**Mi**
 <span id="Mi">Micah.</span>
-##### Mich
+
+**Mich**
 <span id="Mich">J. D. Michaelis.</span>
-##### Min.
+
+**Min.**
 <span id="Min.">Minaean.</span>
-##### Mish(n).
+
+**Mish(n).**
 <span id="Mish(n).">Mishna.</span>
-##### mng.
+
+**mng.**
 <span id="mng.">meaning</span>
-##### Mo
+
+**Mo**
 <span id="Mo">F. E. Movers.</span>
-##### Mordt
+
+**Mordt**
 <span id="Mordt">J. H. Mordtmann. MordtmHim. Inschr. = Id., Himjarische Ischriften.</span>
-##### mpl.
+
+**mpl.**
 <span id="mpl.">masculine plural</span>
-##### ms.
+
+**ms.**
 <span id="ms.">masculine singular.</span>
-##### MSS
+
+**MSS**
 <span id="MSS">Monatschrift für Geschichte u. Wissen. d. Judenthums.</span>
-##### MT
+
+**MT**
 <span id="MT">Massoretic Text.</span>
-##### Müll
+
+**Müll**
 <span id="Müll">A. Müller.</span>
-##### Muss-Arn
+
+**Muss-Arn**
 <span id="Muss-Arn">W. Muss-Arnolt.</span>
-##### MV
+
+**MV**
 <span id="MV">Mittheilungen d. Vorderasiatischen Gesellschaft.</span>
-##### MV11 (10,9,8)
+
+**MV11 (10,9,8)**
 <span id="MV11"><span id="MV10"><span id="MV9"><span id="MV8">
     Gesenius, Handwörterbuch über das A. T., edd. F. Mühlau &. W. Volck.
 </span></span></span></span>
-##### n. pr. loc.
+
+**n. pr. loc.**
 <span id="n. pr. loc.">n. pr. loci, proper name of place.</span>
-##### n.
+
+**n.**
 <span id="n.">nomen, noun.</span>
-##### n.pr.
+
+**n.pr.**
 <span id="n.pr.">nomen proprium, proper name.</span>
-##### Na
+
+**Na**
 <span id="Na">Nahum.</span>
-##### Nab.
+
+**Nab.**
 <span id="Nab.">Nabataean.</span>
-##### Näg
+
+**Näg**
 <span id="Näg">C. W. E. Nägelsbach.</span>
-##### Nasar
+
+**Nasar**
 <span id="Nasar">Lexid. cod. Nasaraei, ed. M. Norberg.</span>
-##### NBab.
+
+**NBab.**
 <span id="NBab.">New Babylonian.</span>
-##### Nbr
+
+**Nbr**
 <span id="Nbr">A. Neubauer.</span>
-##### Ne
+
+**Ne**
 <span id="Ne">Nehemiah (rarely = E. Nestle).</span>
-##### Neb
+
+**Neb**
 <span id="Neb">Nebucbadnezzar.</span>
-##### Nes
+
+**Nes**
 <span id="Nes">E. Nestle. Nes§ = Id., Syriac Gram.; NesEg = Eigennamen; NesMarg. = Id., Marginalien u. Materialien.</span>
-##### NH
+
+**NH**
 <span id="NH">New (Late) Hebrew.</span>
-##### NHWB
+
+**NHWB**
 <span id="NHWB">Levy, Neuhebr. Wörterb.</span>
-##### NKZ
+
+**NKZ**
 <span id="NKZ">Neue kirchliche Zeitschrift.</span>
-##### no.
+
+**no.**
 <span id="no.">number.</span>
-##### Nö
+
+**Nö**
 <span id="Nö">T. Nöldeke. No§ = Id., Syrische Grammatik; NöBeitr(äge), or BSW = Id., Beiträge z. semitischen Sprachwissenschaft; NöM = Id., Mandäische Grammatik; NöNS = Id., Neu-Syrische Grammatik; NöUntersuch. = Id., Untersuchungen zur Kritik des A.T.; NöZur Gram. d. class. Ar. = Id., Zur Grammatik des classischen Arab. (in Denkschriften der Wiener Akademie, 1896).</span>
-##### nom. coll
+
+**nom. coll**
 <span id="nom. coll">nom. collectivum, collective noun.</span>
-##### nom. unit
+
+**nom. unit**
 <span id="nom. unit">nom. unitatis, noun of singular or individual meaning.</span>
-##### nom.
+
+**nom.**
 <span id="nom.">nomen, noun.</span>
-##### Nor
+
+**Nor**
 <span id="Nor">E. Norris, Assyrian Dictionary.</span>
-##### Norberg
+
+**Norberg**
 <span id="Norberg">Nasar, q.v.</span>
-##### Norzi
+
+**Norzi**
 <span id="Norzi">J. S. ben Abrabam Norzi.</span>
-##### Now
+
+**Now**
 <span id="Now">W. Nowack. NowArch. = Id., Hebräische Archäologie.</span>
-##### Nu
+
+**Nu**
 <span id="Nu">Numbers.</span>
-##### Ob
+
+**Ob**
 <span id="Ob">Obadiah.</span>
-##### OBaktr.
+
+**OBaktr.**
 <span id="OBaktr.">Old Baktrian.</span>
-##### obj.
+
+**obj.**
 <span id="obj.">object.</span>
-##### Oehl
+
+**Oehl**
 <span id="Oehl">Oehler.</span>
-##### oft.
+
+**oft.**
 <span id="oft.">often.</span>
-##### OH
+
+**OH**
 <span id="OH">Old Hebrew (Inscriptions).</span>
-##### OIran.
+
+**OIran.**
 <span id="OIran.">Old Iranian.</span>
-##### Ol
+
+**Ol**
 <span id="Ol">J. Olshausen. Ol§ = Id., Heb. Gram.</span>
-##### OLZ
+
+**OLZ**
 <span id="OLZ">Orientalische Literaturzeitung.</span>
-##### Oort
+
+**Oort**
 <span id="Oort">H. Oort.</span>
-##### op. cit.
+
+**op. cit.**
 <span id="op. cit.">in opere citato [in the work cited].</span>
-##### OP(ers.)
+
+**OP(ers.)**
 <span id="OP(ers.)">Old Persian. OP also (in CheOP) = Origin of Psalter.</span>
-##### opp.
+
+**opp.**
 <span id="opp.">opposite, as opposed to, or contrasted with.</span>
-##### Opp
+
+**Opp**
 <span id="Opp">Jules Oppert.</span>
-##### Or
+
+**Or**
 <span id="Or">C. von Orelli.</span>
-##### Os
+
+**Os**
 <span id="Os">E. Osiander.</span>
-##### OT
+
+**OT**
 <span id="OT">Old Testament.</span>
-##### Öt
-<span id="Öt">S. Öttli.</span>
-##### P
+
+**Öt**
+<span id="Öt"><span id="h_öt">S. Öttli.</span></span>
+
+**P**
 <span id="P">Priests' Code or Narrative.</span>
-##### Pal(est).
+
+**Pal(est).**
 <span id="Pal(est).">Palestine, Palestinian, etc.</span>
-##### Pal(m).
+
+**Pal(m).**
 <span id="Pal(m).">Palmyrene.</span>
-##### PAOS
+
+**PAOS**
 <span id="PAOS">Proceedings of the American Oriental Society.</span>
-##### Pap.
+
+**Pap.**
 <span id="Pap.">Papyrus.</span>
-##### part.
+
+**part.**
 <span id="part.">particle.</span>
-##### pass.
+
+**pass.**
 <span id="pass.">passive.</span>
-##### PB
+
+**PB**
 <span id="PB">Proceedings of Soc. of Bib. Archaeol.</span>
-##### Pe
+
+**Pe**
 <span id="Pe">J. J. S. Perowne.</span>
-##### PEF
+
+**PEF**
 <span id="PEF">Pal. Explor. Fund, usu. = Id., Quart. Statem'nt. PEFmem. = Mem., q. v.</span>
-##### Pei
+
+**Pei**
 <span id="Pei">F. E. Peiser.</span>
-##### Perles
+
+**Perles**
 <span id="Perles">F. Perles. Perles(Anal.) = Id., Analekten.</span>
-##### Pers.
+
+**Pers.**
 <span id="Pers.">Persian.</span>
-##### pers.
+
+**pers.**
 <span id="pers.">person, personae.</span>
-##### PESoc
+
+**PESoc**
 <span id="PESoc">American Palestine ExpIor. Society.</span>
-##### Pf.
+
+**Pf.**
 <span id="Pf.">Perfect.</span>
-##### Ph.
+
+**Ph.**
 <span id="Ph.">Phenician.</span>
-##### Phi
+
+**Phi**
 <span id="Phi">F. Philippi.</span>
-##### Pietschm
+
+**Pietschm**
 <span id="Pietschm">R. Pietschmann (also PietschmPhön(iz.), or Gesch. Ph.) = (usu.) = Id., Geschichte Phöniziens.</span>
-##### Pinsk
+
+**Pinsk**
 <span id="Pinsk">S. Pinsker.</span>
-##### pl.
+
+**pl.**
 <span id="pl.">plural.</span>
-##### Plin
+
+**Plin**
 <span id="Plin">Pliny, Hist. Nat.</span>
-##### POS
+
+**POS**
 <span id="POS">Proceedings Am. Orient. Soc.</span>
-##### post-pos.
+
+**post-pos.**
 <span id="post-pos.">post-positive.</span>
-##### Post
+
+**Post**
 <span id="Post">G. E. Post. PostFlora = Id., Flora of Syria.</span>
-##### postB
+
+**postB**
 <span id="postB">post-Biblical.</span>
-##### postex
+
+**postex**
 <span id="postex">post-exilic.</span>
-##### Pr
+
+**Pr**
 <span id="Pr">Proverbs.</span>
-##### Prä
+
+**Prä**
 <span id="Prä">F. Prätorius. PräAmh. Spr. = Id., Amharische Sprache; Prä(t)Neue Beiträge = Id., Neue Beiträge zur Erklärung der Himjarischen Inschriften.</span>
-##### PRE
+
+**PRE**
 <span id="PRE">Herzog's Prot. Real-Encycl.</span>
-##### Presb.Rev.
+
+**Presb.Rev.**
 <span id="Presb.Rev.">Presbyterian Review (New York).</span>
-##### Prol
+
+**Prol**
 <span id="Prol">Prolegomena.</span>
-##### Ps.-J
+
+**Ps.-J**
 <span id="Ps.-J">Targum of Pseudo-Jonathan.</span>
-##### Ps
+
+**Ps**
 <span id="Ps">Psalms, Psalmen.</span>
-##### PS
+
+**PS**
 <span id="PS">R. Payne Smith, Thesaurus Syriacus.</span>
-##### pt(cp).
+
+**pt(cp).**
 <span id="pt(cp).">participIe.</span>
-##### Ptol
+
+**Ptol**
 <span id="Ptol">Ptolemy (usu. Claudius Ptolemy).</span>
-##### punct.
+
+**punct.**
 <span id="punct.">punctuation.</span>
-##### q.v.
+
+**q.v.**
 <span id="q.v.">quod vide, [which see].</span>
-##### Qor
+
+**Qor**
 <span id="Qor">Qoran.</span>
-##### Qr
+
+**Qr**
 <span id="Qr">Qerê.</span>
-##### qu.
+
+**qu.**
 <span id="qu.">question.</span>
-##### qy.
+
+**qy.**
 <span id="qy.">query.</span>
-##### R
+
+**R**
 <span id="R">Redactor (e.g. in Hexateuch). </span>
-##### Ra
+
+**Ra**
 <span id="Ra">Rashi.</span>
-##### RA
+
+**RA**
 <span id="RA">Revue Archéologique.</span>
-##### Rabb
+
+**Rabb**
 <span id="Rabb">Jerome Rabb.</span>
-##### rd.
+
+**rd.**
 <span id="rd.">read.</span>
-##### Rd'A
+
+**Rd'A**
 <span id="Rd'A">Revue d'Assyriologie.</span>
-##### RD
+
+**RD**
 <span id="RD">Deuteronomic redactor.</span>
-##### rdg.
+
+**rdg.**
 <span id="rdg.">reading.</span>
-##### Re
+
+**Re**
 <span id="Re">E. Renan.</span>
-##### Reckend
+
+**Reckend**
 <span id="Reckend">S. Reckendorf.</span>
-##### refl.
+
+**refl.**
 <span id="refl.">reflexive.</span>
-##### RÉJ
+
+**RÉJ**
 <span id="RÉJ">Revue des Études Juives.</span>
-##### Rel
+
+**Rel**
 <span id="Rel">H. Reland.</span>
-##### RÉS
+
+**RÉS**
 <span id="RÉS">Répertoire d'Épigraphie Sémitique.</span>
-##### Rev.Bib.
+
+**Rev.Bib.**
 <span id="Rev.Bib.">Revue Biblique.</span>
-##### Ri
+
+**Ri**
 <span id="Ri">E. Riehm. RiHWB = Handwörterb. d. bibl. Alterth.</span>
-##### Rö
+
+**Rö**
 <span id="Rö">E. Rödiger.</span>
-##### Rob-Ges.
+
+**Rob-Ges.**
 <span id="Rob-Ges.">Gesenius, Hebrew and English Lexicon, translated by E. Robinson.</span>
-##### Rob
+
+**Rob**
 <span id="Rob">E. Robinson. RobBR = Id., Biblical Researches.</span>
-##### Roo
+
+**Roo**
 <span id="Roo">T. Roorda.</span>
-##### Rosenm
+
+**Rosenm**
 <span id="Rosenm">E. F. C. Rosenmüller.</span>
-##### Rothst
+
+**Rothst**
 <span id="Rothst">W. Rothstein.</span>
-##### RP2(1)
+
+**RP2(1)**
 <span id="RP2(1)">Records of Past, 2nd (1 st) Series.</span>
-##### RS
+
+**RS**
 <span id="RS">W. Robertson Smith. RSOTJC = Id., Old Testament in Jewish Church; RSProph. = Id., Prophets of Israel; RSK = Id., Kinship & Marriage in Early Arabia; RSSem = Id., Religion of Semites.</span>
-##### RTr
+
+**RTr**
 <span id="RTr">Recueil de Travaux.</span>
-##### Ru
+
+**Ru**
 <span id="Ru">Ruth.</span>
-##### RV
+
+**RV**
 <span id="RV">Revised Version.</span>
-##### RVm
+
+**RVm**
 <span id="RVm">Revised Version margin.</span>
-##### RWB
+
+**RWB**
 <span id="RWB">Bibl. Realwörterbuch, ed. Winer.</span>
-##### Ry
+
+**Ry**
 <span id="Ry">V. Ryssel.</span>
-##### S-C
+
+**S-C**
 <span id="S-C">A. H. Sayce and A. E. Cowley, Aram. Papyri.</span>
-##### Saad
+
+**Saad**
 <span id="Saad">Arabic Version of Saadya.</span>
-##### Sab.
+
+**Sab.**
 <span id="Sab.">Sabean.</span>
-##### SabDenkm
+
+**SabDenkm**
 <span id="SabDenkm">Sabäische Denkmäler, edd. Mordtmann & Müller.</span>
-##### SAC
+
+**SAC**
 <span id="SAC">Stanley A. Cook; esp. = Id., Aramaic Glossary.</span>
-##### SahoSpr
+
+**SahoSpr**
 <span id="SahoSpr">Saho Sprache.</span>
-##### Sam.
-<span id="Sam.">Samaria, Samaritan (rarely = Samuel).</span>
-##### Sarg
+
+**Sam.**
+<span id="Sam."><span id="sam">Samaria, Samaritan (rarely = Samuel).</span></span>
+
+**Sarg**
 <span id="Sarg">Sargon.</span>
-##### SASm
+
+**SASm**
 <span id="SASm">S. A. Smith.</span>
-##### Say
+
+**Say**
 <span id="Say">A. H. Sayce. SayMonuments = Id., Higher Criticism and the Monuments; SayRel. Bab. = Id., Religion of Babylonia.</span>
-##### SB
+
+**SB**
 <span id="SB">SBAk.</span>
-##### SBAk
+
+**SBAk**
 <span id="SBAk">Sitzungsbericht d. Berl. Akademie der Wissenschaften.</span>
-##### Sch
+
+**Sch**
 <span id="Sch">F. W. Schultz.</span>
-##### Scheft
+
+**Scheft**
 <span id="Scheft">Scheftelowitz, usu. = Scheft, Arisches im A.T.; ScheftMGWJ = Id., Monatsschrift für Gesch. u. Wiss. d. Jud. (1903); also pub. separately (Scheftii).</span>
-##### Schenkel
+
+**Schenkel**
 <span id="Schenkel">D. Schenkel, Bibel-Lexicon.</span>
-##### Schl
+
+**Schl**
 <span id="Schl">C. Schlottmann.</span>
-##### Schr
+
+**Schr**
 <span id="Schr">E. Schrader.</span>
-##### Schröd
+
+**Schröd**
 <span id="Schröd">P. Schröder, esp. = Id., Phönizische Sprache.</span>
-##### Schu
+
+**Schu**
 <span id="Schu">A. Schultens.</span>
-##### Schü
+
+**Schü**
 <span id="Schü">E. Schürer, Gesch. des jüdischen Volkes im Zeitalter Jesu Christi.</span>
-##### Schulth
+
+**Schulth**
 <span id="Schulth">F. Schulthess. SchulthHom. Wurz. = Id., Homonymische Wurzeln im Syrischen; SchultLex. = Id., Lexicon d. Chr. Pal. Aramäischen.</span>
-##### Schw
+
+**Schw**
 <span id="Schw">F. Schwally. Schw(alIy)Idiot. = Id., Idioticon d. Chr. Pal.</span>
-##### Seetzen
+
+**Seetzen**
 <span id="Seetzen">Seetzen, Reisen durch Syrien.</span>
-##### seld.
+
+**seld.**
 <span id="seld.">seldom, rare.</span>
-##### Sen
+
+**Sen**
 <span id="Sen">Sennacherib.</span>
-##### Sendsch.
+
+**Sendsch.**
 <span id="Sendsch.">Sendschirli (Zinjirli).</span>
-##### Sept
+
+**Sept**
 <span id="Sept">Holmes & Parsons, Septuagint.</span>
-##### sf.
+
+**sf.**
 <span id="sf.">suffix, or with suffix.</span>
-##### sg.
+
+**sg.**
 <span id="sg.">singular.</span>
-##### Shlm
+
+**Shlm**
 <span id="Shlm">Shalmaneser II.</span>
-##### si vera l.
+
+**si vera l.**
 <span id="si vera l.">si vera lectio, [if true reading].</span>
-##### SI
+
+**SI**
 <span id="SI">Siloam Inscription.</span>
-##### Siegf
+
+**Siegf**
 <span id="Siegf">C. Siegfried.</span>
-##### sim.
+
+**sim.**
 <span id="sim.">simile.</span>
-##### SK
+
+**SK**
 <span id="SK">Studien u. Kritiken.</span>
-##### Skr.
+
+**Skr.**
 <span id="Skr.">Sanskrit.</span>
-##### Sm
+
+**Sm**
 <span id="Sm">R. Smend (rarely = Samuel). SmRel. Gesch. = Smend, Alttestamentliche Religionsgeschichte; SmListen = Id., Listen der Bücher Esra u. Nehemia.</span>
-##### Smith
+
+**Smith**
 <span id="Smith">Smith, Dictionary of the Bible.</span>
-##### So
+
+**So**
 <span id="So">A. Socin.</span>
-##### Spi
+
+**Spi**
 <span id="Spi">W. Spitta. Spi§ = Gram. d. arab. Vulg. Dial.</span>
-##### Spieg
+
+**Spieg**
 <span id="Spieg">F. Spiegel; SpiegAPK = Id., Altpersische Keilinschriften.</span>
-##### Spiegelb
+
+**Spiegelb**
 <span id="Spiegelb">W. Spiegelberg.</span>
-##### Spr
+
+**Spr**
 <span id="Spr">Sprache, or Sprüche.</span>
-##### sq.
+
+**sq.**
 <span id="sq.">followed by.</span>
-##### SS
+
+**SS**
 <span id="SS">C. Siegfried u. B. Stade, Hebräisches Wörterbuch.</span>
-##### st.
+
+**st.**
 <span id="st.">status, state, stative.</span>
-##### St
+
+**St**
 <span id="St">H. Steiner.</span>
-##### Sta
+
+**Sta**
 <span id="Sta">B. Stade; Sta§ = Id., Heb. Gram.; StaG(esch.) = Id., Geschichte des Volkes Israel.</span>
-##### Steind
+
+**Steind**
 <span id="Steind">G. Steindorff.</span>
-##### Steuern
+
+**Steuern**
 <span id="Steuern">C. Steuernagel.</span>
-##### Str
+
+**Str**
 <span id="Str">H. L. Strack. Str§ = Id., Gram. d. bibl. Aram.</span>
-##### Strassm
+
+**Strassm**
 <span id="Strassm">the following.</span>
-##### Strm
+
+**Strm**
 <span id="Strm">J. Strassmaier. StrmAV = Id., Alphabet. Verzeichniss.</span>
-##### sts.
+
+**sts.**
 <span id="sts.">sometimes.</span>
-##### Stu
+
+**Stu**
 <span id="Stu">G. Studer.</span>
-##### Stud. Bib.
+
+**Stud. Bib.**
 <span id="Stud. Bib.">Studia Biblica.</span>
-##### subst.
+
+**subst.**
 <span id="subst.">substantive.</span>
-##### Sum(er).
+
+**Sum(er).**
 <span id="Sum(er).">Sumerian.</span>
-##### supr., supr
+
+**supr., supr**
 <span id="supr."><span id="supr">
     supra, above.
 </span></span>
-##### Surenh
+
+**Surenh**
 <span id="Surenh">W. Surenhusius, Mishna.</span>
-##### Survey
+
+**Survey**
 <span id="Survey">Survey of Western Palestine (PEF); SurveyEP = Id., of Eastern Palestine.</span>
-##### Symm
+
+**Symm**
 <span id="Symm">Symmachus. </span>
-##### Syr.
-<span id="Syr.">Syriac.</span>
-##### t. (following a number)
+
+**Syr.**
+<span id="Syr."><span id="syr">Syriac.</span></span>
+
+**t. (following a number)**
 <span id="t. (following a number)">times.</span>
-##### T.Onk.
+
+**T.Onk.**
 <span id="T.Onk.">Targum of Onkelos.</span>
-##### TA
+
+**TA**
 <span id="TA">TeI el-Amarna; also Taj-al-'Arūs (Arab. Dict.).</span>
-##### Talm
+
+**Talm**
 <span id="Talm">Talmud.</span>
-##### Tar
+
+**Tar**
 <span id="Tar">Targum</span>
-##### Tariff
+
+**Tariff**
 <span id="Tariff">Palmyrene Tariff Inscription.</span>
-##### TB, TBA.
+
+**TB, TBA.**
 <span id="TB"><span id="TBA.">
     Transactions of the Society of Biblical Archaeology.
 </span></span>
-##### TelAm.
+
+**TelAm.**
 <span id="TelAm.">TA, q. v.</span>
-##### Tg
+
+**Tg**
 <span id="Tg">Targum TgJer = Targum of Jerusalem, etc.</span>
-##### The
+
+**The**
 <span id="The">O. Thenius.</span>
-##### Theod
+
+**Theod**
 <span id="Theod">Theodotion.</span>
-##### Theophr
+
+**Theophr**
 <span id="Theophr">Theophrastus; TheophrHist. Plant. = Id., Historia de Plantis.</span>
-##### Thes
+
+**Thes**
 <span id="Thes">W. Gesenius, Thesaurus Linguae Hebraeae.</span>
-##### ThesAdd.
+
+**ThesAdd.**
 <span id="ThesAdd.">Id., Additions by E. Rödiger.</span>
-##### ThLB
+
+**ThLB**
 <span id="ThLB">Theol. Literaturblatt.</span>
-##### ThLZ
+
+**ThLZ**
 <span id="ThLZ">Theol. Literaturzeitung.</span>
-##### ThT
+
+**ThT**
 <span id="ThT">Theologisch Tijdschrift.</span>
-##### Tiele
+
+**Tiele**
 <span id="Tiele">C. P. Tiele.</span>
-##### Tiph.
+
+**Tiph.**
 <span id="Tiph.">Tiphel (rare conjugation).</span>
-##### To
+
+**To**
 <span id="To">Tobler.</span>
-##### TP
+
+**TP**
 <span id="TP">Tiglath-Pileser.</span>
-##### Tpg.
+
+**Tpg.**
 <span id="Tpg.">Topography.</span>
-##### tr.
+
+**tr.**
 <span id="tr.">translate (translated, translation); rarely = transitive.</span>
-##### Tr
+
+**Tr**
 <span id="Tr">Transactions.</span>
-##### trans(it).
+
+**trans(it).**
 <span id="trans(it).">transitive.</span>
-##### Tristr
+
+**Tristr**
 <span id="Tristr">H. B. Tristram. TristrNHB = Id., Natural History of the Bible; TristrFFP = Id., Fauna and Flora of Palestine (Survey, Memoirs).</span>
-##### TSBA
+
+**TSBA**
 <span id="TSBA">TB, q. v.</span>
-##### TSWt
+
+**TSWt**
 <span id="TSWt">Theol. Studien aus Württemberg.</span>
-##### TTijdschr
+
+**TTijdschr**
 <span id="TTijdschr">ThT, q. v.</span>
-##### Tu
+
+**Tu**
 <span id="Tu">F. Tuch.</span>
-##### txt.
+
+**txt.**
 <span id="txt.">text.</span>
-##### txt.err.
+
+**txt.err.**
 <span id="txt.err.">textual error.</span>
-##### Univ.Pa.Exp.
+
+**Univ.Pa.Exp.**
 <span id="Univ.Pa.Exp.">Bab. Exped. of the Univ. of Pennsylvania.</span>
-##### usu.
+
+**usu.**
 <span id="usu.">usual, usually.</span>
-##### v
+
+**v**
 <span id="v">verse; v. = vide, see.</span>
-##### van d. H.
-<span id="van d. H.">E. van der Hooght, Heb. text of O.T.</span>
-##### var.
+
+**van d. H.**
+<span id="van d. H."><span id="van-d.h.">E. van der Hooght, Heb. text of O.T.</span></span>
+
+**var.**
 <span id="var.">variant reading.</span>
-##### vb.
+
+**vb.**
 <span id="vb.">verb.</span>
-##### VB
+
+**VB**
 <span id="VB">Variorum Bible.</span>
-##### vdVelde
+
+**vdVelde**
 <span id="vdVelde">C. W. M. van de Velde; esp. Id., Reis door Syrie en Palestina; E. T., Narrative of a Journey through Syria and Palestine; vdVeldeMem(oir) = Id., Memoir to accompany Map of Holy Land constructed by C. W. M. van de Velde.</span>
-##### Vg
+
+**Vg**
 <span id="Vg">Vulgate.</span>
-##### vid.
+
+**vid.**
 <span id="vid.">vide, see.</span>
-##### vir.
+
+**vir.**
 <span id="vir.">viri, of a man.</span>
-##### Vog
+
+**Vog**
 <span id="Vog">C. J. M. de Vogüé, Syrie Centrale. VogPalm. = Id..</span>
-##### Vogelst
+
+**Vogelst**
 <span id="Vogelst">H. Vogelstein, Landwirthschaft in Palästina zur Zeit der Mišnâh.</span>
-##### VOJ
+
+**VOJ**
 <span id="VOJ">Vienna Oriental Journal (= Wiener Zeitschrift für die Kunde des Morgenlandes).</span>
-##### Vrss
+
+**Vrss**
 <span id="Vrss">Old Versions.</span>
-##### Vulg.Ar.
+
+**Vulg.Ar.**
 <span id="Vulg.Ar.">Vulgar Arabic.</span>
-##### Vullers
+
+**Vullers**
 <span id="Vullers">J. A. Vullers, Lexicon Persico-Latinum.</span>
-##### W
+
+**W**
 <span id="W">W. Wright. WAG = Id., Arabic Gram.; WSG, or CG = Id., Comp. Semit. Gram.</span>
-##### Wahrm
+
+**Wahrm**
 <span id="Wahrm">A. Wahrmund, esp. Id, Arab. Handwörterbuch.</span>
-##### WAW
+
+**WAW**
 <span id="WAW">W. Aldis Wright.</span>
-##### wd.
+
+**wd.**
 <span id="wd.">word, also would.</span>
-##### We
+
+**We**
 <span id="We">J. Wellhausen. WeBl.Einl. = Id., Bleek's Einleitung in d. A.T.; WeComp. = Id., Composition des Hexateuchs; Wede gent. = Id., De gentibus et familiis Iudaeis; WeHeid. (or, Arab. Heidenthum) = Id., Reste Arabischen Heidenthums (= WeSkizzen iv. 2nd. ed.); WeHist. = Id., History of Israel (trans. by Black); WeProl. = Id., Prolegomena zur Geschichte Israels; WeSkizzen = Id., Skizzen und Vorarbeiten.</span>
-##### Weissb
+
+**Weissb**
 <span id="Weissb">F. H. Weissbach.</span>
-##### Wetzst
+
+**Wetzst**
 <span id="Wetzst">J. G. Wetzstein.</span>
-##### wi.
+
+**wi.**
 <span id="wi.">with, construed with.</span>
-##### Wied
+
+**Wied**
 <span id="Wied">A. Wiedemann. WiedSamml Id., Sammlung Altägyptische Wörter.</span>
-##### Wild
+
+**Wild**
 <span id="Wild">G. Wildeboer.</span>
-##### Wilkinson
+
+**Wilkinson**
 <span id="Wilkinson">J. G. Wilkinson, Ancient Egyptians.</span>
-##### WisdLt
+
+**WisdLt**
 <span id="WisdLt">Wisdom Literature.</span>
-##### Wkl
+
+**Wkl**
 <span id="Wkl">H. Winckler.</span>
-##### WMM
+
+**WMM**
 <span id="WMM">W. Max Müller. WMMAs. u. Eur(op.), or Asien = Id., Asien u. Europa.</span>
-##### Wr
+
+**Wr**
 <span id="Wr">C. H. H. Wright.</span>
-##### Wü
+
+**Wü**
 <span id="Wü">A. Wünsche.</span>
-##### WZKM
+
+**WZKM**
 <span id="WZKM">VOJ, q. v.</span>
-##### Xen
+
+**Xen**
 <span id="Xen">Xenophon.</span>
-##### Z
+
+**Z**
 <span id="Z">Zeitschrift.</span>
-##### ZA
+
+**ZA**
 <span id="ZA">Zeitschr. für Assyriologie.</span>
-##### ZAW
+
+**ZAW**
 <span id="ZAW">Z. f. alttest. Wissenschaft.</span>
-##### Zc
+
+**Zc**
 <span id="Zc">Zechariah.</span>
-##### Zehnpf
+
+**Zehnpf**
 <span id="Zehnpf">R. Zehnpfund.</span>
-##### ZEthnol.
+
+**ZEthnol.**
 <span id="ZEthnol.">Zeitschrift für Ethnologie.</span>
-##### Zim
+
+**Zim**
 <span id="Zim">H. Zimmern. ZimBP = Id., Babylonische Busspsalmen.</span>
-##### Zinj.
+
+**Zinj.**
 <span id="Zinj.">Inscriptions of Zinjirli (N. Syria).</span>
-##### ZK
+
+**ZK**
 <span id="ZK">Z. für Keilschriftforschung.</span>
-##### ZKM
+
+**ZKM**
 <span id="ZKM">Z. f. Kunde d. Morgenlandes.</span>
-##### ZKW
+
+**ZKW**
 <span id="ZKW">Z. f. kirchl. Wiss. und kirchl. Leben.</span>
-##### ZLuth.Th.
+
+**ZLuth.Th.**
 <span id="ZLuth.Th.">Z. für Lutherische Theologie.</span>
-##### ZMG
+
+**ZMG**
 <span id="ZMG">Z. d. deutsch. MorgenIänd. Gesellschaft.</span>
-##### Zö
+
+**Zö**
 <span id="Zö">O. Zöckler.</span>
-##### Zp
+
+**Zp**
 <span id="Zp">Zephaniah.</span>
-##### ZPV
+
+**ZPV**
 <span id="ZPV">Z. d. deutsch. Pal.-Vereins.</span>
-##### ZVölkerpsych.
+
+**ZVölkerpsych.**
 <span id="ZVölkerpsych.">Z. für Völkerpsychologie.</span>
-##### ZWTh., or ZWiss.Th.
+
+**ZWTh., or ZWiss.Th.**
 <span id="ZWTh."><span id="ZWiss.Th.">
     Z. für Wissenschaftliche Theologie.
 </span></span>
-##### ψ
+
+**ψ**
 <span id="ψ">Psalm.</span>
 
 

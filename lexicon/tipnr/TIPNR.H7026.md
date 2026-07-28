@@ -13,8 +13,5 @@ In both Ezra and Nehemiah, the list of returning exiles includes the Nethinim, a
 The inclusion of the Keros family in the list of returning exiles highlights the importance of the Nethinim in the restoration of the temple and the religious life of the Jewish community after the Babylonian exile. It also demonstrates the continuity of service and dedication among the families who had been assigned to assist in the temple, even through the difficult period of exile. 
 
 Apart from these two mentions in the lists of returning exiles, no further information is provided about the specific roles, size, or history of the Keros family within the Nethinim.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Keros | [<span class='tipnrLangHebrew'>ק</span>ֵ<span class='tipnrLangHebrew'>ר</span>ֹ<span class='tipnrLangHebrew'>ס</span>](H7026) | 2x | [[Ezr.2.44] & [Neh.7.47] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Keros\*\|reference=Ezr.2.44;Neh.7.47) |
+
 All entries for **Keros**:  **<big>[[H7026|קֵירֹס]]</big>**

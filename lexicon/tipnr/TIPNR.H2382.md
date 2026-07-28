@@ -9,11 +9,9 @@ Man living at the time of Exile and Return
 -  father of Col-hozeh **<big>[[H3626|כׇּל־חֹזֶה]]</big>**.
 
 Hazaiah is mentioned in the book of Nehemiah as an ancestor of Maaseiah, a leader who lived in Jerusalem after the Babylonian exile. Maaseiah is listed among the descendants of Judah who settled in Jerusalem. No further information is provided about Hazaiah in the Bible. \([[Neh.11.5|Neh.11.5]]\).
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Hazaiah | [<span class='tipnrLangHebrew'>ח</span>ֲ<span class='tipnrLangHebrew'>ז</span>ָ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>ה</span>](H2382) | 1x | [Neh.11.5 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hazaiah\*\|reference=Neh.11.5) |
+
 All entries for **Hazaiah**:  **<big>[[H2382|חֲזָיָה]]</big>**
+
 #### Related Profiles:
 - **[Adaiah](H5718M)** (father)
 - **[Col-hozeh](Col)** (child)

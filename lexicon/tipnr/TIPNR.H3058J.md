@@ -8,10 +8,8 @@ Man living at the time of Divided Monarchy
 - a son of Joshibiah **<big>[[H3143|יוֹשִׁבְיָה]]</big>**.
 
 Jehu, the son of Joshibiah, is mentioned in the genealogy of the tribe of Simeon in 1 Chronicles. He was part of the family of Asiel, a descendant of Simeon.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Jehu | [<span class='tipnrLangHebrew'>י</span>ֵ<span class='tipnrLangHebrew'>הו</span>ּ<span class='tipnrLangHebrew'>א</span>](H3058J) | 1x | [1Ch.4.35 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jehu\*\|reference=1Ch.4.35) |
+
 All entries for **Jehu**:  **<big>[[H3058|יֵהוּא]]</big>**
+
 #### Related Profiles:
 - **[Joshibiah](H3143)** (father)

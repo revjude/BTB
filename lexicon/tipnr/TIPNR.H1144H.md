@@ -8,12 +8,10 @@ This <span class='tipnrhighlight'>Benjamin</span> was a son of Bilhan and a desc
 -  son of Bilhan **<big>[[H1092|בִּלְהָן]]</big>**; 
 - a brother of Jeush **<big>[[H3266|יְעוּשׁ]]</big>**, Ehud **<big>[[H0164|אֵהוּד]]</big>**, Chenaanah **<big>[[H3668|כְּנַעֲנָה]]</big>**, Zethan **<big>[[H2133|זֵיתָן]]</big>**, Tarshish **<big>[[H8659|תַּרְשִׁישׁ]]</big>** and Ahishahar **<big>[[H0300|אֲחִישַׁחַר]]</big>**.
 
-This Benjamin is mentioned in the genealogy of the tribe of Benjamin. He was a son of Bilhan and a descendant of Benjamin, the youngest son of Israel \(or 'Jacob'\) \(1 Ch. 7:10\). No further information is provided about this individual in the biblical text. His inclusion in the genealogy highlights the importance of family lineage and the preservation of ancestral records among the Israelites.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Benjamin | [<span class='tipnrLangHebrew'>ב</span>ִּ<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>י</span>ָ<span class='tipnrLangHebrew'>מ</span>ִ<span class='tipnrLangHebrew'>ין</span>](H1144H) | 1x | [1Ch.7.10 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Benjamin\*\|reference=1Ch.7.10) |
+This Benjamin is mentioned in the genealogy of the tribe of Benjamin. He was a son of Bilhan and a descendant of Benjamin, the youngest son of Israel \(or 'Jacob'\) \([[1Chr.7.10|1 Ch. 7:10]]\). No further information is provided about this individual in the biblical text. His inclusion in the genealogy highlights the importance of family lineage and the preservation of ancestral records among the Israelites.
+
 All entries for **Benjamin**:  **<big>[[H1144|בִּנְיָמִין]]</big>**
+
 #### Related Profiles:
 - **[Bilhan](H1092H)** (father)
 - **[Jeush](H3266H)** (sibling)

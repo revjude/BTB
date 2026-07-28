@@ -12,9 +12,6 @@ The palace overseer would have been responsible for managing the daily operation
 
 The fact that Ahishar is mentioned by name suggests that he was a prominent figure in Solomon's court and held a position of importance. However, no further details about his background, his specific duties, or his tenure as palace overseer are provided in the biblical text. 
 
-Ahishar's role is listed among other key officials in Solomon's administration, such as Azariah, who was in charge of the district governors, and Zabud, a priest and the king's friend. \(1Ki.4.5,7\) This context highlights the structure and organization of Solomon's kingdom during his reign.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Ahishar | [<span class='tipnrLangHebrew'>א</span>ֲ<span class='tipnrLangHebrew'>ח</span>ִ<span class='tipnrLangHebrew'>יש</span>ָׁ<span class='tipnrLangHebrew'>ר</span>](H0301) | 1x | [1Ki.4.6 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ahishar\*\|reference=1Ki.4.6) |
+Ahishar's role is listed among other key officials in Solomon's administration, such as Azariah, who was in charge of the district governors, and Zabud, a priest and the king's friend. \([[1Kgs.4.5|1Ki.4.5]],[[1Kgs.4.7|7]]\) This context highlights the structure and organization of Solomon's kingdom during his reign.
+
 All entries for **Ahishar**:  **<big>[[H0301|אֲחִישָׁר]]</big>**

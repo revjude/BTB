@@ -7,11 +7,9 @@ Man living at the time of Divided Monarchy
 - only referred to as Mattan **<big>[[H4977|מַתָּן]]</big>**; 
 -  father of Shephatiah **<big>[[H8203|שְׁפַטְיָה]]</big>**.
 
-Mattan was the father of Shephatiah, a prominent official during the reign of King Zedekiah of Judah. Shephatiah, along with other officials, accused the prophet Jeremiah of discouraging the people and urged the king to put him to death. As a result, Jeremiah was thrown into a cistern, where he sank into the mud. However, Ebed-Melech, an Ethiopian eunuch, rescued Jeremiah with the king's permission \([[Jer.38.1|Jeremiah 38:1]]-13\). Mattan is only mentioned in this context as the father of Shephatiah, one of Jeremiah's opponents.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Mattan | [<span class='tipnrLangHebrew'>מ</span>ַ<span class='tipnrLangHebrew'>ת</span>ָּ<span class='tipnrLangHebrew'>ן</span>](H4977H) | 1x | [Jer.38.1 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Mattan\*\|reference=Jer.38.1) |
+Mattan was the father of Shephatiah, a prominent official during the reign of King Zedekiah of Judah. Shephatiah, along with other officials, accused the prophet Jeremiah of discouraging the people and urged the king to put him to death. As a result, Jeremiah was thrown into a cistern, where he sank into the mud. However, Ebed-Melech, an Ethiopian eunuch, rescued Jeremiah with the king's permission \([[Jer.38.1|Jeremiah 38:1-13]]\). Mattan is only mentioned in this context as the father of Shephatiah, one of Jeremiah's opponents.
+
 All entries for **Mattan**:  **<big>[[H4977|מַתָּן]]</big>**
+
 #### Related Profiles:
 - **[Shephatiah](H8203O)** (child)

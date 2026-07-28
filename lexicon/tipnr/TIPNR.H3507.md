@@ -13,11 +13,9 @@ Ithream was one of the sons of King David, born to him during his reign in Hebro
 The mention of Ithream in these passages is part of a list of David's sons born in Hebron, which includes Amnon, Chileab \(Daniel\), Absalom, Adonijah, and Shephatiah. These sons were born to different wives of David, highlighting the practice of polygamy among the Israelite kings. 
 
 No other details are provided about Ithream's life, his relationship with his father or brothers, or any role he may have played in the kingdom. His inclusion in these lists serves to record the family line of David and the growth of his household during his reign in Hebron.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Ithream | [<span class='tipnrLangHebrew'>י</span>ִ<span class='tipnrLangHebrew'>ת</span>ְ<span class='tipnrLangHebrew'>ר</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ם</span>](H3507) | 2x | [[2Sa.3.5] & [1Ch.3.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ithream\*\|reference=2Sa.3.5;1Ch.3.3) |
+
 All entries for **Ithream**:  **<big>[[H3507|יִתְרְעָם]]</big>**
+
 #### Related Profiles:
 - **[David](H1732)** (father)
 - **[Eglah](H5698)** (mother)

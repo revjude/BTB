@@ -7,8 +7,5 @@ Man living at the time of Exile and Return
 - only referred to as Pelatiah **<big>[[H6410|פְּלַטְיָה]]</big>**.
 
 Pelatiah was one of the priests who signed the covenant during the time of Nehemiah, according to [[Neh.10.22|Nehemiah 10:22]]. The covenant was a commitment by the people to follow God's law and support the temple service. As a priest, Pelatiah would have had a significant role in the religious life of the community. His signing of the covenant indicates his support for the spiritual reforms and his dedication to upholding the law.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Pelatiah | [<span class='tipnrLangHebrew'>פ</span>ְּ<span class='tipnrLangHebrew'>ל</span>ַ<span class='tipnrLangHebrew'>ט</span>ְ<span class='tipnrLangHebrew'>י</span>ָ֫<span class='tipnrLangHebrew'>הו</span>ּ](H6410I) | 1x | [Neh.10.22 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Pelatiah\*\|reference=Neh.10.22) |
+
 All entries for **Pelatiah**:  **<big>[[H6410|פְּלַטְיָה]]</big>**

@@ -7,7 +7,7 @@ King living at the time of United Monarchy
 - only referred to as Nahash **<big>[[H5176|נָחָשׁ]]</big>**; 
 -  father of Hanun **<big>[[H2586|חָנוּן]]</big>**.
 
-Nahash, mentioned in 2 Samuel 10 and 1 Chronicles 19, was the king of the Ammonites during the reign of King David of Israel. He was the father of Hanun, who succeeded him as king. 
+Nahash, mentioned in [[2Sam.10|2 Samuel 10]] and [[1Chr.19|1 Chronicles 19]], was the king of the Ammonites during the reign of King David of Israel. He was the father of Hanun, who succeeded him as king. 
 
 The biblical account reveals that Nahash had shown kindness to David at some point in the past, although the specific nature of this kindness is not elaborated upon. After Nahash's death, David sent envoys to express his condolences to Hanun and to offer his continued goodwill towards the Ammonite kingdom. 
 
@@ -16,10 +16,8 @@ However, Hanun's advisors convinced him that David's envoys were actually spies,
 When David learned of this mistreatment, he was deeply offended. The incident escalated tensions between Israel and the Ammonites, ultimately leading to a war between the two nations. David's army, led by his commander Joab, defeated the Ammonites and their Syrian allies in a series of battles. 
 
 The account of Nahash and his son Hanun highlights the complex diplomatic relationships between Israel and its neighbors during the reign of King David. It also demonstrates the importance of showing respect and maintaining good relations with allies, as well as the consequences of misunderstandings.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Nahash | [<span class='tipnrLangHebrew'>נ</span>ָ<span class='tipnrLangHebrew'>ח</span>ָ<span class='tipnrLangHebrew'>ש</span>ׁ](H5176H) | 3x | [[2Sa.10.2] ... [1Ch.19.2] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nahash\*\|reference=2Sa.10.2;1Ch.19.1;1Ch.19.2) |
+
 All entries for **Nahash**:  **<big>[[H5176|נָחָשׁ]]</big>**
+
 #### Related Profiles:
 - **[Hanun](H2586G)** (child)

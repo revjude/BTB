@@ -7,8 +7,5 @@ Man living at the time of Exile and Return
 - only referred to as Shobai **<big>[[H7630|שֹׁבַי]]</big>**.
 
 Shobai is mentioned in [[Ezra.2.42|Ezra 2:42]] and [[Neh.7.45|Nehemiah 7:45]] as the ancestor of a family of gatekeepers who were among the exiles that returned to Jerusalem from Babylon. The gatekeepers were responsible for guarding the entrances to the temple and maintaining order within its precincts. Shobai's descendants are listed among the gatekeepers who returned to Jerusalem, indicating that they had a hereditary role in serving at the temple. The return of Shobai's family, along with other exiles, was part of the restoration of Jerusalem and the rebuilding of the temple after the Babylonian captivity.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Shobai | [<span class='tipnrLangHebrew'>ש</span>ֹׁ<span class='tipnrLangHebrew'>ב</span>ָ֑<span class='tipnrLangHebrew'>י</span>](H7630) | 2x | [[Ezr.2.42] & [Neh.7.45] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shobai\*\|reference=Ezr.2.42;Neh.7.45) |
+
 All entries for **Shobai**:  **<big>[[H7630|שֹׁבַי]]</big>**

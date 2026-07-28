@@ -2,25 +2,23 @@
 
 Levite living at the time of Egypt and Wilderness
 
-<span class='tipnrhighlight'>Jaaziah</span> was a Levite, a descendant of Merari through his son Beno, who served during King David's reign \([[1Chr.24.26|1Ch.24.26]]-27\).
+<span class='tipnrhighlight'>Jaaziah</span> was a Levite, a descendant of Merari through his son Beno, who served during King David's reign \([[1Chr.24.26|1Ch.24.26-27]]\).
 - A man from the tribe of Levi living at the time of Egypt and Wilderness, first mentioned at [[1Chr.24.26|1Ch.24.26]]; 
 - only referred to as Jaaziah **<big>[[H3269|יַעֲזִיָּהוּ]]</big>**; 
 -  son of Merari **<big>[[H4847|מְרָרִי]]</big>**; 
 - a brother of Mahli **<big>[[H4249|מַחְלִי]]</big>** and Mushi **<big>[[H4187|מוּשִׁי]]</big>**; 
 -  father of Beno **<big>[[H1121|בֵּן]]</big>**, Shoham **<big>[[H7719|שֹׁהַם]]</big>**, Zaccur **<big>[[H2139|זַכּוּר]]</big>** and Ibri **<big>[[H5681|עִבְרִי]]</big>**.
 
-Jaaziah is mentioned in [[1Chr.24.26|1 Chronicles 24:26]]-27 as a descendant of Merari, one of the three main divisions of the Levites. He is specifically identified as the son of Merari through his son Beno. 
+Jaaziah is mentioned in [[1Chr.24.26|1 Chronicles 24:26-27]] as a descendant of Merari, one of the three main divisions of the Levites. He is specifically identified as the son of Merari through his son Beno. 
 
-This passage describes the organization of the Levites during the reign of King David, who divided them into groups for their various duties in the service of the temple \(1Ch.24.1-19\). The descendants of Merari, including Jaaziah, were among those assigned specific roles and responsibilities. 
+This passage describes the organization of the Levites during the reign of King David, who divided them into groups for their various duties in the service of the temple \([[1Chr.24.1|1Ch.24.1-19]]\). The descendants of Merari, including Jaaziah, were among those assigned specific roles and responsibilities. 
 
 As a Levite, Jaaziah would have been involved in various aspects of worship and service in the tabernacle and later the temple. The Levites were responsible for assisting the priests, singing, playing musical instruments, and maintaining the sacred spaces. 
 
 The mention of Jaaziah in this genealogical record serves to demonstrate the continuity of the Levitical lineage and the organization of their duties during David's reign. It also highlights the importance of the Levites in the worship and service of God.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Jaaziah | [<span class='tipnrLangHebrew'>י</span>ַ<span class='tipnrLangHebrew'>ע</span>ֲ<span class='tipnrLangHebrew'>ז</span>ִ<span class='tipnrLangHebrew'>י</span>ָּ֫<span class='tipnrLangHebrew'>הו</span>ּ](H3269) | 2x | [[1Ch.24.26] & [1Ch.24.27] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Jaaziah\*\|reference=1Ch.24.26;1Ch.24.27) |
+
 All entries for **Jaaziah**:  **<big>[[H3269|יַעֲזִיָּהוּ]]</big>**
+
 #### Related Profiles:
 - **[Merari](H4847)** (father)
 - **[Mahli](H4249G)** (sibling)

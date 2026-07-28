@@ -7,11 +7,9 @@ Man living at the time of Divided Monarchy
 - only referred to as Shimei **<big>[[H8096|שִׁמְעִי]]</big>**; 
 - a son of Zaccur **<big>[[H2139|זַכּוּר]]</big>**.
 
-Shimei is listed in [[1Chr.4.26|1 Chronicles 4:26]]-27 as a descendant of Judah through the line of Mishma. He is mentioned in the genealogy of Judah's posterity, along with his sons Hanan, Zaccur, and Shimei. The passage notes that Shimei had sixteen sons and six daughters, indicating that he had a large family. However, the text also states that his brothers did not have many children, suggesting that Shimei's lineage was more prominent or numerous compared to other branches of his family.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Shimei | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>י</span>](H8096K) | 2x | [[1Ch.4.26] & [1Ch.4.27] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shimei\*\|reference=1Ch.4.26;1Ch.4.27) |
+Shimei is listed in [[1Chr.4.26|1 Chronicles 4:26-27]] as a descendant of Judah through the line of Mishma. He is mentioned in the genealogy of Judah's posterity, along with his sons Hanan, Zaccur, and Shimei. The passage notes that Shimei had sixteen sons and six daughters, indicating that he had a large family. However, the text also states that his brothers did not have many children, suggesting that Shimei's lineage was more prominent or numerous compared to other branches of his family.
+
 All entries for **Shimei**:  **<big>[[H8096|שִׁמְעִי]]</big>**
+
 #### Related Profiles:
 - **[Zaccur](H2139H)** (father)

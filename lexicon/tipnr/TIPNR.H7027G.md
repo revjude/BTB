@@ -9,23 +9,20 @@ Saul's father living at the time of United Monarchy
 - a brother of Ner **<big>[[H5369|נֵר]]</big>**, Abdon **<big>[[H5658|עַבְדוֹן]]</big>**, Zur **<big>[[H6698|צוּר]]</big>**, Baal **<big>[[H1168|בַּעַל]]</big>**, Nadab **<big>[[H5070|נָדָב]]</big>**, Gedor **<big>[[H1446|גְדֹר]]</big>**, Ahio **<big>[[H0283|אַחְיוֹ]]</big>**, Zecher **<big>[[H2144|זֶכֶר]]</big>** and Mikloth **<big>[[H4732|מִקְלוֹת]]</big>**; 
 -  father of Saul **<big>[[H7586|שָׁאוּל]]</big>**.
 
-Kish, a Benjamite from the family of Matri, was the father of Saul, the first king of Israel. He is introduced in [[1Sam.9.1|1 Samuel 9:1]] as a wealthy and influential man. Kish's donkeys went missing, and he sent his son Saul and a servant to search for them \(1 Samuel 9:3\). This journey led to Saul's meeting with the prophet Samuel, who anointed him as king over Israel \(1 Samuel 10:1\). 
+Kish, a Benjamite from the family of Matri, was the father of Saul, the first king of Israel. He is introduced in [[1Sam.9.1|1 Samuel 9:1]] as a wealthy and influential man. Kish's donkeys went missing, and he sent his son Saul and a servant to search for them \([[1Sam.9.3|1 Samuel 9:3]]\). This journey led to Saul's meeting with the prophet Samuel, who anointed him as king over Israel \([[1Sam.10.1|1 Samuel 10:1]]\). 
 
 Kish is mentioned several times in the context of Saul's kingship. He was present when Saul was chosen by lot as king at Mizpah \([[1Sam.10.21|1 Samuel 10:21]]\). Later, when Saul faced a Philistine threat, some people questioned his ability to lead, referring to him as "the son of Kish" \([[1Sam.10.11|1 Samuel 10:11]]\). 
 
-Kish's family background is further elaborated in the genealogies of the tribe of Benjamin \([[1Chr.8.30|1 Chronicles 8:30]], 33; 9:36, 39\). These passages confirm Kish as the father of Saul and provide details about his ancestors and descendants. 
+Kish's family background is further elaborated in the genealogies of the tribe of Benjamin \([[1Chr.8.30|1 Chronicles 8:30]], [[1Chr.8.33|33]]; [[1Chr.9.36|9:36]], [[1Chr.9.39|39]]\). These passages confirm Kish as the father of Saul and provide details about his ancestors and descendants. 
 
 After Saul's death, David honored the remains of Saul and his son Jonathan by burying them in the tomb of Kish at Zela \([[2Sam.21.14|2 Samuel 21:14]]\). This act demonstrates David's respect for Saul's family and his desire to bring closure to the tragic events surrounding Saul's reign. 
 
-In the New Testament, the Apostle Paul, in his speech at Antioch, mentions Kish as the father of Saul when recounting the history of Israel \(Acts 13:21\). 
+In the New Testament, the Apostle Paul, in his speech at Antioch, mentions Kish as the father of Saul when recounting the history of Israel \([[Acts.13.21|Acts 13:21]]\). 
 
 Throughout the biblical narrative, Kish is primarily known as the father of Saul, the first king of Israel. His life and influence are closely tied to the rise and reign of his son, and his legacy is remembered in the context of Israel's early monarchy.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Kish | [<span class='tipnrLangHebrew'>ק</span>ִ<span class='tipnrLangHebrew'>יש</span>ׁ](H7027G) | 15x | [[1Sa.9.1] ... [1Ch.26.28] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kish\*\|reference=1Sa.9.1;1Sa.9.3;1Sa.9.3;1Sa.10.11;1Sa.10.21;1Sa.14.51;2Sa.21.14;1Ch.8.30;1Ch.8.33;1Ch.8.33;1Ch.9.36;1Ch.9.39;1Ch.9.39;1Ch.12.1;1Ch.26.28) |
-| Kish (KJV= Cis) | [<span class='tipnrLangGreek'>Κίς</span>](G2797) | 1x | [Act.13.21 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Kish\*\|reference=Act.13.21) |
+
 All entries for **Kish**:  **<big>[[H7027|קִישׁ]]</big>** ☩  **<big>[[G2797|Κίς]]</big>**
+
 #### Related Profiles:
 - **[Abiel](H0022G)** (father)
 - **[Maacah](H4601N)** (mother)

@@ -13,11 +13,9 @@ Hezron was a son of Reuben, the firstborn son of Israel \(or 'Jacob'\), as recor
 Hezron's descendants formed a clan within the tribe of Reuben, known as the Hezronites, as mentioned in [[Num.26.6|Numbers 26:6]]. The Hezronites were one of the four clans of Reuben, along with the Hanochites, the Palluites, and the Carmites. These clans were counted in the census taken in the wilderness of Sinai, as recorded in the book of Numbers. 
 
 As a grandson of Jacob and a member of one of the twelve tribes of Israel, Hezron's lineage played a role in the formation and growth of the Israelite nation. His descendants were among the Israelites who eventually left Egypt during the Exodus and settled in the Promised Land.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Hezron | [<span class='tipnrLangHebrew'>ח</span>ֶ<span class='tipnrLangHebrew'>צ</span>ְ<span class='tipnrLangHebrew'>רו</span>ֹ<span class='tipnrLangHebrew'>ן</span>](H2696G) | 4x | [[Gen.46.9] ... [1Ch.5.3] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Hezron\*\|reference=Gen.46.9;Exo.6.14;Num.26.6;1Ch.5.3) |
+
 All entries for **Hezron**:  **<big>[[H2696|חֶצְרוֹן]]</big>**
+
 #### Related Profiles:
 - **[Reuben](H7205)** (father)
 - **[Hanoch](H2585J)** (sibling)

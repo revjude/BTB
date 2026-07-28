@@ -14,10 +14,8 @@ The passage lists the territories assigned to each officer, with Ben-Deker being
 The appointment of these twelve officers was part of Solomon's administrative structure, which aimed to ensure the efficient management of resources and the well-being of the royal court. By dividing the responsibility among twelve officers, Solomon could ensure a consistent supply of provisions throughout the year. 
 
 Apart from this brief mention in the context of Solomon's administration, no other details are provided about Deker or his personal life. His role as one of the twelve officers highlights the organizational structure and the prosperity of Solomon's kingdom during his reign.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Deker (KJV= Dekar) | [<span class='tipnrLangHebrew'>ד</span>ֶּ֫<span class='tipnrLangHebrew'>ק</span>ֶ<span class='tipnrLangHebrew'>ר</span>](H1857) | 1x | [1Ki.4.9 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Deker\*\|reference=1Ki.4.9) |
+
 All entries for **Deker**:  **<big>[[H1857|דֶּקֶר]]</big>**
+
 #### Related Profiles:
 - **[Ben-deker](Ben)** (child)

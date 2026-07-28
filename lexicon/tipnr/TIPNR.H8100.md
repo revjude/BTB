@@ -8,11 +8,9 @@ Woman living at the time of Divided Monarchy
 -  mother of Jozacar **<big>[[H3108|יוֹזָכָר]]</big>**.
 
 Shimeath was an Ammonite woman mentioned in [[2Kgs.12.21|2 Kings 12:21]] and [[2Chr.24.26|2 Chronicles 24:26]] as the mother of Jozacar \(or 'Jozachar'\) \(or Zabad\), one of the two servants who conspired against and assassinated King Joash of Judah. The biblical text identifies her as an Ammonitess, indicating that she was a foreigner from the nation of Ammon. Apart from her son's infamous act, no other details about Shimeath's life are provided in the Bible.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Shimeath | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ע</span>ָ<span class='tipnrLangHebrew'>ת</span>](H8100) | 2x | [[2Ki.12.21] & [2Ch.24.26] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shimeath\*\|reference=2Ki.12.21;2Ch.24.26) |
+
 All entries for **Shimeath**:  **<big>[[H8100|שִׁמְעַת]]</big>**
+
 #### Related Profiles:
 - **[husband_of_Shimeath](H8100H)** (spouse)
 - **[Jozacar](H3108)** (child)

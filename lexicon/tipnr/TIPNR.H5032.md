@@ -16,12 +16,10 @@ Nebaioth is also mentioned in connection with Esau, the son of Isaac and the twi
 
 As a nomadic tribe, the descendants of Nebaioth likely inhabited the regions of northern Arabia and the Negev desert. They were part of the larger group of Ishmaelite tribes that played a significant role in the trade and commerce of the ancient Near East. 
 
-While little is known about Nebaioth as an individual, his legacy as the ancestor of a prominent tribe reflects the fulfillment of God's promise to Abraham that his descendants through Ishmael would also become great nations \(Genesis 17:20\). The inclusion of the Nebaioth tribe in Isaiah's prophecy suggests that they will have a place in God's future plans for Israel and the nations.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Nebaioth (KJV= Nebajoth) | [<span class='tipnrLangHebrew'>נ</span>ְ<span class='tipnrLangHebrew'>ב</span>ָ<span class='tipnrLangHebrew'>יו</span>ֹ<span class='tipnrLangHebrew'>ת</span>](H5032) | 5x | [[Gen.25.13] ... [Isa.60.7] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Nebaioth\*\|reference=Gen.25.13;Gen.28.9;Gen.36.3;1Ch.1.29;Isa.60.7) |
+While little is known about Nebaioth as an individual, his legacy as the ancestor of a prominent tribe reflects the fulfillment of God's promise to Abraham that his descendants through Ishmael would also become great nations \([[Gen.17.20|Genesis 17:20]]\). The inclusion of the Nebaioth tribe in Isaiah's prophecy suggests that they will have a place in God's future plans for Israel and the nations.
+
 All entries for **Nebaioth**:  **<big>[[H5032|נְבָיוֹת]]</big>**
+
 #### Related Profiles:
 - **[Ishmael](H3458G)** (father)
 - **[Kedar](H6938)** (sibling)

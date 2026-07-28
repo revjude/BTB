@@ -11,8 +11,5 @@ Demas is mentioned in three of Paul's epistles as a companion and fellow worker 
 However, in [[2Tim.4.10|2 Timothy 4:10]], Paul writes with a tone of disappointment, stating that Demas had forsaken him, "having loved this present world." This statement indicates that Demas had abandoned Paul and the ministry, choosing instead to pursue worldly interests. The exact nature of Demas' desertion is not specified, but it clearly caused Paul distress, especially as he faced his impending martyrdom. 
 
 The contrast between Demas' earlier dedication and his later abandonment serves as a warning to believers about the allure of worldly pursuits and the importance of remaining faithful to Christ and His mission. Demas' story is a reminder that even those who have served alongside great leaders like Paul can fall away if they allow their love for the world to supersede their commitment to God.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Demas | [<span class='tipnrLangGreek'>Δημᾶς</span>](G1214) | 3x | [[Col.4.14] ... [Phm.1.24] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Demas\*\|reference=Col.4.14;2Ti.4.10;Phm.1.24) |
+
 All entries for **Demas**:  **<big>[[G1214|Δημᾶς]]</big>**

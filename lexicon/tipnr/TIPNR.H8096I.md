@@ -8,10 +8,8 @@ Man living at the time of United Monarchy
 - a son of Ela **<big>[[H0414|אֵלָא]]</big>**.
 
 Shimei, the son of Ela, was an important figure during the reign of King Solomon. In [[1Kgs.1.8|1 Kings 1:8]], he is mentioned alongside Zadok the priest, Benaiah, and others as not siding with Adonijah in his attempt to become king, suggesting his loyalty to Solomon. Later, in [[1Kgs.4.18|1 Kings 4:18]], Shimei is listed as one of the twelve officers appointed by Solomon to provide food for the king and his household, indicating his trusted position within the royal administration.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Shimei | [<span class='tipnrLangHebrew'>ש</span>ִׁ<span class='tipnrLangHebrew'>מ</span>ְ<span class='tipnrLangHebrew'>ע</span>ִ<span class='tipnrLangHebrew'>י</span>](H8096I) | 2x | [[1Ki.1.8] & [1Ki.4.18] ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Shimei\*\|reference=1Ki.1.8;1Ki.4.18) |
+
 All entries for **Shimei**:  **<big>[[H8096|שִׁמְעִי]]</big>**
+
 #### Related Profiles:
 - **[Ela](H0414)** (father)

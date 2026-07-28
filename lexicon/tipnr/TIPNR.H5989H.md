@@ -8,10 +8,8 @@ Man living at the time of Egypt and Wilderness
 -  father of Shemuel **<big>[[H8050|שְׁמוּאֵל]]</big>**.
 
 Ammihud was the father of Shemuel, a leader from the tribe of Simeon. When the Lord commanded Moses to appoint leaders from each tribe to help divide the land of Canaan among the Israelites, Shemuel son of Ammihud was chosen to represent the tribe of Simeon in this important task.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Ammihud | [<span class='tipnrLangHebrew'>ע</span>ַ<span class='tipnrLangHebrew'>מ</span>ִּ<span class='tipnrLangHebrew'>יהו</span>ּ<span class='tipnrLangHebrew'>ד</span>](H5989H) | 1x | [Num.34.20 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Ammihud\*\|reference=Num.34.20) |
+
 All entries for **Ammihud**:  **<big>[[H5989|עַמִּיהוּד]]</big>**
+
 #### Related Profiles:
 - **[Shemuel](H8050H)** (child)

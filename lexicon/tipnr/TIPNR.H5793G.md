@@ -8,10 +8,8 @@ Man living at the time of Exile and Return
 - a son of Ammihud **<big>[[H5989|עַמִּיהוּד]]</big>**.
 
 Uthai was a descendant of Perez, son of Judah. He is listed among the first Judahites to resettle in Jerusalem after returning from Babylonian captivity. Uthai belonged to the clan of Perez, one of the two main Judahite clans along with Zerah. His mention helps establish that members of Judah were among the first returnees to reinhabit Jerusalem and begin rebuilding Jewish life there after the exile.
-#### References
-| English | Original | Count | STEP Bible Search |
-| - | - | - | - |
-| Uthai | [<span class='tipnrLangHebrew'>עו</span>ּ<span class='tipnrLangHebrew'>ת</span>ַ<span class='tipnrLangHebrew'>י</span>](H5793G) | 1x | [1Ch.9.4 ⌕](https://www.stepbible.org/?q=version=ESV\|version=KJV\|text=Uthai\*\|reference=1Ch.9.4) |
+
 All entries for **Uthai**:  **<big>[[H5793|עוּתַי]]</big>**
+
 #### Related Profiles:
 - **[Ammihud](H5989K)** (father)
