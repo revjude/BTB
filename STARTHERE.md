@@ -104,14 +104,6 @@ If you get stuck on the traditional KJV verse, you can hover your cursor over th
 
 The BSB was generously given to the public domain by the Berean Bible translation committee. Find out more about that translation [HERE](https://berean.bible/).
 
-*I did reach out to the Friendship Press's rights management company about using the text of the NRSVue in place of the BSB text so that there could be wider adoption of the BTB in an academic space, but received a very kind and gracious denial of the request to use their text in this format.*
-
-#### KJV Philosophy
-
-All of that said, the KJV is a stunning and beautiful rendering of the scriptures, which has shaped all of modern Western thought more than any other book. (Over 1 billion—1,000,000,000+—is the conservative estimate of copies printed since 1611.) And for someone who might have a different theology, who might know Christ to be a living reality on an ethereal plane, who finds divine providence in the assemblage of the scriptures of the Christian Bible by many men, spanning many centuries, to be an earmark of Truth, and who finds the words of Jesus Christ to be infallible regardless of which translation the Holy Spirit is having to work with, a more poetic rendering of the scripture could be far more reflective of the intent of the original author than, say, a very precise translation according to the latest scholarly research which has been peer reviewed within the academy, but which has been altered to be more inclusive of a modern audience and diluted into mundane literature.
-
-Or one can translate the scripture for oneself - see below.
-
 Chapters also include copious footnotes from the Treasury of Scripture Knowledge—mostly cross-references, with many informational notes. Jesus' words are displayed in red text. The section titles are not canonical parts of the Bible, but were added from the BSB to create natural boundaries for coherent units within chapters. These boundaries were used to define the pericopes as [desribed below](#Pericopes).
 
 ### Studying the Scripture
@@ -145,8 +137,6 @@ Any differences in spelling, word order, inclusions and exclusions, or which wor
 When you click on any Greek or Hebrew word, you are taken to the lexical entry for that word. The lexicon is compiled from every available source in the public domain, including: Strong's Exhaustive Concordance of the Bible, the Brown-Driver-Briggs Hebrew and English Lexicon, A Manual Greek Lexicon of the New Testament: Abbott-Smith, Liddell–Scott–Jones A Greek-English Lexicon, and several more modern and publicly available resources like [OpenScriptures.org's Hebrew Bible](https://github.com/openscriptures/morphhb), and the [Open Greek New Testament Project](https://github.com/eliranwong/OpenGNT)—these last two aiming to recreate the latest critical editions of the Masoretic Text and the NA 27/28 Greek New Testament, respectively.
 
 The lexicon also includes many entries from **Translators Individualized Proper Names with all References (TIPNR)** from the [STEPBible Data repository](https://github.com/STEPBible/STEPBible-Data). This data disambiguates people and places and gives you additional information about specific people and places as they are mentioned in the scripture. All of the places from that dataset have been coded for Google Maps, but you will need a [Google Developer API Key](https://developers.google.com/maps/documentation/javascript) to use the feature. Once you obtain a Google Key, open the BTB folder with [VS Code](https://code.visualstudio.com/) and do a global find and replace of `[GoogleAPIKey]` in the `/lexicon/TIPNR` folder with your key from Google.
-
-More information on how to use the lexicon is coming soon.
 
 #### LXX
 
