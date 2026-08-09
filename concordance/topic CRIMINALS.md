@@ -17,7 +17,7 @@
 
 → Punishment of
 
-→ See various crimes, such as [[topic ADULTERY|ADULTERY]], <ref target="Nave:ARSON">ARSON</ref>, <ref target="Nave:HOMICIDE">HOMICIDE, etc</ref>
+→ See various crimes, such as [[topic ADULTERY|ADULTERY]], [[topic ARSON|ARSON]], [[topic HOMICIDE|HOMICIDE, etc]]
 
 → See also [[topic PUNISHMENT|PUNISHMENTS]]
 

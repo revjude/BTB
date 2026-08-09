@@ -99,5 +99,5 @@
 
 - Eunice and Lois [[2Tim.1.5|2Ti 1:5]]
 
-- See, for additional instances, each of the apostles, disciples,  and [[topic JOHN|JOHN]], <ref target="Nave:PAUL">PAUL</ref>, <ref target="Nave:PETER">PETER</ref>, <ref target="Nave:STEPHEN">STEPHEN</ref>; also see each of the prophets
+- See, for additional instances, each of the apostles, disciples,  and [[topic JOHN|JOHN]], [[topic PAUL|PAUL]], [[topic PETER|PETER]], [[topic STEPHEN|STEPHEN]]; also see each of the prophets
 

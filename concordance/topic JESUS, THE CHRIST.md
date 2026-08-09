@@ -517,7 +517,7 @@
 
 - See JESUS, MEDIATOR -JUDGE [[Ps.72.2|Ps 72:2]],[[Ps.72.4|4]]; [[Ps.75.2|75:2]]; [[Ps.96.13|96:13]]; [[Ps.110.6|110:6]]; [[Isa.2.4|Isa 2:4]]; [[Isa.11.3|11:3]],[[Isa.11.4|4]]; [[Mic.4.3|Mic 4:3]]; [[Mic.5.1|5:1]]; [[Matt.3.2|Mt 3:2]],[[Matt.3.3|3]],[[Matt.3.12|12]]; [[Matt.19.28|19:28]]; [[Matt.25.31|25:31-34]]; [[Luke.3.17|Lu 3:17]]; [[Acts.10.42|Ac  10:42]]; [[Acts.17.31|17:31]]; [[Rom.2.16|Ro 2:16]]; [[Rom.10.12|10:12]]; [[Rom.14.10|14:10]]; [[1Cor.4.4|1Co 4:4]],[[1Cor.4.5|5]]; [[2Cor.5.10|2Co 5:10]]; [[2Tim.4.1|2Ti 4:1]],[[2Tim.4.8|8]]; [[Jas.5.9|Jas 5:9]]; [[Rev.2.23|Re  2:23]]
 
-- See [[topic GOD|GOD]], <ref target="Nave:JUDGE">JUDGE</ref>
+- See [[topic GOD|GOD]], [[topic JUDGE|JUDGE]]
 
 → JUSTICE OF [[2Sam.23.3|2Sa 23:3]]; [[Zech.9.9|Zec 9:9]]; [[Matt.27.19|Mt 27:19]]; [[John.5.30|Joh 5:30]]; [[Acts.3.14|Ac  3:14]]; [[Acts.22.14|22:14]]
 
@@ -529,7 +529,7 @@
 
 - See [[topic CHURCH|CHURCH, PROPHECIES CONCERNING]]
 
-- See [[topic GOD|GOD]], <ref target="Nave:JUDGE">JUDGE</ref>
+- See [[topic GOD|GOD]], [[topic JUDGE|JUDGE]]
 
 - See [[topic GOD|GOD, HIS JUSTICE]]
 
