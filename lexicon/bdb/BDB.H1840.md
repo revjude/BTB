@@ -6,7 +6,7 @@
 
 **3.** <span class="bdbLangHebrew">‎דָּנִאֵל‎</span> a great sage [[Ezek.28.3|Ezek 28:3]] classed with Noah and Job as models of righteousness [[Ezek.14.14|Ezek 14:14]]; [[Ezek.14.20|Ezek 14:20]] perhaps the same as 
 
-**4.** <span class="bdbLangHebrew">‎דָּנִיֵּאל‎</span>, one of the noble young men taken into captivity by Nebuchadrezzar according to <ref ref="Dan 1:1-6" b="27" cBegin="1" vBegin="1" cEnd="1" vEnd="6" onclick="bcv(27,1,1)">Dan 1:1-6</ref>, the hero of the book of Daniel, [[Dan.1.6|Dan 1:6]] + 22 t. (also frequently in Aramaic section). 
+**4.** <span class="bdbLangHebrew">‎דָּנִיֵּאל‎</span>, one of the noble young men taken into captivity by Nebuchadrezzar according to [[Dan.1.1|Dan 1:1-6]], the hero of the book of Daniel, [[Dan.1.6|Dan 1:6]] + 22 t. (also frequently in Aramaic section). 
 
 
 

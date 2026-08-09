@@ -30,7 +30,7 @@ $\quad$ $\quad$ **d.** <span class="bdbLangHebrew">‎׳‎</span><span class="b
 
 **3.** ***violate*** a covenant [[Ps.55.20|Ps 55:21]]**\***; [[Ps.89.34|Ps 89:35]]**\***; [[Mal.2.10|Mal 2:10]], the <span class="bdbLangHebrew">‎חקות‎</span> of God [[Ps.89.31|Ps 89:32]]**\***. 
 
-**4.** ***treat*** a vineyard ***as common*** (see  <span class="bdbLangHebrew">‎חֹל‎</span>) ***by beginning to use its fruit*** [[Deut.20.6|Deut 20:6]] (twice in verse); [[Deut.28.30|Deut 28:30]]; [[Jer.31.5|Jer 31:5]] (see the law <ref ref="Lev 19:23-25" b="3" cBegin="19" vBegin="23" cEnd="19" vEnd="25" onclick="bcv(3,19,23)">Lev 19:23-25</ref>, [[BDB#H|H]]). **Pu\`al** ***Participle*** <span class="bdbLangHebrew">‎בַּגּוֺיִם שְׁמִי הַגָּדוֺל הַמְֿחֻלָּל‎</span> [[Ezek.36.23|Ezek 36:23]] ***my great name which is profaned among the nations***. 
+**4.** ***treat*** a vineyard ***as common*** (see  <span class="bdbLangHebrew">‎חֹל‎</span>) ***by beginning to use its fruit*** [[Deut.20.6|Deut 20:6]] (twice in verse); [[Deut.28.30|Deut 28:30]]; [[Jer.31.5|Jer 31:5]] (see the law [[Lev.19.23|Lev 19:23-25]], [[BDB#H|H]]). **Pu\`al** ***Participle*** <span class="bdbLangHebrew">‎בַּגּוֺיִם שְׁמִי הַגָּדוֺל הַמְֿחֻלָּל‎</span> [[Ezek.36.23|Ezek 36:23]] ***my great name which is profaned among the nations***. 
 
 **Hiph\`il 1. a.** ***Imperfect*** <span class="bdbLangHebrew">‎אֶתשֶֿׁםקָֿדְשִׁי עוֺד לֹא אַחֵל‎</span> [[Ezek.39.7|Ezek 39:7]] ***I will not let my holy name be profaned any more.*** 
 $\quad$ $\quad$ **b.** <span class="bdbLangHebrew">‎לֹא יַחֵל דְּבָרוֺ‎</span> ***he shall not violate his word*** [[Num.30.2|Num 30:3]]**\*** ([[BDB#P|P]]). 

@@ -2,7 +2,7 @@
 
 **1.** peradventure, perhaps; usually expressing a hope, as [[Gen.16.2|Gen 16:2]]; [[Num.22.6|Num 22:6]]; [[Num.22.11|Num 22:11]]; [[Num.23.3|Num 23:3]]; [[1Sam.6.5|1Sam 6:5]]; [[Jer.20.10|Jer 20:10]] but also a fear or doubt, as [[Gen.27.12|Gen 27:12]]; [[Job.1.5|Job 1:5]], followed by <span class="bdbLangHebrew">‎לֹא‎</span> [[Gen.24.5|Gen 24:5]]; [[Gen.24.39|Gen 24:39]] in mockery [[Isa.47.12|Isa 47:12]]; [[Jer.51.8|Jer 51:8]]. 
 
-**2.** followed by another clause <span class="bdbLangGreek">ἀσυνδέτως</span>, it, it expresses vir-tually the protasis = ***if peradventure*** [[Gen.18.24|Gen 18:24]]; [[Gen.18.28|Gen 18:28]] (compare v<ref ref="Gen 18:29-32" b="1" cBegin="18" vBegin="29" cEnd="18" vEnd="32" onclick="bcv(1,18,29)">Gen 18:29-32</ref>) [[Hos.8.7|Hos 8:7]] the blade shall yield no meal; <span class="bdbLangHebrew">‎אוּלַי יַעֲשֶׂה זָרִים יִבְלָעֻהוּ‎</span> ***if perchance*** it yield, strangers shall swallow it up. 
+**2.** followed by another clause <span class="bdbLangGreek">ἀσυνδέτως</span>, it, it expresses vir-tually the protasis = ***if peradventure*** [[Gen.18.24|Gen 18:24]]; [[Gen.18.28|Gen 18:28]] (compare v[[Gen.18.29|Gen 18:29-32]]) [[Hos.8.7|Hos 8:7]] the blade shall yield no meal; <span class="bdbLangHebrew">‎אוּלַי יַעֲשֶׂה זָרִים יִבְלָעֻהוּ‎</span> ***if perchance*** it yield, strangers shall swallow it up. 
 
 **3.** in [[Num.22.33|Num 22:33]] <span class="bdbLangHebrew">‎לוּלֵי‎</span> (q.v) must be read; ***unless*** she had turned aside from me, surely, etc. 
 
