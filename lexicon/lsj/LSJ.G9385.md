@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> generally, <b>division, portion</b> of a people,[<a href="javascript:void(0)" title="LXX.2Kgs.8.2. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[LXX.Deut.32.9|LXX.Deut.32.9]] ☩ [[LXX.Josh.17.14|LXX.Josh.17.14]] ☩ [[LXX.2Kgs.8.2|LXX.2Kgs.8.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.32.9|LXX.Deut.32.9]] ☩ [[LXX.Josh.17.14|LXX.Josh.17.14]] ☩ [[LXX.2Sam.8.2|LXX.2Kgs.8.2]]**\***
 </sub></small>

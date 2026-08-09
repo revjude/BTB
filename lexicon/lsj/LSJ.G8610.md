@@ -6,5 +6,5 @@
  <b>girdle</b>, [<a href="javascript:void(0)" title=" LXX.2Kgs.18.11. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.18.11|LXX.2Kgs.18.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Sam.18.11|LXX.2Kgs.18.11]]**\***
 </sub></small>

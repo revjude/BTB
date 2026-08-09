@@ -6,5 +6,5 @@
  <b>support</b>, [<a href="javascript:void(0)" title=" LXX.2Kgs.22.19. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.22.19|LXX.2Kgs.22.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Sam.22.19|LXX.2Kgs.22.19]]**\***
 </sub></small>
