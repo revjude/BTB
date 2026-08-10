@@ -1,9 +1,9 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
 pericope: "[[Ps.119.121 Your Word Is a Lamp to My Feet - AYIN|Your Word Is a Lamp to My Feet - AYIN]]"
 verse_count: 8
 testament: Old

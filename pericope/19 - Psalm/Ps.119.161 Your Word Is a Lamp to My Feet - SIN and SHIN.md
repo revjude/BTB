@@ -1,9 +1,9 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
 pericope: "[[Ps.119.161 Your Word Is a Lamp to My Feet - SIN and SHIN|Your Word Is a Lamp to My Feet - SIN and SHIN]]"
 verse_count: 8
 testament: Old

@@ -1,9 +1,9 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
 pericope: "[[Ps.119.169 Your Word Is a Lamp to My Feet - TAW|Your Word Is a Lamp to My Feet - TAW]]"
 verse_count: 8
 testament: Old
