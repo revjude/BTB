@@ -1,12 +1,12 @@
 <span class="asform"><span class="asgreek"><span class="asbold">ταλαιπωρέω</span></span>, <span class="asgreek">-ῶ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">ταλαίπωρος</span>), </span>  <span class="asseptuagint">\[in LXX Chiefly for **<big>[[H7703|שָׁדַד]]</big>** pu. ;\] </span> </span>
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">to do hard labour, suffer hardship</span> or <span class="asitalic">distress</span>: [[Jas.4.9|Ja 4:9]].</span>
-<span class="asbullet"><span class="asbold">2.</span> In cl. occasionally trans., <span class="asitalic">to weary, distress</span> (so [[LXX.Ps.18.8|Ps 16 (17):9]]**\***, [[LXX.Isa.33.1|Is 33:1]]).†</span>
+<span class="asbullet"><span class="asbold">2.</span> In cl. occasionally trans., <span class="asitalic">to weary, distress</span> (so [[LXX.Ps.17.9|Ps 16 (17):9]], [[LXX.Isa.33.1|Is 33:1]]).†</span>
 
 **Abbott-Smith References**
 
 | Book | Refs |
 | - | - |
-| Psalms | [[LXX.Ps.18.8\|17:9]]**\*** |
+| Psalms | [[LXX.Ps.17.9\|17:9]] |
 | Isaiah | [[LXX.Isa.33.1\|33:1]] |
 | James | [[Jas.4.9\|4:9]] |
 

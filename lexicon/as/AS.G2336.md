@@ -1,11 +1,11 @@
-<span class="asform"><span class="asgreek"><span class="asbold">θήκη</span></span>, <span class="asgreek">-ης, ἡ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">τίθημι</span>),</span>  <span class="asseptuagint">\[in LXX: [[LXX.Exod.25.27|Ex 25:26]]**\***([[LXX.Exod.25.28|27]]**\***) (**<big>[[H1004|בַּיִת]]</big>**), [[LXX.Isa.6.13|Is 6:13]] (**<big>[[H4678|מַצֶּבֶת]]</big>**) [[LXX.Isa.3.26|Is 3:26]]\*;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">θήκη</span></span>, <span class="asgreek">-ης, ἡ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">τίθημι</span>),</span>  <span class="asseptuagint">\[in LXX: [[LXX.Exod.25.27|Ex 25:26]]**\***([[LXX.Exod.25.27|27]]) (**<big>[[H1004|בַּיִת]]</big>**), [[LXX.Isa.6.13|Is 6:13]] (**<big>[[H4678|מַצֶּבֶת]]</big>**) [[LXX.Isa.3.26|Is 3:26]]\*;\]</span> </span>
 <span class="asitalic">a receptacle</span>, <span class="asitalic">chest</span>, <span class="asitalic">case</span>: of the <span class="asitalic">sheath</span> of a sword, [[John.18.11|Jo 18:11]].†
 
 **Abbott-Smith References**
 
 | Book | Refs |
 | - | - |
-| Exodus | [[LXX.Exod.25.27\|25:26]]**\*** · [[LXX.Exod.25.28\|25:27]]**\*** |
+| Exodus | [[LXX.Exod.25.27\|25:26]]**\*** · [[LXX.Exod.25.27\|25:27]] |
 | Isaiah | [[LXX.Isa.3.26\|3:26]] · [[LXX.Isa.6.13\|6:13]] |
 | John | [[John.18.11\|18:11]] |
 

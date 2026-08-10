@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">στρατό-πεδον</span></span>, <span class="asgreek">-ου, τό</span></span> <span class="asetym">  <span class="asderivation">(<span class="asgreek">στρατός</span> +  <span class="asgreek">πέδον</span>, <span class="asitalic">a plain</span>), </span>  <span class="asseptuagint">\[in LXX: [[LXX.Jer.27.2|Je 41 (34):1]]**\*** (**<big>[[H2428|חַיִל]]</big>**), II Mac 8:12, al. ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">στρατό-πεδον</span></span>, <span class="asgreek">-ου, τό</span></span> <span class="asetym">  <span class="asderivation">(<span class="asgreek">στρατός</span> +  <span class="asgreek">πέδον</span>, <span class="asitalic">a plain</span>), </span>  <span class="asseptuagint">\[in LXX: [[LXX.Jer.34.1|Je 41 (34):1]] (**<big>[[H2428|חַיִל]]</big>**), II Mac 8:12, al. ;\] </span> </span>
 <span class="asbullet"><span class="asbold">(a)</span> <span class="asitalic">a military camp</span>;</span>
 <span class="asbullet"><span class="asbold">(b)</span> <span class="asitalic">an army</span>: [[Luke.21.20|Lk 21:20]].†</span>
 
@@ -6,6 +6,6 @@
 
 | Book | Refs |
 | - | - |
-| Jeremiah | [[LXX.Jer.27.2\|34:1]]**\*** |
+| Jeremiah | [[LXX.Jer.34.1\|34:1]] |
 | Luke | [[Luke.21.20\|21:20]] |
 

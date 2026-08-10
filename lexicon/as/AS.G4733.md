@@ -1,6 +1,6 @@
-<span class="asform"><span class="asgreek"><span class="asbold">στερέωμα</span></span>, <span class="asgreek">-τος, τό</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asref"><span class="asgreek">στερεόω</span></span>), </span>  <span class="asseptuagint">\[in LXX: [[LXX.Gen.1.6|Ge 1:6]] ff., [[LXX.Ps.20.1|Ps 18 (19):1]]**\*** [[LXX.Ps.150.1|150:1]], [[LXX.Ezek.1.22|Ez 1:22-26]] [[LXX.Ezek.10.1|10:1]] [[LXX.Ezek.13.5|13:5]], Da LXX, TH 3:(56), 12:3 (**<big>[[H7549|רָקִיעַ]]</big>**), [[LXX.Deut.33.26|De 33:26]] (**<big>[[H7834|שׁחק]]</big>**), [[LXX.Ps.19.1|Ps 17 (18):2]]**\*** [[LXX.Ps.72.3|70 (71):3]]**\*** (**<big>[[H5553|סֶלַע]]</big>**), Es 9:29, I Es 8:78 (82), Si 43:1, 8, I Mac 9:14 \* ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">στερέωμα</span></span>, <span class="asgreek">-τος, τό</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asref"><span class="asgreek">στερεόω</span></span>), </span>  <span class="asseptuagint">\[in LXX: [[LXX.Gen.1.6|Ge 1:6]] ff., [[LXX.Ps.19.1|Ps 18 (19):1]] [[LXX.Ps.150.1|150:1]], [[LXX.Ezek.1.22|Ez 1:22-26]] [[LXX.Ezek.10.1|10:1]] [[LXX.Ezek.13.5|13:5]], Da LXX, TH 3:(56), 12:3 (**<big>[[H7549|רָקִיעַ]]</big>**), [[LXX.Deut.33.26|De 33:26]] (**<big>[[H7834|שׁחק]]</big>**), [[LXX.Ps.19.1|Ps 17 (18):2]]**\*** [[LXX.Ps.71.3|70 (71):3]] (**<big>[[H5553|סֶלַע]]</big>**), Es 9:29, I Es 8:78 (82), Si 43:1, 8, I Mac 9:14 \* ;\] </span> </span>
 <span class="asitalic">a solid body</span>;
-<span class="asbullet"><span class="asbold">(a)</span> <span class="asitalic">a support, foundation</span> (Arist., al.); metaph., <span class="asitalic">strength</span> ([[LXX.Ps.18.1|Ps 17]]**\*** [[LXX.Ps.71.1|70]]**\***, I Mac, ll. c.); <span class="asitalic">steadfastness, firmness</span>: <span class="asgreek">τ. πίστεως</span>, [[Col.2.5|Col 2:5]];</span>
+<span class="asbullet"><span class="asbold">(a)</span> <span class="asitalic">a support, foundation</span> (Arist., al.); metaph., <span class="asitalic">strength</span> ([[LXX.Ps.19.1|Ps 17]]**\*** [[LXX.Ps.71.1|70]]**\***, I Mac, ll. c.); <span class="asitalic">steadfastness, firmness</span>: <span class="asgreek">τ. πίστεως</span>, [[Col.2.5|Col 2:5]];</span>
 <span class="asbullet"><span class="asbold">(b)</span> the dome of heaven (believed to be a solid canopy), <span class="asitalic">the firmament</span> (LXX).†</span>
 
 **Abbott-Smith References**
@@ -9,7 +9,7 @@
 | - | - |
 | Genesis | [[LXX.Gen.1.6\|1:6]] |
 | Deuteronomy | [[LXX.Deut.33.26\|33:26]] |
-| Psalms | [[LXX.Ps.18.1\|17:1]]**\*** · [[LXX.Ps.19.1\|18:2]]**\*** · [[LXX.Ps.20.1\|19:1]]**\*** · [[LXX.Ps.71.1\|70:1]]**\*** · [[LXX.Ps.72.3\|71:3]]**\*** · [[LXX.Ps.150.1\|150:1]] |
+| Psalms | [[LXX.Ps.19.1\|17:1]]**\*** · [[LXX.Ps.19.1\|18:2]]**\*** · [[LXX.Ps.19.1\|19:1]] · [[LXX.Ps.71.1\|70:1]]**\*** · [[LXX.Ps.71.3\|71:3]] · [[LXX.Ps.150.1\|150:1]] |
 | Ezekiel | [[LXX.Ezek.1.22\|1:22]] · [[LXX.Ezek.10.1\|10:1]] · [[LXX.Ezek.13.5\|13:5]] |
 | Colossians | [[Col.2.5\|2:5]] |
 

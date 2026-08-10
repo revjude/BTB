@@ -1,4 +1,4 @@
-<span class="asform">† <span class="asgreek"><span class="asbold">προσ-οχθίζω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Lev.26.15|Le 26:15]], al. (**<big>[[H1602|גּעל]]</big>**); [[LXX.Lev.18.25|Le 18:25]], al. (**<big>[[H6958|קוֹא]]</big>**), [[LXX.Ps.96.10|Ps 94 (95):10]]**\***, [[LXX.Ezek.36.31|Ez 36:31]] (**<big>[[H6962|קוּט]]</big>**), Si 6:25, al. (other writers use <span class="asgreek">ὀχθέω</span>, rarely <span class="asgreek">-ίζω</span>);\]</span> </span>
+<span class="asform">† <span class="asgreek"><span class="asbold">προσ-οχθίζω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Lev.26.15|Le 26:15]], al. (**<big>[[H1602|גּעל]]</big>**); [[LXX.Lev.18.25|Le 18:25]], al. (**<big>[[H6958|קוֹא]]</big>**), [[LXX.Ps.95.10|Ps 94 (95):10]], [[LXX.Ezek.36.31|Ez 36:31]] (**<big>[[H6962|קוּט]]</big>**), Si 6:25, al. (other writers use <span class="asgreek">ὀχθέω</span>, rarely <span class="asgreek">-ίζω</span>);\]</span> </span>
 <span class="asitalic">to be angry with</span>: c. dat., [[Heb.3.10|He 3:10]]<span class="assuperscript">(LXX)</span>, [[Heb.3.17|17]].†
 
 **Abbott-Smith References**
@@ -6,7 +6,7 @@
 | Book | Refs |
 | - | - |
 | Leviticus | [[LXX.Lev.18.25\|18:25]] · [[LXX.Lev.26.15\|26:15]] |
-| Psalms | [[LXX.Ps.96.10\|95:10]]**\*** |
+| Psalms | [[LXX.Ps.95.10\|95:10]] |
 | Ezekiel | [[LXX.Ezek.36.31\|36:31]] |
 | Hebrews | [[Heb.3.10\|3:10]] · [[Heb.3.17\|3:17]] |
 

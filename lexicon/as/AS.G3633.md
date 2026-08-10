@@ -1,5 +1,5 @@
 <span class="asform"><span class="asgreek"><span class="asbold">οἴομαι</span></span>, <span class="asgreek">οἶμαι</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX for **<big>[[H2009|הִנֵּה]]</big>**, [[LXX.Gen.37.7|Ge 37:7]], al.;\]</span> </span>
-<span class="asitalic">to suppose</span>, <span class="asitalic">expect</span>, <span class="asitalic">imagine</span>; c. acc. et inf., [[John.21.25|Jo 21:25]]; c. inf., [[Phil.1.16|Phl 1:17]]**\***; seq. <span class="asgreek">ὅτι</span>, [[Jas.1.7|Ja 1:7]].†
+<span class="asitalic">to suppose</span>, <span class="asitalic">expect</span>, <span class="asitalic">imagine</span>; c. acc. et inf., [[John.21.25|Jo 21:25]]; c. inf., [[Phil.1.17|Phl 1:17]]; seq. <span class="asgreek">ὅτι</span>, [[Jas.1.7|Ja 1:7]].†
 <span class="asre"><span class="asitalic">SYN.</span>: v.s. **<big>[[G2233|ἡγέομαι]]</big>**. </span>
 
 **Abbott-Smith References**
@@ -8,6 +8,6 @@
 | - | - |
 | Genesis | [[LXX.Gen.37.7\|37:7]] |
 | John | [[John.21.25\|21:25]] |
-| Philippians | [[Phil.1.16\|1:17]]**\*** |
+| Philippians | [[Phil.1.17\|1:17]] |
 | James | [[Jas.1.7\|1:7]] |
 

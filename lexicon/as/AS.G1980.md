@@ -2,7 +2,7 @@
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">to inspect, examine</span>.</span>
 <span class="asbullet"><span class="asbold">2.</span> (a) <span class="asitalic">to visit</span>: c. acc, [[Acts.7.23|Ac 7:23]] [[Acts.15.36|15:36]] (cf. [[LXX.Judg.15.1|Jg 15:1]]); especially, the sick and afflicted (as in MGr. and sometimes in cl.), [[Matt.25.36|Mt 25:36]], [[Matt.25.43|43]], [[Jas.1.27|Ja 1:27]] (cf. Si 7:35);</span>
 <span class="asbullet"><span class="asbold">(b)</span> in LXX and NT (as **<big>[[H6485|פָּקַד]]</big>** in [[LXX.Gen.21.1|Ge 21:1]], [[LXX.Exod.4.31|Ex 4:31]], [[LXX.Ps.8.4|Ps 8:5]]**\***, al.), <span class="asitalic">to visit with help, to care for</span>: [[Luke.1.68|Lk 1:68]], [[Luke.1.78|78]] [[Luke.7.16|7:16]], [[Acts.15.14|Ac 15:14]], [[Heb.2.6|He 2:6]];</span>
-<span class="asbullet"><span class="asbold">(c)</span> <span class="asitalic">to visit with punishment</span> ([[LXX.Jer.9.26|Je 9:25]]**\***, [[LXX.Ps.89.33|Ps 88(89):33]], al.; cf. MM, <span class="asitalic">Exp.</span>, xiv; Cremer, 863).†</span>
+<span class="asbullet"><span class="asbold">(c)</span> <span class="asitalic">to visit with punishment</span> ([[LXX.Jer.9.25|Je 9:25]], [[LXX.Ps.89.33|Ps 88(89):33]], al.; cf. MM, <span class="asitalic">Exp.</span>, xiv; Cremer, 863).†</span>
 
 **Abbott-Smith References**
 
@@ -12,7 +12,7 @@
 | Exodus | [[LXX.Exod.4.31\|4:31]] |
 | Judges | [[LXX.Judg.15.1\|15:1]] |
 | Psalms | [[LXX.Ps.8.4\|8:5]]**\*** · [[LXX.Ps.89.33\|89:33]] |
-| Jeremiah | [[LXX.Jer.9.26\|9:25]]**\*** |
+| Jeremiah | [[LXX.Jer.9.25\|9:25]] |
 | Matthew | [[Matt.25.36\|25:36]] · [[Matt.25.43\|25:43]] |
 | Luke | [[Luke.1.68\|1:68]] · [[Luke.1.78\|1:78]] · [[Luke.7.16\|7:16]] |
 | Acts | [[Acts.7.23\|7:23]] · [[Acts.15.14\|15:14]] · [[Acts.15.36\|15:36]] |

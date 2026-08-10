@@ -1,12 +1,12 @@
-<span class="asform"><span class="asgreek"><span class="asbold">βάρβαρος</span></span>, <span class="asgreek">-ον</span></span>  <span class="asetym">    <span class="asderivation">(prob. onomatop., descriptive of unintelligible sounds),</span>    <span class="asseptuagint">\[in LXX: [[LXX.Ps.116.1|Ps 113 (114):1]]**\*** (**<big>[[H3937|לעז]]</big>**), [[LXX.Ezek.21.26|Ez 21:31]]**\*** ([[LXX.Ezek.21.31|36]]**\***) (**<big>[[H1197|בּער]]</big>**), II Mac 2:21 4:25 10:4, III Mac 3:24\*;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">βάρβαρος</span></span>, <span class="asgreek">-ον</span></span>  <span class="asetym">    <span class="asderivation">(prob. onomatop., descriptive of unintelligible sounds),</span>    <span class="asseptuagint">\[in LXX: [[LXX.Ps.114.1|Ps 113 (114):1]] (**<big>[[H3937|לעז]]</big>**), [[LXX.Ezek.21.31|Ez 21:31]] ([[LXX.Ezek.21.31|36]]**\***) (**<big>[[H1197|בּער]]</big>**), II Mac 2:21 4:25 10:4, III Mac 3:24\*;\]</span> </span>
 <span class="asitalic">barbarous</span>, <span class="asitalic">barbarian</span>, strange to Greek language and culture (and also, after the Persian war, with the added sense of <span class="asitalic">brutal</span>, <span class="asitalic">rude</span>): [[Acts.28.2|Ac 28:2]],  [[Acts.28.4|4]], [[Rom.1.14|Ro 1:14]], [[1Cor.14.11|I Co 14:11]], [[Col.3.11|Col 3:11]] (v. Lft., in l., and <span class="asitalic">Notes</span>, 249).†
 
 **Abbott-Smith References**
 
 | Book | Refs |
 | - | - |
-| Psalms | [[LXX.Ps.116.1\|114:1]]**\*** |
-| Ezekiel | [[LXX.Ezek.21.26\|21:31]]**\*** · [[LXX.Ezek.21.31\|21:36]]**\*** |
+| Psalms | [[LXX.Ps.114.1\|114:1]] |
+| Ezekiel | [[LXX.Ezek.21.31\|21:31]] · [[LXX.Ezek.21.31\|21:36]]**\*** |
 | Acts | [[Acts.28.2\|28:2]] · [[Acts.28.4\|28:4]] |
 | Romans | [[Rom.1.14\|1:14]] |
 | 1 Corinthians | [[1Cor.14.11\|14:11]] |

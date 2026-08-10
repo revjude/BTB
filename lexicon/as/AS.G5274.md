@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ὑπο-λαμβάνω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Job.2.4|Jb 2:4]] [[LXX.Job.4.1|4:1]] and freq. (**<big>[[H6030|עָנָה]]</big>**), [[LXX.Ps.49.8|Ps 47 (48):9]]**\*** (**<big>[[H1819|דָּמָה]]</big>** pi.), To 6:17, Wi 17:2, III Mac 3:8, 11, al. ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ὑπο-λαμβάνω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Job.2.4|Jb 2:4]] [[LXX.Job.4.1|4:1]] and freq. (**<big>[[H6030|עָנָה]]</big>**), [[LXX.Ps.48.9|Ps 47 (48):9]] (**<big>[[H1819|דָּמָה]]</big>** pi.), To 6:17, Wi 17:2, III Mac 3:8, 11, al. ;\]</span> </span>
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">to take</span> or <span class="asitalic">bear up</span> (by supporting from beneath): c. acc pers., [[Acts.1.9|Ac 1:9]].</span>
 <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">to receive, welcome, entertain</span> (Xen.): [[3John.1.8|III Jo 8]].</span>
 <span class="asbullet"><span class="asbold">3.</span> <span class="asitalic">to catch up</span> in speech (Hdt., al.; Jb, ll. c.): [[Luke.10.30|Lk 10:30]].</span>
@@ -9,7 +9,7 @@
 | Book | Refs |
 | - | - |
 | Job | [[LXX.Job.2.4\|2:4]] · [[LXX.Job.4.1\|4:1]] |
-| Psalms | [[LXX.Ps.49.8\|48:9]]**\*** |
+| Psalms | [[LXX.Ps.48.9\|48:9]] |
 | Luke | [[Luke.7.43\|7:43]] · [[Luke.10.30\|10:30]] |
 | Acts | [[Acts.1.9\|1:9]] · [[Acts.2.15\|2:15]] |
 | 3 John | [[3John.1.8\|1:8]] |

@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>intransitive</i>, <b>become acute,</b>
 $\quad$ $\quad$<b>\_\_III</b> Grammars, ={<span class='asgreek'>ὀξυτονέω</span>}, [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Pronominibus;” 28.5 (\_passive\_), 43.10, +others ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>make acid,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 6.691">Refs 2nd c.AD+</a>]:—<i>passive</i>, <b>to be</b> or <b>become so,</b> of wine, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Generatione Animalium” 753a23, 2nd c.AD: Lucianus Sophista “Sat.” 26 ">Refs 4th c.BC+</a>]:—so, <i>intransitive</i> in <i>active</i>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 4.3.4. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[LXX.Ezek.21.4|LXX.Ezek.21.9]]**\***
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.21.9|LXX.Ezek.21.9]]**\***
 </sub></small>

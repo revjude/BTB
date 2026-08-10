@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.b</b> Astrology texts, <b>make benefice
 $\quad$ $\quad$<b>\_\_III</b> <b>do good to,</b> <span class='asgreek'>τινά</span>[<a href="javascript:void(0)" title=" Heliodorus Philosophus “in Ethica Nicomachea paraphrasis - Comm. in Arist. Graeca” 86.41. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>do good, do well,</b> [<a href="javascript:void(0)" title=" LXX.Ps.35.3; τινί (variant{τινά}) to one, [prev. work] 124(125).4.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[LXX.Ps.51.16|LXX.Ps.50.18]]**\*** ☩ [[LXX.Eccl.11.9|LXX.Eccl.11.9]] ☩ LXX.2Kgs.13.28 ☩ [[LXX.Dan.6.22|LXX.Dan.6.23]]**\*** ☩ [[LXX.Ps.36.2|LXX.Ps.35.3]]**\***
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.51.16|LXX.Ps.50.18]]**\*** ☩ [[LXX.Eccl.11.9|LXX.Eccl.11.9]] ☩ LXX.2Kgs.13.28 ☩ [[LXX.Dan.6.23|LXX.Dan.6.23]]**\*** ☩ [[LXX.Ps.36.2|LXX.Ps.35.3]]**\***
 </sub></small>

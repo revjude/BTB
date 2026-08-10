@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">φωτισμός</span></span>, <span class="asgreek">-οῦ, ὁ</span></span> <span class="asetym">  <span class="asderivation">(<span class="asgreek">φωτίζω</span>) </span>  <span class="asseptuagint">\[in LXX: [[LXX.Job.3.9|Jb 3:9]], [[LXX.Ps.28.1|Ps 26 (27):1]]**\*** [[LXX.Ps.45.2|43 (44):3]]**\*** [[LXX.Ps.78.14|77 (78):14]] [[LXX.Ps.140.10|138 (139):11]]**\*** (**<big>[[H0216|אוֹר]]</big>**), [[LXX.Ps.90.8|Ps 89:8]]**\*** (**<big>[[H3974|מָאוֹר]]</big>**) \* ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">φωτισμός</span></span>, <span class="asgreek">-οῦ, ὁ</span></span> <span class="asetym">  <span class="asderivation">(<span class="asgreek">φωτίζω</span>) </span>  <span class="asseptuagint">\[in LXX: [[LXX.Job.3.9|Jb 3:9]], [[LXX.Ps.27.1|Ps 26 (27):1]] [[LXX.Ps.44.3|43 (44):3]] [[LXX.Ps.78.14|77 (78):14]] [[LXX.Ps.139.11|138 (139):11]] (**<big>[[H0216|אוֹר]]</big>**), [[LXX.Ps.90.8|Ps 89:8]]**\*** (**<big>[[H3974|מָאוֹר]]</big>**) \* ;\]</span> </span>
 <span class="asitalic">illumination, light</span>: metaph., [[1Cor.4.4|I Co 4:4]], [[1Cor.4.6|6]].†
 
 **Abbott-Smith References**
@@ -6,6 +6,6 @@
 | Book | Refs |
 | - | - |
 | Job | [[LXX.Job.3.9\|3:9]] |
-| Psalms | [[LXX.Ps.28.1\|27:1]]**\*** · [[LXX.Ps.45.2\|44:3]]**\*** · [[LXX.Ps.78.14\|78:14]] · [[LXX.Ps.90.8\|89:8]]**\*** · [[LXX.Ps.140.10\|139:11]]**\*** |
+| Psalms | [[LXX.Ps.27.1\|27:1]] · [[LXX.Ps.44.3\|44:3]] · [[LXX.Ps.78.14\|78:14]] · [[LXX.Ps.90.8\|89:8]]**\*** · [[LXX.Ps.139.11\|139:11]] |
 | 1 Corinthians | [[1Cor.4.4\|4:4]] · [[1Cor.4.6\|4:6]] |
 

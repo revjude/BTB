@@ -6,5 +6,5 @@
  strengthened for <span class='asgreek'>ἀκονάω</span>, [<a href="javascript:void(0)" title=" LXX.Ezek.21.11(16) ">LXX</a>].
 
 
-<small><sub>LSJ Scripture Refs: [[LXX.Ezek.21.6|LXX.Ezek.21.11]]**\***
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.21.11|LXX.Ezek.21.11]]**\***
 </sub></small>

@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἔκ-στασις</span></span>, <span class="asgreek">-εως, ἡ</span></span> <span class="asetym">  <span class="asderivation">(<span class="asgreek">ἐξίστημι</span>) </span>  <span class="asseptuagint">\[in LXX: [[LXX.Gen.27.33|Ge 27:33]], [[LXX.1Sam.14.15|I Ki 14:15]], [[LXX.Ezek.26.16|Ez 26:16]], al. (**<big>[[H2731|חֲרָדָה]]</big>**); [[LXX.2Chr.14.15|II Ch 14:14]]**\*** [[LXX.2Chr.17.10|17:10]] [[LXX.2Chr.20.29|20:29]] (**<big>[[H6343|פַּחַד]]</big>**), al. ;\] </span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἔκ-στασις</span></span>, <span class="asgreek">-εως, ἡ</span></span> <span class="asetym">  <span class="asderivation">(<span class="asgreek">ἐξίστημι</span>) </span>  <span class="asseptuagint">\[in LXX: [[LXX.Gen.27.33|Ge 27:33]], [[LXX.1Sam.14.15|I Ki 14:15]], [[LXX.Ezek.26.16|Ez 26:16]], al. (**<big>[[H2731|חֲרָדָה]]</big>**); [[LXX.2Chr.14.14|II Ch 14:14]] [[LXX.2Chr.17.10|17:10]] [[LXX.2Chr.20.29|20:29]] (**<big>[[H6343|פַּחַד]]</big>**), al. ;\] </span> </span>
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">a displacement</span> (Arist.).</span>
 <span class="asbullet"><span class="asbold">2.</span> An abnormal condition of the mind, in which the subject passes out of his usual self-control (Hippocr.); in NT (Kennedy, <span class="asitalic">Sources</span>, 121 f.);</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> <span class="asitalic">a trance</span>: [[Acts.10.10|Ac 10:10]] [[Acts.11.5|11:5]] [[Acts.22.17|22:17]];</span>
@@ -10,7 +10,7 @@ $\quad$ <span class="asbullet"><span class="asbold">(b)</span> <span class="asit
 | - | - |
 | Genesis | [[LXX.Gen.27.33\|27:33]] |
 | 1 Samuel | [[LXX.1Sam.14.15\|14:15]] |
-| 2 Chronicles | [[LXX.2Chr.14.15\|14:14]]**\*** · [[LXX.2Chr.17.10\|17:10]] · [[LXX.2Chr.20.29\|20:29]] |
+| 2 Chronicles | [[LXX.2Chr.14.14\|14:14]] · [[LXX.2Chr.17.10\|17:10]] · [[LXX.2Chr.20.29\|20:29]] |
 | Ezekiel | [[LXX.Ezek.26.16\|26:16]] |
 | Mark | [[Mark.5.42\|5:42]] · [[Mark.16.8\|16:8]] |
 | Luke | [[Luke.5.26\|5:26]] |
