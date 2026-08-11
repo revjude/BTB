@@ -13,7 +13,7 @@ $\quad$$\quad$ <span class="asbullet"><span class="asbold">(a)</span> of the men
 $\quad$$\quad$ <span class="asbullet"><span class="asbold">(b)</span> <span class="asitalic">a reason</span>, <span class="asitalic">cause</span>: <span class="asgreek">τίνι λόγῳ</span>, [[Acts.10.29|Ac 10:29]]; <span class="asgreek">παρεκτὸς λόγου πορνείας</span>, [[Matt.5.32|Mt 5:32]] [[Matt.19.9|19:9]], WH, mg., R, mg.</span>
 $\quad$ <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">account</span>,</span>
 $\quad$$\quad$ <span class="asbullet"><span class="asbold">(a)</span> <span class="asitalic">regard</span>: [[Acts.20.24|Ac 20:24]], Rec.;</span>
-$\quad$$\quad$ <span class="asbullet"><span class="asbold">(b)</span> <span class="asitalic">reckoning</span>: [[Phil.4.15|Phl 4:15]], [[Phil.4.16|17]]; <span class="asgreek">συναίρειν</span> (q.v.) <span class="asgreek">λ.</span>, [[Matt.18.23|Mt 18:23]] [[Matt.25.19|25:19]]; in forensic sense, [[Rom.14.12|Ro 14:12]], [[Heb.13.17|He 13:17]], [[1Pet.4.5|I Pe 4:5]]; c. gen. rei, [[Luke.16.2|Lk 16:2]]; seq. <span class="asgreek">περί</span>, [[Matt.12.36|Mt 12:36]], [[Acts.19.40|Ac 19:40]], [[1Pet.3.15|I Pe 3:15]].</span>
+$\quad$$\quad$ <span class="asbullet"><span class="asbold">(b)</span> <span class="asitalic">reckoning</span>: [[Phil.4.15|Phl 4:15]], [[Phil.4.17|17]]; <span class="asgreek">συναίρειν</span> (q.v.) <span class="asgreek">λ.</span>, [[Matt.18.23|Mt 18:23]] [[Matt.25.19|25:19]]; in forensic sense, [[Rom.14.12|Ro 14:12]], [[Heb.13.17|He 13:17]], [[1Pet.4.5|I Pe 4:5]]; c. gen. rei, [[Luke.16.2|Lk 16:2]]; seq. <span class="asgreek">περί</span>, [[Matt.12.36|Mt 12:36]], [[Acts.19.40|Ac 19:40]], [[1Pet.3.15|I Pe 3:15]].</span>
 $\quad$ <span class="asbullet"><span class="asbold">3.</span> <span class="asitalic">proportion</span>, <span class="asitalic">analogy</span>: [[Phil.2.16|Phl 2:16]] (Field, <span class="asitalic">Notes</span>, 193 f.).</span>
 <span class="asbullet"><span class="asbold">III.</span> <span class="asgreek">ὁ λ.</span>, the Divine <span class="asitalic">Word</span> or <span class="asitalic">Logos</span>: [[John.1.1|Jo 1:1]], [[John.1.14|14]]; <span class="asgreek">τ. ζωῆς</span>, [[1John.1.1|I Jo 1:1]]; <span class="asgreek">τ. θεοῦ</span>, [[Rev.19.13|Re 19:13]] (v. Westc, Swete, <span class="asitalic">CGT</span>, in ll.; reff. in Artt., <span class="asitalic">Logos</span>, <span class="asitalic">DB</span>, <span class="asitalic">DCG</span>).</span>
 
@@ -31,7 +31,7 @@ $\quad$ <span class="asbullet"><span class="asbold">3.</span> <span class="asita
 | 2 Corinthians | [[2Cor.5.19\|5:19]] · [[2Cor.6.7\|6:7]] · [[2Cor.10.10\|10:10]] · [[2Cor.11.6\|11:6]] |
 | Galatians | [[Gal.6.6\|6:6]] |
 | Ephesians | [[Eph.5.6\|5:6]] |
-| Philippians | [[Phil.1.14\|1:14]] · [[Phil.2.16\|2:16]] · [[Phil.4.15\|4:15]] · [[Phil.4.16\|4:16]] |
+| Philippians | [[Phil.1.14\|1:14]] · [[Phil.2.16\|2:16]] · [[Phil.4.15\|4:15]] · [[Phil.4.17\|4:17]] |
 | Colossians | [[Col.1.5\|1:5]] · [[Col.2.23\|2:23]] · [[Col.3.16\|3:16]] · [[Col.4.3\|4:3]] |
 | 1 Thessalonians | [[1Thess.1.5\|1:5]] · [[1Thess.1.6\|1:6]] · [[1Thess.1.8\|1:8]] |
 | 2 Thessalonians | [[2Thess.2.15\|2:15]] |
