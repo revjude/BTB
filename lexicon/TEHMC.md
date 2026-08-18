@@ -1,6 +1,5 @@
-TEHMC - Translators Expansion of Hebrew Morphhology Codes - STEPBible.org CC BY
-
-Hebrew morphology codes with expanded explanations in terms of parsing, meaning and example
+# Translators Expansion of Hebrew Morphhology Codes (TEHMC)
+Hebrew morphology codes with expanded explanations in terms of parsing, meaning and example.
 
 ### BRIEF LEXICAL MORPHOLOGY CODES
 These codes are used in the Lexicon. They are used to define the the word, and not each individual instance of the word.
@@ -15,13 +14,6 @@ Language | **N:** | a **Name** \(a special form of 'language' because it isn't r
 Function | **N** | the function **Noun**; 
 Gender | **M** | **Male**; 
 Type | **L, G** | **Location**, **Gentilic** \(i.e. defining a group of people\). 
-
-- Some traditional Strong numbers refer to more than one word, e.g. G1508= "εἰ μή" which is "G:COND + G:Neg" \(note the space either side of "+"\)
-
-- Some refer to single words that are formed by merging words, e.g. G2504= "κἀγώ" which is G:Conj+G:P      \(note no space either side of "+"\)
-
-- Some words have alternate morphologies for different uses,     e.g. G0894= "wormwood" is  G:N-F / N:N--T      \(note the spaces either side of "/".\) The first is the Noun "wormwoed" and the second is the Name of star. \(The double "--" occurs because this Name does not have a gender.\)
-
 #### The following forms occur in the OT: 
 
 ###### H: ...
@@ -306,21 +298,19 @@ $\quad$ Object suffix: 3rd person feminine plural
 These codes are used in the tagged texts. They are used to define each individual instance of the word.
 
 line 1: **Codes + expansion** - based on OpenScripture codes which are similar to Westminster codes used by BibleWorks and other commercial software. These codes are described in detail at https://goo.gl/HP4mZQ#HebMorph
-- some of the parsing is derived from the data in the codes: Stem implies the likely Action and Voice; Form implies the likely Tense and Mood. These are not definite and depend on context and the normal usage of each verb. See more at https://docs.google.com/document/d/1wQ67vPIrNxvICy5QmSeromQUJmePml1nQxv7n1gJ8qw/edit#bookmark=id.evqm50b2x4wq
+- some of the parsing is derived from the data in the codes: Stem implies the likely Action and Voice; Form implies the likely Tense and Mood. These are not definite and depend on context and the normal usage of each verb.
 - the 1st character indicates Hebrew or Aramaic. When codes are strung together, this character becomes "/", e.g.   "HC/Ncmsa"
 
 line 2: **morphology** - the morphology in a phrase that makes sense in English
 line 3: **explanation** - the meaning of this morphology in a phrase that makes sense in English 
 line 4: **example** - an example of how a Hebrew or Aramaic word in this form might be translated, using: "Jew" for gentilics, "person/man/woman" for nouns, "late" for adjectives etc
-- verbs are based on רוּם \(H7311A\) which means, roughly: Qal+= "to rise" \(eg "I rise", "I am risen"\); Piel+= "to raise" \(eg "I raise someone", "I am raised \[by someone\]"; Hiphil+="to exalt" \(ie "I cause to be raised"\)
-
-
+- verbs are based on<big> [[H7311A|רוּם]] </big> which means, roughly: Qal+= "to rise" \(eg "I rise", "I am risen"\); Piel+= "to raise" \(eg "I raise someone", "I am raised \[by someone\]"; Hiphil+="to exalt" \(ie "I cause to be raised"\)
 #### THE ELEMENTS OF MORPHOLOGY:
 **Functions**:  Conjunction, Adverb, Preposition, Particle, Pronoun, Noun, Adjective, Verb, Suffix
 - These are defined and parsed in line with OpenScriptures with a few embelishments - see the table at https://goo.gl/HP4mZQ#HebMorph
 
 **Stem**:  Aphel, Haphel, Hiphil, Hishtaphel, Hitpaal, Hithpael, Hitpael, Hitpeel, Hophal, Hothpaal, Hishtaphel, Niphal, Nithpael, Pael, Peal, Peil, Piel, Polal, Pual, Qal, Shaphel, Tiphil
-- \(other minor forms are subsumed into these and many have alternate transcriptions\). For their interpretation https://docs.google.com/document/d/1wQ67vPIrNxvICy5QmSeromQUJmePml1nQxv7n1gJ8qw/edit#bookmark=id.evqm50b2x4wq
+- \(other minor forms are subsumed into these and many have alternate transcriptions\).
 
 **Action, Determined by Stem**:  Simple, Intensive/resultive/transtive, Causative/declarative. 
 - In explations these are "performing", "intensifying or achieving" and "causing or confirming" 
@@ -329,7 +319,7 @@ line 4: **example** - an example of how a Hebrew or Aramaic word in this form mi
 - In explanations these are done "by", "to" and "to or for themselves by" 
 
 **Form**
-- for **non-verbs**:  different forms depending on Functions. See the table at https://goo.gl/HP4mZQ#HebMorph
+- for **non-verbs**:  different forms depending on Functions.
 - for **verbs**:  Participle, Participle passive, Infinitive, Imperfective, Sequential Imperfective, Conjunction+Imperfective, Perfective, Sequential Perfective, Imperative. 
 - In **explanations**, Imperfective is incomplete, Perfective is complete and sequential follows the 'completeness' of the previous verb. 
 
@@ -353,9 +343,9 @@ line 4: **example** - an example of how a Hebrew or Aramaic word in this form mi
 NOTES: 
 - Articles and Definite or Paragogic forms are referred to in explanations as "important". 
 - Passive is determined by the Stem, but Participle Passive turns an Active stem into Passive. So Participle actives are recorded simply as Participle, because they can often take a passive voice. 
-- Hothpaal in some other systems is classified as Passive, but it is classified here as Reflexive. This occurs only rarely \(Lev.13.55, 56 הֻכַּבֵּ֣ס ‘washed out’; Num.1.47; 2.33; 26.62 הָתְפָּקְד֖וּ ‘they were enrolled’; Deu.24.4 הֻטַּמָּ֔אָה ‘she has been declared unclean’; 1Ki.20.27 הָתְפָּקְדוּ֙ ‘they were3 mustered’; Isa.34.6 הֻדַּ֣שְׁנָה ‘it has fattened itself’\). Normally this is passive, though it can have some reflexive undertones \(esp. Isa.34.6\). 
-- Nithpael in some other systems is classified as equivalent to Reflexive, but it is classified here as Passive. It occurs only rarely \(Deu.21.8 וְנִכַּפֵּ֥ר ‘and it will be atoned for’; Prov.27.15 נִשְׁתָּוָֽה ‘she is like’; Eze.23.48 וְנִֽוַּסְּרוּ֙ ‘and.they.will.be.warned’\). All these instances are Passive \(with the possible exception of Pro.27.15\). 
-- Hithpael is classified as Intensive / Resultative / Transitive, though it sometimes has the sense of Causative / Declarative. This is difficult to decide because there is evidence for either side. Only a few verbs have meanings for Qal/Niphal sufficiently different to Piel/Pual to enable assigning the Hithpael clearly to one rather than the other. See more notes at https://docs.google.com/document/d/110Oha9vqqIhtM8KySEA56g2hy0EkOgK_bV5STUfSLFk/edit#bookmark=id.g4b2vlibgf5y
+- Hothpaal in some other systems is classified as Passive, but it is classified here as Reflexive. This occurs only rarely \([[Lev.13.55]], [[Lev.13.56|56]] <span class="ashebrew">הֻכַּבֵּ֣ס</span> ‘washed out’; [[Num.1.47]]; [[Num.2.33|2.33]]; [[Num.26.62|26.62]]<span class="ashebrew"> הָתְפָּקְד֖וּ </span>‘they were enrolled’; [[Deut.24.4]]<span class="ashebrew"> הֻטַּמָּ֔אָה </span>‘she has been declared unclean’; [[1Kgs.20.27]]<span class="ashebrew"> הָתְפָּקְדוּ֙ </span>‘they were3 mustered’; [[Isa.34.6]]<span class="ashebrew"> הֻדַּ֣שְׁנָה </span>‘it has fattened itself’\). Normally this is passive, though it can have some reflexive undertones \(esp. [[Isa.34.6]]\). 
+- Nithpael in some other systems is classified as equivalent to Reflexive, but it is classified here as Passive. It occurs only rarely \([[Deut.21.8]]<span class="ashebrew"> וְנִכַּפֵּ֥ר </span>‘and it will be atoned for’; [[Prov.27.15]]<span class="ashebrew"> נִשְׁתָּוָֽה </span>‘she is like’; [[Ezek.23.48]]<span class="ashebrew"> וְנִֽוַּסְּרוּ֙ </span>‘and they will be warned’\). All these instances are Passive \(with the possible exception of [[Prov.27.15]]\). 
+- Hithpael is classified as Intensive / Resultative / Transitive, though it sometimes has the sense of Causative / Declarative. This is difficult to decide because there is evidence for either side. Only a few verbs have meanings for Qal/Niphal sufficiently different to Piel/Pual to enable assigning the Hithpael clearly to one rather than the other.
 - "Enacted" means Indicative - ie not subjunctive \(a form that has disappeared in Hebrew\) or jussive or cohortative \(forms that have disappeared in most verbs in Hebrew\). In many cases of Imperfective, it is impossible to know if the form is Jussive/Cohortative or not, so it is marked Enacted/jussive or Enacted/cohortative. 
 - "Sequential" verbs \(aka consecutive or non-conjunctive\) are prefixed with a vav which changes imperfective to perfective meaning and vice-versa. In general, a section begins with a non-sequential verb and may be succeeded by a number of sequential verbs till the end of the section. 
-- "Conjunctive" verbs are prefixed with a vav as a conjunction, so it does not change the meaning of the verb. This is recognised by vowel changes in Imperfective verbs. It is rare with Perfective verbs and there is no difference in form by which to identify it, so this is done by context. See more at https://docs.google.com/document/d/1wQ67vPIrNxvICy5QmSeromQUJmePml1nQxv7n1gJ8qw/edit#bookmark=id.ygjzsla2gxpu 
+- "Conjunctive" verbs are prefixed with a vav as a conjunction, so it does not change the meaning of the verb. This is recognised by vowel changes in Imperfective verbs. It is rare with Perfective verbs and there is no difference in form by which to identify it, so this is done by context.

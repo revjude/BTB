@@ -1,4 +1,4 @@
-TEGMC - Translators Expansion of Greek Morphhology Codes - STEPBible.org CC BY
+# Translators Expansion of Greek Morphhology Codes (TEGMC)
 
 Greek morphology codes with expanded explanations in terms of parsing, meaning and example
 ### BRIEF LEXICAL MORPHOLOGY CODES
@@ -15,11 +15,9 @@ Function | **N** | the function **Noun**;
 Gender | **M** | **Male**; 
 Type | **L, G** | **Location**, **Gentilic** \(i.e. defining a group of people\). 
 
-- Some traditional Strong numbers refer to more than one word, e.g. G1508= "εἰ μή" which is "G:COND + G:Neg" \(note the space either side of "+"\)
+- Some traditional Strong numbers refer to more than one word, e.g. "<big>[[G1508|εἰ μή]]</big>" which is "[[TEGMC#G:COND + G:PRT-N|G:COND + G:PRT-N]]" \(note the space either side of "+"\)
 
-- Some refer to single words that are formed by merging words, e.g. G2504= "κἀγώ" which is G:Conj+G:P      \(note no space either side of "+"\)
-
-- Some words have alternate morphologies for different uses,     e.g. G0894= "wormwood" is  G:N-F / N:N--T      \(note the spaces either side of "/".\) The first is the Noun "wormwoed" and the second is the Name of star. \(The double "--" occurs because this Name does not have a gender.\)
+- Some refer to single words that are formed by merging words, e.g. "<big>[[G2504|κἀγώ]]</big>" which is [[TEGMC#G:CONJ|G:CONJ]] + [[TEGMC#G P-1|G:P-1]] \(note no space either side of "+"\)
 
 The following forms occur in the NT: 
 
